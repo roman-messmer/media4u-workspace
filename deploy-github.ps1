@@ -44,7 +44,7 @@ try {
 # 3. Paketierung
 $stamp = Get-Date -Format "yyyyMMddHHmm"
 $pkgName = "$Project-$stamp.tgz"
-$localPkg = Join-Path ([System.IO.Path]::GetTempPath()) $pkgName
+$localPkg = "$PSScriptRoot/$pkgName"
 
 Write-Host "==> Verpacke Build..."
 tar -C "$PSScriptRoot/$LocalPath/dist" -czf $localPkg .
