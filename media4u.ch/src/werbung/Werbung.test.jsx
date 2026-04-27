@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import Werbung from './Werbung';
+import Werbung from './werbung';
 import useGeoIp from '../module/utils/useGeoIp';
 
 // 1. MOCKS: Wir simulieren alle externen Abhängigkeiten
