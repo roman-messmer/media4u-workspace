@@ -69,4 +69,4 @@ Write-Host "==> FÃ¼hre Remote-Swap aus..."
 ssh -i "$ActualKeyPath" "roman@46.231.205.201" $remoteCmd
 
 if ($LASTEXITCODE -ne 0) { throw "Remote-Swap fehlgeschlagen!" }
-Write-Host "OK: $Project erfolgreich deployt!" -ForegroundColor Green# Force-Trigger: 04/27/2026 15:49:15
+Write-Host "OK: $Project erfolgreich deployt!" -ForegroundColor Green Force-Trigger: 04/27/2026 15:49:15
