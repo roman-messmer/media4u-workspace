@@ -1,0 +1,54 @@
+⚛️ Frontend & UI-Architektur
+HTML5 & CSS3: Semantisches Markup als Basis für barrierefreie, SEO-freundliche Oberflächen. Responsive Layouts mit strikter BEM-Struktur und klarer Performance-Optimierung.
+
+JavaScript (ES6+): Modularer Clean Code mit modernen Features für saubere Logik und gezielte DOM-Optimierung.
+
+React (18.3.1): Komponentenbasierte Benutzeroberflächen. Nutzung reiner Hooks (ohne externe State-Libraries), lokalisierte Ausgabe und sicher eingebetteter HTML-Content.
+
+Ergänzende Tools: react-router-dom (6.30.3) für das Routing, react-helmet (6.1.0) für Meta-Tags, lucide-react (1.7.0) für Icons.
+
+Vite (6.4.1): Moderne Entwicklungsumgebung (@vitejs/plugin-react 4.7.0) mit HMR, blitzschnellem Build und klarer Struktur für Assets und Bundling.
+
+🌍 Content-Strategie & Internationalisierung (i18n)
+Statische UI-Texte (JSON): Unveränderliche Texte (wie Navigation, Button-Labels oder Footer) werden aus Performance-Gründen ausschließlich über lokale JSON-Dateien für alle 24 Sprachen geladen.
+
+Dynamische Inhalte (API): Redaktionelle und sich ändernde Inhalte kommen flexibel über das CMS.
+
+i18n-Verwaltung: Effiziente Verwaltung der 24 Sprachen über i18next (23.16.8) und react-i18next (11.18.6) mit sauberen Fallbacks.
+
+🏢 Backend, Infrastruktur & API
+Strapi CMS (5.18.1): Headless CMS mit moderner REST API, Verwaltung mehrsprachiger Inhalte und flexibel definierbaren Content Types für das Frontend.
+
+Node.js & Express (4.22.1): Die robuste Basis für Tools, Build-Skripte und Middleware zur Steuerung von Strapi, APIs und Backend-Workflows.
+
+Sicherheit & Verarbeitung: cors (2.8.6), body-parser (1.20.4), bcrypt (5.1.1), jsonwebtoken (9.0.3).
+
+Docker & Docker Compose: Containerisierte Stacks für Strapi und NGINX. Gewährleistet reproduzierbare Deployments und einfache Skalierung in Dev- und Prod-Umgebungen.
+
+NGINX: Reverse Proxy im Container mit SSL-Termination und sicherem Routing auf Strapi, statische Frontends und diverse Subdomains.
+
+PM2 & npm: Prozessmanager für Node und Strapi (Zero-Downtime Deployments, automatische Restarts, Monitoring) sowie saubere Paket- und Skriptverwaltung.
+
+SSH & rsync: Sichere Deployments über die Kommandozeile mit SSH-Zugriff und effizienten, differenziellen Dateiübertragungen.
+
+🛡️ Best Practices & Qualitätsanspruch
+Sicherheit: Konsequente HTML-Reinigung mit dompurify (3.3.3). Zuverlässiger Schutz vor XSS und unsicheren Benutzereingaben beim Rendern von Strapi-Rich-Text.
+
+Performance: Optimierung durch Vite-Builds, Lazy Loading und gezielte Reduktion der DOM-Arbeit. Überwachung durch web-vitals (4.2.4).
+
+Architektur: Strikte Trennung von Präsentation, Logik und Content für eine maximal wartbare und erweiterbare Frontendarchitektur.
+
+Resiliente API-Integration: Robuste Anbindung via Fetch oder axios (1.14.0). Nutzung von AbortController für saubere Abbrüche, klare Fehlerbehandlung und sinnvolle UI-Fallbacks (Ladezustände, Error-States).
+
+DevOps: Docker-basierte Umgebungen garantieren reproduzierbare Builds und reibungslose, automatisierte Deployments ohne Ausfallzeiten.
+
+🧠 KI-gestützte Entwicklung & Philosophie
+Verantwortung & Präzision: KI fungiert als gezieltes Werkzeug, das die Arbeit präziser und schneller macht, aber Expertenwissen nicht ersetzt. Die finale Verantwortung für Architektur und Code-Qualität liegt immer zu 100 % bei dir.
+
+Code-Qualität & Stabilität: KI unterstützt dabei, den Code nach den Prinzipien des „Clean Code“ sauber und übersichtlich zu halten. Automatisierte Tests (@testing-library/react 13.4.0, @testing-library/jest-dom 5.17.0) sichern eine stabile, fehlerfreie Basis.
+
+Sicherheits- & Performance-Audits: KI wird als zusätzlicher Check-Mechanismus eingesetzt, um den Code vor dem Deployment auf potenzielle Schwachstellen oder Performance-Bremser abzuklopfen.
+
+Effizienz bei Routineaufgaben: Routineaufgaben und das Handling der komplexen, 24-sprachigen Übersetzungsstrukturen werden weitgehend automatisiert, um Konsistenz zu wahren und Zeit zu sparen.
+
+Anspruch & Motivation: Der konsequente Fokus liegt auf Performance, Skalierbarkeit und Best Practices, um zukunftssichere Webanwendungen zu schaffen. Die kontinuierliche Vertiefung von Wissen in React, JavaScript und Docker-Infrastrukturen sichert dabei das Ziel, hochwertigen Code zu schreiben, der sich nahtlos in moderne Systeme einfügt.

@@ -1,0 +1,30 @@
+name: Production Deployment
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: # Erlaubt manuelle Deployments via GitHub UI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H 46.231.205.201 >> ~/.ssh/known_hosts
+
+      - name: Run Deploy (Editor)
+        shell: pwsh
+        run: ./deploy-github.ps1 -Project "editor" -SshKeyPath "~/.ssh/id_rsa"
+
+      - name: Run Deploy (Frontend)
+        shell: pwsh
+        run: ./deploy-github.ps1 -Project "frontend" -SshKeyPath "~/.ssh/id_rsa"

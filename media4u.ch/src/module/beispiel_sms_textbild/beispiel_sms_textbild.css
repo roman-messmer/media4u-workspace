@@ -1,0 +1,85 @@
+/* Deselect-Klasse, um die Textauswahl zu verhindern */
+.deselect,
+.deselect * {
+    user-select: none;          /* Standard-Syntax */
+    -webkit-user-select: none;  /* Safari */
+    -moz-user-select: none;     /* Firefox */
+    -ms-user-select: none;      /* IE10+/Edge */
+}
+
+.display_area {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.beispiel_sms_textbild {
+    border: 1vw #2A2C2A solid;
+    border-radius: 0em 0em 0em 0em;
+    width: max-content;
+    box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    width: 100%;
+}
+
+.beispiel_sms_textbild .display .frame {
+    container-type: inline-size;
+    display: grid;
+    grid-template-columns: repeat(84, minmax(0, 1fr));
+    grid-template-rows: repeat(39, minmax(0, 1fr));
+    place-content: center;
+    width: 100%;
+    aspect-ratio: 84 / 39;
+    background-size: calc(100% / 84) calc(100% / 39);
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    font-family: NokiaFC22;
+    white-space: pre;
+    color: #004d61;
+    background-color: #b0c4b1;
+}
+
+
+.beispiel_sms_textbild .display .zeilen {
+    margin: 0;
+    padding: 0;
+    font-family: NokiaFC22;
+    color: #000;
+    line-height: 1.2em;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+
+.beispiel_sms_textbild .display .zeilen4 {
+    font-size: calc(100cqw / 84 * 8);
+}
+
+
+.beispiel_sms_textbild .display pre {
+    display: flex;
+    white-space: pre;
+    color: #141414;
+    text-align: left;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.beispiel_sms_textbild figcaption {
+    display: flex;
+    width: auto;
+    background-color: #e0e0e0;
+    border-radius: 0em 0em 0em 0em;
+    border-top: 1vw #2A2C2A solid;
+    justify-content: center;
+}
+
+.beispiel_sms_textbild b.vorschau_name {
+	display: block;
+	padding-top: calc(min(1vw + 2px, 42px));
+	padding-bottom: calc(min(1vw + 2px, 42px));
+	font-size: calc(min(2vw + 2px, 38px));
+}
+
+
+

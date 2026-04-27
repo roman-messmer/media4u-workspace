@@ -1,0 +1,211 @@
+/* Allgemeine Stile */
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  color: #000;
+  -webkit-text-size-adjust: none;
+  font-family: Arial, sans-serif;
+  outline: none;
+  font-size: 16px;
+}
+
+body {
+    display: grid;
+    min-height: 100vh;
+    background-image: url(bg_memory.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+    justify-content: center;
+	padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+/* Container-Stile */
+.container {
+    display: grid;
+    width: 85vw;
+    height: auto;
+    text-align: center;
+    gap: 1em;
+    justify-items: center;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-bottom: 20px; */
+  gap: 1em;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.stats {
+  background-color: rgba(255, 255, 255, 0.9); /* Leicht transparente weiÃŸe Box */
+  border-radius: 10px; /* Abgerundete Ecken */
+  padding: 15px 20px; /* Angenehmer Innenabstand */
+  text-align: center; /* Zentrierte Inhalte */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Leichter Schatten fÃ¼r Tiefenwirkung */
+  border: 2px solid #ddd; /* Dezente Umrandung */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 250px;
+  /* margin: 10px auto; */ /* Zentrierte Positionierung */
+}
+
+.stats p {
+  margin: 8px 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #222;
+  text-transform: uppercase; /* GroÃŸbuchstaben fÃ¼r modernes Aussehen */
+}
+
+.stats span {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ff6600; /* AuffÃ¤llige Farbe fÃ¼r Highscore & Versuche */
+}
+
+.memory-game {
+  display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+    max-width: 900px;
+    width: 100%;
+}
+
+.memory-card {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    transform: scale(1);
+    transition: transform 0.3s;
+    cursor: pointer;
+    border-radius: 0.2em;
+}
+
+.memory-card:hover {
+  transform: scale(1.05);
+}
+
+.memory-card .front,
+.memory-card .back {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.2em;
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
+    transition: transform 0.5s ease;
+}
+
+.memory-card .front {
+	width: 100%;
+	height: 100%;
+	background-image: url('https://www.media4u.ch/projekte/memory/images/rueckseite.jpg');
+	background-size: 100% 100%; /* Breite und HÃ¶he des Bildes festlegen */
+	background-repeat: no-repeat; /* Verhindert, dass das Bild wiederholt wird */
+	background-position: center; /* Bild in der Mitte positionieren */
+	transform: rotateY(0); /* Vorderseite sichtbar */
+}
+.memory-card .back {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.memory-card[data-card="1"] .back {
+  background-image: url('https://www.media4u.ch/projekte/memory/images/card1.jpg');
+}
+.memory-card[data-card="2"] .back {
+  background-image: url('https://www.media4u.ch/projekte/memory/images/card2.jpg');
+}
+.memory-card[data-card="3"] .back {
+  background-image: url('https://www.media4u.ch/projekte/memory/images/card3.jpg');
+}
+.memory-card[data-card="4"] .back {
+  background-image: url('https://www.media4u.ch/projekte/memory/images/card4.jpg');
+}
+.memory-card[data-card="5"] .back {
+  background-image: url('https://www.media4u.ch/projekte/memory/images/card5.jpg');
+}
+.memory-card[data-card="6"] .back {
+  background-image: url('https://www.media4u.ch/projekte/memory/images/card6.jpg');
+}
+
+.memory-card.flip .front {
+  transform: rotateY(180deg); /* Vorderseite verstecken */
+}
+
+.memory-card.flip .back {
+  transform: rotateY(0); /* RÃ¼ckseite zeigen */
+}
+
+
+
+
+/* ============================ MEDIA QUERIES ============================ */
+
+/* Smartphones - Portrait (bis 599px, Hochformat) */
+@media screen and (max-width: 599px) and (orientation: portrait) {
+  .memory-game {
+    width: 100%;
+  }
+}
+
+/* Smartphones - Landscape (bis 599px, Querformat) */
+@media screen and (max-width: 599px) and (orientation: landscape) {
+  .memory-game {
+    width: 50%;
+  }
+}
+
+/* Tablet-Ansicht - Portrait (600px bis 1024px, Hochformat) */
+@media screen and (min-width: 600px) and (max-width: 1024px) and (orientation: portrait) {
+  .memory-game {
+    width: 100%;
+  }
+}
+
+/* Tablet-Ansicht - Landscape (600px bis 1024px, Querformat) */
+@media screen and (min-width: 600px) and (max-width: 1024px) and (orientation: landscape) {
+  .memory-game {
+    width: 50%;
+  }
+}
+
+/* Desktop-Ansicht - Portrait (ab 1025px, Hochformat) */
+@media screen and (min-width: 1025px) and (orientation: portrait) {
+  .memory-game {
+    width: 100%;
+  }
+}
+
+/* Desktop-Ansicht - Landscape (ab 1025px, Querformat) */
+@media screen and (min-width: 1025px) and (orientation: landscape) {
+  .memory-game {
+    width: 100%;
+  }
+}

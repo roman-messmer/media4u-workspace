@@ -1,0 +1,79 @@
+# Die oberste Ebene für benannte Volumes muss im Root der Datei stehen
+volumes:
+  geoip-data:
+
+services:
+  # --- 1. HAUPTSEITE ---
+  frontend:
+    build:
+      context: .
+      args:
+        VITE_STRAPI_URL: "https://cms.media4u.ch"
+    image: media4u-frontend:local
+    restart: unless-stopped
+    environment:
+      - VIRTUAL_HOST=media4u.ch
+      - LETSENCRYPT_HOST=media4u.ch
+      - LETSENCRYPT_EMAIL=deine-email@media4u.ch
+    volumes:
+      - geoip-data:/usr/share/GeoIP:ro 
+
+  # --- 2. MAXMIND UPDATER ---
+  geoipupdate:
+    image: maxmindinc/geoipupdate
+    restart: unless-stopped
+    environment:
+      - GEOIPUPDATE_ACCOUNT_ID=${MAXMIND_ACCOUNT_ID}
+      - GEOIPUPDATE_LICENSE_KEY=${MAXMIND_LICENSE_KEY}
+      - GEOIPUPDATE_EDITION_IDS=GeoLite2-Country
+      - GEOIPUPDATE_FREQUENCY=168
+    volumes:
+      - geoip-data:/usr/share/GeoIP
+
+  # --- 3. SUBDOMAINS ---
+  projekte:
+    image: nginx:alpine
+    container_name: projekte-static
+    restart: unless-stopped
+    environment:
+      - VIRTUAL_HOST=projekte.media4u.ch
+      - LETSENCRYPT_HOST=projekte.media4u.ch
+      - LETSENCRYPT_EMAIL=deine-email@media4u.ch
+    volumes:
+      - ./site/projekte:/usr/share/nginx/html:ro
+
+  editor:
+    image: nginx:alpine
+    container_name: editor-static
+    restart: unless-stopped
+    environment:
+      - VIRTUAL_HOST=editor.media4u.ch
+      - LETSENCRYPT_HOST=editor.media4u.ch
+      - LETSENCRYPT_EMAIL=deine-email@media4u.ch
+    volumes:
+      - ./site/editor:/usr/share/nginx/html:ro
+      # Einkommentieren, sobald die Dateien existieren:
+      # - ./nginx/editor.conf:/etc/nginx/conf.d/default.conf:ro
+      # - ./nginx/.htpasswd:/etc/nginx/.htpasswd:ro
+
+  werbung:
+    image: nginx:alpine
+    container_name: werbung-static
+    restart: unless-stopped
+    environment:
+      - VIRTUAL_HOST=werbung.media4u.ch
+      - LETSENCRYPT_HOST=werbung.media4u.ch
+      - LETSENCRYPT_EMAIL=deine-email@media4u.ch
+    volumes:
+      - ./site/werbung:/usr/share/nginx/html:ro
+
+  diverses:
+    image: nginx:alpine
+    container_name: diverses-static
+    restart: unless-stopped
+    environment:
+      - VIRTUAL_HOST=diverses.media4u.ch
+      - LETSENCRYPT_HOST=diverses.media4u.ch
+      - LETSENCRYPT_EMAIL=deine-email@media4u.ch
+    volumes:
+      - ./site/diverses:/usr/share/nginx/html:ro

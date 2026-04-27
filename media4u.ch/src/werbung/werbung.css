@@ -1,0 +1,470 @@
+/* 1. GLOBAL VARIABLES & RESET */
+.werbung-wrapper {
+    /* Colors: Amazon / Affiliate */
+    --color-affiliate-btn: #febd69;
+    --color-affiliate-btn-hover: #f0a84e;
+    --color-price: #B12704;
+    --color-prime: #00a8e1;
+
+    /* Colors: Partner / Ads - Red Schema */
+    --color-ad-soft-red: #f1948a;       
+    --color-ad-soft-red-hover: #d63b2a; 
+    --color-ad-text-dark: #000000;      
+    --color-ad-text-on-hover: #ffffff;  
+    --color-ad-bg: #ffffff;   
+    --color-ad-border-red: #d63b2a;          
+
+    /* Colors: Portfolio (Grau Schema) */
+    --color-portfolio-bg: #ffffff;      
+    --color-portfolio-border: #90a4ae;  
+    --color-portfolio-btn: #cfd8dc;     
+    --color-portfolio-btn-text: #000000;
+    --color-portfolio-btn-hover: #b0bec5;
+    --color-portfolio-badge: #546e7a;   
+
+    /* Colors: Support (Grün Schema) */
+    --color-support-bg: #ffffff;
+    --color-support-soft-green: #81c784;       
+    --color-support-soft-green-hover: #4caf50; 
+    --color-support-text-dark: #000000;        
+    --color-support-text-on-hover: #ffffff;    
+
+    /* Colors: Werbeplatz (Grau Schema) */
+    --color-werbeplatz-bg: #ffffff;      
+    --color-werbeplatz-border: #90a4ae;  
+    --color-werbeplatz-btn: #cfd8dc;     
+    --color-werbeplatz-btn-text: #000000;
+    --color-werbeplatz-btn-hover: #b0bec5;
+
+    /* General */
+    --color-primary: #232f3e;
+    --color-text-aside: #000000;
+    --color-text-muted: #800000;
+    --color-bg: #ffffff;
+    --color-white: #ffffff;
+    --color-border: #d5d9d9;
+    
+    /* Spacing & UI */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    
+    /* Responsive Fluid Spacing */
+    --spacing-md: clamp(0.75rem, 2vw, 1rem);
+    --spacing-lg: clamp(1rem, 4vw, 2rem);
+    
+    --border-radius: 8px;
+    --shadow-card: 0 2px 4px rgba(0, 0, 0, 0.4);
+    --transition: all 0.2s ease-in-out;
+}
+
+/* 2. MAIN CONTAINER & RESET */
+.werbung-wrapper {
+    box-sizing: border-box;
+    background-color: var(--color-bg);
+    color: var(--color-text-aside);
+    line-height: 1.5;
+    padding: var(--spacing-lg) var(--spacing-md);
+    max-width: 1400px;
+    margin: 0 auto;
+    /* font-family entfernt -> erbt nun von der App */
+}
+
+/* Gezielter Reset für Box-Model */
+.werbung-wrapper *,
+.werbung-wrapper *::before,
+.werbung-wrapper *::after {
+    box-sizing: border-box;
+}
+
+/* Gezielter Reset für Abstände (statt alles auf 0 zu setzen) */
+.werbung-wrapper h2,
+.werbung-wrapper p,
+.werbung-wrapper ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* * 3. GRID LAYOUT */
+.werbung-wrapper .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+    gap: var(--spacing-lg);
+    list-style: none;
+    margin-top: var(--spacing-md);
+}
+
+/* * 4. COMPONENT: CARD (Base) */
+.werbung-wrapper .card {
+    background-color: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--border-radius);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transition: var(--transition);
+    position: relative;
+    height: 100%;
+    box-shadow: var(--shadow-card);
+}
+
+@media (hover: hover) {
+    .werbung-wrapper .card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    }
+}
+
+/* * VARIANT: SPONSORED AD (Modifier) */
+.werbung-wrapper .card--sponsored {
+    background-color: var(--color-ad-bg); 
+    border-color: var(--color-ad-soft-red); 
+}
+
+/* * VARIANT: PORTFOLIO (Modifier) */
+.werbung-wrapper .card--portfolio {
+    background-color: var(--color-portfolio-bg);
+    border-color: var(--color-portfolio-border);
+}
+
+/* * VARIANT: SUPPORT (Modifier) */
+.werbung-wrapper .card--support {
+    background-color: var(--color-support-bg);
+    border-color: var(--color-support-soft-green);
+}
+
+/* Badges */
+.werbung-wrapper .card__badge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 4px 12px;
+    font-size: 0.75rem; 
+    font-weight: bold;
+    border-bottom-right-radius: var(--border-radius);
+    z-index: 10;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Affiliate Badge */
+.werbung-wrapper .card__badge--affiliate {
+    background-color: var(--color-affiliate-btn);
+    color: #111;
+    font-size: 0.7rem; 
+}
+
+/* Partner Badge */
+.werbung-wrapper .card__badge--ad {
+    background-color: var(--color-ad-soft-red);
+    color: var(--color-ad-text-dark); 
+    border-right: 1px solid rgba(0,0,0,0.05);
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    font-size: 0.7rem;
+}
+
+/* Portfolio Badge */
+.werbung-wrapper .card__badge--portfolio {
+    background-color: var(--color-portfolio-badge);
+    color: #ffffff;
+    font-size: 0.7rem;
+}
+
+/* Support Badge */
+.werbung-wrapper .card__badge--support {
+    background-color: var(--color-support-soft-green);
+    color: var(--color-support-text-dark);
+    border-right: 1px solid rgba(0,0,0,0.05);
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.7rem;
+}
+
+/* Image Area */
+.werbung-wrapper .card__image-wrapper {
+    background-color: #eee;
+    padding: var(--spacing-md);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    /* Standard Linie unten */
+    border-bottom: 1px solid var(--color-ad-soft-red);
+}
+
+/* Spezifische Linie für Portfolio */
+.werbung-wrapper .card--portfolio .card__image-wrapper {
+    border-bottom: 1px solid var(--color-portfolio-border);
+}
+
+/* Spezifische Linie für Support */
+.werbung-wrapper .card--support .card__image-wrapper {
+    border-bottom: 1px solid var(--color-support-soft-green);
+}
+
+@media (max-width: 480px) {
+    .werbung-wrapper .card__image-wrapper { height: 180px; }
+}
+
+.werbung-wrapper .card__image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    border-radius: 4px; 
+}
+
+/* FIX für Fotos in Partner & Portfolio Cards */
+.werbung-wrapper .card--sponsored .card__image,
+.werbung-wrapper .card--portfolio .card__image,
+.werbung-wrapper .card--support .card__image {
+    mix-blend-mode: normal;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+}
+
+/* Content Area */
+.werbung-wrapper .card__content {
+    padding: var(--spacing-md);
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.werbung-wrapper .card__company {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    margin-bottom: var(--spacing-xs);
+    letter-spacing: 0.05em;
+}
+
+/* Hervorhebung für Portfolio Company */
+.werbung-wrapper .card--portfolio .card__company {
+    color: var(--color-portfolio-badge);
+    font-weight: bold;
+}
+
+/* Hervorhebung für Support Company */
+.werbung-wrapper .card--support .card__company {
+    color: var(--color-support-text-dark);
+    font-weight: bold;
+}
+
+.werbung-wrapper .card__title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: var(--spacing-sm);
+    line-height: 1.3;
+    color: var(--color-primary);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Specifics */
+.werbung-wrapper .card__details { margin-bottom: var(--spacing-md); }
+
+/* Affiliate Elements */
+.werbung-wrapper .card__meta {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+    margin-bottom: var(--spacing-md);
+}
+
+.werbung-wrapper .card__rating {
+    display: flex;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.werbung-wrapper .card__stars { color: #ffa41c; margin-right: var(--spacing-xs); }
+.werbung-wrapper .card__count { color: #007185; text-decoration: none; }
+
+.werbung-wrapper .card__price {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-price);
+}
+.werbung-wrapper .card__prime {
+    font-size: 0.75rem;
+    color: var(--color-prime);
+    font-weight: bold;
+    margin-left: var(--spacing-xs);
+}
+
+/* Ad & Portfolio Description */
+.werbung-wrapper .card__description {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin-bottom: var(--spacing-md);
+    line-height: 1.4;
+}
+
+/* Footer / Button Area */
+.werbung-wrapper .card__footer { margin-top: auto; }
+
+.werbung-wrapper .button {
+    display: block;
+    width: 100%;
+    padding: 0.8rem 0.6rem;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 0.95rem; 
+    cursor: pointer;
+    transition: var(--transition);
+    font-weight: 500;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.werbung-wrapper .button--affiliate {
+    background-color: var(--color-affiliate-btn);
+    border: 1px solid #a88734;
+    color: #111;
+}
+.werbung-wrapper .button--affiliate:hover { background-color: var(--color-affiliate-btn-hover); }
+
+/* Partner Button */
+.werbung-wrapper .button--ad {
+    background-color: var(--color-ad-soft-red);
+    border: 1px solid var(--color-ad-border-red); 
+    color: var(--color-ad-text-dark); 
+}
+.werbung-wrapper .button--ad:hover {
+    background-color: var(--color-ad-soft-red-hover);
+    border-color: var(--color-ad-soft-red-hover);
+    color: var(--color-ad-text-on-hover);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Portfolio Button */
+.werbung-wrapper .button--portfolio {
+    background-color: var(--color-portfolio-btn);
+    border: 1px solid var(--color-portfolio-border);
+    color: var(--color-portfolio-btn-text);
+}
+.werbung-wrapper .button--portfolio:hover {
+    background-color: var(--color-portfolio-btn-hover);
+    border-color: var(--color-portfolio-btn-hover);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+
+/* Portfolio Werbeplatz sichern */
+.werbung-wrapper .button--werbeplatz_sichern {
+    background-color: var(--color-werbeplatz-btn);
+    border: 1px solid var(--color-werbeplatz-border);
+    color: var(--color-werbeplatz-btn-text);
+    padding: 0.8rem 2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+
+/* Support Button */
+.werbung-wrapper .button--support {
+    background-color: var(--color-support-soft-green);
+    border: 1px solid #46ad4a;
+    color: var(--color-support-text-dark);
+}
+.werbung-wrapper .button--support:hover {
+    background-color: var(--color-support-soft-green-hover);
+    border-color: var(--color-support-soft-green-hover);
+    color: var(--color-support-text-on-hover);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Toast - Responsive Styles */
+.werbung-wrapper .toast {
+    position: fixed;
+    z-index: 1000;
+    background: #232f3e; 
+    color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transform: translateY(150%);
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    font-size: 0.9rem;
+}
+
+@media (min-width: 601px) {
+    .werbung-wrapper .toast {
+        bottom: 20px; right: 20px;
+        padding: 1rem 1.5rem;
+        border-radius: 4px;
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 600px) {
+    .werbung-wrapper .toast {
+        bottom: 0; left: 0; right: 0; width: 100%;
+        padding: 1.2rem 1rem;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        text-align: center;
+    }
+}
+
+.werbung-wrapper .toast--visible { transform: translateY(0); }
+
+/* Werbepartner Info Box */
+.werbung-wrapper .boxWerbepartnerInfo {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: var(--spacing-lg);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-ad-soft-red);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-card);
+    /* Animation defaults */
+    opacity: 1;
+    transform: scale(1);
+    transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.werbung-wrapper .werbepartnerInfo h3 {
+    color: var(--color-ad-text-dark);
+    margin-bottom: var(--spacing-sm);
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.werbung-wrapper .werbepartnerInfo p {
+    color: var(--color-text-muted);
+    margin-bottom: var(--spacing-md);
+    max-width: 800px;
+}
+
+.werbung-wrapper .figcaption a {
+    display: inline-block;
+    padding: 0.8rem 2rem;
+    background-color: var(--color-ad-soft-red);
+    color: var(--color-ad-text-dark);
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.werbung-wrapper .figcaption a:hover {
+    background-color: var(--color-ad-soft-red-hover);
+    color: var(--color-ad-text-on-hover);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+@media (min-width: 650px) {
+    .werbung-wrapper .boxWerbepartnerInfo {
+        grid-column: span 2;
+    }
+}

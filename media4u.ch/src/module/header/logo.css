@@ -1,0 +1,58 @@
+/* src/css/logo.css */
+
+/* Block: Logo Link-Container */
+.logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-decoration: none;
+  color: inherit; 
+  touch-action: none; 
+  outline: none; 
+  font-family: 'Inconsolata', monospace; 
+  
+  font-weight: 600;
+  line-height: 1; 
+  font-size-adjust: none; 
+}
+
+.logo span {
+  font-size: clamp(3rem, calc(2.14rem + 4.29vw), 6rem);
+}
+
+.logo:hover {
+  text-decoration: none;
+}
+
+/* Element: Visueller Wrapper */
+.logo__visual {
+  display: flex;
+  align-items: center;
+}
+
+/* Element: Logoteil (Verbindung von Zeichen) */
+.logo__part {
+  display: contents; 
+}
+
+/* Element: Einzelnes ASCII-Zeichen */
+.logo__char {
+  display: inline-block;
+  width: 1ch;          
+  text-align: center;  
+  white-space: pre;
+  transform: translateZ(0); 
+  backface-visibility: hidden;
+  cursor: crosshair;
+  transition: color 0.1s ease;
+}
+
+/* Modifier: Rote Markenfarbe */
+.logo__char--red {
+  color: red;
+}
+
+/* Modifier: Animations-Status */
+.logo__char--animating {
+  color: #555555 !important;
+}

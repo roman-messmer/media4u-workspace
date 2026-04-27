@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Deploy: Frontend",
+      "type": "shell",
+      "command": "powershell",
+      "args": ["-NoProfile","-ExecutionPolicy","Bypass","-File","${workspaceFolder}\\deploy.ps1","-Mode","1"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Deploy: Projekte",
+      "type": "shell",
+      "command": "powershell",
+      "args": ["-NoProfile","-ExecutionPolicy","Bypass","-File","${workspaceFolder}\\deploy.ps1","-Mode","2"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Deploy: Editor",
+      "type": "shell",
+      "command": "powershell",
+      "args": ["-NoProfile","-ExecutionPolicy","Bypass","-File","${workspaceFolder}\\deploy.ps1","-Mode","3"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Deploy: Alles",
+      "type": "shell",
+      "command": "powershell",
+      "args": ["-NoProfile","-ExecutionPolicy","Bypass","-File","${workspaceFolder}\\deploy.ps1","-Mode","4"],
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+/* src/components/pages/kontakt.css */
+:root {
+    --font-size-kontakt: min(.8rem + 2vw, 2rem);
+}
+
+/* Block */
+.kontakt {
+  max-width: 100%;
+  background-color: #fff; /* Reinweißer Hintergrund laut Screenshot */
+  font-family: 'Inconsolata', monospace; /* Deine gewählte Font */
+}
+
+/* Element: Der Haupttitel (KONTAKT) */
+.kontakt__title {
+  color: red; /* Oder exakt: #e30613 */
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 900;
+  font-size: var(--font-size-h1);
+  letter-spacing: 0.05em;
+}
+
+/* Element: Die Infokarte (Screenshot 3) */
+.kontakt__card {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  text-align: left; /* Links am Textblock ausgerichtet */
+}
+
+/* Element: Eine Gruppe (Label + Wert) */
+.kontakt__group {
+  display: flex;
+  flex-direction: column;
+}
+
+.kontakt__address {
+  color: #000;
+  line-height: 1.4;
+  font-size: var(--font-size-kontakt);
+}
+
+/* Element: Die Labels (ROMAN MESSMER, E-MAIL, TELEFON) */
+.kontakt__label {
+  color: red;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: var(--font-size-kontakt);
+}
+
+/* Brand Accent innerhalb der E-Mail */
+.kontakt__brand-accent {
+  color: red;
+  font-size: var(--font-size-kontakt);
+}
+
+.kontakt__link {
+  font-size: var(--font-size-kontakt);
+}

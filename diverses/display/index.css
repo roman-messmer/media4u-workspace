@@ -1,0 +1,19 @@
+.wrapper_display {
+    height: 100%;
+    display: grid;
+    border-bottom: solid .125rem black;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: var(--bg-pos-x, 10%) top;
+    transition: background-position .3s ease
+}
+
+.display_area {
+    display: flex;
+    width: 100%;
+    justify-content: center
+}
+
+.display {
+    color: #000
+}

@@ -1,0 +1,206 @@
+cd "$env:USERPROFILE\OneDrive\Desktop\react"
+powershell -NoProfile -ExecutionPolicy Bypass -File .\deploy.ps1
+
+cd "$env:USERPROFILE\OneDrive\Desktop\react"
+powershell -NoProfile -ExecutionPolicy Bypass -File .\build.ps1
+
+
+projekte.mdia4u.ch - media4u.ch/projekte (local build -> server swap)
+editor.media4u.ch - media4u.ch/editor (local build -> server swap)
+werbung.media4u.ch - media4u.ch/werbung (local build -> server swap)
+
+All (1+2+3) entfernen,
+
+
+✅ Prompt für neue React-Komponenten auf Senior-Level
+
+Erstelle eine React-Komponente auf Senior-Niveau, die:
+
+– Inhalte aus einer Strapi-API lädt (z. B. /api/[endpoint]?locale=xx)
+– die Sprache via i18n.language?.split('-')[0] || 'de' berücksichtigt
+– AbortController nutzt, um Fetch sauber abbrechen zu können
+– sanitizeHtml verwendet (aus utils/sanitizeHtml.js, mit DOMPurify), um HTML gegen XSS zu schützen
+– Ladezustand, Fehler und Erfolg unterscheidet, inkl. semantischem Markup und a11y (role="alert", aria-live, aria-busy)
+– die API-Antwort über resolveContent(data) extrahiert, um bei Strukturänderungen resilient zu bleiben
+– nur React-Hooks (useEffect, useState, useMemo) nutzt, keine externen Zustandsbibliotheken
+– kein direktes innerHTML oder eval-ähnliche Operationen einsetzt
+– HTML nur nach vorheriger Sanitization mit dangerouslySetInnerHTML rendert
+– CSS scoped mit import '../../css/[komponente].css' einbindet
+– auf ein Vite-Projekt abgestimmt ist (import.meta.env.VITE_STRAPI_URL für die API-Basis)
+
+🔁 Struktur der Komponente:
+
+– useEffect() für Fetch + Cleanup
+– useState() für content, error, loading
+– useMemo() für sanitizedHtml
+– Rückgabe: loading-, error- und Erfolgs-Zustände klar getrennt
+
+🔗 Beispiel-Endpunkte:
+
+– /api/slogan?locale=xx
+– /api/impressum?locale=xx
+– /api/datenschutz?locale=xx
+– /api/about?locale=xx
+
+Nutze nur react, react-i18next, DOMPurify und Vite-Umgebungsvariablen.
+
+
+
+🔁 So verwendest du den Prompt:
+Du kannst denselben Prompt immer wieder verwenden, indem du einfach den Ziel-Endpunkt und den Komponentennamen ersetzt. Beispiel:
+
+Erstelle mir eine React-Komponente About.jsx auf Basis des obigen Prompts, die /api/about?locale=xx abfragt.
+
+
+
+
+✅ 3. Nur eine Instanz neu starten
+
+🟢 Für Entwicklung (mit Content-Type-Builder):
+
+cd /var/www/cms.media4u.ch
+pm2 delete all
+NODE_OPTIONS="--max-old-space-size=2048" pm2 start npm --name strapi-dev -- run develop
+pm2 save
+
+
+🟢 Für Production (stabil, ohne Builder):
+
+cd /var/www/cms.media4u.ch
+pm2 delete all
+rm -rf ./build ./dist
+NODE_OPTIONS="--max-old-space-size=2048" npm run build
+pm2 start npm --name strapi-cms -- run start
+pm2 save
+
+
+
+
+cd /var/www/cms.media4u.ch
+
+
+
+cd /var/www/cms.media4u.ch
+NODE_OPTIONS="--max_old_space_size=4096" npm run build
+pm2 restart strapi-cms
+
+
+
+server {
+  server_name cms.media4u.ch;
+
+  location / {
+    proxy_pass http://127.0.0.1:1337;
+    proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection 'upgrade';
+    proxy_set_header Host $host;
+    proxy_cache_bypass $http_upgrade;
+  }
+
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/cms.media4u.ch/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/cms.media4u.ch/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = cms.media4u.ch) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+  listen 80;
+  server_name cms.media4u.ch;
+    return 404; # managed by Certbot
+
+
+}
+
+
+
+
+
+
+
+
+
+
+sudo nano /etc/nginx/sites-available/media4u.ch
+
+server {
+  listen 443 ssl;
+  http2 on;
+  server_name media4u.ch www.media4u.ch;
+
+  root /var/www/vhosts/media4u.ch/httpdocs/dist;
+  index index.html;
+
+  # HTTPS-Zertifikat (Let's Encrypt – managed by Certbot)
+  ssl_certificate /etc/letsencrypt/live/media4u.ch/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/media4u.ch/privkey.pem;
+  include /etc/letsencrypt/options-ssl-nginx.conf;
+  ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+
+  # Security-Header
+  add_header Strict-Transport-Security "max-age=63072000; includeSubDomains; preload" always;
+  add_header X-Content-Type-Options "nosniff" always;
+  add_header X-Frame-Options "DENY" always;
+  add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+  add_header Permissions-Policy "camera=(), microphone=(), geolocation=()" always;
+
+  # 🟢 STATIONÄRE SEITEN – /projekte/
+  location ^~ /projekte/ {
+    root /var/www/vhosts/media4u.ch/httpdocs;
+    index index.html;
+  }
+
+  # 🔒 STATIONÄRE SEITEN – /editor_2025/ mit Passwortschutz
+  location ^~ /editor_2025/ {
+    root /var/www/vhosts/media4u.ch/httpdocs;
+    index index.html;
+
+    auth_basic "Editor Zugriff (geschützt)";
+    auth_basic_user_file /etc/nginx/.htpasswd_editor;
+  }
+
+  # SPA (React): fallback für alle übrigen Pfade
+  location / {
+    try_files $uri /index.html;
+  }
+
+  # Assets mit Cache-Header
+  location ~* \.(?:js|css|png|jpg|jpeg|gif|svg|ico|ttf|woff|woff2|json|webmanifest)$ {
+    expires 6M;
+    access_log off;
+    add_header Cache-Control "public";
+  }
+}
+
+server {
+  listen 80 default_server;
+  server_name media4u.ch www.media4u.ch;
+
+  # Weiterleitung auf HTTPS
+  return 301 https://$host$request_uri;
+}
+
+
+
+
+
+
+// vite.config.js
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    host: '0.0.0.0',
+    port: 3000,
+    strictPort: true,
+    allowedHosts: ['media4u.ch', 'www.media4u.ch', 'cms.media4u.ch']
+  }
+});

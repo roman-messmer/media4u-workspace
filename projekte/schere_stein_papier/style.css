@@ -1,0 +1,167 @@
+/* Allgemeine Stile */
+* {
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: #000;
+    font-family: Arial, sans-serif;
+    outline: none;
+    font-size: 16px;
+}
+
+body {
+    display: grid;
+    min-height: 100vh;
+    background-image: url(bg_schere_stein_papier.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+/* Container */
+.container {
+    display: grid;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 1em;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid #545453;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    font-size: 18px;
+}
+
+/* Button Container */
+.button-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 1em;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #7f4b41;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background-color: #ff0000;
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+}
+
+/* Ergebnis und Computer-Wahl */
+.result {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.computer-choice {
+    display: grid;
+    justify-items: center;
+	padding-bottom: 0.5em;
+}
+
+.choice-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #a9a9a9;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+
+	width: 30%;
+    height: auto;
+}
+
+
+/* Scoreboard */
+.scoreboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    gap: 1em;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* Reset Button */
+#reset-container {
+    display: grid;
+    justify-items: center;
+    padding: 1em 0em 0.5em 0em;
+	width: 100%;
+}
+
+#reset-container .button {
+    background-color: #dc3545;
+}
+
+#reset-container .button:hover {
+    background-color: #a71d2a;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        max-width: 90vw;
+    }
+
+    .icon {
+        width: 100%;
+    	height: 100%;
+    }
+	
+	.choice-image {
+		width: 30%;
+    	height: auto;
+	}
+}
+
+@media (max-width: 480px) {
+	.container {
+        max-width: 90vw;
+    }
+    .button-container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .icon {
+        width: 100%;
+    	height: auto;
+    }
+	.choice-image {
+		width: 30%;
+    	height: auto;
+	}
+}

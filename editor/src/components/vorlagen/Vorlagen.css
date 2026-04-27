@@ -1,0 +1,44 @@
+.vorlagen.section { padding: 0; }
+.vorlagen_pre { white-space: pre; font: inherit; margin: 0; }
+.vorlagen_content { margin: 0; }
+.vorlagen.section.loading .skeleton.line { height: 1rem; margin: .5rem 0; opacity: .3; background: currentColor; }
+.vorlagen.section.loading .skeleton.block { height: 6rem; opacity: .2; background: currentColor; }
+
+.vorlagen.section {
+    border: 0.125rem solid black;
+}
+
+.vorlagen header {
+    padding: 1rem;
+    font-size: 1.2rem;
+    border-bottom: solid black 0.125rem;
+    background-color: white;
+}
+
+.vorlagen header h1 {
+    text-align: center;
+}
+
+.vorlagen header p {
+    text-align: center;
+}
+
+.vorlagen pre {
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-family: NokiaFC22;
+  line-height: 1.15em;
+  background-color: #b0c4b1;
+
+  /* Zeilenumbruch aktivieren, aber Spaces/Zeilen erhalten */
+  white-space: pre-wrap;     /* erhält Spaces/Zeilen, erlaubt Umbruch */
+  overflow-wrap: anywhere;   /* bricht auch sehr lange „Wörter“ */
+  word-break: break-word;    /* Fallback für ältere Browser */
+
+  /* optional, um horizontales Scrollen zu vermeiden */
+  max-width: 100%;
+}
+
+.vorlagen pre:not(:last-of-type) {
+  border-bottom: 0.125rem solid black;
+}

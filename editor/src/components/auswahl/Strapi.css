@@ -1,0 +1,138 @@
+/* Strapi.css */
+
+:root {
+  --strapi-primary: #4945ff;
+  --strapi-primary-hover: #2f2bc7;
+  --strapi-error: #d02b20;
+  --strapi-error-bg: #fcecea;
+  --strapi-success: #328048;
+  --strapi-success-bg: #eaf5eb;
+  --strapi-border: #dcdce4;
+  --strapi-bg: #ffffff;
+  --strapi-input-bg: #fafafb;
+  --strapi-text: #32324d;
+  --strapi-text-muted: #8e8ea9;
+  --strapi-radius: 4px;
+  --transition-speed: 0.2s;
+}
+
+.strapi_sms_textbild,
+.strapi_textbild2 {
+  background: var(--strapi-bg);
+  padding: 1rem;
+  border-radius: var(--strapi-radius);
+  box-shadow: 0 1px 4px rgba(33, 33, 52, 0.1);
+  max-width: 100%;
+  color: var(--strapi-text);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Accessibility: Ladezustand visuell verdeutlichen */
+.strapi_sms_textbild[aria-busy="true"] {
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+.strapi_sms_textbild h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
+
+/* Feedback Messages */
+.error-message,
+.success-message {
+  padding: 1rem;
+  border-radius: var(--strapi-radius);
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+.error-message {
+  background-color: var(--strapi-error-bg);
+  color: var(--strapi-error);
+  border: 1px solid rgba(208, 43, 32, 0.2);
+}
+
+.success-message {
+  background-color: var(--strapi-success-bg);
+  color: var(--strapi-success);
+  border: 1px solid rgba(50, 128, 72, 0.2);
+}
+
+/* Form Layout */
+.sms-formular {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-group label {
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 0.75rem;
+  border: 1px solid var(--strapi-border);
+  border-radius: var(--strapi-radius);
+  font-size: 1rem;
+  transition: border-color var(--transition-speed) ease;
+  background-color: var(--strapi-input-bg);
+  color: var(--strapi-text);
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--strapi-primary);
+  background-color: var(--strapi-bg);
+}
+
+/* Multi-Select für Kategorien */
+.form-group select[multiple] {
+  min-height: 120px;
+  resize: vertical;
+}
+
+/* Editor Quellcode Feld */
+.form-group textarea {
+  font-family: monospace;
+  resize: vertical;
+  min-height: 150px;
+  white-space: pre-wrap;
+}
+
+/* Submit Button */
+.sms-formular button[type="submit"] {
+  background-color: var(--strapi-primary);
+  color: white;
+  border: none;
+  padding: 0.875rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--strapi-radius);
+  cursor: pointer;
+  transition: background-color var(--transition-speed) ease;
+  align-self: flex-start;
+  margin-top: 0.5rem;
+}
+
+.sms-formular button[type="submit"]:hover:not(:disabled) {
+  background-color: var(--strapi-primary-hover);
+}
+
+.sms-formular button[type="submit"]:disabled {
+  background-color: var(--strapi-border);
+  cursor: not-allowed;
+  color: var(--strapi-text-muted);
+}

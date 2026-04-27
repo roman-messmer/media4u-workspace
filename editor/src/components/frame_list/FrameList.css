@@ -1,0 +1,99 @@
+.frame_list {
+    color: black;
+}
+
+.frame_list_sms_textbild {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    flex-direction: column-reverse;
+}
+
+.frame_list_sms_textbild .frame_group {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    border: .25rem solid black;
+    padding: .5rem;
+    background-color: #ffffff;
+}
+
+.frame_list_sms_textbild .frame_group .group_item {
+    display: flex;
+    background-color: #b0c4b1;
+    border: .125rem solid black;
+    font-family: NokiaFC22;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+}
+
+.frame_list_sms_textbild .frame_group.show {
+    border: .25rem solid red;
+}
+
+.frame_list_sms_textbild .frame_group.show .edit {
+    border: .25rem solid red;
+    background-color: yellow;
+}
+
+
+
+
+
+
+.frame_list_textbild2 .icon-word,
+.frame_list_sms_textbild .icon-word {
+  display: inline-block;
+  width: 1.1rem;
+  height: 1.1rem;
+  vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+.frame_list_textbild2 {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    flex-direction: column-reverse;
+}
+
+.frame_list_textbild2 .frame_group {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    border: .25rem solid black;
+    padding: .5rem;
+    background-color: #ffffff;
+    border-radius: .5rem;
+}
+
+.frame_list_textbild2 .frame_group .group_item {
+    display: flex;
+    background-color: #89cee1;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border: .125rem solid black;
+    font-family: Inconsolata, sans-serif;
+    line-height: 1.15em;
+    border-radius: .5rem;
+}
+
+.frame_list_textbild2 .frame_group.show {
+    border: .25rem solid red;
+}
+
+.frame_list_textbild2 .frame_group.show .edit {
+    border: .25rem solid red;
+    background-color: yellow;
+}
+

@@ -1,0 +1,159 @@
+.sms_textbild .display {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    position: relative;
+}
+
+
+.sms_textbild .frame {
+    container-type: inline-size;
+    display: grid;
+    grid-template-columns: repeat(84, minmax(0, 1fr));
+    grid-template-rows: repeat(39, minmax(0, 1fr));
+    place-content: center;
+            
+    width: 100%; 
+    aspect-ratio: 84 / 39;
+
+    background-size: calc(100% / 84) calc(100% / 39);
+
+    /* Überlauf handhaben (scroll statt Layoutsprengung) */
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+
+    font-family: NokiaFC22;
+    white-space: pre;
+    background-color: #e9faff;
+    color: #004d61;
+}
+
+
+.sms_textbild .zeilen {
+    margin: 0; padding: 0;
+    font-family: NokiaFC22;
+    color: #000000;
+    line-height: 1.2em; /* Wichtig für vertikale Zentrierung */
+            
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+
+.sms_textbild .zeilen4  { font-size: calc(100cqw / 84 * 8); }  /* 8x8 */
+
+
+.sms_textbild pre {
+  display: flex;
+  white-space: pre;
+  color: #141414;
+  text-align: left;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.sms_textbild pre.center,
+.sms_textbild pre[data-center="1"] {
+  justify-content: center;
+  text-align: center;
+}
+
+
+.sms_textbild .frame.show pre.active {
+  position: relative;
+  outline: 0px solid currentColor !important; /* falls ein Reset outline: none; setzt */
+  outline-offset: 0;
+  animation:
+    blink-outline 1s step-end infinite,
+    blinkText     1s linear   infinite alternate; /* Text blinkt leicht mit */
+}
+
+.sms_textbild .frame.show pre.active::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -0.1ch;
+  width: 1px;
+  height: 1em;
+  background: currentColor;
+  animation: blink-caret 1s step-end infinite;
+}
+
+/* Tastaturfokus sichtbar */
+.sms_textbild pre:focus {
+  outline: 2px dashed currentColor;
+  outline-offset: 1px;
+}
+
+
+/* ===========================
+   SMS TEXTBILD (84 × 39)
+   =========================== */
+
+.sms_textbild {
+  display: grid;
+  border: .5rem #2A2C2A solid;
+  width: 100%;
+}
+
+.sms_textbild figcaption {
+  display: flex;
+  width: auto;
+  background-color: #e0e0e0;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sms_textbild .frame {
+  display: none !important;
+}
+
+.sms_textbild .frame.show {
+  display: grid !important;
+  overflow: hidden;
+  background-color: #b0c4b1;
+}
+
+
+/* ==========================================================================
+   6. Animations
+   ========================================================================== */
+@keyframes blink-outline {
+    0%,49% {
+        outline-color: currentColor;
+    }
+
+    50%,to {
+        outline-color: transparent;
+    }
+}
+
+@keyframes blink-caret {
+    0%,49% {
+        opacity: 1;
+    }
+
+    50%,to {
+        opacity: 0;
+    }
+}
+
+@keyframes blinkText {
+    0% {
+        opacity: 1;
+        filter: brightness(1);
+    }
+
+    50% {
+        opacity: .2;
+        filter: brightness(1.8);
+    }
+
+    to {
+        opacity: 1;
+        filter: brightness(1);
+    }
+}

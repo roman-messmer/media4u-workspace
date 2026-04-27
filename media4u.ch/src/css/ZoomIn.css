@@ -1,0 +1,11 @@
+.zoom-in {
+  opacity: 0;  /* Bild ist anfangs unsichtbar */
+  transform: scale(0.8);  /* Bild ist anfangs verkleinert */
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;  /* Übergangseffekte */
+  will-change: opacity, transform;  /* Performance-Optimierung */
+}
+
+.zoom-in.visible {
+  opacity: 1;  /* Bild wird sichtbar */
+  transform: scale(1);  /* Bild wird auf volle Größe skaliert */
+}

@@ -1,0 +1,61 @@
+/* src/css/rechtliches.css */
+
+/* Basis-Styling für den gesamten Footer-Text */
+/* Block: Hauptcontainer der Navigation */
+.rechtliches {
+  width: 100%;
+}
+
+/* Element: Listen-Layout */
+.rechtliches__list {
+  display: flex;
+  flex-flow: row wrap; /* Explizite Definition: Zeile, erlaubter Umbruch */
+  justify-content: space-evenly; /* Gleichmäßige Verteilung */
+  align-items: center;
+  gap: 0.25em 1em; /* Geringes vertikales, normales horizontales Gap */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Element: Listen-Eintrag */
+.rechtliches__item {
+  display: flex;
+  align-content: center;
+  padding: 0;
+  flex: 0 0 auto; /* Items wachsen oder schrumpfen nicht */
+}
+
+/* Element: Link */
+.rechtliches__link {
+  font-family: 'Inconsolata', sans-serif;
+  color: #000000;
+  line-height: 1.4em;
+  font-size-adjust: 0.5;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  padding: 0 0.5em; /* Padding zum Link hinzufügen, um die Klickfläche zu vergrößern and Platz zu schaffen */
+}
+
+/* Modifier: Aktiver Link */
+.rechtliches__link--active {
+  color: var(--nav-main-active-color);
+  font-weight: 700;
+}
+
+/* Hover & Focus States */
+.rechtliches__link:hover {
+  color: var(--nav-main-hover-color);
+}
+
+.rechtliches__link:focus-visible {
+  outline: 2px solid var(--nav-main-active-color);
+  outline-offset: 4px;
+}
+
+/* Externer Wrapper / Container-Padding */
+.container_rechtliches {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}

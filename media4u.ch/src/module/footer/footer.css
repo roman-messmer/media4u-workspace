@@ -1,0 +1,19 @@
+/* src/css/footer.css */
+:root {
+  --color-brand-primary: red;
+}
+
+/* Block: footer */
+.footer {
+  font-family: 'Inconsolata', sans-serif;
+  font-weight: 500;
+  font-size: clamp(0.6rem, 2vw, 1rem);
+  text-transform: uppercase;
+  font-size-adjust: 0.5;
+}
+
+/* Element: 4u (Kind-Element des footer Blocks) */
+.footer__4u {
+  color: var(--color-brand-primary);
+  font-size: inherit;
+}

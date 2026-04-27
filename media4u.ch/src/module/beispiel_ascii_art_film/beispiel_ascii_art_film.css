@@ -1,0 +1,51 @@
+.beispiel_ascii_art_film {
+	display: grid;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    justify-items: start;
+    align-items: start;
+
+    padding-top: 2em;
+    padding-bottom: 3em;	
+}
+
+.beispiel_ascii_art_film .ascii_art_film_matrix {
+	border: #0B3D0B solid calc(min(0.05em + 2vw, 0.2em));
+	background-color: #ffffff;
+}
+
+.beispiel_ascii_art_film .ascii_art_film_matrix .frame {
+	display: flex;
+	font-family: 'Inconsolata', sans-serif;
+	line-height: 1.6ch;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	width: 100%;
+  	margin: 0;
+	overflow: hidden;
+	white-space: pre;
+	font-size: 0.715cqi; 
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+}
+
+.beispiel_ascii_art_film .ascii_art_film_matrix .frame::-webkit-scrollbar {
+  display: none;
+}
+
+.beispiel_ascii_art_film .ascii_art_film_matrix .vorschau_name {
+	display: flex;
+	justify-content: center;
+	background-color: #32CD32;
+	padding-top: calc(min(0.1em + 2vw, 0.6em));
+	padding-bottom: calc(min(0.1em + 2vw, 0.6em));
+	width: 100%;
+	border-top: #0B3D0B solid calc(min(0.05em + 2vw, 0.2em));
+}
+
+@media (orientation: portrait) {
+    .beispiel_ascii_art_film .ascii_art_film_matrix .frame {
+        font-size: .8cqi !important;
+    }
+}

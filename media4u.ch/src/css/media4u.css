@@ -1,0 +1,231 @@
+:root {
+  --font-size: 16px;
+  --font-size-a: clamp(1rem, 2vw, 1.6rem);
+}
+
+.frontand_entwickler_auflistung li {
+    padding-left: 0rem;
+    margin-left: 2rem;
+    list-style: disc !important;
+}
+
+.rechtliches {
+    display: flex;
+    gap: 0.5em 1em;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+
+.rechtliches a {
+    font-size: var(--font-size-a);
+    text-transform: uppercase;
+}
+
+.rechtliches ul li {
+  padding: 0;
+  line-height: .4em;
+}
+
+
+.responsive-image {
+  display: block;
+  max-width: 90%;
+  height: auto;
+  margin: 2rem auto;
+  border-radius: 8px;
+  box-shadow: 0 15px 15px -4px #0009;
+  margin-top: 4em;
+}
+
+
+.icon_name {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.icon_name h4 {
+  color: red;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  line-height: 2rem;
+  font-size: 1.4rem;
+}
+
+.icon_beschreibung {
+  display: flex;
+}
+
+/* Grid für Tech Stack Liste */
+.tech-icon-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.4em;
+}
+
+.tech-icon-item {
+  padding-top: 1em;
+}
+
+.tech-icon {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tech-icon-label {
+  line-height: 2rem;
+  font-size: 1.4rem;
+}
+
+/* Icons: Pfad ist relativ zur CSS Datei in src/css */
+.tech-icon--html {
+  background-image: url('../icons/html.svg');
+}
+
+.tech-icon--css {
+  background-image: url('../icons/css.svg');
+}
+
+.tech-icon--javascript {
+  background-image: url('../icons/javascript.svg');
+}
+
+.tech-icon--react {
+  background-image: url('../icons/react.svg');
+}
+
+.tech-icon--vite {
+  background-image: url('../icons/vite.svg');
+}
+
+/* kannst du schon mal vorbereiten für andere Bereiche */
+.tech-icon--npm {
+  background-image: url('../icons/npm.svg');
+}
+
+.tech-icon--terminal {
+  background-image: url('../icons/terminal.svg');
+}
+
+.tech-icon--strapi {
+  background-image: url('../icons/strapi.svg');
+}
+
+.tech-icon--nodejs {
+  background-image: url('../icons/nodejs.svg');
+}
+
+.tech-icon--nginx {
+  background-image: url('../icons/nginx.svg');
+}
+
+.tech-icon--github {
+  background-image: url('../icons/github.svg');
+}
+
+.tech-icon--docker {
+  background-image: url('../icons/docker.svg');
+}
+
+/* Container-Grid für die Liste */
+.tech-icon-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  padding-top: 1rem;
+}
+
+/* Das Card-Design für die einzelnen Listenpunkte */
+.tech-icon-item {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid #bbbbbb;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  /* Fix für das Overflow-Problem */
+  box-sizing: border-box;
+  height: 100%; /* Karte nutzt die volle Höhe der Grid-Zelle */
+  overflow: hidden; /* Hält Inhalte strikt innerhalb der abgerundeten Ecken */
+}
+
+/* Interaktiver Hover-Effekt */
+.tech-icon-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Kopfbereich der Karte (Icon + Titel) */
+.icon_name {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Fallback-Styling für die Icons */
+.tech-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #f1f5f9; 
+  flex-shrink: 0; /* Verhindert, dass das Icon gequetscht wird */
+}
+
+/* Markenfarben für die Icons (leichter Hintergrund) */
+.tech-icon--html { background-color: rgba(227, 79, 38, 0.1); }
+.tech-icon--css { background-color: rgba(21, 114, 182, 0.1); }
+.tech-icon--javascript { background-color: rgba(247, 223, 30, 0.1); }
+.tech-icon--react { background-color: rgba(97, 218, 251, 0.1); }
+.tech-icon--vite { background-color: rgba(100, 108, 255, 0.1); }
+
+/* Typografie des Titels */
+.icon_name h4 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #1e293b;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+/* Container für die Beschreibung */
+.icon_beschreibung {
+  flex-grow: 1; /* Füllt den restlichen Platz der Karte */
+  
+  /* Bricht zu lange Wörter sauber um, bevor sie das Layout sprengen */
+  overflow-wrap: break-word; 
+  word-wrap: break-word;
+  hyphens: auto; 
+}
+
+/* Textformatierung der Beschreibung */
+.tech-icon-label {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #000000;
+  display: block;
+  margin: 0;
+  border-top: solid 1px #bbbbbb;
+}
+
+.bullet-list li span {
+    background-color: white;
+}

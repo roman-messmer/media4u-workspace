@@ -1,0 +1,60 @@
+Übersetzung der Webseite und Textbild 2.0
+de – Deutsch
+en – English
+fr – Français
+it – Italiano
+es – Español
+pt – Português
+ru – Русский
+ja – 日本語
+ko – 한국어
+zh – 中文
+nl – Nederlands
+vi – Tiếng Việt
+th – ไทย
+sv – Svenska
+pl – Polski
+cs – Čeština
+hu – Magyar 
+ro – Română
+bg – Български
+fil – Filipino
+id - Indonesisch
+ms - Malaiisch
+hi - Hindi
+tr - Türkisch
+
+
+
+
+Übersetzung für SMS Textbild
+de – Deutsch
+en – English
+fr – Français
+it – Italiano
+es – Español
+pt – Português
+nl – Nederlands
+sv – Svenska
+id – Indonesisch
+ms – Malaiisch
+fil – Filipino
+
+
+In Englisch für SMS Textbild
+ru – Русский
+ja – 日本語
+ko – 한국어
+zh – 中文
+vi – Tiếng Việt
+th – ไทย
+pl – Polski
+cs – Čeština
+hu – Magyar
+ro – Română
+bg – Български
+hi – Hindi
+tr – Türkisch
+
+
+

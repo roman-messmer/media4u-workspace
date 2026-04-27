@@ -1,0 +1,240 @@
+/* =========================
+   Optionen-Frame: Wrapper
+   ========================= */
+.wrapper_optionen_frame {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-bottom: .125rem solid #000;
+  justify-content: space-evenly;
+}
+
+/* Container trägt nur das Nav */
+.container.optionen_frame {
+  display: flex;
+  align-items: center;
+}
+
+/* =========================
+   NAV: Pfeil | UL | Pfeil
+   ========================= */
+.nav_optionen_frame {
+  display: grid;
+  grid-template-columns: auto 1fr auto;  /* links Button | UL | rechts Button */
+  align-items: center;
+  column-gap: .5rem;
+  width: 100%;
+  min-width: 0;                          /* erlaubt, dass die UL schrumpft */
+}
+
+/* Scroll-Buttons bleiben immer sichtbar */
+.nav_optionen_frame .scroll_btn {
+  flex: 0 0 auto;
+  background: #fff;
+  border: 0;
+  cursor: pointer;
+  padding: .5rem;
+  border-radius: .5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav_optionen_frame .scroll_btn:disabled,
+.nav_optionen_frame .scroll_btn[aria-disabled="true"] {
+  cursor: not-allowed;
+  opacity: .4;
+}
+
+/* =========================
+   UL: horizontal scrollend
+   ========================= */
+.nav_optionen_frame > ul {
+  min-width: 0;                 /* wichtig im Grid */
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0;
+  padding: 0 .25rem;            /* kleiner Innenabstand für Edge-Fade */
+  list-style: none;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  justify-content: space-evenly;
+}
+.nav_optionen_frame > ul::-webkit-scrollbar { display: none; }
+
+/* Optional: sanfte Edge-Fades an den Rändern */
+@supports (mask-image: linear-gradient(#000, #000)) {
+  .nav_optionen_frame > ul {
+    mask-image: linear-gradient(90deg, transparent 0, #000 6px, #000 calc(100% - 12px), transparent 100%);
+  }
+}
+
+/* Items fixiert, schrumpfen nicht */
+.nav_optionen_frame li,
+.nav_optionen_frame .icon_btn {
+  flex: 0 0 auto;
+  margin: .125em 0;
+}
+
+/* =========================
+   Icon-Buttons im UL
+   ========================= */
+.icon_btn {
+  appearance: none;
+  border: 1px solid #000;
+  background: #ddd;
+  padding: .5rem;
+  border-radius: .5rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon_btn:hover { background: #f6f6f6; }
+.icon_btn:focus-visible { outline: 2px solid #007acc; outline-offset: 2px; }
+
+.icon_btn img,
+.scroll_btn img {
+  width: 1.4rem;
+  height: 1.4rem;
+  display: block;
+}
+
+
+
+
+
+
+
+/* =============================
+   CSS: Bestätigungsdialog (OptionenFrame.css)
+   ============================= */
+
+/* Thema-Variablen */
+:root {
+  --cd-backdrop: rgba(0, 0, 0, 0.45);
+  --cd-modal-bg: #ffffff !important;
+  --cd-modal-fg: #000000 !important;
+  --cd-modal-border: #2f2f2f;
+  --cd-shadow-1: 0 10px 30px rgba(0,0,0,0.25), 0 2px 8px rgba(0,0,0,0.15);
+
+  --cd-btn-radius: 10px;
+  --cd-btn-padding: 8px 12px;
+
+  /* Aktionen */
+  --cd-danger: #d32f2f;      /* Rot für destruktiv */
+  --cd-danger-hover: #d32f2f;
+  
+
+  --cd-focus: currentColor;
+}
+
+.confirm_actions_textbild2,
+.confirm_actions_sms {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.confirm_actions_textbild2 .btn.no {
+  background: #89cee1 !important;
+  color: black !important;
+  border-color: #000000;
+}
+
+
+.confirm_actions_sms .btn.no {
+  background: #82b59f !important;
+  color: black !important;
+  border-color: #000000;
+}
+
+
+/* Backdrop über gesamtes Viewport */
+.confirm_backdrop {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cd-backdrop);
+  backdrop-filter: blur(2px);
+  z-index: 1000;
+}
+
+.confirm_modal {
+  min-width: 280px;
+  max-width: min(92vw, 560px);
+  max-height: 85vh;              /* verhindert Überlauf */
+  overflow: auto;                /* scrollbar nur im Dialog */
+  background: var(--cd-modal-bg);
+  color: var(--cd-modal-fg);
+  border-radius: .5rem;
+  border: .125rem solid var(--cd-modal-border);
+  box-shadow: var(--cd-shadow-1);
+  padding: 16px 18px;
+}
+
+.confirm_title {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: inherit;
+}
+
+.confirm_message {
+  margin: 0 0 16px 0;
+  line-height: 1.45;
+  color: inherit;
+}
+
+.confirm_actions {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+}
+
+/* Buttons */
+.btn {
+  appearance: none;
+  border: 1px solid transparent;
+  border-radius: var(--cd-btn-radius);
+  padding: var(--cd-btn-padding);
+  min-width: 96px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--cd-focus);
+  outline-offset: 2px;
+}
+
+/* Primär destruktiv: Ja = Löschen bestätigen */
+.btn.yes {
+  background: var(--cd-danger);
+  color: #fff;
+  border-color: #000;
+}
+.btn.yes:hover { background: var(--cd-danger-hover); }
+
+/* Neutral: Nein = Abbrechen */
+.btn.no {
+  background: var(--cd-neutral);
+  color: black;
+  border-color: #000;
+}
+.btn.no:hover { background: var(--cd-neutral-hover); }
+
+/* Animationen respektieren Reduced Motion */
+@media (prefers-reduced-motion: no-preference) {
+  .confirm_backdrop { animation: cd-fadeIn 120ms ease-out; }
+  .confirm_modal { animation: cd-popIn 160ms ease-out; transform-origin: center; }
+  @keyframes cd-fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes cd-popIn { from { transform: scale(0.98); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+}

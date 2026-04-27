@@ -1,0 +1,547 @@
+{
+  "beispiel": {
+    "sms_textbild": "Halimbawa",
+    "textbild2": "Halimbawa"
+  },
+
+  "werbung": {
+    "title": "Patalastas",
+    "loading": "Naglo-load...",
+    "error_loading": "Hindi ma-load ang nilalaman.",
+    "redirecting": "Nire-redirect",
+    "view_offer": "Tingnan",
+    "badge_portfolio": "PORTFOLIO",
+    "badge_partner": "PARTNER",
+    "badge_support": "SUPORTA",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "I-secure ang iyong ad space!",
+    "ad_space_desc": "Ipakita ang iyong negosyo sa isang partikular na bansa o palawakin ang iyong abot sa isang pandaigdigang madla.",
+    "ad_space_aria": "Karagdagang impormasyon tungkol sa alok",
+    "ad_space_btn": "Kunin na ngayon"
+  },
+
+  "mehr_info": {
+    "title": "Karagdagang Impormasyon"
+  },
+  
+  "header": {
+    "slogan1": "Kreatibidad at Digital na Sining",
+    "slogan2": "Global na magagamit sa 24 na wika!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS Tekstong Larawan",
+    "textbild2": "Tekstong Larawan 2.0",
+    "ascii_art_film": "ASCII Sining na Pelikula"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Mga Partner sa Advertising",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Frontend Developer",
+    "kontakt": "Kontakt",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "Bago",
+      "liebe_freundschaft": "Pag-ibig at Pagkakaibigan",
+      "festtage_party": "Pista at Party",
+      "freizeit_arbeit": "Libangan at Trabaho",
+      "sport_hobby": "Isport at Hobi",
+      "abenteuer_action": "Pakikipagsapalaran at Aksyon",
+      "erotik_sex": "Erotiko at Seks"
+    },
+
+    "textbild2": {
+      "neu2": "Bago",
+      "liebe_freundschaft2": "Pag-ibig at Pagkakaibigan",
+      "festtage_party2": "Pista at Party",
+      "freizeit_arbeit2": "Libangan at Trabaho",
+      "sport_hobby2": "Isport at Hobi",
+      "abenteuer_action2": "Pakikipagsapalaran at Aksyon",
+      "erotik_sex2": "Erotiko at Seks"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Modernong Digital na Sining at Inobatibong Mga Kasangkapan sa Komunikasyon",
+    "p1": "Ang media4u.ch ay ang iyong destinasyon para sa modernong digital na sining at inobatibong mga kasangkapan sa komunikasyon. Sa malawak na koleksyon ng mga SMS tekstong larawan at ASCII pelikula, nag-aalok ako ng mga malikhaing at natatanging karanasan.",
+    "h2": "Internasyonal na Abot sa 20 na Wika",
+    "p2": "Ang aking website ay magagamit sa 20 na wika upang maabot ang isang internasyonal na madla at magbigay-daan sa lahat na pahalagahan ang aking mga natatanging likhang sining. Bukod dito, nag-aalok ako ng espasyo sa advertising at mga programang affiliate sa larangan ng mga SMS tekstong larawan at Tekstong Larawan 2.0, na nagbibigay ng mga malikhaing oportunidad sa advertising para sa mga negosyo habang sinusuportahan ang aking platform.",
+    "h3": "Tuklasin ang Digital na Sining sa Isang Bagong Paraan",
+    "p3": "Lumubog sa mundo ng digital na sining at tuklasin kung ano ang inaalok ng media4u.ch! Maranasan ang malikhaing komunikasyon mula sa isang bagong pananaw at ibahagi ito sa mundo.",
+    "h4": "Teknolohiya na Nakikipagtagpo sa Digital na Sining",
+    "p4": "Ang website na ito ay binuo gamit ang JavaScript at React, pinagsasama ang makabagong web development sa aking pagmamahal sa digital na sining. Dahil sa mga teknolohiyang ito, ang aking mga SMS tekstong larawan at ASCII na likhang sining ay nilikha sa mga inobatibong format, na nagpapakita kung paano nagtutulungan ang teknolohiya at kreatibidad upang lumikha ng mga natatanging digital na karanasan."
+  },
+
+  "werbepartner": {
+    "title": "Mga Partner sa Advertising",
+    "h1": "Palawakin ang Iyong Abot – Mag-Ad sa Aking Website!",
+    "p1": "Gusto mo bang ipakita ang iyong mga produkto o serbisyo sa isang malawak na madla? Ang aking website ay nag-aalok ng perpektong platform para sa pagpapalawak ng iyong brand at pag-akit ng mga bagong kliyente.",
+
+    "h2": "Bakit Mag-Ad sa Aking Website?",
+    "p2": "Pambansang Visibility: Maabot ang mga bisita mula sa buong bansa at epektibong palawakin ang iyong abot. Maximum na Atensyon: Ang iyong mga ad ay ipapakita sa lahat ng bisita, anuman ang kanilang heograpikong lokasyon. Makatarungang Pagpapakita: Ang pagkakasunod-sunod ng mga ad ay pinaghalo nang random sa bawat pag-load ng pahina, tinitiyak na ang lahat ng advertiser ay may pantay na pagkakataon para sa visibility. Pagtiyak ng Privacy: Tanging ang bansa ng pinagmulan ng mga bisita ang aking kinikilala – hindi ako kumokolekta ng iba pang datos.",
+
+    "h3_1": "DETALYE NG MGA PRESYO NG AD SPACE:",
+    "p3_1": "Sa unang 90 araw, magbabayad ka lamang ng 140 CHF para sa 30 araw na pagpapakita.",
+    "p3_2": "Simula sa ika-91 na araw, ang presyo ay bababa sa 120 CHF para sa 30 araw na pagpapakita (mula ika-91 hanggang ika-180 na araw).",
+    "p3_3": "Simula sa ika-181 na araw, ang ad space ay nagkakahalaga lamang ng 100 CHF para sa 30 araw na pagpapakita.",
+
+    "h3_2": "ANO ANG KAILANGAN KO MULA SA IYO:",
+    "p3_4": "Pangalan ng iyong kumpanya",
+    "p3_5": "Link sa iyong alok (product o service page)",
+    "p3_6": "Link sa isang imahe na gagamitin sa ad space",
+    "bildgroesse": "Laki ng larawan: 400x400 pixel",
+
+    "h3_3": "MAHALAGANG IMPORMASYON:",
+    "p3_7": "Ang iyong ad space ay ipapakita lamang sa mga bisita mula sa partikular na bansa. Kung nais mong mag-ad internationally, maaari kang bumili ng karagdagang ad spaces para sa ibang mga bansa.",
+    "p3_8": "Mag-reserve na ng iyong ad space ngayon at eksaktong itarget ang iyong nais na audience – nakaayon sa mga rehiyon na interesado ka!",
+
+    "h4": "Ang Iyong Seguridad ay Mahalaga sa Akin:",
+    "p4": "Pinahahalagahan ko ang kalidad at pagiging maaasahan. Bawat advertising partner ay personal kong tinitiyak upang masiguro na sila ay seryosong negosyo na tumutugon sa aking mataas na pamantayan.",
+
+    "h5": "Handa ka na ba para sa Susunod na Hakbang?",
+    "p5": "Makipag-ugnayan ka sa akin ngayon at ilagay ang iyong brand sa aking website – sama-sama tayong bubuo ng matatag na presensya at isusulong ang iyong negosyo sa pangmatagalang paraan.",
+
+    "h6": "Interesado ka ba?",
+    "p6": "Magpadala sa akin ng mensahe kung kailangan mo ng karagdagang impormasyon o nais mong direktang mag-reserve ng ad space. Inaasahan kong makatulong sa iyo sa iyong landas patungo sa tagumpay!"
+  },
+
+  "werbepartner_info": {
+    "title": "Mga Partner sa Advertising - Impormasyon",
+    "content_h3": "Mag-Reserve ng Ad Space!",
+    "content_p1": "Ipakita ang iyong negosyo sa isang partikular na bansa o palawakin ang iyong abot internationally.",
+    "content_button": "Tingnan ang Alok",
+    "content_button_info": "Mag-Reserve Ngayon"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Mga Affiliate Link at Transparensiya sa Aking Website",
+    "p1": "Gumagamit ako ng mga affiliate link sa aking website upang ipakita ang mga produktong at serbisyong akma para sa iyo. Mahalaga sa akin ang transparensiya. Sa ibaba, ipinaliwanag ko kung paano gumagana ang mga affiliate link at ano ang ibig sabihin nito para sa iyo.",
+
+    "h2": "Ano ang Affiliate Link?",
+    "p2": "Ang mga affiliate link ay espesyal na mga link na nagdadala sa mga produkto o serbisyo na inaalok ng mga partner na kumpanya. Kapag bumili ka sa pamamagitan ng mga affiliate link na ito, kumikita ako ng komisyon. Hindi ito nagreresulta sa karagdagang gastos para sa iyo.",
+
+    "h3": "Bakit Ako Gumagamit ng Mga Affiliate Link?",
+    "p3": "Ang paggamit ng mga affiliate link ay tumutulong sa akin na panatilihin ang website at magbigay ng libreng nilalaman. Maingat kong pinipili ang aking mga partner at ang mga produktong inirerekomenda ko upang masiguro na ang mga ito ay tumutugma sa mga paksa at interes ng aking mga bisita.",
+
+    "h4": "Paano Gumagana ang Pagsubaybay?",
+    "p4": "Upang masubaybayan na ang pagbili ay naganap sa pamamagitan ng aking link, gumagamit ang aking mga affiliate partner ng mga cookie na nag-iimbak ng impormasyon para sa limitadong panahon kapag nag-click ka sa isang affiliate link. Karagdagang impormasyon tungkol dito ay matatagpuan sa aking Privacy Policy.",
+
+    "h5": "Walang Kakulangan Para sa Iyo",
+    "p5": "Mahalagang malaman: Ang pag-click sa mga affiliate link ay hindi nagdudulot ng anumang kakulangan para sa iyo. Ang presyo ng mga produkto o serbisyo ay nananatiling pareho at walang nakatagong bayarin.",
+
+    "h6": "Pag-aalis ng Responsibilidad",
+    "p6": "Inirerekomenda ko lamang ang mga produkto at serbisyo na aking pinaniniwalaan. Gayunpaman, dahil ang mga alok na ito ay nagmumula sa aking mga partner, hindi ako responsable para sa kalidad o availability ng mga ito.",
+
+    "h7": "Transparensiya at Tiwala",
+    "p7": "Layunin kong makipagkomunika sa iyo nang transparent at tapat. Kung mayroon kang anumang mga katanungan tungkol sa mga affiliate link o sa aking mga partnership, huwag mag-atubiling makipag-ugnayan sa akin. Salamat sa iyong tiwala sa aking mga rekomendasyon!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "Frontend Developer",
+
+  "projekt_title_h2": "Interesado ka ba sa aking mga proyekto?",
+  "projekt_title_p1": "Narito ang isang buod ng aking mga nagawa at proyektong tinapos:",
+  "projekt_title_h4": "Mga Proyekto para sa Mga Kliyente at Katuwang",
+
+  "projekt_kunden_partner": "Mga Kliyente at Katuwang",
+  "projekt_kunden_partner_info": "Sa seksyong ito, itatampok ang mga darating na kliyente at katuwang sa proyekto.",
+
+  "projekt_eigene_projekte": "Sariling mga Proyekto",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Bato, Gunting, Papel",
+  "projekte_eigene_projekte_memory_title": "Memory Game",
+  "projekte_eigene_projekte_wuerfeln_title": "Maghagis ng mga dice",
+  "projekte_eigene_projekte_puzzle_title": "Puzzle",
+
+  "h1": "Maligayang pagdating sa aking mundo bilang isang Frontend Developer!",
+  "p1": "Ang website na ito ay sumasalamin sa aking dedikasyon sa makabago at scalable na web development. Bilang isang career shifter, ginawa ko ito gamit ang React, JavaScript, HTML, at CSS – mga teknolohiyang nagbibigay-daan sa paglikha ng dynamic, interactive, at visually engaging na mga aplikasyon.",
+  "li_1": "HTML: Malinis, semantic, at madaling i-maintain na estruktura.",
+  "li_2": "CSS: Flexible at responsive na disenyo na optimal para sa lahat ng uri ng device.",
+  "li_3": "JavaScript & React: Dynamic na interaksyon at mataas na performance para sa scalable at intuitive na karanasan ng user.",
+  "p2": "Ang aking pangunahing pokus ay nasa performance, scalability, at best practices upang makabuo ng mga propesyonal, madaling mapanatili, at pangmatagalang web application.",
+
+  "h2": "Aking Layunin: Senior-Level sa Frontend Development",
+  "p3": "Bukod sa pagbuo ng website na ito, patuloy kong pinapalalim ang aking kaalaman sa React at JavaScript upang makasulat ng code na may pinakamataas na kalidad – modular, efficient, at mahusay ang pagkakaayos.",
+  "p4": "Aktibo akong naghahanap ng mga hamon – para man sa mga kumpanya, ahensya, o mga makabagong independent na inisyatiba – kung saan maaari kong ganap na magamit at palawakin pa ang aking kadalubhasaan.",
+  "p5": "Ang website na ito ay hindi lamang portfolio – ito rin ay isang buhay na patunay ng aking kakayahan at patuloy na pag-unlad bilang frontend developer.",
+
+  "h3": "Tara, lumikha tayo ng digital na karanasan!",
+  "p6": "Naghahanap ka ba ng isang dedikadong frontend developer na kayang gawing scalable, maintainable, at high-performance na solusyon ang mga makabagong ideya?",
+  "p7": "Makipag-ugnayan sa akin – sabik akong sumali sa mga makabuluhang proyekto!",
+  "kontakt_link": "<< Makipag-ugnayan dito >>"
+},
+
+  "kontakt": {
+    "title": "Kontakt",
+    "email": "Email",
+    "mobile": "Mobile"
+  },
+
+  "impressum": {
+    "title": "Legal na Impormasyon",
+    "kontakt": "Kontakt",
+
+    "vertretungsberechtigter": "Kinatawan na may Awtoridad",
+    "handelsregistereintrag": "Rehistro sa Kalakalan",
+    "handelsregistereintrag_p1_1": "Pagrehistro sa Rehistro sa Kalakalan: [Placeholder – ibibigay ang mga datos sa susunod]",
+    "handelsregistereintrag_p1_2": "Numero sa Rehistro sa Kalakalan: [Placeholder – ibibigay ang mga datos sa susunod]",
+    "handelsregistereintrag_p2_1": "Numero ng VAT:",
+    "handelsregistereintrag_p2_2": "Hindi naaangkop, dahil hindi pa nagkaroon ng mga benta.",
+    
+    "zweck_der_webseite": "Layunin ng Website",
+    "zweck_der_webseite_p1_1": "Artistikong Libangan (hal. SMS Tekstong Larawan, Tekstong Larawan 2.0 at ASCII pelikula)",
+    "zweck_der_webseite_p1_2": "Espasyo sa Advertising para sa Mga Partner sa Advertising at Affiliate Marketing",
+    "zweck_der_webseite_p1_3": "Mga Serbisyo bilang Frontend Developer",
+    
+    "haftungsausschluss": "Pag-aalis ng Responsibilidad",
+    "haftung_für_inhalte": "Responsibilidad para sa Nilalaman",
+    "haftung_für_inhalte_p": "Ang nilalaman ng website na ito ay nilikha nang may pinakamataas na pagsisikap. Gayunpaman, hindi ko masisiguro ang katumpakan, kabuuan, at kasalukuyang estado ng nilalaman.",
+    
+    "haftung_für_links": "Responsibilidad para sa mga Link",
+    "haftung_für_links_p": "Ang website na ito ay naglalaman ng mga link patungo sa mga external na website ng ikatlong partido na hindi ko kontrolado. Samakatuwid, hindi ako mananagot para sa mga nilalaman ng mga external na ito. Ang tagapagbigay o administrador ng mga link na website ay laging responsable para sa nilalaman ng mga link na website.",
+    
+    "datenschutz": "Proteksyon sa Datos",
+    "datenschutz_p": "Ang mga impormasyon tungkol sa pagkolekta, pagproseso, at paggamit ng personal na datos ay matatagpuan sa Privacy Policy."
+  },
+
+  "datenschutz": {
+    "title": "Privacy Policy",
+    "title_p": "Mahalaga sa akin ang proteksyon ng iyong personal na datos. Sa privacy policy na ito, ipinaaalam ko sa iyo ang mga datos na kinokolekta, pinoproseso, at iniimbak ko sa aking website, pati na rin ang iyong mga karapatan kaugnay ng mga datos na ito.",
+    
+    "verantwortlicher_für_die_datenverarbeitung": "1. Responsable para sa Pagproseso ng Datos",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "Email:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobile na Telepono:",
+    
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Pagkolekta at Pag-iimbak ng Personal na Datos",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Sa pagbisita mo sa aking website, maaaring awtomatikong makolekta ang mga sumusunod na datos:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "IP address ng device (anonymous)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Petsa at oras ng pagbisita",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Ginamit na browser at operating system",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Reference URL (hal. kung saan ka nanggaling)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Mga subpage na binisita",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Ang mga datos na ito ay inanonimize at ginagamit lamang para sa mga estadistikal na layunin at pagpapabuti ng website. Hindi maaaring iugnay ang mga ito sa iyong personal na pagkakakilanlan.",
+    
+    "verwendung_personenbezogener_daten": "3. Paggamit ng Personal na Datos",
+    "verwendung_personenbezogener_daten_p": "Ang personal na datos tulad ng pangalan, email address, o numero ng telepono ay kinokolekta lamang kapag ibinigay mo ito nang boluntaryo, halimbawa, sa pamamagitan ng isang contact form. Ang mga datos na ito ay ginagamit lamang para sa pagproseso ng iyong kahilingan at hindi ibabahagi sa mga ikatlong partido, maliban kung ito ay hinihingi ng batas.",
+    
+    "cookies": "4. Cookies",
+    "cookies_p1": "Ang aking website ay gumagamit ng cookies para sa pagsusuri ng paggamit ng site at pagpapahusay ng user-friendly na karanasan.",
+    "cookies_p2_1": "Kailangan na Cookies: Kailangan para sa pag-andar ng website.",
+    "cookies_p2_2": "Analytical Cookies: Tinutulungan ang pag-unawa at pagpapabuti ng paggamit ng website (hal. sa pamamagitan ng Google Analytics).",
+    "cookies_p2_3": "Maaari mong limitahan o ganap na i-disable ang paggamit ng cookies sa pamamagitan ng pag-set ng iyong browser.",
+    
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Ang website na ito ay gumagamit ng Google Analytics, isang serbisyo sa web analytics na inaalok ng Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google”).",
+    
+    "google_analytics_p2": "Gumagamit ang Google Analytics ng cookies para sa pagsusuri ng paggamit ng website na ito. Ang mga impormasyon na nalikha mula sa mga cookies na ito ay karaniwang ipinapadala at iniimbak sa mga server ng Google sa Estados Unidos.",
+    
+    "google_analytics_p3_1": "IP Anonymization:",
+    "google_analytics_p3_2": "Pinagana ng website na ito ang IP anonymization. Ibig sabihin, ang iyong IP address ay pinutol ng Google sa mga miyembro ng EU o sa iba pang mga bansa na kasali sa European Economic Area bago ito ipadala sa USA.",
+    
+    "google_analytics_p4_1": "Paggamit ng Datos:",
+    "google_analytics_p4_2": "Gumagamit ang Google ng mga impormasyong ito para sa pagsusuri ng paggamit mo sa website na ito, pagbuo ng mga ulat tungkol sa aktibidad ng website, at pagbibigay ng iba pang mga serbisyo na may kaugnayan sa paggamit ng website at internet.",
+    
+    "google_analytics_p5_1": "Mga Opsyon para sa Pag-aalis:",
+    "google_analytics_p5_2": "Maaari mong pigilan ang pag-iimbak ng cookies sa pamamagitan ng wastong pagsasaayos ng software ng iyong browser. Bukod dito, maaari mong pigilan ang Google mula sa pagkolekta at pagproseso ng mga datos na nilikha mula sa mga cookies na ito at may kaugnayan sa paggamit mo ng website na ito (kasama ang iyong IP address) sa pamamagitan ng pag-download at pag-install ng sumusunod na browser plugin:",
+    "google_analytics_p5_3": "tools.google.com",
+    
+    "google_analytics_p6_1": "Para sa karagdagang impormasyon tungkol sa mga termino ng serbisyo ng Google Analytics, bisitahin:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+    
+    "werbepartner_und_affiliate_links": "6. Mga Partner sa Advertising at Mga Affiliate Link",
+    "werbepartner_und_affiliate_links_p1": "Nakikipagtulungan ako sa mga partner sa advertising at mga programang affiliate marketing. Kapag nag-click ka sa isang affiliate link o ad, maaaring mag-set up ang mga external na tagapagbigay ng cookies o mangolekta ng datos para sa pagsukat ng tagumpay ng kanilang mga kampanyang advertising o pagbebenta.",
+    "werbepartner_und_affiliate_links_p2": "Para sa karagdagang impormasyon tungkol sa mga patakaran sa privacy ng mga partner na ito, bisitahin ang kanilang mga website.",
+    
+    "deine_rechte": "7. Iyong Mga Karapatan",
+    "deine_rechte_p1_1": "May karapatan kang:",
+    "deine_rechte_p1_2": "Maka-access sa mga datos na iniimbak ko tungkol sa iyo",
+    "deine_rechte_p1_3": "Iwasto ang mga maling datos",
+    "deine_rechte_p1_4": "Humiling na burahin ang iyong mga datos sa lawak na pinapayagan ng batas",
+    "deine_rechte_p1_5": "Humiling na limitahan ang pagproseso ng datos",
+    "deine_rechte_p1_6": "Karapatan sa portabilidad ng datos",
+    "deine_rechte_p1_7": "Para maipatupad ang mga karapatang ito, mangyaring makipag-ugnayan sa akin sa pamamagitan ng email sa: roman.messmer@media4u.ch.",
+    
+    "datensicherheit": "8. Seguridad ng Datos",
+    "datensicherheit_p": "Nagpapatupad ako ng mga teknikal at organisasyonal na hakbang upang protektahan ang iyong mga datos laban sa hindi awtorisadong pag-access, pagkawala, o maling paggamit.",
+    
+    "änderungen_dieser_datenschutzerklärung": "9. Mga Pagbabago sa Privacy Policy",
+    "änderungen_dieser_datenschutzerklärung_p": "Ang privacy policy na ito ay ina-update ayon sa pangangailangan upang matugunan ang mga legal na kinakailangan o upang mag-adapt sa mga pagbabago sa website."
+  },
+
+  "agb": {
+    "title": "Pangkalahatang Tuntunin at Kundisyon (PTK)",
+    "title_p1": "Petsa: [Ilagay ang Petsa]",
+    "title_p2": "Ang mga Pangkalahatang Tuntunin at Kundisyon (PTK) na ito ay nagreregula sa paggamit ng website na media4u.ch, pati na rin sa mga serbisyong inaalok at nilalaman. Sa pagbisita mo sa website, tinatanggap mo ang mga sumusunod na kundisyon.",
+    
+    "geltungsbereich": "1. Saklaw",
+    "geltungsbereich_p": "Ang mga PTK na ito ay naaangkop sa lahat ng mga bisita ng website na media4u.ch, kabilang na ang mga kliyenteng gumagamit ng mga serbisyong inaalok o lumalahok sa mga advertising partner at affiliate program.",
+    
+    "leistungen": "2. Mga Serbisyo",
+    "leistungen_p1_1": "Nag-aalok ang media4u.ch ng mga sumusunod na serbisyo:",
+    "leistungen_p1_2": "Artistikong Libangan (hal. SMS Tekstong Larawan, Tekstong Larawan 2.0 at ASCII pelikula).",
+    "leistungen_p1_3": "Espasyo sa Advertising para sa Mga Partner sa Advertising at Affiliate Marketing.",
+    "leistungen_p1_4": "Mga Serbisyo sa Frontend Development.",
+    "leistungen_p1_5": "Ang website ay ginagamit para sa pagpapakita ng artistikong nilalaman, pagbebenta ng espasyo sa advertising, at pagpo-promote ng aking mga serbisyo.",
+    
+    "vertragsabschluss": "3. Pagkakasundo ng Kontrata",
+    "vertragsabschluss_p1_1": "Ang kontrata sa pagitan mo at ng media4u.ch ay nagkakaroon sa mga sumusunod na kaso:",
+    "vertragsabschluss_p1_2": "Humihiling ka ng espasyo sa advertising o partnership at ang kahilingang ito ay kinumpirma ko.",
+    "vertragsabschluss_p1_3": "Humihiling ka ng aking mga serbisyo bilang frontend developer at tinatanggap mo ang aking alok.",
+    "vertragsabschluss_p1_4": "Ang pagkakasundo ng kontrata ay ginagawa sa pamamagitan ng pagsulat sa pamamagitan ng email.",
+    
+    "preise_und_zahlungsbedingungen": "4. Presyo at Mga Kondisyon sa Pagbabayad",
+    "preise_und_zahlungsbedingungen_p1_1": "Para sa mga partner sa advertising, ang mga sumusunod na kondisyon sa pagbabayad ay naaangkop:",
+    "preise_und_zahlungsbedingungen_p1_2": "Ang presyo para sa espasyo sa advertising ay itinatakda nang indibidwal.",
+    "preise_und_zahlungsbedingungen_p1_3": "Ang mga pagbabayad ay dapat gawin bago ang simula ng panahon.",
+    "preise_und_zahlungsbedingungen_p1_4": "Ang mga presyo para sa mga serbisyo tulad ng frontend developer ay napagkasunduan sa pamamagitan ng negosasyon.",
+    
+    "preise_und_zahlungsbedingungen_p2": "Ang refund para sa mga nagawang pagbabayad ay hindi pinapayagan, maliban kung ito ay dahil sa aking pagkakamali.",
+    
+    "rechte_und_pflichten_der_nutzer": "5. Mga Karapatan at Obligasyon ng Mga Gumagamit",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Paggamit ng Nilalaman",
+    "rechte_und_pflichten_der_nutzer_p1_2": "Ang nilalaman ng website (kasama ang mga artistikong likha) ay maaaring gamitin o ipamahagi lamang sa may malinaw na pahintulot.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Lahat ng hindi pinahihintulutang paggamit o pagkopya ng nilalaman ay ipinagbabawal.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Pag-uugali ng Mga Gumagamit",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Ang mga bisita at kliyente ay may obligasyong huwag abusuhin ang website, halimbawa, sa pamamagitan ng pagpapakalat ng mapaminsalang nilalaman, spam, o hindi pinahihintulutang advertising.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Ang paggamit ng espasyo sa advertising at mga programang affiliate ay dapat na alinsunod sa mga legal na kinakailangan.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Pag-aalis ng Responsibilidad",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Hindi ako responsable para sa katumpakan, kabuuan, at kasalukuyang estado ng nilalaman ng website.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Hindi ako responsable para sa mga pinsalang dulot ng paggamit ng website o nilalaman ng mga ikatlong partido.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Mga Partner sa Advertising at Mga Affiliate Program",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Ang mga partner sa advertising ay nangangako na mag-promote lamang ng mga kagalang-galang at legal na pinapayagang nilalaman.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "Ang media4u.ch ay may karapatang tanggihan ang anumang nilalaman na hindi tumutugma sa mga pamantayan ng website.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Espesyal na Kondisyon para sa Mga Partner sa Advertising:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Kung ang website ay hindi available para sa isang araw o higit pa, ang nawawalang mga araw ay idadagdag nang libre sa susunod na minimum na 30-araw na reservation. Ito ay naaangkop lamang sa mga bayad na espasyo sa advertising at nangangailangan ng patuloy na kooperasyon. Ang hiwalay na pagbabayad o kompensasyon para sa hindi availability ay ipinagbabawal.",
+    
+    "rechte_und_pflichten_der_nutzer_p2": "Ang mga affiliate program ay isinasagawa sa pakikipagtulungan sa mga external na tagapagbigay. Hindi ako responsable para sa nilalaman at mga patakaran sa privacy ng mga tagapagbigay na ito.",
+    
+    "verfügbarkeit_der_webseite": "8. Availability ng Website",
+    "verfügbarkeit_der_webseite_p": "Sinisikap kong panatilihing palaging available ang website. Gayunpaman, hindi ko maaaring garantiya ang tuloy-tuloy na availability sa mga pagkakataon ng maintenance, teknikal na problema, o hindi inaasahang sitwasyon.",
+    
+    "urheberrecht": "9. Mga Karapatan sa May-akda",
+    "urheberrecht_p": "Ang lahat ng nilalaman sa media4u.ch ay protektado ng mga karapatan sa may-akda. Ipinagbabawal ang paggamit nito nang walang nakasulat na pahintulot mula sa akin.",
+    
+    "änderungen_der_agb": "10. Mga Pagbabago sa PTK",
+    "änderungen_der_agb_p": "May karapatan akong baguhin ang mga Pangkalahatang Tuntunin at Kundisyon na ito anumang oras. Ang mga pagbabago ay ipo-publish sa website at magiging epektibo mula sa petsa ng pag-publish.",
+    
+    "gerichtsstand_und_anwendbares_recht": "11. Jurisdiksyon at Aplikableng Batas",
+    "gerichtsstand_und_anwendbares_recht_p": "Ang batas ng Switzerland ay naaangkop sa lahat ng mga hindi pagkakaunawaan. Ang korte sa Bülach, Switzerland, ay may hurisdiksyon upang lutasin ang mga hindi pagkakaunawaan na ito."
+  },
+
+  "cookie": {
+    "title": "Cookies",
+    "content": "Nilalaman ng Cookies"
+  },
+
+  "sms_textbild": {
+    "title": "SMS Tekstong Larawan",
+    "h1": "SMS Tekstong Larawan na Muling Inobate",
+    "p1": "Mga alaala na nag-uugnay sa atin. Ang mga iconikong SMS tekstong larawan mula sa mga lumang Nokia na telepono tulad ng 3210, pati na rin ang mga unang modelo mula sa Ericsson at Motorola, ay nagtakda ng isang panahon. Ang mga maliit na obra maestra na ito na dating ipinapadala sa pamamagitan ng SMS ay ngayon muling nabubuhay – mas moderno kaysa kailanman.",
+    "p2": "Sa aking website, makikita mo ang eksklusibong dinisenyong mga animasyon ng mga tekstong larawan na madali mong ma-eenjoy at maibahagi. Bawat larawan ay isang natatanging likhang sining, manu-manong ginawa nang may pagmamahal upang pagsamahin ang alindog ng nakaraan sa kasalukuyang pagiging simple. Ang ginagamit na font ay kahawig ng klasikong Nokia font, ngunit hindi eksaktong pareho. Kung gusto mo ng partikular na tekstong larawan, maaari mo itong ibahagi gamit ang isang link – na ginagawang bawat mensahe isang natatanging karanasan.",
+
+    "h2": "Bawat Animasyon, Isang Obra Maestra",
+    "p3": "Ang mga tekstong larawang ito ay higit pa sa mga alaala – ito ay sining. Bawat animasyon ay manu-manong ginawa at maingat na dinisenyo upang muling bigyang-kahulugan ang estetika ng mga klasikong SMS tekstong larawan.",
+
+    "h3": "Walang Panahon na Disenyo, Muling Binago para sa Kasalukuyan",
+    "p4": "Muling binuhay ko ang alindog ng mga klasikong tekstong larawan. Sa pamamagitan ng mga animadong presentasyon, ang mga iconikong disenyo ay muling nabubuhay sa isang modernong paraan – na ginagawang muling nagniningning ang nostalgia ng nakaraan.",
+
+    "h4": "Hindi Pa Kailanman Napakadali ang Pagbabahagi",
+    "p5": "Sa isang link, hindi mo lang ipinapadala ang isang mensahe, kundi pati na rin ang isang karanasan. Isang nostalgikong sandali na maaari mong ibahagi sa iba."
+  },
+
+
+  "textbild2": {
+    "title": "Tekstong Larawan 2.0",
+    "h1": "Tekstong Larawan 2.0 Ang Susunod na Ebolusyon",
+    "p1": "Ang kreatibidad ay muling inobate. Sa pamamagitan ng Tekstong Larawan 2.0, ang mga klasikong tekstong larawan ay dumadaan sa isang rebolusyon. Pinahusay na mga tampok tulad ng magkakaparehong karakter, iba't ibang laki at kulay ng mga font, pag-ikot at pag-reflect, pati na rin ang malayang pagposisyon sa screen ay lumilikha ng mga obra maestra na hindi pa nakita.",
+    "p2": "Sa aking website, matatagpuan mo ang mga bagong, mas kumplikadong likha ng mga tekstong larawan na maaari mong tuklasin at ibahagi. Bawat obra maestra ay isang natatanging resulta ng kreatibidad at inobasyon, na pinagsasama ang tradisyon ng mga klasikong SMS tekstong larawan sa mga posibilidad ng modernong teknolohiya.",
+
+    "h2": "BAGONG DIMENSYON SA SINING",
+    "p3": "Ang Tekstong Larawan 2.0 ay hindi lang isang ebolusyon – ito ay isang bagong anyo ng sining. Sa paggamit ng mga kulay, pabagong-bagong laki ng mga font, at mga dinamiko na elemento, ang bawat larawan ay nabubuhay bilang isang buhay na obra maestra na namamangha sa mga pandama.",
+
+    "h3": "Inobasyon na Nakikipagtagpo sa Nostalgia",
+    "p4": "Muling binuhay ko ang alindog ng mga klasikong tekstong larawan. Sa paggamit ng modernong teknolohiya at mga malikhaing kasangkapan sa disenyo, lumilikha ako ng mga likha na pinagsasama ang nostalgia ng nakaraan sa mga inobasyon ng kasalukuyan.",
+
+    "h4": "Ibahagi ang Iyong Passion",
+    "p5": "Sa Tekstong Larawan 2.0, bawat mensahe ay nagiging isang natatanging karanasan. Ibahagi ang mga natatanging obra maestra na ito sa iyong mga kaibigan at pamilya at maranasan kung paano nag-uugnay ang kreatibidad sa mga tao."
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII Sining na Pelikula",
+    "h1": "Matrix sa Pormang Teksto: Isang Bagong Dimensyon ng ASCII Sining",
+    "p1": "Maaaring pamilyar ka sa aking mga unang ASCII na pelikula na nagpapakita ng mga eksena mula sa trilohiyang Matrix sa isang natatanging porma ng tekstong sining. Ipinakita ng mga unang likhang ito kung paano maaaring ipakita ang mga kumplikadong pelikula sa isang minimalistang ASCII na porma.",
+
+    "h2": "Bagong Perspektibo: Klasikong Mga Eksena ng Matrix sa Kakaibang Mundo ng Teksto",
+    "p2": "Ngayon, ipinakikilala ko ang isang pinahusay na bersyon ng mga likhang ito. Ang mga bagong ASCII na pelikula ay nag-aalok ng mas detalyado at mataas na kalidad na representasyon ng mga iconic na eksena mula sa Matrix. Dahil sa pag-unlad ng teknolohiya, ang mga ASCII na likhang sining na ito ay nagbibigay ng mas kamangha-manghang interpretasyon ng mga klasikong pelikula, na nagpapahintulot sa iyo na maranasan ang Matrix sa isang ganap na bagong paraan.",
+    "p3": "Malaya mong ibahagi ang mga ASCII na pelikulang ito sa iyong mga kaibigan, kakilala, at pamilya upang sila rin ay makaranas ng natatanging porma ng sining na ito."
+  },
+  "matrix": {
+    "title": "Matrix",
+    "bibliothek": "Matrix Library"
+  },
+
+
+  "legal": {
+    "impressum": "Legal na Impormasyon",
+    "datenschutz": "Privacy Policy",
+    "cookie": "Cookies",
+    "agb": "Pangkalahatang Tuntunin at Kundisyon (PTK)"
+  },
+
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Lahat ng karapatan ay nakalaan."
+  },
+
+
+
+
+  "neu": {
+    "title": "Bago"
+  },
+  "liebe_freundschaft": {
+    "title": "Pag-ibig at Pagkakaibigan",
+    "komm_zu_mir1": "Pumunta ka sa akin 1",
+    "komm_zu_mir1_text1": "Uy, pumunta ka",
+    "komm_zu_mir1_text2": "sa akin!",
+
+    "biene1": "Bubuyog 1",
+    "biene1_text1": "Hindi kita",
+    "biene1_text2": "tutuklawin dahil",
+    "biene1_text3": "gusto kita!"
+  },
+  "festtage_party": {
+    "title": "Pista at Party",
+
+    "geburtstag1": "Kaarawan 1",
+    "geburtstag1_text1": "Maligayang",
+    "geburtstag1_text2": "Bati",
+    "geburtstag1_text3": "sa Iyo!"
+  },
+  "freizeit_arbeit": {
+    "title": "Libangan at Trabaho",
+
+    "arbeit1": "Trabaho 1",
+    "arbeit1_text1": "",
+    "arbeit1_text2": "Tapos na!",
+    "arbeit1_text3": "Uuwi na ako!",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "",
+    "arbeit1_text6": "Paalam,",
+    "arbeit1_text7": "kita tayo bukas!"
+  },
+  "sport_hobby": {
+    "title": "Isport at Hobi"
+  },
+  "abenteuer_action": {
+    "title": "Pakikipagsapalaran at Aksyon"
+  },
+  "erotik_sex": {
+    "title": "Erotiko at Seks"
+  },
+
+  
+  "neu2": {
+    "title": "Bago"
+  },
+  "liebe_freundschaft2": {
+    "title": "Pag-ibig at Pagkakaibigan",
+
+    "komm_zu_uns1": "Sumali sa amin 1",
+    "komm_zu_uns1_text1": "Uy, ano ang tinitingnan mo",
+    "komm_zu_uns1_text2": "doon?",
+    "komm_zu_uns1_text3": "Yung tao",
+    "komm_zu_uns1_text4": "doon!",
+    "komm_zu_uns1_text5": "Nakatingin lang sa telepono",
+    "komm_zu_uns1_text6": "buong araw!",
+    "komm_zu_uns1_text7": "Uy, naiinip ka ba?",
+    "komm_zu_uns1_text8": "Sali ka na sa amin! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Kita tayo mamaya!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Pista at Party",
+
+    "geburtstag1": "Kaarawan 1",
+    "geburtstag1_text1": "Maligayang kaarawan!",
+    "geburtstag1_text2": "Narito ang iyong regalo!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Libangan at Trabaho",
+
+    "arbeit1": "Trabaho 1",
+    "arbeit1_text1": "Tapos na!",
+    "arbeit1_text2": "Uuwi na ako!",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Paalam,",
+    "arbeit1_text6": "kita tayo bukas!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Isport at Hobi"
+  },
+  "abenteuer_action2": {
+    "title": "Pakikipagsapalaran at Aksyon"
+  },
+  "erotik_sex2": {
+    "title": "Erotiko at Seks"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Ang Code ay Sining",
+  "Fullstack Developer",
+  "Sining ng SMS Text",
+  "Walang 160 character limit",
+  "ASCII Nostalgia",
+  "Walang limitasyong pagkamalikhain",
+  "Modernong sining ng teksto",
+  "Larawang Teksto 2.0",
+  "Digital na Sining",
+  "Sining Tipograpika",
+  "Disenyo ng Karakter",
+  "Biswal na Pagkukuwento",
+  "Mga Pelikulang ASCII Art",
+  "Gumagalaw na ASCII",
+  "Pakikipag-ugnayan",
+  "Mga Animasyon ng CSS",
+  "React & Vite",
+  "Semantikong HTML5",
+  "CSS Modules",
+  "Manipulasyon ng DOM",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Nakabatay sa container",
+  "Ligtas sa pagkabigo",
+  "Accessibility (A11y)",
+  "Tumutugon na Disenyo",
+  "Mataas na Pagganap",
+  "Na-optimize para sa SEO",
+  "Ligtas na Disenyo",
+  "Immutable Builds",
+  "Maaaring kopyahin",
+  "24 na Wika",
+  "Internasyonal",
+  "Inobasyon",
+  "Web Engineering"
+]
+
+}

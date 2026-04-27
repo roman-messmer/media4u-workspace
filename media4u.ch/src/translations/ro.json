@@ -1,0 +1,545 @@
+{
+  "beispiel": {
+    "sms_textbild": "Exemplu",
+    "textbild2": "Exemplu"
+  },
+
+  "werbung": {
+    "title": "Publicitate",
+    "loading": "Se încarcă...",
+    "error_loading": "Conținutul nu a putut fi încărcat.",
+    "redirecting": "Redirecționare",
+    "view_offer": "Vezi oferta",
+    "badge_portfolio": "PORTOFOLIU",
+    "badge_partner": "PARTENER",
+    "badge_support": "SUPORT",
+    "badge_affiliate": "AFILIAT",
+    "ad_space_title": "Asigură-ți un spațiu publicitar!",
+    "ad_space_desc": "Prezintă-ți compania targetat într-o anumită țară sau extinde-ți vizibilitatea către un public internațional.",
+    "ad_space_aria": "Mai multe informații despre ofertă",
+    "ad_space_btn": "Asigură-ți acum"
+  },
+
+  "mehr_info": {
+    "title": "Mai multe informații"
+  },
+  
+  "header": {
+    "slogan1": "Creativitate și Artă Digitală",
+    "slogan2": "Disponibil global în 24 de limbi!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "Imagine Text SMS",
+    "textbild2": "Imagine Text 2.0",
+    "ascii_art_film": "Film Artă ASCII"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Parteneri de Publicitate",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Dezvoltator Frontend",
+    "kontakt": "Contact",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "Nou",
+      "liebe_freundschaft": "Dragoste și Prietenie",
+      "festtage_party": "Sărbători și Petreceri",
+      "freizeit_arbeit": "Timp Liber și Muncă",
+      "sport_hobby": "Sport și Hobby",
+      "abenteuer_action": "Aventură și Acțiune",
+      "erotik_sex": "Erotism și Sex"
+    },
+
+    "textbild2": {
+      "neu2": "Nou",
+      "liebe_freundschaft2": "Dragoste și Prietenie",
+      "festtage_party2": "Sărbători și Petreceri",
+      "freizeit_arbeit2": "Timp Liber și Muncă",
+      "sport_hobby2": "Sport și Hobby",
+      "abenteuer_action2": "Aventură și Acțiune",
+      "erotik_sex2": "Erotism și Sex"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Artă Digitală Modernă și Instrumente Inovatoare de Comunicare",
+    "p1": "media4u.ch este destinația ta pentru artă digitală modernă și instrumente inovatoare de comunicare. Cu o colecție extinsă de imagini text SMS și filme ASCII, îți ofer experiențe creative și unice.",
+    "h2": "Atingere Internațională în 20 de Limbi",
+    "p2": "Site-ul meu este disponibil în 20 de limbi pentru a ajunge la un public internațional și pentru a permite tuturor să aprecieze operele mele unice de artă. În plus, ofer spațiu publicitar și programe de afiliere în domeniul imaginilor text SMS și al Imaginilor Text 2.0, ceea ce oferă oportunități creative de publicitate pentru companii, susținând în același timp platforma mea.",
+    "h3": "Descoperă Arta Digitală într-un Mod Nou",
+    "p3": "Cufundă-te în lumea artei digitale și descoperă ce oferă media4u.ch! Experimentează comunicarea creativă dintr-o nouă perspectivă și împărtășește-o cu lumea.",
+    "h4": "Tehnologia Întâlnește Arta Digitală",
+    "p4": "Acest site a fost dezvoltat folosind JavaScript și React, combinând dezvoltarea web modernă cu pasiunea mea pentru arta digitală. Datorită acestor tehnologii, imaginile mele text SMS și operele ASCII sunt create în formate inovatoare, demonstrând cum tehnologia și creativitatea lucrează împreună pentru a crea experiențe digitale unice."
+  },
+
+  "werbepartner": {
+    "title": "Parteneri de Publicitate",
+    "h1": "Extinde-ți Atingerea – Publicitate pe Site-ul Meu!",
+    "p1": "Vrei să îți prezinți produsele sau serviciile unei audiențe largi? Site-ul meu oferă o platformă ideală pentru promovarea brandului tău și atragerea de noi clienți.",
+
+    "h2": "De ce să Publici pe Site-ul Meu?",
+    "p2": "Vizibilitate Națională: Ajungi la vizitatori din întreaga țară și îți extinzi eficient atingerea. Atenție Maximă: Reclamele tale vor fi afișate tuturor vizitatorilor, indiferent de locația lor geografică. Prezentare Echitabilă: Ordinea reclamelor este amestecată aleatoriu la fiecare încărcare a paginii, asigurând că toți partenerii de publicitate au șanse egale de vizibilitate. Garantarea Confidențialității: Identific doar țara de origine a vizitatorilor – nu colectez alte date.",
+
+    "h3_1": "DETALII PRIVIND PREȚURILE SPAȚIULUI PUBLICITAR:",
+    "p3_1": "În primele 90 de zile plătești doar 140 CHF pentru 30 de zile de expunere.",
+    "p3_2": "Începând cu ziua 91 prețul scade la 120 CHF pentru 30 de zile de expunere (de la ziua 91 până la ziua 180).",
+    "p3_3": "Începând cu ziua 181 spațiul publicitar costă doar 100 CHF pentru 30 de zile de expunere.",
+
+    "h3_2": "CE AM NEVOIE DE LA TINE:",
+    "p3_4": "Numele companiei tale",
+    "p3_5": "Link către oferta ta (pagina produsului sau serviciului)",
+    "p3_6": "Link către o imagine care va fi utilizată în spațiul publicitar",
+    "bildgroesse": "Dimensiunea imaginii: 400x400 pixeli",
+
+    "h3_3": "INFORMAȚII IMPORTANTE:",
+    "p3_7": "Spațiul tău publicitar va fi afișat doar vizitatorilor din țara corespunzătoare. Dacă dorești să faci publicitate la nivel internațional, poți achiziționa spații publicitare suplimentare pentru alte țări.",
+    "p3_8": "Rezervă-ți spațiul publicitar acum și țintește-ți precis audiența – adaptată regiunilor care te interesează!",
+
+    "h4": "Securitatea Ta Este Importantă pentru Mine:",
+    "p4": "Pun accent pe calitate și fiabilitate. Fiecare partener de publicitate este verificat personal de mine pentru a mă asigura că sunt companii serioase care respectă standardele mele înalte.",
+
+    "h5": "Gata să Mergi Mai Departe?",
+    "p5": "Contactați-mă chiar astăzi și plasați-vă marca pe site-ul meu – împreună dezvoltăm o prezență puternică și ducem afacerea dumneavoastră spre un succes durabil.",
+
+    "h6": "Ești Interesat?",
+    "p6": "Trimite-mi un mesaj dacă ai nevoie de mai multe informații sau dorești să rezervi direct spațiul publicitar. Aștept cu nerăbdare să te ajut să atingi succesul!"
+  },
+
+  "werbepartner_info": {
+    "title": "Parteneri de Publicitate - Informații",
+    "content_h3": "Rezervă-ți Spațiul Publicitar!",
+    "content_p1": "Prezintă-ți afacerea într-o singură țară sau extinde-ți audiența la nivel internațional.",
+    "content_button": "Vezi Oferta",
+    "content_button_info": "Rezervă Acum"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Linkuri Afiliate și Transparență pe Site-ul Meu",
+    "p1": "Pe site-ul meu folosesc linkuri afiliate pentru a prezenta produse și servicii care sunt potrivite pentru tine. Transparența este extrem de importantă pentru mine. Mai jos explic cum funcționează linkurile afiliate și ce înseamnă pentru tine.",
+
+    "h2": "Ce Sunt Linkurile Afiliate?",
+    "p2": "Linkurile afiliate sunt linkuri speciale care duc la produse sau servicii oferite de companii partenere. Când faci o achiziție printr-un astfel de link, primesc un comision. Acest lucru nu îți aduce costuri suplimentare.",
+
+    "h3": "De Ce Folosesc Linkuri Afiliate?",
+    "p3": "Folosirea linkurilor afiliate mă ajută să mențin site-ul web și să ofer conținut gratuit. Aleg cu grijă partenerii mei și produsele recomandate pentru a mă asigura că se potrivesc subiectelor și intereselor vizitatorilor mei.",
+
+    "h4": "Cum Funcționează Urmărirea?",
+    "p4": "Pentru a urmări că o achiziție a fost făcută prin linkul meu, partenerii mei afiliati folosesc cookie-uri care stochează informații pentru o perioadă limitată de timp atunci când faci clic pe un link afiliat. Poți găsi mai multe informații despre acest lucru în politica mea de confidențialitate.",
+
+    "h5": "Fără Dezavantaje Pentru Tine",
+    "p5": "Este important să știi că clicarea pe linkurile afiliate nu îți aduce niciun dezavantaj. Prețurile produselor sau serviciilor rămân neschimbate și nu există taxe ascunse.",
+
+    "h6": "Excludere de Responsabilitate",
+    "p6": "Recomand doar produse și servicii în care am încredere. Cu toate acestea, deoarece aceste oferte sunt furnizate de partenerii mei, nu sunt responsabil pentru calitatea sau disponibilitatea acestora.",
+
+    "h7": "Transparență și Încredere",
+    "p7": "Scopul meu este să comunic cu tine într-un mod transparent și onest. Dacă ai întrebări despre linkurile afiliate sau parteneriatele mele, nu ezita să mă contactezi. Apreciez încrederea ta în recomandările mele!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "Dezvoltator Frontend",
+
+  "projekt_title_h2": "Curios de proiectele mele?",
+  "projekt_title_p1": "Aici găsiți o prezentare generală a lucrărilor mele anterioare:",
+  "projekt_title_h4": "Proiecte pentru clienți și parteneri",
+
+  "projekt_kunden_partner": "Clienți și parteneri",
+  "projekt_kunden_partner_info": "Aici vor fi enumerați viitorii clienți și parteneri",
+
+  "projekt_eigene_projekte": "Proiecte proprii",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Foarfecă, piatră, hârtie",
+  "projekte_eigene_projekte_memory_title": "Joc de memorie",
+  "projekte_eigene_projekte_wuerfeln_title": "Arunca zarurile",
+  "projekte_eigene_projekte_puzzle_title": "Puzzle",
+
+  "h1": "Bun venit în spațiul meu ca dezvoltator Frontend!",
+  "p1": "Acest site reflectă pasiunea mea pentru dezvoltarea web modernă și scalabilă. Ca autodidact, l-am creat folosind React, JavaScript, HTML și CSS – tehnologii care permit aplicații dinamice, interactive și atractive vizual.",
+  "li_1": "HTML: Structură curată, semantică și ușor de întreținut.",
+  "li_2": "CSS: Designuri flexibile și responsive pentru o afișare optimă pe orice dispozitiv.",
+  "li_3": "JavaScript & React: Interactivitate dinamică și performanță ridicată pentru o experiență scalabilă și intuitivă.",
+  "p2": "Îmi concentrez constant atenția pe performanță, scalabilitate și bune practici pentru a crea aplicații web profesionale, durabile și pregătite pentru viitor.",
+
+  "h2": "Obiectivul meu: nivel Senior în dezvoltarea Frontend",
+  "p3": "Pe lângă realizarea acestui site, îmi extind continuu cunoștințele în React și JavaScript, cu scopul clar de a scrie cod de cea mai înaltă calitate – modular, eficient și bine structurat.",
+  "p4": "Caut în mod activ proiecte provocatoare – fie pentru companii, agenții sau inițiative independente inovatoare – unde îmi pot valorifica pe deplin expertiza și o pot dezvolta în continuare.",
+  "p5": "Acest site nu este doar portofoliul meu, ci și o dovadă vie a abilităților mele și a evoluției continue în domeniul Frontend.",
+
+  "h3": "Hai să creăm împreună experiențe digitale!",
+  "p6": "Căutați un dezvoltator Frontend implicat, care transformă ideile inovatoare în soluții scalabile, ușor de întreținut și performante?",
+  "p7": "Contactați-mă – sunt deschis pentru proiecte captivante!",
+  "kontakt_link": "<< Click aici pentru contact >>"
+},
+
+  "kontakt": {
+    "title": "Contact",
+    "email": "E-mail",
+    "mobile": "Telefon Mobil"
+  },
+
+  "impressum": {
+    "title": "Informații Legale",
+    "kontakt": "Contact",
+
+    "vertretungsberechtigter": "Reprezentant Autorizat",
+    "handelsregistereintrag": "Registrul Comerțului",
+    "handelsregistereintrag_p1_1": "Înregistrare în Registrul Comerțului: [Placeholder – datele vor fi furnizate mai târziu]",
+    "handelsregistereintrag_p1_2": "Număr de înregistrare: [Placeholder – datele vor fi furnizate mai târziu]",
+    "handelsregistereintrag_p2_1": "Număr TVA:",
+    "handelsregistereintrag_p2_2": "Nu se aplică, deoarece nu s-au efectuat vânzări încă.",
+
+    "zweck_der_webseite": "Scopul Site-ului",
+    "zweck_der_webseite_p1_1": "Divertisment Artistic (de exemplu, Imagini Text SMS, Imagine Text 2.0 și Filme ASCII)",
+    "zweck_der_webseite_p1_2": "Spațiu Publicitar pentru Partenerii de Publicitate și Affiliate Marketing",
+    "zweck_der_webseite_p1_3": "Servicii ca Frontend Dezvoltator",
+
+    "haftungsausschluss": "Excludere de Responsabilitate",
+    "haftung_für_inhalte": "Responsabilitate pentru Conținut",
+    "haftung_für_inhalte_p": "Conținutul acestui site a fost creat cu cea mai mare grijă. Totuși, nu pot garanta exactitatea, completitudinea și actualitatea conținutului.",
+
+    "haftung_für_links": "Responsabilitate pentru Linkuri",
+    "haftung_für_links_p": "Acest site conține linkuri către site-uri externe ale terților asupra cărora nu am control. Prin urmare, nu pot fi tras la răspundere pentru aceste conținuturi externe. Furnizorul sau administratorul acestor site-uri linkate este întotdeauna responsabil pentru conținutul site-urilor linkate.",
+
+    "datenschutz": "Protecția Datelor",
+    "datenschutz_p": "Informații despre colectarea, prelucrarea și utilizarea datelor personale se regăsesc în Politica de Confidențialitate."
+  },
+
+  "datenschutz": {
+    "title": "Politica de Confidențialitate",
+    "title_p": "Protejarea datelor tale personale este foarte importantă pentru mine. În această politică de confidențialitate, te informez despre datele care sunt colectate, prelucrate și stocate pe site-ul meu, precum și despre drepturile tale în legătură cu aceste date.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Responsabil pentru Prelucrarea Datelor",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "E-mail:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Telefon Mobil:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Colectarea și Stocarea Datelor Personale",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "În timpul vizitării site-ului meu, pot fi colectate automat următoarele date:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "Adresa IP a dispozitivului (anonimizată)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Data și ora vizitei",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Browser și sistem de operare utilizate",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "URL de referință (de exemplu, de unde ai venit)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Subpagini vizitate",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Aceste date sunt anonimizate și sunt folosite doar în scopuri statistice și pentru îmbunătățirea site-ului. Nu pot fi corelate cu identitatea ta personală.",
+
+    "verwendung_personenbezogener_daten": "3. Utilizarea Datelor Personale",
+    "verwendung_personenbezogener_daten_p": "Datele personale, cum ar fi numele, adresa de e-mail sau numărul de telefon, sunt colectate doar atunci când le furnizezi voluntar, de exemplu, prin intermediul unui formular de contact. Aceste date sunt folosite doar pentru a procesa solicitarea ta și nu sunt partajate cu terțe părți, decât dacă legea o cere.",
+
+    "cookies": "4. Cookie-uri",
+    "cookies_p1": "Site-ul meu folosește cookie-uri pentru a analiza utilizarea site-ului și pentru a face vizita mai prietenoasă pentru utilizatori.",
+    "cookies_p2_1": "Cookie-uri Necesare: Necesare pentru funcționalitatea site-ului.",
+    "cookies_p2_2": "Cookie-uri Analitice: Ajută la înțelegerea și îmbunătățirea utilizării site-ului (de exemplu, prin Google Analytics).",
+    "cookies_p2_3": "Poți restricționa sau dezactiva complet utilizarea cookie-urilor prin setările browserului tău.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Acest site folosește Google Analytics, un serviciu de analiză web oferit de Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, SUA („Google”).",
+
+    "google_analytics_p2": "Google Analytics utilizează cookie-uri care permit analiza modului în care folosești acest site web. Informațiile generate de aceste cookie-uri despre utilizarea de către tine a acestui site web sunt în mod obișnuit transmise și stocate pe serverele Google în Statele Unite ale Americii.",
+
+    "google_analytics_p3_1": "Anonimizarea IP:",
+    "google_analytics_p3_2": "Acest site a activat anonimizarea IP. Aceasta înseamnă că adresa ta IP este tăiată de Google în statele membre ale UE sau în alte țări participante la Acordul Economic Spațial înainte de a fi transmisă către SUA.",
+
+    "google_analytics_p4_1": "Utilizarea Datelor:",
+    "google_analytics_p4_2": "Google folosește aceste informații pentru a evalua utilizarea de către tine a site-ului web, a compila rapoarte privind activitatea site-ului și a oferi alte servicii legate de utilizarea site-ului și internetului.",
+
+    "google_analytics_p5_1": "Opțiunea de Excludere:",
+    "google_analytics_p5_2": "Poți preveni stocarea cookie-urilor prin ajustarea setărilor software-ului browserului tău într-un mod adecvat. În plus, poți preveni Google să colecteze și să proceseze datele generate de aceste cookie-uri și legate de utilizarea de către tine a site-ului web (inclusiv adresa ta IP) descărcând și instalând următorul plugin pentru browser:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "Pentru mai multe informații despre termenii de utilizare ai Google Analytics, vizitează:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Parteneri de Publicitate și Linkuri Afiliate",
+    "werbepartner_und_affiliate_links_p1": "Colaborez cu parteneri de publicitate și programe de marketing afiliat. Când dai clic pe un link afiliat sau pe o reclamă, furnizorii externi pot seta cookie-uri sau pot colecta date pentru a măsura succesul campaniilor lor publicitare sau al vânzărilor.",
+    "werbepartner_und_affiliate_links_p2": "Pentru mai multe informații despre politicile de confidențialitate ale acestor parteneri, vizitează site-urile lor web.",
+
+    "deine_rechte": "7. Drepturile Tale",
+    "deine_rechte_p1_1": "Ai dreptul să:",
+    "deine_rechte_p1_2": "Accesezi datele pe care le stochez despre tine",
+    "deine_rechte_p1_3": "Corectezi datele incorecte",
+    "deine_rechte_p1_4": "Să elimini datele tale în măsura în care legea permite",
+    "deine_rechte_p1_5": "Să restricționezi procesarea datelor",
+    "deine_rechte_p1_6": "Dreptul la portabilitatea datelor",
+    "deine_rechte_p1_7": "Pentru a exercita aceste drepturi, te rog să mă contactezi prin e-mail la: roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Securitatea Datelor",
+    "datensicherheit_p": "Implementez măsuri tehnice și organizaționale pentru a proteja datele tale împotriva accesului neautorizat, pierderii sau utilizării abuzive.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Modificări ale Politicii de Confidențialitate",
+    "änderungen_dieser_datenschutzerklärung_p": "Această politică de confidențialitate este actualizată după necesități pentru a îndeplini cerințele legale sau pentru a se adapta la schimbările de pe site-ul web."
+  },
+
+  "agb": {
+    "title": "Termeni și Condiții Generale (T&C)",
+    "title_p1": "Data: [Introduce Data]",
+    "title_p2": "Acești Termeni și Condiții Generale (T&C) reglementează utilizarea site-ului media4u.ch, precum și serviciile și conținuturile oferite. Prin accesarea site-ului, accepți următorii termeni.",
+
+    "geltungsbereich": "1. Domeniul de Aplicare",
+    "geltungsbereich_p": "Acești T&C se aplică tuturor vizitatorilor site-ului media4u.ch, precum și clienților care utilizează serviciile oferite sau participă la parteneriatele de publicitate și programele de marketing afiliat.",
+
+    "leistungen": "2. Servicii",
+    "leistungen_p1_1": "media4u.ch oferă următoarele servicii:",
+    "leistungen_p1_2": "Divertisment Artistic (de exemplu, Imagini Text SMS, Imagine Text 2.0 și Filme ASCII).",
+    "leistungen_p1_3": "Spațiu Publicitar pentru Partenerii de Publicitate și Affiliate Marketing.",
+    "leistungen_p1_4": "Servicii de dezvoltare frontend.",
+    "leistungen_p1_5": "Site-ul este folosit pentru prezentarea conținutului artistic, vânzarea spațiului publicitar și promovarea serviciilor mele.",
+
+    "vertragsabschluss": "3. Încheierea Contractului",
+    "vertragsabschluss_p1_1": "Contractul între tine și media4u.ch se încheie în următoarele cazuri:",
+    "vertragsabschluss_p1_2": "Soliciți spațiu publicitar sau parteneriat și această solicitare este confirmată de mine.",
+    "vertragsabschluss_p1_3": "Soliciți serviciile mele ca dezvoltator frontend și accepți oferta mea.",
+    "vertragsabschluss_p1_4": "Contractul este încheiat în scris prin e-mail.",
+
+    "preise_und_zahlungsbedingungen": "4. Prețuri și Condiții de Plată",
+    "preise_und_zahlungsbedingungen_p1_1": "Pentru partenerii de publicitate, se aplică următoarele condiții de plată:",
+    "preise_und_zahlungsbedingungen_p1_2": "Prețul pentru spațiul publicitar este stabilit individual.",
+    "preise_und_zahlungsbedingungen_p1_3": "Plățile trebuie efectuate înainte de începerea perioadei.",
+    "preise_und_zahlungsbedingungen_p1_4": "Prețurile pentru serviciile ca dezvoltator frontend sunt stabilite prin acord.",
+
+    "preise_und_zahlungsbedingungen_p2": "Rambursarea plăților deja efectuate este exclusă, decât dacă se datorează greșelii mele.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Drepturile și Obligațiile Utilizatorilor",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Utilizarea Conținutului",
+    "rechte_und_pflichten_der_nutzer_p1_2": "Conținutul site-ului (inclusiv operele de artă) poate fi folosit sau distribuit doar cu permisiune expresă.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Orice utilizare neautorizată sau copiere a conținutului este interzisă.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Comportamentul Utilizatorilor",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Vizitatorii și clienții sunt obligați să nu abuzeze de site, de exemplu prin răspândirea de conținut dăunător, spam sau reclame neautorizate.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Utilizarea spațiului publicitar și a programelor de afiliere trebuie să fie în conformitate cu cerințele legale.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Excludere de Responsabilitate",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Nu sunt responsabil pentru exactitatea, completitudinea și actualitatea conținutului site-ului.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Nu sunt responsabil pentru daunele care apar prin utilizarea site-ului sau conținutului de la terți.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Parteneri de Publicitate și Programe Afiliat",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Partenerii de publicitate se angajează să promoveze doar conținut respectat și permis prin lege.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch își rezervă dreptul de a refuza conținutul care nu îndeplinește standardele site-ului.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Clauze Speciale pentru Partenerii de Publicitate:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Dacă site-ul nu este disponibil pentru o zi sau mai mult, zilele lipsă vor fi adăugate gratuit în următoarea rezervare de cel puțin 30 de zile. Acest lucru se aplică doar spațiilor publicitare plătite și necesită cooperare continuă. Plata separată sau compensația pentru timpul de nefuncționare sunt excluse.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Programele de afiliere sunt realizate în colaborare cu furnizori externi. Nu sunt responsabil pentru conținutul și politicile de confidențialitate ale acestor furnizori.",
+
+    "verfügbarkeit_der_webseite": "8. Disponibilitatea Site-ului",
+    "verfügbarkeit_der_webseite_p": "Încerc să mențin site-ul disponibil 24/7. Totuși, nu pot garanta disponibilitatea continuă, de exemplu în timpul întreținerii, defectelor tehnice sau situațiilor de forță majoră.",
+
+    "urheberrecht": "9. Drepturi de Autor",
+    "urheberrecht_p": "Toate conținuturile de pe media4u.ch sunt protejate prin drepturi de autor. Este interzisă utilizarea acestora fără acordul meu scris.",
+
+    "änderungen_der_agb": "10. Modificări ale T&C",
+    "änderungen_der_agb_p": "Îmi rezerv dreptul de a modifica acești T&C în orice moment. Modificările vor fi publicate pe site și vor intra în vigoare de la data publicării.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Jurisdicție și Lege Aplicabilă",
+    "gerichtsstand_und_anwendbares_recht_p": "Legea elvețiană se aplică tuturor disputelor. Instanța din Bülach, Elveția, este competentă pentru soluționarea acestor dispute."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Conținut Cookie"
+  },
+
+  "sms_textbild": {
+    "title": "Imagine Text SMS",
+    "h1": "Imagini Text SMS Reinterpretate",
+    "p1": "Amintirile care ne leagă. Imaginile text SMS iconice de pe telefoanele Nokia vechi, cum ar fi 3210, precum și primele modele de la Ericsson și Motorola, au definit o eră. Aceste mici capodopere, care odinioară erau trimise prin SMS, reînviate acum – mai moderne ca niciodată.",
+    "p2": "Pe site-ul meu găsești animații exclusiv proiectate ale imaginilor text, pe care le poți viziona și distribui cu ușurință. Fiecare imagine este o operă de artă unică, realizată manual cu dragoste, pentru a combina farmecul trecutului cu simplitatea prezentului. Fontul utilizat seamănă cu cel clasic Nokia, dar nu este identic. Dacă îți place în mod special o anumită imagine text, o poți distribui printr-un link – ceea ce face ca fiecare mesaj să devină o experiență specială.",
+
+    "h2": "Fiecare Animație, O Operă de Artă",
+    "p3": "Aceste imagini text sunt mai mult decât amintiri – sunt artă. Fiecare animație este realizată manual și proiectată cu grijă pentru a reinterpreta estetica imaginilor text SMS clasice.",
+
+    "h3": "Design Atemporal, Reînnoit pentru Prezent",
+    "p4": "Am reînsuflețit magia imaginilor text clasice. Prin prezentări animate, designurile iconice revin în viață într-un mod modern – făcând ca nostalgia trecutului să strălucească din nou.",
+
+    "h4": "Distribuirea Nu A Fost Niciodată Atât de Simplă",
+    "p5": "Cu un link, trimiți nu doar un mesaj, ci o experiență. Un moment nostalgic pe care îl poți împărtăși cu alții."
+  },
+
+
+  "textbild2": {
+    "title": "Imagine Text 2.0",
+    "h1": "Imagine Text 2.0 Evoluția Următoare",
+    "p1": "Creativitatea redefinită. Cu Imagine Text 2.0, imaginile text clasice trec printr-o revoluție. Funcții îmbunătățite precum caractere suprapuse, diferite dimensiuni și culori ale fonturilor, rotații și reflexii, precum și poziționare liberă pe ecran creează opere de artă nemaivăzute.",
+    "p2": "Pe site-ul meu găsești aceste creații noi și mai complexe de imagini text, pe care le poți explora și distribui. Fiecare operă de artă este un rezultat unic al creativității și inovației, combinând tradiția imaginilor text SMS clasice cu posibilitățile tehnologiei moderne.",
+
+    "h2": "UN NOU DIMENSIUNE ÎN ARTE",
+    "p3": "Imagine Text 2.0 este mai mult decât o evoluție – este o nouă formă de artă. Prin utilizarea culorilor, dimensiunilor variabile ale fonturilor și elementelor dinamice, fiecare imagine prinde viață ca o operă de artă vie care fascinează simțurile.",
+
+    "h3": "Inovație Întâlnește Nostalgie",
+    "p4": "Am reînsuflețit magia imaginilor text clasice. Folosind tehnologie modernă și unelte creative de design, apar opere de artă care combină nostalgia trecutului cu inovațiile prezentului.",
+
+    "h4": "Distribuie-ți Pasiunea",
+    "p5": "Cu Imagine Text 2.0, fiecare mesaj devine o experiență specială. Distribuie aceste opere de artă unice prietenilor și familiei și experimentează cum creativitatea conectează oamenii."
+  },
+
+
+  "ascii_art_film": {
+    "title": "Film Artă ASCII",
+    "h1": "Matrix în Formă Textuală: Un Nou Dimensiune a Artei ASCII",
+    "p1": "Poate că ești familiarizat cu primele mele filme ASCII care prezentau scene din trilogia Matrix într-o formă unică de artă textuală. Aceste lucrări timpurii au arătat cum pot fi reprezentate filme complexe într-o formă minimalistă ASCII.",
+
+    "h2": "O Nouă Perspectivă: Scene Clasice Matrix într-o Lume Fascinantă Textuală",
+    "p2": "Acum prezint o versiune îmbunătățită a acestor lucrări. Noile filme ASCII oferă reprezentări mult mai detaliate și de înaltă calitate ale scenelor iconice din Matrix. Datorită progreselor tehnologice, aceste opere de artă ASCII oferă o interpretare mult mai impresionantă a filmelor clasice, permițându-ți să experimentezi Matrix într-un mod complet nou.",
+    "p3": "Simte-te liber să împărtășești aceste filme ASCII cu prietenii, cunoscuții și familia pentru ca și ei să se bucure de această formă unică de artă."
+  },
+  "matrix": {
+    "title": "Matrix",
+    "bibliothek": "Biblioteca Matrix"
+  },
+
+  "legal": {
+    "impressum": "Informații Legale",
+    "datenschutz": "Politica de Confidențialitate",
+    "cookie": "Cookie",
+    "agb": "Termeni și Condiții Generale (T&C)"
+  },
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Toate drepturile rezervate."
+  },
+
+
+  "neu": {
+    "title": "Újdonság"
+  },
+  "liebe_freundschaft": {
+    "title": "Dragoste și Prietenie",
+    "komm_zu_mir1": "Vino la mine 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "Albină 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "Sărbători și Petreceri",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "Timp Liber și Muncă",
+
+    "arbeit1": "Muncă 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "Sport și Hobby"
+  },
+  "abenteuer_action": {
+    "title": "Aventură și Acțiune"
+  },
+  "erotik_sex": {
+    "title": "Erotism și Sex"
+  },
+
+  
+
+  "neu2": {
+    "title": "Újdonság"
+  },
+  "liebe_freundschaft2": {
+    "title": "Dragoste și Prietenie",
+
+    "komm_zu_uns1": "Vino la noi 1",
+    "komm_zu_uns1_text1": "Hei, ce te uiți",
+    "komm_zu_uns1_text2": "acolo?",
+    "komm_zu_uns1_text3": "Acea persoană",
+    "komm_zu_uns1_text4": "de acolo!",
+    "komm_zu_uns1_text5": "Se uită la telefon",
+    "komm_zu_uns1_text6": "toată ziua!",
+    "komm_zu_uns1_text7": "Hei, te plictisești?",
+    "komm_zu_uns1_text8": "Atunci vino la noi! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Ne vedem curând!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Sărbători și Petreceri",
+
+    "geburtstag1": "Zi de naștere 1",
+    "geburtstag1_text1": "La mulți ani!",
+    "geburtstag1_text2": "Iată cadoul tău!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Timp Liber și Muncă",
+
+    "arbeit1": "Muncă 1",
+    "arbeit1_text1": "Sfârșitul zilei!",
+    "arbeit1_text2": "Merg acasă.",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "La revedere.",
+    "arbeit1_text6": "Ne vedem mâine!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sport și Hobby"
+  },
+  "abenteuer_action2": {
+    "title": "Aventură și Acțiune"
+  },
+  "erotik_sex2": {
+    "title": "Erotism și Sex"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Codul este artă",
+  "Dezvoltator Fullstack",
+  "Artă text SMS",
+  "Fără limită de 160 caractere",
+  "Nostalgie ASCII",
+  "Creativitate nelimitată",
+  "Artă textuală modernă",
+  "Imagine text 2.0",
+  "Artă digitală",
+  "Artă tipografică",
+  "Design de caractere",
+  "Povestire vizuală",
+  "Filme ASCII Art",
+  "ASCII în mișcare",
+  "Interactivitate",
+  "Animații CSS",
+  "React & Vite",
+  "HTML5 semantic",
+  "CSS Modules",
+  "Manipulare DOM",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Bazat pe containere",
+  "Siguranță la erori",
+  "Accesibilitate (A11y)",
+  "Design responsiv",
+  "Performanță ridicată",
+  "Optimizat SEO",
+  "Design securizat",
+  "Build-uri imutabile",
+  "Reproductibil",
+  "24 Limbi",
+  "Internațional",
+  "Inovație",
+  "Inginerie Web"
+]
+
+
+}

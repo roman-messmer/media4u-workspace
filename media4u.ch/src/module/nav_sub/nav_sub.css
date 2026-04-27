@@ -1,0 +1,83 @@
+:root {
+  --nav-sub-color-active: red;
+  --nav-sub-color-hover: #555;
+  --nav-sub-color-text: black;
+  --nav-sub-btn-size: clamp(1.6em, 2vw, 3.2em);
+}
+
+.nav-sub-wrapper {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  width: 100%;
+  align-items: center;
+  overflow: hidden;
+}
+
+.nav-sub-wrapper__track {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; 
+  gap: 1rem;
+  overflow-x: auto;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  padding-inline: 0;
+  scroll-padding-inline: 0;
+  overscroll-behavior-inline: contain;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.nav-sub-wrapper__track::-webkit-scrollbar {
+  display: none;
+}
+
+.nav-sub-wrapper__link {
+  padding: 0rem 1rem;
+  font-size: clamp(1.2rem, 0.7rem + 1.4vw, 1.8rem);
+  text-transform: uppercase;
+  color: var(--nav-sub-color-text);
+  text-decoration: none;
+  transition: color 0.3s ease;
+  display: inline-block;
+  
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer; 
+}
+
+.nav-sub-wrapper__track a:focus-visible,
+.nav-sub-wrapper__link:focus-visible {
+  outline: 2px solid var(--nav-sub-color-active);
+  outline-offset: 2px;
+}
+
+.nav-sub-wrapper__track a.active,
+.nav-sub-wrapper__link.nav-sub-wrapper__link--active,
+.nav-sub-wrapper__track a.active:hover,
+.nav-sub-wrapper__link--active:hover {
+  color: var(--nav-sub-color-active);
+  transition: none !important; 
+}
+
+.nav-sub-wrapper__arrow {
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  padding: 0 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s ease;
+}
+
+.nav-sub-wrapper__arrow:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.nav-sub-wrapper__icon {
+  width: var(--nav-sub-btn-size);
+  height: var(--nav-sub-btn-size);
+  pointer-events: none;
+  user-select: none;
+}

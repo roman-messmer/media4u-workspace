@@ -1,0 +1,10 @@
+services:
+  frontend:
+    build:
+      context: ../media4u.ch_2025
+      args:
+        VITE_STRAPI_URL: "https://cms.media4u.ch"
+    image: media4u-frontend:local
+    container_name: media4u-frontend
+    ports:
+      - "8080:80"

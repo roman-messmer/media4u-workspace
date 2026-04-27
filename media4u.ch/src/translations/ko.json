@@ -1,0 +1,544 @@
+{
+  "beispiel": {
+    "sms_textbild": "예",
+    "textbild2": "예"
+  },
+  
+  "werbung": {
+    "title": "광고",
+    "loading": "로딩 중...",
+    "error_loading": "콘텐츠를 불러올 수 없습니다.",
+    "redirecting": "페이지 이동 중",
+    "view_offer": "자세히 보기",
+    "badge_portfolio": "포트폴리오",
+    "badge_partner": "파트너",
+    "badge_support": "지원",
+    "badge_affiliate": "제휴",
+    "ad_space_title": "광고 자리를 확보하세요!",
+    "ad_space_desc": "특정 국가의 타겟 고객에게 기업을 홍보하거나 전 세계로 도달 범위를 넓혀보세요.",
+    "ad_space_aria": "제안에 대한 자세한 정보",
+    "ad_space_btn": "지금 예약하기"
+  },
+
+  "mehr_info": {
+    "title": "자세한 정보"
+  },
+
+  "header": {
+    "slogan1": "창의성과 디지털 아트",
+    "slogan2": "24개 언어로 전 세계에서 접근 가능!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS 텍스트 이미지",
+    "textbild2": "텍스트 이미지 2.0",
+    "ascii_art_film": "ASCII 아트 영화"
+  },
+
+  "nav_sub": {
+    "werbepartner": "광고 파트너",
+    "affiliate_marketing": "어필리에이트 마케팅",
+    "front_end_developer": "프론트엔드 개발자",
+    "kontakt": "문의하기",
+
+    "matrix": "매트릭스",
+
+    "sms_textbild": {
+      "neu": "새로운",
+      "liebe_freundschaft": "사랑과 우정",
+      "festtage_party": "축제와 파티",
+      "freizeit_arbeit": "여가와 일",
+      "sport_hobby": "스포츠와 취미",
+      "abenteuer_action": "모험과 액션",
+      "erotik_sex": "에로티시즘과 섹스"
+    },
+
+    "textbild2": {
+      "neu2": "새로운",
+      "liebe_freundschaft2": "사랑과 우정",
+      "festtage_party2": "축제와 파티",
+      "freizeit_arbeit2": "여가와 일",
+      "sport_hobby2": "스포츠와 취미",
+      "abenteuer_action2": "모험과 액션",
+      "erotik_sex2": "에로티시즘과 섹스"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "현대 디지털 아트와 혁신적인 커뮤니케이션 도구",
+    "p1": "media4u.ch는 현대 디지털 아트와 혁신적인 커뮤니케이션 도구를 위한 당신의 목적지입니다. 제 SMS 텍스트 이미지와 ASCII 영화 컬렉션을 통해 창의적이고 뛰어난 경험을 제공합니다.",
+    "h2": "20개 언어로의 국제적 도달",
+    "p2": "제 웹사이트는 20개 언어로 제공되어 국제적인 청중에게 도달하고 모두가 저의 독특한 아트 작품을 즐길 수 있는 기회를 제공합니다. 또한, SMS 텍스트 이미지와 텍스트 이미지 2.0 분야에서 광고 공간과 어필리에이트 프로그램을 제공합니다. 이는 기업들에게 창의적인 광고 기회를 제공함과 동시에 제 플랫폼을 지원합니다.",
+    "h3": "새로운 방식으로 디지털 아트를 경험하세요",
+    "p3": "디지털 아트의 세계에 몰입하고 media4u.ch가 제공하는 것을 발견하세요! 새로운 시각으로 창의적인 커뮤니케이션을 경험하고 세상과 공유하세요.",
+    "h4": "기술이 디지털 아트와 만나다",
+    "p4": "이 웹사이트는 JavaScript와 React를 사용하여 개발되었으며, 현대적인 웹 개발과 제 디지털 아트에 대한 열정을 결합합니다. 이러한 기술을 통해 저의 SMS 텍스트 이미지와 ASCII 작품은 혁신적인 형식으로 만들어집니다. 이는 기술과 창의성이 결합하여 독특한 디지털 경험을 창출하는 방식을 보여줍니다."
+  },
+
+  "werbepartner": {
+    "title": "광고 파트너",
+    "h1": "당신의 도달 범위를 확대하세요 – 제 사이트에 광고하세요!",
+    "p1": "당신의 제품이나 서비스를 넓은 청중에게 소개하고 싶으신가요? 제 웹사이트는 당신의 브랜드를 알리고 새로운 고객을 유치하기 위한 이상적인 플랫폼을 제공합니다.",
+
+    "h2": "왜 제 사이트에 광고를 해야 하나요?",
+    "p2": "전국적인 가시성: 전국의 방문자에게 도달하여 효과적으로 도달 범위를 확장하세요. 최대 주목: 당신의 광고는 방문자의 위치에 관계없이 모든 방문자에게 표시됩니다. 공정한 프레젠테이션: 광고의 순서는 페이지 로드마다 무작위로 재정렬되어 모든 광고 파트너가 동일한 가시성 기회를 갖도록 합니다. 프라이버시 보장: 방문자의 출신 국가만을 확인하며, 다른 데이터는 수집되지 않습니다.",
+
+    "h3_1": "제 광고 공간 가격 세부 정보:",
+    "p3_1": "처음 90일 동안, 30일간의 노출에 대해 140 CHF만 지불하시면 됩니다.",
+    "p3_2": "91일째부터는 가격이 30일간의 노출에 대해 120 CHF로 인하됩니다 (91일째부터 180일째까지).",
+    "p3_3": "181일째부터는 광고 공간이 30일간의 노출에 대해 단지 100 CHF만 합니다.",
+
+    "h3_2": "당신에게 필요한 것:",
+    "p3_4": "당신의 회사 이름",
+    "p3_5": "당신의 제안 링크 (제품 또는 서비스 페이지)",
+    "p3_6": "광고 공간에 사용할 이미지의 링크",
+    "bildgroesse": "이미지 크기: 400x400 픽셀",
+
+    "h3_3": "중요한 정보:",
+    "p3_7": "당신의 광고 공간은 해당 국가의 방문자에게만 표시됩니다. 국제적으로 광고하고 싶다면, 다른 국가의 광고 공간을 추가로 구매할 수 있습니다.",
+    "p3_8": "지금 바로 광고 공간을 확보하고, 관심 있는 지역에 맞춰 정확하게 청중을 타겟팅하세요!",
+
+    "h4": "당신의 안전이 저에게 중요합니다:",
+    "p4": "품질과 신뢰성을 중시합니다. 모든 광고 파트너는 저의 높은 기준을 충족하는 신뢰할 수 있는 기업인지 확인하기 위해 제가 직접 검토합니다.",
+
+    "h5": "다음 단계로 나아갈 준비가 되셨나요?",
+    "p5": "오늘 저에게 연락하여 귀사의 브랜드를 제 웹사이트에 등록해 보세요 – 함께 강력한 존재감을 구축하고 귀사의 비즈니스를 지속적으로 발전시켜 나가겠습니다.",
+
+    "h6": "관심 있으신가요?",
+    "p6": "추가 정보가 필요하시거나 광고 공간을 직접 예약하고 싶으시면 메시지를 보내주세요. 성공으로 가는 길을 지원하게 되어 기쁩니다!"
+  },
+
+  "werbepartner_info": {
+    "title": "광고 파트너 - 정보",
+    "content_h3": "광고 공간을 예약하세요!",
+    "content_p1": "한 국가에서 타겟팅하여 귀사의 회사를 소개하거나 국제적인 청중에게 도달 범위를 확장하세요.",
+    "content_button": "제안 보기",
+    "content_button_info": "지금 예약"
+  },
+
+  "affiliate_marketing": {
+    "title": "어필리에이트 마케팅",
+    "h1": "제 사이트의 어필리에이트 링크와 투명성",
+    "p1": "제 웹사이트에서는 적절한 제품과 서비스를 소개하기 위해 어필리에이트 링크를 사용합니다. 투명성은 저에게 특히 중요합니다. 아래에서 어필리에이트 링크가 어떻게 작동하는지, 그리고 이것이 당신에게 무엇을 의미하는지 설명드립니다.",
+
+    "h2": "어필리에이트 링크란 무엇인가요?",
+    "p2": "어필리에이트 링크는 파트너 기업의 제품이나 서비스로 연결되는 특별한 링크입니다. 이러한 링크를 통해 구매를 하시면, 저는 커미션을 받습니다. 이는 당신에게 추가 비용을 발생시키지 않습니다.",
+
+    "h3": "왜 어필리에이트 링크를 사용하나요?",
+    "p3": "어필리에이트 링크를 사용하면 웹사이트를 운영하고 무료로 콘텐츠를 제공하는 데 도움이 됩니다. 저는 파트너와 추천하는 제품을 신중하게 선택하여 방문자의 주제와 관심사에 맞추고 있습니다.",
+
+    "h4": "추적은 어떻게 작동하나요?",
+    "p4": "구매가 제 링크를 통해 이루어졌다는 것을 추적하기 위해, 저의 파트너 기업들은 쿠키를 사용합니다. 이는 어필리에이트 링크를 클릭할 때 제한된 기간 동안 정보를 저장합니다. 이에 대한 자세한 내용은 제 개인정보 보호정책을 참조하세요.",
+
+    "h5": "당신에게 불이익은 없습니다",
+    "p5": "중요한 점: 어필리에이트 링크를 클릭해도 당신에게 아무런 불이익이 없습니다. 제품이나 서비스의 가격은 변경되지 않으며, 숨겨진 수수료도 없습니다.",
+
+    "h6": "면책 조항",
+    "p6": "저는 제가 신뢰하는 제품과 서비스만을 추천합니다. 그러나, 이들 제안은 파트너에 의해 제공되기 때문에 품질이나 가용성에 대해 어떠한 책임도 지지 않습니다.",
+
+    "h7": "투명성과 신뢰",
+    "p7": "저의 목표는 당신과 투명하고 정직하게 소통하는 것입니다. 어필리에이트 링크나 저의 파트너십에 대해 궁금한 점이 있으시면 언제든지 연락해 주세요. 저의 추천에 대한 당신의 신뢰에 감사드립니다!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "프론트엔드 개발자",
+
+  "projekt_title_h2": "제 프로젝트가 궁금하신가요?",
+  "projekt_title_p1": "지금까지 제가 수행한 작업들을 한눈에 확인하실 수 있습니다:",
+  "projekt_title_h4": "클라이언트 및 파트너 프로젝트",
+
+  "projekt_kunden_partner": "클라이언트 및 파트너",
+  "projekt_kunden_partner_info": "앞으로의 클라이언트 및 협력사 목록이 이곳에 표시될 예정입니다.",
+
+  "projekt_eigene_projekte": "개인 프로젝트",
+  "projekte_eigene_projekte_schere_stein_papier_title": "가위 바위 보",
+  "projekte_eigene_projekte_memory_title": "기억력 게임",
+  "projekte_eigene_projekte_wuerfeln_title": "주사위 굴리기",
+  "projekte_eigene_projekte_puzzle_title": "퍼즐",
+
+  "h1": "프론트엔드 개발자로서의 제 세계에 오신 것을 환영합니다!",
+  "p1": "이 웹사이트는 현대적이고 확장 가능한 웹 개발에 대한 저의 열정을 반영합니다. 저는 비전공자로서 React, JavaScript, HTML, CSS를 활용해 이 사이트를 직접 개발했으며, 이러한 기술은 동적이고 인터랙티브하며 시각적으로 매력적인 애플리케이션을 구현하는 데 핵심입니다.",
+  "li_1": "HTML: 깔끔하고 의미론적이며 유지보수가 용이한 구조.",
+  "li_2": "CSS: 모든 기기에 최적화된 유연하고 반응형 디자인.",
+  "li_3": "JavaScript & React: 직관적이고 확장 가능한 사용자 경험을 위한 동적 상호작용과 고성능 처리.",
+  "p2": "저는 항상 성능, 확장성, 그리고 베스트 프랙티스를 최우선으로 하여, 전문적이고 유지보수가 쉬우며 미래에도 견딜 수 있는 웹 애플리케이션을 만드는 것을 목표로 하고 있습니다.",
+
+  "h2": "목표: 프론트엔드 개발 분야의 시니어 레벨 도달",
+  "p3": "이 웹사이트 제작 외에도 저는 React와 JavaScript에 대한 지식을 지속적으로 확장하며, 항상 모듈화되고 효율적이며 구조화된 최고 수준의 코드를 작성하기 위해 노력하고 있습니다.",
+  "p4": "기업, 에이전시 또는 혁신적인 독립 프로젝트 등 도전적인 프로젝트를 통해 제 전문성을 발휘하고 더 발전시킬 수 있는 기회를 적극적으로 찾고 있습니다.",
+  "p5": "이 웹사이트는 단순한 포트폴리오를 넘어, 프론트엔드 분야에서의 제 실력과 지속적인 성장의 증거입니다.",
+
+  "h3": "함께 디지털 경험을 만들어봅시다!",
+  "p6": "혁신적인 아이디어를 확장 가능하고 유지보수 가능한 고성능 솔루션으로 전환할 수 있는 열정적인 프론트엔드 개발자를 찾고 계신가요?",
+  "p7": "저에게 연락해주세요 – 흥미로운 프로젝트를 함께 하기를 기대하고 있습니다!",
+  "kontakt_link": "<< 여기에서 연락하기 >>"
+},
+
+  "kontakt": {
+    "title": "문의하기",
+    "email": "이메일",
+    "mobile": "휴대폰"
+  },
+
+  "impressum": {
+    "title": "임프레스움",
+    "kontakt": "문의하기",
+
+    "vertretungsberechtigter": "대표자",
+    "handelsregistereintrag": "상업 등기",
+    "handelsregistereintrag_p1_1": "상업 등기 등록: [플레이스홀더 – 추후 데이터 제공]",
+    "handelsregistereintrag_p1_2": "상업 등기 번호: [플레이스홀더 – 추후 데이터 제공]",
+    "handelsregistereintrag_p2_1": "부가가치세 번호 (VAT 번호):",
+    "handelsregistereintrag_p2_2": "해당 없음, 아직 판매가 이루어지지 않았기 때문입니다.",
+
+    "zweck_der_webseite": "웹사이트의 목적",
+    "zweck_der_webseite_p1_1": "예술적 엔터테인먼트 (예: SMS 텍스트 이미지, 텍스트 이미지 2.0, ASCII 영화)",
+    "zweck_der_webseite_p1_2": "광고 파트너 및 어필리에이트 마케팅을 위한 광고 공간",
+    "zweck_der_webseite_p1_3": "프론트엔드 개발자로서의 서비스",
+
+    "haftungsausschluss": "면책 조항",
+    "haftung_für_inhalte": "콘텐츠에 대한 책임",
+    "haftung_für_inhalte_p": "이 웹사이트의 콘텐츠는 최대한 신중하게 제작되었습니다. 그러나 콘텐츠의 정확성, 완전성 및 최신성을 보장할 수는 없습니다.",
+
+    "haftung_für_links": "링크에 대한 책임",
+    "haftung_für_links_p": "이 웹사이트는 제3자의 외부 웹사이트에 대한 링크를 포함하고 있으며, 이들 콘텐츠에 대해 어떠한 통제권도 없습니다. 따라서 이들 외부 콘텐츠에 대한 책임을 질 수 없습니다. 연결된 페이지의 해당 공급자 또는 운영자가 링크된 사이트의 콘텐츠에 대해 항상 책임을 집니다.",
+
+    "datenschutz": "데이터 보호",
+    "datenschutz_p": "개인 데이터의 수집, 처리 및 사용에 대한 정보는 개인정보 보호정책에 명시되어 있습니다."
+  },
+
+  "datenschutz": {
+    "title": "개인정보 보호정책",
+    "title_p": "귀하의 개인 데이터 보호는 저에게 특히 중요합니다. 이 개인정보 보호정책에서는 제 웹사이트에서 수집, 처리 및 저장되는 데이터와 이에 대한 귀하의 권리에 대해 알려드립니다.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. 데이터 처리 책임자",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "이메일:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "휴대폰:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. 개인 데이터 수집 및 저장",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "제 웹사이트를 방문할 때, 다음과 같은 데이터가 자동으로 수집될 수 있습니다:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "디바이스의 IP 주소 (익명화됨)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "접속 날짜 및 시간",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "사용된 브라우저 및 운영 체제",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "참조 URL (예: 어느 페이지에서 왔는지)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "방문한 서브 페이지들",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "이 데이터는 익명화되며, 통계 목적으로만 사용되고 웹사이트 개선을 위해 활용됩니다. 귀하의 개인을 추적할 수는 없습니다.",
+
+    "verwendung_personenbezogener_daten": "3. 개인 데이터 사용",
+    "verwendung_personenbezogener_daten_p": "이름, 이메일 주소 또는 전화번호와 같은 개인 데이터는 귀하가 자발적으로 제공한 경우에만 수집됩니다, 예를 들어 문의 양식을 통해서입니다. 이 데이터는 귀하의 요청을 처리하는 데만 사용되며, 법률이 요구하는 경우를 제외하고는 제3자와 공유되지 않습니다.",
+
+    "cookies": "4. 쿠키",
+    "cookies_p1": "제 웹사이트는 사이트 사용을 분석하고 방문을 보다 친근하게 만들기 위해 쿠키를 사용합니다.",
+    "cookies_p2_1": "필수 쿠키: 웹사이트의 기능에 필수적입니다.",
+    "cookies_p2_2": "분석 쿠키: 사이트 사용을 이해하고 개선하는 데 도움이 됩니다 (예: Google Analytics를 통해).",
+    "cookies_p2_3": "브라우저 설정에서 쿠키 사용을 제한하거나 완전히 비활성화할 수 있습니다.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "이 웹사이트는 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (\"Google\")가 제공하는 웹 분석 서비스인 Google Analytics를 사용합니다.",
+
+    "google_analytics_p2": "Google Analytics는 귀하의 웹사이트 사용을 분석할 수 있는 쿠키를 사용합니다. 이 쿠키에 의해 생성된 정보는 일반적으로 미국의 Google 서버로 전송되고 그곳에 저장됩니다.",
+
+    "google_analytics_p3_1": "IP 익명화:",
+    "google_analytics_p3_2": "이 웹사이트에서는 IP 익명화가 활성화되어 있습니다. 이는 귀하의 IP 주소가 미국으로 전송되기 전에 유럽 연합 회원국 또는 유럽 경제 지역 협정의 다른 국가 내에서 Google에 의해 잘려진다는 것을 의미합니다.",
+
+    "google_analytics_p4_1": "데이터 사용:",
+    "google_analytics_p4_2": "Google은 이 정보를 사용하여 귀하의 웹사이트 사용을 평가하고, 웹사이트 활동에 대한 보고서를 작성하며, 웹사이트 사용 및 인터넷 사용과 관련된 기타 서비스를 제공합니다.",
+
+    "google_analytics_p5_1": "옵션 제외:",
+    "google_analytics_p5_2": "브라우저 소프트웨어 설정을 적절히 조정하여 쿠키 저장을 방지할 수 있습니다. 또한, 다음 브라우저 플러그인을 다운로드 및 설치하여 Google이 웹사이트 사용과 관련된 쿠키에 의해 생성된 데이터(귀하의 IP 주소 포함)를 수집하고 처리하는 것을 방지할 수 있습니다:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "Google Analytics의 이용 약관에 대한 자세한 정보는 다음을 방문하세요:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. 광고 파트너 및 어필리에이트 링크",
+    "werbepartner_und_affiliate_links_p1": "저는 광고 파트너 및 어필리에이트 프로그램과 협력하고 있습니다. 어필리에이트 링크나 광고를 클릭하면, 제3자 공급업체가 쿠키를 설정하거나 광고 캠페인이나 판매의 성공을 측정하기 위해 데이터를 수집할 수 있습니다.",
+    "werbepartner_und_affiliate_links_p2": "이들 파트너의 개인정보 보호정책에 대한 자세한 내용은 그들의 웹사이트를 방문하세요.",
+
+    "deine_rechte": "7. 귀하의 권리",
+    "deine_rechte_p1_1": "귀하는 다음과 같은 권리를 가지고 있습니다:",
+    "deine_rechte_p1_2": "제가 귀하에 대해 저장한 데이터에 접근할 권리",
+    "deine_rechte_p1_3": "잘못된 데이터를 수정할 권리",
+    "deine_rechte_p1_4": "법이 허용하는 범위 내에서 귀하의 데이터를 삭제할 권리",
+    "deine_rechte_p1_5": "처리 제한을 요구할 권리",
+    "deine_rechte_p1_6": "데이터 이동성을 요구할 권리",
+    "deine_rechte_p1_7": "이 권리를 행사하려면, roman.messmer@media4u.ch로 이메일을 보내주시기 바랍니다.",
+
+    "datensicherheit": "8. 데이터 보안",
+    "datensicherheit_p": "저는 귀하의 데이터를 무단 접근, 손실 또는 오용으로부터 보호하기 위해 기술적 및 조직적 조치를 구현하고 있습니다.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. 개인정보 보호정책의 변경",
+    "änderungen_dieser_datenschutzerklärung_p": "이 개인정보 보호정책은 법적 요구사항을 준수하거나 웹사이트의 변경에 맞추기 위해 필요에 따라 업데이트됩니다."
+  },
+
+  "agb": {
+    "title": "이용 약관 (T&C)",
+    "title_p1": "날짜: [날짜 삽입]",
+    "title_p2": "이 이용 약관 (T&C)은 media4u.ch 웹사이트의 사용 및 제공되는 서비스와 콘텐츠를 규제합니다. 웹사이트에 접근함으로써, 귀하는 다음의 조건에 동의하게 됩니다.",
+
+    "geltungsbereich": "1. 적용 범위",
+    "geltungsbereich_p": "이 T&C는 media4u.ch 웹사이트의 모든 방문자 및 제공되는 서비스를 이용하거나 광고 파트너십 및 어필리에이트 프로그램에 참여하는 고객에게 적용됩니다.",
+
+    "leistungen": "2. 서비스",
+    "leistungen_p1_1": "media4u.ch는 다음과 같은 서비스를 제공합니다:",
+    "leistungen_p1_2": "예술적 엔터테인먼트 (예: SMS 텍스트 이미지, 텍스트 이미지 2.0, ASCII 영화).",
+    "leistungen_p1_3": "광고 파트너 및 어필리에이트 마케팅을 위한 광고 공간.",
+    "leistungen_p1_4": "프론트엔드 개발 분야의 서비스.",
+    "leistungen_p1_5": "웹사이트는 예술적 콘텐츠를 소개하고 광고 공간을 판매하며, 제 서비스를 홍보하는 데 사용됩니다.",
+
+    "vertragsabschluss": "3. 계약의 성립",
+    "vertragsabschluss_p1_1": "귀하와 media4u.ch 간의 계약은 다음 경우에 성립됩니다:",
+    "vertragsabschluss_p1_2": "귀하가 광고 공간 또는 어필리에이트 파트너십을 요청하고, 이것이 저에 의해 확인된 경우.",
+    "vertragsabschluss_p1_3": "귀하가 프론트엔드 개발자로서 제 서비스에 대한 요청을 하고, 제 오퍼를 수락한 경우.",
+    "vertragsabschluss_p1_4": "계약의 성립은 이메일을 통한 서면으로 이루어집니다.",
+
+    "preise_und_zahlungsbedingungen": "4. 가격 및 결제 조건",
+    "preise_und_zahlungsbedingungen_p1_1": "광고 파트너에게는 다음과 같은 결제 조건이 적용됩니다:",
+    "preise_und_zahlungsbedingungen_p1_2": "광고 공간의 가격은 개별적으로 합의됩니다.",
+    "preise_und_zahlungsbedingungen_p1_3": "결제는 기간 시작 전에 이루어져야 합니다.",
+    "preise_und_zahlungsbedingungen_p1_4": "프론트엔드 개발자로서의 서비스 가격은 합의를 통해 결정됩니다.",
+
+    "preise_und_zahlungsbedingungen_p2": "이미 이루어진 결제의 환불은 저의 과실이 없는 한 제외됩니다.",
+
+    "rechte_und_pflichten_der_nutzer": "5. 사용자 권리 및 의무",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 콘텐츠 사용",
+    "rechte_und_pflichten_der_nutzer_p1_2": "웹사이트의 콘텐츠 (예: 예술 작품)는 명시적인 동의가 있는 경우에만 사용 또는 배포할 수 있습니다.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "무단으로 콘텐츠를 사용하거나 복사하는 것은 금지됩니다.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 사용자 행동",
+    "rechte_und_pflichten_der_nutzer_p1_5": "방문자 및 고객은 유해한 콘텐츠, 스팸 또는 무단 광고를 전파하는 등 웹사이트를 남용하지 않을 의무가 있습니다.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "광고 공간 및 어필리에이트 프로그램의 사용은 법적 요구사항을 준수해야 합니다.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. 면책 조항",
+    "rechte_und_pflichten_der_nutzer_p1_8": "저는 웹사이트의 콘텐츠의 정확성, 완전성 및 최신성에 대해 어떠한 책임도 지지 않습니다.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "저는 웹사이트 또는 제3자의 연관 콘텐츠 사용으로 인한 손해에 대해 어떠한 책임도 지지 않습니다.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. 광고 파트너 및 어필리에이트 프로그램",
+    "rechte_und_pflichten_der_nutzer_p1_11": "광고 파트너는 존경받을 만하고 합법적으로 허용된 콘텐츠만을 홍보하기로 약속합니다.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch는 웹사이트의 기준을 충족하지 않는 콘텐츠를 거부할 권리를 보유합니다.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "광고 파트너를 위한 특별 규정:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "웹사이트가 하루 이상 이용 불가할 경우, 누락된 일수는 다음 최소 30일 예약에 무료로 추가됩니다. 이는 유료 광고 공간에만 적용되며 지속적인 협력이 필요합니다. 비활성 일수에 대한 별도의 지불 또는 보상은 제외됩니다.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "어필리에이트 프로그램은 외부 공급업체와 협력하여 구현됩니다. 저는 이들 공급업체의 콘텐츠 및 개인정보 보호정책에 대해 책임을 지지 않습니다.",
+
+    "verfügbarkeit_der_webseite": "8. 웹사이트의 가용성",
+    "verfügbarkeit_der_webseite_p": "저는 언제나 웹사이트의 가용성을 유지하기 위해 노력하고 있습니다. 그러나 유지보수, 기술적 문제 또는 불가항력 상황에서는 연속적인 가용성을 보장할 수 없습니다.",
+
+    "urheberrecht": "9. 저작권",
+    "urheberrecht_p": "media4u.ch의 모든 콘텐츠는 저작권으로 보호됩니다. 저의 서면 동의 없이 사용하는 것은 금지되어 있습니다.",
+
+    "änderungen_der_agb": "10. 이용 약관의 변경",
+    "änderungen_der_agb_p": "저는 언제든지 이 이용 약관을 변경할 권리를 보유합니다. 변경 사항은 웹사이트에 게시되며 게시일로부터 효력을 발휘합니다.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. 관할 및 준거법",
+    "gerichtsstand_und_anwendbares_recht_p": "스위스 법률이 모든 분쟁에 적용됩니다. 관할권은 스위스의 뷰라흐입니다."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Cookie 내용"
+  },
+
+  "sms_textbild": {
+    "title": "SMS 텍스트 이미지",
+    "h1": "재해석된 SMS 텍스트 이미지",
+    "p1": "우리를 연결하는 추억. Nokia 3210과 초기 Ericsson, Motorola 모델과 같은 상징적인 옛날 휴대전화의 SMS 텍스트 이미지는 한 시대를 풍미했습니다. 한때 SMS로 전송되던 이 작은 걸작들을 이제는 더 현대적으로 되살리고 있습니다.",
+    "p2": "제 웹사이트에서는 독점적으로 디자인된 텍스트 이미지 애니메이션을 쉽게 감상하고 공유할 수 있습니다. 각 이미지는 과거의 매력과 오늘의 단순함을 결합하기 위해 손수 정성스럽게 제작된 독특한 창작물입니다. 사용된 폰트는 Nokia의 클래식 폰트와 유사하지만 동일하지 않습니다. 특히 마음에 드는 텍스트 이미지가 있다면 링크를 통해 공유할 수 있어, 각 메시지가 특별한 경험이 됩니다.",
+
+    "h2": "각 애니메이션, 걸작",
+    "p3": "이 텍스트 이미지는 단순한 추억을 넘어 예술입니다. 각 애니메이션은 손으로 제작되며, 클래식한 SMS 텍스트 이미지의 미학을 재해석하기 위해 세심하게 디테일하게 만들어졌습니다.",
+
+    "h3": "시대를 초월한 디자인, 현재를 위해 재창조됨",
+    "p4": "옛날 텍스트 이미지의 마법을 되살렸습니다. 애니메이션화된 표현을 통해 상징적인 디자인이 현대적인 방식으로 생명을 얻어, 과거의 향수가 다시 빛나게 됩니다.",
+
+    "h4": "공유가 그 어느 때보다 쉬워졌습니다",
+    "p5": "하나의 링크로 메시지뿐만 아니라 경험을 전송합니다. 다른 사람들과 공유할 수 있는 향수를 불러일으키는 순간입니다."
+  },
+
+
+  "textbild2": {
+    "title": "텍스트 이미지 2.0",
+    "h1": "텍스트 이미지 2.0 다음 진화",
+    "p1": "창의성이 재정의되었습니다. 텍스트 이미지 2.0을 통해 클래식한 텍스트 이미지가 혁명을 맞이합니다. 중첩된 문자, 다양한 폰트 크기와 색상, 회전 및 반사, 그리고 화면에서의 자유로운 배치를 비롯한 향상된 기능 덕분에 지금까지 본 적 없는 예술 작품이 탄생합니다.",
+    "p2": "제 웹사이트에서는 이러한 새로운 복잡한 텍스트 이미지 창작물을 탐색하고 공유할 수 있습니다. 각 작품은 창의성과 혁신의 유일한 결과물로, 옛날 SMS 텍스트 이미지의 전통과 현대 기술의 가능성을 결합합니다.",
+
+    "h2": "예술의 새로운 차원",
+    "p3": "텍스트 이미지 2.0은 단순한 진화를 넘어 새로운 예술 형태입니다. 색상, 가변 폰트 크기, 동적 요소를 사용하여 각 이미지는 감각을 즐겁게 하는 생생한 걸작으로 생명을 얻습니다.",
+
+    "h3": "혁신이 향수를 만나다",
+    "p4": "클래식한 텍스트 이미지의 마법을 재창조했습니다. 현대 기술과 창의적인 디자인 도구를 사용하여 과거의 향수와 현재의 혁신을 융합한 작품이 탄생합니다.",
+
+    "h4": "당신의 열정을 공유하세요",
+    "p5": "텍스트 이미지 2.0으로, 각 메시지는 특별한 경험이 됩니다. 이 독특한 예술 작품을 친구 및 가족과 공유하고, 창의성이 사람들을 연결하는 방식을 경험하세요."
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII 아트 영화",
+    "h1": "텍스트 형식의 매트릭스: 새로운 ASCII 아트의 차원",
+    "p1": "아마도, 저의 초기 ASCII 영화들을 알고 계실 것입니다. 이 영화들은 매트릭스 삼부작의 장면을 독특한 텍스트 아트 형태로 보여주었습니다. 이러한 초기 작품들은 복잡한 영화를 미니멀한 ASCII 형식으로 표현할 수 있음을 보여주었습니다.",
+
+    "h2": "새로운 관점: 매트릭스의 클래식 장면을 매력적인 텍스트 세계에서",
+    "p2": "이제, 이 작품들의 개선된 버전을 소개합니다. 새로운 ASCII 영화들은 매트릭스의 상징적인 장면들을 더욱 상세하고 높은 품질로 표현합니다. 기술의 발전 덕분에, 이 ASCII 아트 작품들은 클래식한 영화의 더욱 인상적인 해석을 제공하며, 매트릭스를 전혀 새로운 방식으로 경험할 수 있게 해줍니다.",
+    "p3": "이 ASCII 영화들을 친구, 지인, 가족과 자유롭게 공유하여 이 독특한 예술 형태를 즐기세요."
+  },
+  "matrix": {
+    "title": "매트릭스",
+    "bibliothek": "매트릭스 라이브러리"
+  },
+
+  "legal": {
+    "impressum": "임프레스움",
+    "datenschutz": "개인정보 보호정책",
+    "cookie": "Cookie",
+    "agb": "이용 약관"
+  },
+
+  "footer": {
+    "alle_rechte_vorbehalten": "모든 권리 보유."
+  },
+
+
+  "neu": {
+    "title": "새로운"
+  },
+  "liebe_freundschaft": {
+    "title": "사랑과 우정",
+    "komm_zu_mir1": "나에게로 와 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "벌 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "축제와 파티",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "여가와 일",
+
+    "arbeit1": "작업 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "스포츠와 취미"
+  },
+  "abenteuer_action": {
+    "title": "모험과 액션"
+  },
+  "erotik_sex": {
+    "title": "에로티시즘과 섹스"
+  },
+
+  
+
+  "neu2": {
+    "title": "새로운"
+  },
+  "liebe_freundschaft2": {
+    "title": "사랑과 우정",
+
+    "komm_zu_uns1": "우리와 함께해요 1",
+    "komm_zu_uns1_text1": "이봐요, 뭘 보고 있어요",
+    "komm_zu_uns1_text2": "저기요?",
+    "komm_zu_uns1_text3": "저 사람",
+    "komm_zu_uns1_text4": "저기 있어요!",
+    "komm_zu_uns1_text5": "온종일 핸드폰만",
+    "komm_zu_uns1_text6": "보고 있네요!",
+    "komm_zu_uns1_text7": "지루하세요?",
+    "komm_zu_uns1_text8": "그럼 우리와 함께해요! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "곧 만나요!",
+    "komm_zu_uns1_text10": ":-)"
+    
+  },
+  "festtage_party2": {
+    "title": "축제와 파티",
+
+    "geburtstag1": "생일 1",
+    "geburtstag1_text1": "생일 축하합니다!",
+    "geburtstag1_text2": "여기 선물이 있어요!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "여가와 일",
+
+    "arbeit1": "작업 1",
+    "arbeit1_text1": "퇴근합니다!",
+    "arbeit1_text2": "집에 갈게요!",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "안녕!",
+    "arbeit1_text6": "내일 봐요!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "스포츠와 취미"
+  },
+  "abenteuer_action2": {
+    "title": "모험과 액션"
+  },
+  "erotik_sex2": {
+    "title": "에로티시즘과 섹스"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "코드는 예술이다",
+  "풀스택 개발자",
+  "SMS 텍스트 아트",
+  "160자 제한 없음",
+  "ASCII 향수",
+  "무한한 창의성",
+  "현대 텍스트 아트",
+  "텍스트 이미지 2.0",
+  "디지털 아트",
+  "타이포그래피 아트",
+  "문자 디자인",
+  "시각적 스토리텔링",
+  "ASCII 아트 영화",
+  "움직이는 ASCII",
+  "인터랙티브",
+  "CSS 애니메이션",
+  "React & Vite",
+  "시맨틱 HTML5",
+  "CSS Modules",
+  "DOM 조작",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "컨테이너 기반",
+  "장애 허용",
+  "접근성 (A11y)",
+  "반응형 디자인",
+  "고성능",
+  "SEO 최적화",
+  "보안 디자인",
+  "불변 빌드",
+  "재현 가능",
+  "24개 언어",
+  "국제적",
+  "혁신",
+  "웹 엔지니어링"
+]
+
+}

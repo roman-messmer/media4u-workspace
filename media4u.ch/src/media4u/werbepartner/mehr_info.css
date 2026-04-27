@@ -1,0 +1,219 @@
+/* src/css/MehrInfo.css */
+
+.mehr-info {
+    max-width: 100%;
+    line-height: 1.6;
+}
+
+.mehr-info__header {
+    margin-bottom: 2rem;
+}
+
+.mehr-info__title {
+    margin-bottom: 0.5rem;
+}
+
+.mehr-info__lead {
+    text-align: left;
+    font-size: var(--font-size-p);
+    line-height: 1.4em;
+    font-weight: 400;
+    color: #000;
+    white-space: normal;
+    font-size-adjust: 0.5;
+}
+
+/* Tabs / Model Selector */
+.mehr-info__tablist {
+    display: flex;
+    gap: 10px;
+    padding-top: 2rem;
+}
+
+.mehr-info__tab {
+    flex: 1;
+    padding: 1rem;
+    cursor: pointer;
+    border: 2px solid #007bff;
+    background: transparent;
+    color: #007bff;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.mehr-info__tab--active {
+    background: #007bff;
+    color: white;
+}
+
+/* Panels */
+.mehr-info__panels {
+    margin-top: 2rem;
+}
+
+.mehr-info__panel {
+    background: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.mehr-info__subtitle {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.mehr-info__list {
+    padding: 1rem 1rem 1.5rem 2rem;
+    margin: 0;
+}
+
+/* Pricing Table */
+.mehr-info__pricing-wrapper {
+    margin: 1.5rem 0;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+.mehr-info__pricing-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.mehr-info__pricing-table th, 
+.mehr-info__pricing-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.mehr-info__pricing-table th {
+    color: #007bff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.mehr-info__pricing-table tbody tr:nth-child(even) {
+    background: rgba(0, 123, 255, 0.05);
+}
+
+/* Formular */
+.mehr-info__form-section {
+    background: #dbdbdb;
+    padding: 2rem 1rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    border: 1px solid #aaa;
+}
+
+.mehr-info__form-group {
+    margin-bottom: 1.5rem;
+}
+
+.mehr-info__form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.mehr-info__form-group input, 
+.mehr-info__form-group textarea {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+/* Confirmation & Summary */
+.mehr-info__confirmation {
+    border: 2px solid #007bff;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 8px;
+}
+
+.mehr-info__summary {
+    margin-bottom: 1.5rem;
+}
+
+.mehr-info__preview {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #f1f1f1;
+    border-radius: 4px;
+    white-space: pre-wrap; /* Bewahrt Zeilenumbrüche im Plain-Text */
+}
+
+/* Buttons */
+.mehr-info__actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.mehr-info__btn {
+    padding: 0.8rem 1.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.mehr-info__btn--primary,
+.mehr-info__btn--send {
+    background: #007bff;
+    color: white;
+}
+
+.mehr-info__btn--primary:hover,
+.mehr-info__btn--send:hover:not(:disabled) {
+    background: #0056b3;
+}
+
+.mehr-info__btn--send:disabled {
+    background: #a0c4ff;
+    cursor: not-allowed;
+}
+
+.mehr-info__btn--secondary {
+    background: #6c757d;
+    color: white;
+}
+
+.mehr-info__btn--secondary:hover {
+    background: #5a6268;
+}
+
+/* Media Queries */
+@media (max-width: 390px) {
+    .mehr-info__tablist {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .mehr-info__tab {
+        width: 100%;
+        padding: 1.2rem;
+    }
+
+    .mehr-info__pricing-table {
+        font-size: 0.85rem;
+    }
+    
+    .mehr-info__actions {
+        flex-direction: column;
+    }
+    
+    .mehr-info__btn {
+        width: 100%;
+    }
+}

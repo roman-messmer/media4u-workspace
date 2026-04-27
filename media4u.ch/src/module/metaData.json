@@ -1,0 +1,844 @@
+{
+    "pages": {
+      "media4u": {
+    "de": {
+      "title": "Media4U bietet dir moderne Textkunst mit Textbild 2.0, SMS Textbildern und ASCII Movies",
+      "description": "Media4U verbindet für dich Textbild 2.0, SMS Textbilder und ASCII Movies zu moderner digitaler Kunst. Es ist in 20 Sprachen verfügbar für deine kreative Kommunikation und weltweite Werbemöglichkeiten.",
+      "keywords": "Textbild 2.0, SMS Textbilder, ASCII Movies, Digitale Kunst, Kreative Kommunikation, Werbeflächen international, Multilinguale Webseite, Moderne Textkunst, Kunst und Technologie, JavaScript und React, Kreative Werbung, Digitale Erlebnisse, Innovative Kunstformate, Media4U Webseite, 20 Sprachen"
+    },
+    "en": {
+      "title": "Media4U brings you modern text art with Textbild 2.0, SMS text pictures and ASCII movies",
+      "description": "Media4U combines Textbild 2.0, SMS text pictures and ASCII movies into modern digital art for you. It is available in 20 languages for your creative communication and global advertising opportunities.",
+      "keywords": "Textbild 2.0, SMS text pictures, ASCII movies, digital art, creative communication, international ad spaces, multilingual website, modern text art, art and technology, JavaScript and React, creative advertising, digital experiences, innovative art formats, Media4U website, 20 languages"
+    },
+    "fr": {
+      "title": "Media4U t offre un art textuel moderne avec Textbild 2.0, SMS images textuelles et films ASCII",
+      "description": "Media4U associe pour toi Textbild 2.0, SMS images textuelles et films ASCII pour créer un art numérique moderne. C est disponible en 20 langues pour ta communication créative et tes opportunités publicitaires mondiales.",
+      "keywords": "Textbild 2.0, SMS images textuelles, films ASCII, art numérique, communication créative, espaces publicitaires internationaux, site web multilingue, art textuel moderne, art et technologie, JavaScript et React, publicité créative, expériences numériques, formats artistiques innovants, site web Media4U, 20 langues"
+    },
+    "it": {
+      "title": "Media4U ti offre arte testuale moderna con Textbild 2.0, SMS immagini testuali e film ASCII",
+      "description": "Media4U combina per te Textbild 2.0, SMS immagini testuali e film ASCII in un arte digitale moderna. È disponibile in 20 lingue per la tua comunicazione creativa e opportunità pubblicitarie globali.",
+      "keywords": "Textbild 2.0, SMS immagini testuali, film ASCII, arte digitale, comunicazione creativa, spazi pubblicitari internazionali, sito multilingue, arte testuale moderna, arte e tecnologia, JavaScript e React, pubblicità creativa, esperienze digitali, formati artistici innovativi, sito Media4U, 20 lingue"
+    },
+    "es": {
+      "title": "Media4U te ofrece arte de texto moderno con Textbild 2.0, imágenes SMS y películas ASCII",
+      "description": "Media4U combina para ti Textbild 2.0, imágenes de texto SMS y películas ASCII en arte digital moderno. Está disponible en 20 idiomas para tu comunicación creativa y oportunidades publicitarias globales.",
+      "keywords": "Textbild 2.0, imágenes de texto SMS, películas ASCII, arte digital, comunicación creativa, espacios publicitarios internacionales, sitio web multilingüe, arte de texto moderno, arte y tecnología, JavaScript y React, publicidad creativa, experiencias digitales, formatos artísticos innovadores, sitio web Media4U, 20 idiomas"
+    },
+    "pt": {
+      "title": "Media4U traz para ti arte textual moderna com Textbild 2.0, SMS imagens de texto e filmes ASCII",
+      "description": "Media4U combina para ti Textbild 2.0, imagens de texto SMS e filmes ASCII em arte digital moderna. Está disponível em 20 idiomas para a tua comunicação criativa e oportunidades globais de publicidade.",
+      "keywords": "Textbild 2.0, imagens de texto SMS, filmes ASCII, arte digital, comunicação criativa, espaços publicitários internacionais, site multilingue, arte textual moderna, arte e tecnologia, JavaScript e React, publicidade criativa, experiências digitais, formatos artísticos inovadores, site Media4U, 20 idiomas"
+    },
+    "ru": {
+      "title": "Media4U предлагает тебе современное текстовое искусство с Textbild 2.0, SMS картинками и ASCII фильмами",
+      "description": "Media4U объединяет для тебя Textbild 2.0, SMS картинки и ASCII фильмы в современное цифровое искусство. Доступно на 20 языках для твоей творческой коммуникации и глобальных рекламных возможностей.",
+      "keywords": "Textbild 2.0, SMS текстовые картинки, ASCII фильмы, цифровое искусство, творческая коммуникация, международные рекламные пространства, многоязычный сайт, современное текстовое искусство, искусство и технологии, JavaScript и React, креативная реклама, цифровой опыт, инновационные художественные форматы, сайт Media4U, 20 языков"
+    },
+    "ja": {
+      "title": "Media4UはTextbild 2.0, SMSテキスト画像 ASCII映画であなたに現代テキストアートを提供します",
+      "description": "Media4UはあなたのためにTextbild 2.0, SMSテキスト画像 ASCII映画を現代のデジタルアートに結び付けます。あなたの創造的なコミュニケーションとグローバルな広告機会のために20言語で利用可能です。",
+      "keywords": "Textbild 2.0, SMSテキスト画像, ASCII映画, デジタルアート, 創造的コミュニケーション, 国際広告スペース, 多言語ウェブサイト, 現代テキストアート, アートとテクノロジー, JavaScriptとReact, 創造的広告, デジタル体験, 革新的なアートフォーマット, Media4Uウェブサイト, 20言語"
+    },
+    "ko": {
+      "title": "Media4U는 Textbild 2.0, SMS 텍스트 이미지 및 ASCII 영화로 당신에게 현대 텍스트 아트를 제공합니다",
+      "description": "Media4U는 당신을 위해 Textbild 2.0, SMS 텍스트 이미지 및 ASCII 영화를 현대 디지털 아트로 결합합니다. 당신의 창의적인 커뮤니케이션과 글로벌 광고 기회를 위해 20개 언어로 제공됩니다.",
+      "keywords": "Textbild 2.0, SMS 텍스트 이미지, ASCII 영화, 디지털 아트, 창의적인 커뮤니케이션, 국제 광고 공간, 다국어 웹사이트, 현대 텍스트 아트, 예술과 기술, JavaScript와 React, 창의적 광고, 디지털 경험, 혁신적인 아트 포맷, Media4U 웹사이트, 20개 언어"
+    },
+    "zh": {
+      "title": "Media4U 通过 Textbild 2.0, SMS 文本图片和 ASCII 电影为你展现现代文本艺术",
+      "description": "Media4U 为你将 Textbild 2.0, SMS 文本图片和 ASCII 电影结合成现代数字艺术。支持 20 种语言为你的创意沟通和全球广告机会提供服务。",
+      "keywords": "Textbild 2.0, SMS文本图片, ASCII电影, 数字艺术, 创意沟通, 国际广告空间, 多语言网站, 现代文本艺术, 艺术与技术, JavaScript和React, 创意广告, 数字体验, 创新艺术形式, Media4U网站, 20种语言"
+    },
+    "vi": {
+      "title": "Media4U mang đến cho bạn Nghệ thuật Văn bản Hiện đại với Textbild 2.0, Hình Ảnh Văn bản SMS và Phim ASCII",
+      "description": "Media4U kết hợp cho bạn Textbild 2.0, hình ảnh văn bản SMS và phim ASCII thành nghệ thuật kỹ thuật số hiện đại. Có sẵn trong 20 ngôn ngữ cho giao tiếp sáng tạo và cơ hội quảng cáo toàn cầu của bạn.",
+      "keywords": "Textbild 2.0, hình ảnh văn bản SMS, phim ASCII, nghệ thuật kỹ thuật số, giao tiếp sáng tạo, không gian quảng cáo quốc tế, trang web đa ngôn ngữ, nghệ thuật văn bản hiện đại, nghệ thuật và công nghệ, JavaScript và React, quảng cáo sáng tạo, trải nghiệm kỹ thuật số, định dạng nghệ thuật sáng tạo, trang web Media4U, 20 ngôn ngữ"
+    },
+    "th": {
+      "title": "Media4U มอบศิลปะข้อความสมัยใหม่ให้คุณด้วย Textbild 2.0, รูปภาพข้อความ SMS และภาพยนตร์ ASCII",
+      "description": "Media4U ผสมผสาน Textbild 2.0, รูปภาพข้อความ SMS และภาพยนตร์ ASCII ให้เป็นศิลปะดิจิทัลสมัยใหม่สำหรับคุณ มีให้บริการใน 20 ภาษาเพื่อการสื่อสารเชิงสร้างสรรค์และโอกาสการโฆษณาทั่วโลกของคุณ",
+      "keywords": "Textbild 2.0, รูปภาพข้อความ SMS, ภาพยนตร์ ASCII, ศิลปะดิจิทัล, การสื่อสารเชิงสร้างสรรค์, พื้นที่โฆษณาระหว่างประเทศ, เว็บไซต์หลายภาษา, ศิลปะข้อความสมัยใหม่, ศิลปะและเทคโนโลยี, JavaScript และ React, การโฆษณาเชิงสร้างสรรค์, ประสบการณ์ดิจิทัล, รูปแบบศิลปะนวัตกรรม, เว็บไซต์ Media4U, 20 ภาษา"
+    },
+    "fil": {
+      "title": "Dinadala sa iyo ng Media4U ang Makabagong Tekstuwal na Sining gamit ang Textbild 2.0, SMS Text Images at ASCII Movies",
+      "description": "Pinagsasama ng Media4U para sa iyo ang Textbild 2.0, SMS text images at ASCII movies sa makabagong digital art. Magagamit sa 20 wika para sa iyong malikhaing komunikasyon at pandaigdigang oportunidad sa pag aanunsyo.",
+      "keywords": "Textbild 2.0, SMS text images, ASCII movies, digital art, malikhaing komunikasyon, international ad spaces, multilingual website, makabagong tekstuwal na sining, sining at teknolohiya, JavaScript at React, malikhaing advertising, digital experiences, mga makabagong pormat ng sining, Media4U website, 20 wika"
+    },
+    "nl": {
+      "title": "Media4U brengt je Moderne Tekstkunst met Textbild 2.0, SMS Tekstafbeeldingen en ASCII films",
+      "description": "Media4U combineert voor jou Textbild 2.0, SMS tekstafbeeldingen en ASCII films tot moderne digitale kunst. Het is beschikbaar in 20 talen voor jouw creatieve communicatie en wereldwijde advertentiemogelijkheden.",
+      "keywords": "Textbild 2.0, SMS tekstafbeeldingen, ASCII films, digitale kunst, creatieve communicatie, internationale advertentieruimte, meertalige website, moderne tekstkunst, kunst en technologie, JavaScript en React, creatieve reclame, digitale ervaringen, innovatieve kunstformaten, Media4U website, 20 talen"
+    },
+    "sv": {
+      "title": "Media4U ger dig Modern Textkonst med Textbild 2.0, SMS textbilder och ASCII filmer",
+      "description": "Media4U kombinerar för dig Textbild 2.0, SMS textbilder och ASCII filmer till modern digital konst. Det finns tillgängligt på 20 språk för din kreativa kommunikation och globala annonsmöjligheter.",
+      "keywords": "Textbild 2.0, SMS textbilder, ASCII filmer, digital konst, kreativ kommunikation, internationella annonsytor, flerspråkig webbplats, modern textkonst, konst och teknik, JavaScript och React, kreativ reklam, digitala upplevelser, innovativa konstformat, Media4U webbplats, 20 språk"
+    },
+    "pl": {
+      "title": "Media4U oferuje Ci Nowoczesną Sztukę Tekstową z Textbild 2.0, SMS Obrazami Tekstowymi i Filmami ASCII",
+      "description": "Media4U łączy dla Ciebie Textbild 2.0, SMS obrazy tekstowe i filmy ASCII w nowoczesną sztukę cyfrową. Jest dostępne w 20 językach dla Twojej kreatywnej komunikacji i globalnych możliwości reklamowych.",
+      "keywords": "Textbild 2.0, SMS obrazy tekstowe, filmy ASCII, sztuka cyfrowa, kreatywna komunikacja, międzynarodowe powierzchnie reklamowe, wielojęzyczna strona internetowa, nowoczesna sztuka tekstowa, sztuka i technologia, JavaScript i React, kreatywna reklama, cyfrowe doświadczenia, innowacyjne formaty artystyczne, strona Media4U, 20 języków"
+    },
+    "cs": {
+      "title": "Media4U ti přináší Moderní Textové Umění s Textbild 2.0, SMS Textovými Obrázky a ASCII Filmy",
+      "description": "Media4U pro tebe kombinuje Textbild 2.0, SMS textové obrázky a ASCII filmy do moderního digitálního umění. Je k dispozici ve 20 jazycích pro tvou kreativní komunikaci a globální reklamní příležitosti.",
+      "keywords": "Textbild 2.0, SMS textové obrázky, ASCII filmy, digitální umění, kreativní komunikace, mezinárodní reklamní prostory, vícejazyčný web, moderní textové umění, umění a technologie, JavaScript a React, kreativní reklama, digitální zážitky, inovativní umělecké formáty, web Media4U, 20 jazyků"
+    },
+    "hu": {
+      "title": "A Media4U elhozza neked a Modern Szöveg Művészetet a Textbild 2.0, val SMS Szövegképekkel és ASCII Filmekkel",
+      "description": "A Media4U számodra a Textbild 2.0, t SMS szövegképeket és ASCII filmeket modern digitális művészetté ötvözi. Elérhető 20 nyelven a te kreatív kommunikációd és globális reklámlehetőségeid számára.",
+      "keywords": "Textbild 2.0, SMS szövegképek, ASCII filmek, digitális művészet, kreatív kommunikáció, nemzetközi reklámtér, többnyelvű weboldal, modern szöveg művészet, művészet és technológia, JavaScript és React, kreatív reklám, digitális élmények, innovatív művészeti formátumok, Media4U weboldal, 20 nyelv"
+    },
+    "ro": {
+      "title": "Media4U îți aduce Artă Textuală Modernă cu Textbild 2.0, SMS Imagini Textuale și Filme ASCII",
+      "description": "Media4U combină pentru tine Textbild 2.0, imagini textuale SMS și filme ASCII în artă digitală modernă. Este disponibil în 20 de limbi pentru comunicarea ta creativă și oportunități globale de publicitate.",
+      "keywords": "Textbild 2.0, SMS imagini textuale, filme ASCII, artă digitală, comunicare creativă, spații publicitare internaționale, site web multilingv, artă textuală modernă, artă și tehnologie, JavaScript și React, publicitate creativă, experiențe digitale, formate artistice inovatoare, site Media4U, 20 de limbi"
+    },
+    "bg": {
+      "title": "Media4U ти носи Съвременно текстово изкуство с Textbild 2.0, SMS текстови изображения и ASCII филми",
+      "description": "Media4U комбинира за теб Textbild 2.0, SMS текстови изображения и ASCII филми в съвременно дигитално изкуство. Налично е на 20 езика за твоята креативна комуникация и глобални рекламни възможности.",
+      "keywords": "Textbild 2.0, SMS текстови изображения, ASCII филми, дигитално изкуство, креативна комуникация, международни рекламни пространства, многоезичен уебсайт, съвременно текстово изкуство, изкуство и технологии, JavaScript и React, креативна реклама, дигитални преживявания, иновативни художествени формати, уебсайт Media4U, 20 езика"
+    }
+        
+      },
+
+
+
+      "werbepartner": {
+    "de": {
+      "title": "Werbeflächen für Unternehmen für effektive Werbung auf meiner Webseite",
+      "description": "Werbeflächen für Unternehmen bieten dir gezielte Werbung landesweite Sichtbarkeit und faire Preise. Platziere deine Marke auf meiner Webseite und steigere deine Reichweite!",
+      "keywords": "Werbeflächen buchen, Werbung auf Webseite, Landesweite Sichtbarkeit, Zielgruppen erreichen, Faire Preise für Werbung, Werbeplätze international, Werbung für Unternehmen, Zufällige Anzeigenreihenfolge, Online Werbeflächen, Werbung in der Region, Datenschutz für Werbepartner, Werbung effektiv gestalten"
+    },
+    "en": {
+      "title": "Advertising Spaces for Businesses for Effective Advertising on My Website",
+      "description": "Advertising spaces for businesses offer you targeted ads nationwide visibility and fair prices. Place your brand on my website and increase your reach!",
+      "keywords": "Book ad spaces, Advertising on website, Nationwide visibility, Reach target audiences, Fair advertising prices, International ad spaces, Business advertising, Random ad order, Online ad spaces, Regional advertising, Partner privacy, Effective advertising design"
+    },
+    "fr": {
+      "title": "Espaces publicitaires pour entreprises pour une publicité efficace sur mon site web",
+      "description": "Les espaces publicitaires pour entreprises t'offrent une publicité ciblée une visibilité nationale et des tarifs équitables. Place ta marque sur mon site et augmente ta portée !",
+      "keywords": "Réserver espaces publicitaires, Publicité sur site web, Visibilité nationale, Atteindre les cibles, Tarifs équitables pour publicité, Espaces publicitaires internationaux, Publicité pour entreprises, Ordre aléatoire des annonces, Espaces publicitaires en ligne, Publicité régionale, Confidentialité des partenaires, Conception publicitaire efficace"
+    },
+    "it": {
+      "title": "Spazi pubblicitari per aziende per una pubblicità efficace sul mio sito web",
+      "description": "Gli spazi pubblicitari per aziende ti offrono pubblicità mirata visibilità nazionale e prezzi equi. Posiziona il tuo marchio sul mio sito e aumenta la tua portata!",
+      "keywords": "Prenota spazi pubblicitari, Pubblicità sul sito web, Visibilità nazionale, Raggiungere il pubblico target, Prezzi equi per pubblicità, Spazi pubblicitari internazionali, Pubblicità per aziende, Ordine casuale degli annunci, Spazi pubblicitari online, Pubblicità regionale, Privacy per i partner, Progettazione pubblicitaria efficace"
+    },
+    "es": {
+      "title": "Espacios publicitarios para empresas para una publicidad efectiva en mi sitio web",
+      "description": "Los espacios publicitarios para empresas te ofrecen publicidad dirigida visibilidad nacional y precios justos. Coloca tu marca en mi sitio y aumenta tu alcance.",
+      "keywords": "Reservar espacios publicitarios, Publicidad en sitio web, Visibilidad nacional, Alcanzar público objetivo, Precios justos para publicidad, Espacios publicitarios internacionales, Publicidad para empresas, Orden aleatorio de anuncios, Espacios publicitarios en línea, Publicidad regional, Privacidad para socios, Diseño publicitario efectivo"
+    },
+    "pt": {
+      "title": "Espaços publicitários para empresas para uma publicidade eficaz no meu site",
+      "description": "Os espaços publicitários para empresas oferecem te publicidade direcionada visibilidade nacional e preços justos. Coloca a tua marca no meu site e aumenta o teu alcance!",
+      "keywords": "Reservar espaços publicitários, Publicidade no site, Visibilidade nacional, Alcançar público alvo, Preços justos de publicidade, Espaços publicitários internacionais, Publicidade para empresas, Ordem aleatória de anúncios, Espaços publicitários online, Publicidade regional, Privacidade para parceiros, Design publicitário eficaz"
+    },
+    "ru": {
+      "title": "Рекламные места для бизнеса для эффективной рекламы на моем сайте",
+      "description": "Рекламные места для бизнеса предлагают тебе целевую рекламу общенациональную видимость и справедливые цены. Размести свой бренд на моем сайте и увеличь свой охват!",
+      "keywords": "Бронировать рекламные места, Реклама на сайте, Национальная видимость, Достичь целевой аудитории, Справедливые цены на рекламу, Международные рекламные места, Реклама для бизнеса, Случайный порядок рекламы, Онлайн рекламные места, Реклама в регионе, Конфиденциальность партнеров, Эффективный дизайн рекламы"
+    },
+    "ja": {
+      "title": "私のウェブサイトで効果的に宣伝するための企業向け広告スペース",
+      "description": "企業向け広告スペースはターゲット広告 全国的な可視性 そして公平な価格設定を提供するよ。私のウェブサイトにあなたのブランドを配置してリーチを拡大しよう！",
+      "keywords": "広告スペース予約, ウェブサイト広告, 全国的な可視性, ターゲットオーディエンスにリーチ, 公平な広告料金, 国際広告スペース, 企業向け広告, ランダム広告順序, オンライン広告スペース, 地域広告, パートナーのプライバシー, 効果的な広告デザイン"
+    },
+    "ko": {
+      "title": "내 웹사이트의 효과적인 광고를 위한 기업 광고 공간",
+      "description": "기업 광고 공간은 타겟 광고 전국적인 가시성 그리고 공정한 가격을 제공해. 내 웹사이트에 너의 브랜드를 배치하고 도달 범위를 넓혀봐!",
+      "keywords": "광고 공간 예약, 웹사이트 광고, 전국 가시성, 타겟 오디언스 도달, 공정한 광고 요금, 국제 광고 공간, 기업 광고, 랜덤 광고 순서, 온라인 광고 공간, 지역 광고, 파트너 개인정보 보호, 효과적인 광고 디자인"
+    },
+    "zh": {
+      "title": "在我的网站上进行有效广告的企业广告空间",
+      "description": "企业广告空间为你提供定向广告 全国可见性和公平价格。在我的网站上展示你的品牌扩大你的影响力吧！",
+      "keywords": "预订广告空间, 网站广告, 全国可见性, 覆盖目标受众, 公平广告价格, 国际广告空间, 企业广告, 随机广告顺序, 在线广告空间, 区域广告, 合作伙伴隐私, 有效广告设计"
+    },
+    "vi": {
+      "title": "Không gian quảng cáo cho doanh nghiệp để quảng cáo hiệu quả trên trang web của tôi",
+      "description": "Không gian quảng cáo cho doanh nghiệp mang đến cho bạn quảng cáo có mục tiêu khả năng hiển thị toàn quốc và giá cả hợp lý. Hãy đặt thương hiệu của bạn trên trang web của tôi và tăng cường phạm vi tiếp cận nhé!",
+      "keywords": "Đặt không gian quảng cáo, Quảng cáo trên trang web, Hiển thị toàn quốc, Tiếp cận khách hàng mục tiêu, Giá quảng cáo hợp lý, Không gian quảng cáo quốc tế, Quảng cáo doanh nghiệp, Thứ tự quảng cáo ngẫu nhiên, Không gian quảng cáo trực tuyến, Quảng cáo khu vực, Quyền riêng tư đối tác, Thiết kế quảng cáo hiệu quả"
+    },
+    "th": {
+      "title": "พื้นที่โฆษณาสำหรับธุรกิจเพื่อการโฆษณาอย่างมีประสิทธิภาพบนเว็บไซต์ของฉัน",
+      "description": "พื้นที่โฆษณาสำหรับธุรกิจมอบโฆษณาที่ตรงเป้าหมาย การมองเห็นทั่วประเทศ และราคาที่ยุติธรรมให้กับคุณ วางแบรนด์ของคุณบนเว็บไซต์ของฉันและเพิ่มการเข้าถึงสิ!",
+      "keywords": "จองพื้นที่โฆษณา, โฆษณาบนเว็บไซต์, การมองเห็นทั่วประเทศ, เข้าถึงกลุ่มเป้าหมาย, ราคาสมเหตุสมผลสำหรับโฆษณา, พื้นที่โฆษณาระหว่างประเทศ, โฆษณาสำหรับธุรกิจ, ลำดับโฆษณาสุ่ม, พื้นที่โฆษณาออนไลน์, โฆษณาในพื้นที่, ความเป็นส่วนตัวของพันธมิตร, การออกแบบโฆษณาอย่างมีประสิทธิภาพ"
+    },
+    "fil": {
+      "title": "Mga Espasyo sa Pag aanunsyo para sa Negosyo para sa Epektibong Pag aanunsyo sa Aking Website",
+      "description": "Nag aalok ang mga espasyo sa pag aanunsyo para sa negosyo ng targeted na anunsyo pambansang visibility at makatarungang presyo. Ilagay ang iyong tatak sa aking website at palawakin ang iyong maabot!",
+      "keywords": "Mag book ng ad space, Pag aanunsyo sa website, Pambansang visibility, Maabot ang target audience, Makatarungang presyo sa pag aanunsyo, Pandaigdigang ad spaces, Pag aanunsyo para sa negosyo, Random na order ng ad, Mga online ad spaces, Regional advertising, Privacy ng partner, Epektibong disenyo ng ad"
+    },
+    "nl": {
+      "title": "Advertentieruimtes voor bedrijven voor effectieve reclame op mijn website",
+      "description": "Advertentieruimtes voor bedrijven bieden je gerichte advertenties landelijke zichtbaarheid en eerlijke prijzen. Plaats jouw merk op mijn website en vergroot je bereik!",
+      "keywords": "Advertentieruimte boeken, Reclame op website, Landelijke zichtbaarheid, Doelgroepen bereiken, Eerlijke prijzen voor reclame, Internationale advertentieruimtes, Bedrijfsreclame, Willekeurige advertentievolgorde, Online advertentieruimtes, Regionale reclame, Privacy voor partners, Effectief advertentieontwerp"
+    },
+    "sv": {
+      "title": "Annonsutrymmen för företag för effektiv annonsering på min webbplats",
+      "description": "Annonsutrymmen för företag ger dig riktade annonser nationell synlighet och rättvisa priser. Placera ditt varumärke på min webbplats och öka din räckvidd!",
+      "keywords": "Boka annonsutrymme, Annonsering på webbplats, Nationell synlighet, Nå målgrupper, Rättvisa priser för annonsering, Internationella annonsutrymmen, Företagsannonsering, Slumpmässig annonsordning, Online annonsutrymmen, Regional annonsering, Partnersekretess, Effektiv annonsdesign"
+    },
+    "pl": {
+      "title": "Miejsca reklamowe dla firm dla skutecznej reklamy na mojej stronie internetowej",
+      "description": "Miejsca reklamowe dla firm oferują Ci reklamę celowaną ogólnokrajową widoczność i uczciwe ceny. Umieść swoją markę na mojej stronie i zwiększ swój zasięg!",
+      "keywords": "Rezerwuj miejsca reklamowe, Reklama na stronie, Ogólnokrajowa widoczność, Dotarcie do grup docelowych, Uczciwe ceny za reklamę, Międzynarodowe miejsca reklamowe, Reklama dla firm, Losowa kolejność reklam, Miejsca reklamowe online, Reklama regionalna, Prywatność partnerów, Skuteczny projekt reklamy"
+    },
+    "cs": {
+      "title": "Reklamní prostory pro firmy pro efektivní reklamu na mém webu",
+      "description": "Reklamní prostory pro firmy ti nabízejí cílenou reklamu celostátní viditelnost a férové ceny. Umísti svou značku na můj web a zvyš svůj dosah!",
+      "keywords": "Rezervace reklamních prostor, Reklama na webu, Celostátní viditelnost, Dosah na cílové skupiny, Férové ceny za reklamu, Mezinárodní reklamní prostory, Reklama pro firmy, Náhodné pořadí reklam, Online reklamní prostory, Regionální reklama, Ochrana partnerů, Efektivní design reklamy"
+    },
+    "hu": {
+      "title": "Hirdetési helyek cégek számára a hatékony reklámért a weboldalamon",
+      "description": "A cégek számára kínált hirdetési helyek célzott hirdetéseket országos láthatóságot és korrekt árakat biztosítanak neked. Helyezd el márkádat a weboldalamon és növeld az elérésedet!",
+      "keywords": "Hirdetési helyek foglalása, Hirdetés weboldalon, Országos láthatóság, Célközönség elérése, Korrekt hirdetési árak, Nemzetközi hirdetési helyek, Céges reklám, Véletlenszerű hirdetési sorrend, Online hirdetési helyek, Regionális reklám, Partnerek adatvédelme, Hatékony hirdetési design"
+    },
+    "ro": {
+      "title": "Spații publicitare pentru companii pentru o publicitate eficientă pe site ul meu",
+      "description": "Spațiile publicitare pentru companii îți oferă publicitate țintită vizibilitate națională și prețuri corecte. Plasează brandul tău pe site ul meu și crește ți acoperirea!",
+      "keywords": "Rezervare spații publicitare, Publicitate pe site, Vizibilitate națională, Accesare public țintă, Prețuri corecte pentru publicitate, Spații publicitare internaționale, Publicitate pentru companii, Ordine aleatorie a reclamelor, Spații publicitare online, Publicitate regională, Confidențialitate parteneri, Design publicitar eficient"
+    },
+    "bg": {
+      "title": "Рекламни места за бизнес за ефективна реклама в моя уебсайт",
+      "description": "Рекламните места за бизнес ти предлагат целева реклама национална видимост и справедливи цени. Постави своята марка на моя уебсайт и увеличи обхвата си!",
+      "keywords": "Резервиране на рекламни места, Реклама в уебсайт, Национална видимост, Достигане до целева аудитория, Справедливи цени за реклама, Международни рекламни места, Реклама за бизнес, Случаен ред на рекламите, Онлайн рекламни места, Регионална реклама, Поверителност на партньори, Ефективен дизайн на реклама"
+    }
+        
+      },
+
+
+
+      "affiliate_marketing": {
+    "de": {
+      "title": "Transparenz im Affiliate Marketing für Empfehlungen denen du vertrauen kannst",
+      "description": "Transparenz und Vertrauen im Affiliate Marketing bedeutet für dich Empfehlungen die genau zu dir passen ganz ohne versteckte Gebühren oder Nachteile.",
+      "keywords": "Affiliate Marketing, Affiliate Links erklärt, Transparenz im Affiliate Marketing, Unterstützung durch Affiliate Links, Empfehlungen ohne Nachteile, Cookies und Tracking im Affiliate Marketing, Vertrauenswürdige Affiliate Partner, Transparente Partnerprogramme, Affiliate Partnerschaften, Kostenfreie Nutzung der Webseite, Vorteile von Affiliate Links, Produktempfehlungen, Partnerprogramme verständlich, Keine zusätzlichen Kosten Affiliate"
+    },
+    "en": {
+      "title": "Transparency in Affiliate Marketing with Recommendations You Can Trust",
+      "description": "Transparency and trust in affiliate marketing means providing recommendations that suit you perfectly with no hidden fees or drawbacks.",
+      "keywords": "Affiliate marketing, Explaining affiliate links, Transparency in affiliate marketing, Support through affiliate links, Recommendations without drawbacks, Cookies and tracking in affiliate marketing, Trustworthy affiliate partners, Transparent partner programs, Affiliate partnerships, Free use of the website, Benefits of affiliate links, Product recommendations, Understandable partner programs, No additional costs affiliate"
+    },
+    "fr": {
+      "title": "Transparence dans le marketing d'affiliation pour des recommandations fiables",
+      "description": "La transparence et la confiance dans le marketing d'affiliation t'offrent des recommandations adaptées sans frais cachés ni inconvénients.",
+      "keywords": "Marketing d'affiliation, Explication des liens d'affiliation, Transparence dans le marketing d'affiliation, Soutien via des liens d'affiliation, Recommandations sans inconvénients, Cookies et suivi dans le marketing d'affiliation, Partenaires d'affiliation de confiance, Programmes de partenariat transparents, Partenariats d'affiliation, Utilisation gratuite du site web, Avantages des liens d'affiliation, Recommandations de produits, Programmes de partenariat clairs, Aucun coût supplémentaire affiliation"
+    },
+    "it": {
+      "title": "Trasparenza nel Marketing di Affiliazione con Raccomandazioni di Fiducia",
+      "description": "Trasparenza e fiducia nel marketing di affiliazione significa darti raccomandazioni su misura per te senza costi nascosti o svantaggi.",
+      "keywords": "Marketing di affiliazione, Spiegazione dei link di affiliazione, Trasparenza nel marketing di affiliazione, Supporto tramite link di affiliazione, Raccomandazioni senza svantaggi, Cookie e tracciamento nel marketing di affiliazione, Partner di affiliazione affidabili, Programmi di affiliazione trasparenti, Partnership di affiliazione, Uso gratuito del sito web, Vantaggi dei link di affiliazione, Raccomandazioni di prodotti, Programmi di affiliazione chiari, Nessun costo aggiuntivo affiliazione"
+    },
+    "es": {
+      "title": "Transparencia en el Marketing de Afiliados con Recomendaciones Confiables",
+      "description": "Transparencia y confianza en el marketing de afiliados significa ofrecerte recomendaciones adaptadas a ti sin cargos ocultos ni inconvenientes.",
+      "keywords": "Marketing de afiliados, Explicación de enlaces de afiliados, Transparencia en el marketing de afiliados, Apoyo a través de enlaces de afiliados, Recomendaciones sin inconvenientes, Cookies y seguimiento en el marketing de afiliados, Socios de afiliación confiables, Programas de socios transparentes, Asociaciones de afiliados, Uso gratuito del sitio web, Beneficios de enlaces de afiliados, Recomendaciones de productos, Programas de socios comprensibles, Sin costos adicionales afiliados"
+    },
+    "pt": {
+      "title": "Transparência no Marketing de Afiliados com Recomendações Confiáveis",
+      "description": "Transparência e confiança no marketing de afiliados significa dar te recomendações que combinam perfeitamente contigo sem taxas ocultas ou desvantagens.",
+      "keywords": "Marketing de afiliados, Explicação de links de afiliados, Transparência no marketing de afiliados, Suporte por links de afiliados, Recomendações sem desvantagens, Cookies e rastreamento no marketing de afiliados, Parceiros de afiliados confiáveis, Programas de parceria transparentes, Parcerias de afiliados, Uso gratuito do site, Benefícios dos links de afiliados, Recomendações de produtos, Programas de parceria claros, Sem custos adicionais afiliados"
+    },
+    "ru": {
+      "title": "Прозрачность в партнерском маркетинге для рекомендаций которым ты можешь доверять",
+      "description": "Прозрачность и доверие в партнерском маркетинге это рекомендации которые идеально подходят тебе без скрытых сборов или недостатков.",
+      "keywords": "Партнерский маркетинг, Объяснение партнерских ссылок, Прозрачность в партнерском маркетинге, Поддержка через партнерские ссылки, Рекомендации без недостатков, Куки и отслеживание в партнерском маркетинге, Надежные партнеры, Прозрачные партнерские программы, Партнерские соглашения, Бесплатное использование сайта, Преимущества партнерских ссылок, Рекомендации продуктов, Понятные партнерские программы, Без дополнительных затрат партнерство"
+    },
+    "ja": {
+      "title": "信頼できる推奨事項を提供するアフィリエイトマーケティングの透明性",
+      "description": "アフィリエイトマーケティングの透明性と信頼性により隠れた料金や欠点のないあなたにぴったりの推奨事項を提供します。",
+      "keywords": "アフィリエイトマーケティング, アフィリエイトリンクの説明, アフィリエイトマーケティングの透明性, アフィリエイトリンクによるサポート, 欠点のない推奨事項, アフィリエイトマーケティングにおけるクッキーとトラッキング, 信頼できるアフィリエイトパートナー, 透明なパートナープログラム, アフィリエイトパートナーシップ, ウェブサイトの無料利用, アフィリエイトリンクの利点, 製品推奨, 理解しやすいパートナープログラム, 追加費用なしのアフィリエイト"
+    },
+    "ko": {
+      "title": "신뢰할 수 있는 추천을 위한 투명한 제휴 마케팅",
+      "description": "투명성과 신뢰를 바탕으로 한 제휴 마케팅은 숨겨진 비용이나 단점 없이 당신에게 딱 맞는 추천을 제공합니다.",
+      "keywords": "제휴 마케팅, 제휴 링크 설명, 제휴 마케팅의 투명성, 제휴 링크를 통한 지원, 단점 없는 추천, 제휴 마케팅의 쿠키 및 추적, 신뢰할 수 있는 제휴 파트너, 투명한 파트너 프로그램, 제휴 파트너십, 웹사이트 무료 이용, 제휴 링크의 이점, 제품 추천, 이해하기 쉬운 파트너 프로그램, 추가 비용 없는 제휴"
+    },
+    "zh": {
+      "title": "透明的联盟营销为你提供值得信赖的推荐",
+      "description": "联盟营销中的透明性和信任意味着为你提供合适的推荐没有任何隐藏费用或缺点。",
+      "keywords": "联盟营销, 联盟链接解释, 联盟营销透明性, 通过联盟链接支持, 无缺点的推荐, 联盟营销中的 Cookie 和追踪, 值得信赖的联盟合作伙伴, 透明的合作伙伴计划, 联盟合作关系, 网站免费使用, 联盟链接的优势, 产品推荐, 易于理解的合作伙伴计划, 无额外成本的联盟"
+    },
+    "vi": {
+      "title": "Sự minh bạch trong Tiếp thị Liên kết với những đề xuất bạn có thể tin cậy",
+      "description": "Minh bạch và tin cậy trong tiếp thị liên kết mang đến những đề xuất hoàn toàn phù hợp với bạn mà không có phí ẩn hoặc nhược điểm nào.",
+      "keywords": "Tiếp thị liên kết, Giải thích liên kết liên kết, Minh bạch trong tiếp thị liên kết, Hỗ trợ qua liên kết liên kết, Đề xuất không có nhược điểm, Cookie và theo dõi trong tiếp thị liên kết, Đối tác liên kết đáng tin cậy, Chương trình đối tác minh bạch, Quan hệ đối tác liên kết, Sử dụng trang web miễn phí, Lợi ích của liên kết liên kết, Đề xuất sản phẩm, Chương trình đối tác dễ hiểu, Không có chi phí bổ sung tiếp thị liên kết"
+    },
+    "th": {
+      "title": "ความโปร่งใสในการตลาดแบบพันธมิตรพร้อมคำแนะนำที่คุณเชื่อถือได้",
+      "description": "ความโปร่งใสและความไว้วางใจในการตลาดแบบพันธมิตรหมายถึงคำแนะนำที่เหมาะสมกับคุณโดยไม่มีค่าธรรมเนียมแอบแฝงหรือข้อเสียใดๆ",
+      "keywords": "การตลาดแบบพันธมิตร, อธิบายลิงก์พันธมิตร, ความโปร่งใสในการตลาดแบบพันธมิตร, การสนับสนุนผ่านลิงก์พันธมิตร, คำแนะนำที่ไม่มีข้อเสีย, คุกกี้และการติดตามในการตลาดแบบพันธมิตร, พันธมิตรที่เชื่อถือได้, โปรแกรมพันธมิตรที่โปร่งใส, ความร่วมมือแบบพันธมิตร, การใช้งานเว็บไซต์ฟรี, ประโยชน์ของลิงก์พันธมิตร, คำแนะนำผลิตภัณฑ์, โปรแกรมพันธมิตรที่เข้าใจง่าย, การตลาดพันธมิตรที่ไม่มีค่าใช้จ่ายเพิ่มเติม"
+    },
+    "fil": {
+      "title": "Kakayahang Makita sa Affiliate Marketing na may Mga Rekomendasyong Mapagkakatiwalaan Mo",
+      "description": "Ang kakayahang makita at tiwala sa affiliate marketing ay nangangahulugan ng mga rekomendasyong angkop sa iyo nang walang nakatagong bayarin o disbentaha.",
+      "keywords": "Affiliate Marketing, Paliwanag sa mga affiliate link, Kakayahang makita sa affiliate marketing, Suporta sa pamamagitan ng mga affiliate link, Mga rekomendasyong walang disbentaha, Cookies at tracking sa affiliate marketing, Mapagkakatiwalaang affiliate partners, Transparent na mga programang kaakibat, Affiliate partnerships, Libreng paggamit ng website, Mga benepisyo ng affiliate links, Mga rekomendasyon ng produkto, Naiintindihang mga programang kaakibat, Walang karagdagang gastos sa affiliate"
+    },
+    "nl": {
+      "title": "Transparantie in Affiliate Marketing voor aanbevelingen waarop je kunt vertrouwen",
+      "description": "Transparantie en vertrouwen in affiliate marketing betekent aanbevelingen die perfect bij jou passen zonder verborgen kosten of nadelen.",
+      "keywords": "Affiliate marketing, Affiliate links uitgelegd, Transparantie in affiliate marketing, Ondersteuning via affiliate links, Aanbevelingen zonder nadelen, Cookies en tracking in affiliate marketing, Betrouwbare affiliate partners, Transparante partnerprogramma's, Affiliate partnerschappen, Gratis gebruik van de website, Voordelen van affiliate links, Productaanbevelingen, Begrijpelijke partnerprogramma's, Geen extra kosten affiliate"
+    },
+    "sv": {
+      "title": "Transparens inom Affiliate marknadsföring med rekommendationer du kan lita på",
+      "description": "Transparens och förtroende inom affiliate marknadsföring ger dig rekommendationer som passar dig perfekt helt utan dolda avgifter eller nackdelar.",
+      "keywords": "Affiliate marknadsföring, Förklaring av affiliate länkar, Transparens inom affiliate marknadsföring, Stöd via affiliate länkar, Rekommendationer utan nackdelar, Cookies och spårning inom affiliate marknadsföring, Pålitliga affiliate partners, Transparenta partnerprogram, Affiliate partnerskap, Gratis användning av webbplatsen, Fördelar med affiliate länkar, Produktrekommendationer, Förståeliga partnerprogram, Inga extra kostnader affiliate"
+    },
+    "pl": {
+      "title": "Przejrzystość w Marketingu Partnerskim dla rekomendacji którym możesz zaufać",
+      "description": "Przejrzystość i zaufanie w marketingu partnerskim to rekomendacje idealnie dopasowane do Ciebie bez ukrytych opłat czy wad.",
+      "keywords": "Marketing partnerski, Wyjaśnienie linków partnerskich, Przejrzystość w marketingu partnerskim, Wsparcie poprzez linki partnerskie, Rekomendacje bez wad, Cookies i śledzenie w marketingu partnerskim, Zaufani partnerzy, Przejrzyste programy partnerskie, Partnerstwa afiliacyjne, Darmowe korzystanie z witryny, Korzyści z linków partnerskich, Rekomendacje produktów, Zrozumiałe programy partnerskie, Brak dodatkowych kosztów partnerskich"
+    },
+    "cs": {
+      "title": "Transparentnost v Affiliate Marketingu pro doporučení kterým můžeš důvěřovat",
+      "description": "Transparentnost a důvěra v affiliate marketingu znamená doporučení která ti vyhovují bez skrytých poplatků nebo nevýhod.",
+      "keywords": "Affiliate marketing, Vysvětlení affiliate odkazů, Transparentnost v affiliate marketingu, Podpora prostřednictvím affiliate odkazů, Doporučení bez nevýhod, Cookies a sledování v affiliate marketingu, Důvěryhodní partneři, Transparentní partnerské programy, Affiliate partnerství, Bezplatné používání webu, Výhody affiliate odkazů, Doporučení produktů, Srozumitelné partnerské programy, Žádné další náklady affiliate"
+    },
+    "hu": {
+      "title": "Átláthatóság az Affiliate Marketingben a megbízható ajánlásokért",
+      "description": "Az átláthatóság és bizalom az affiliate marketingben olyan ajánlásokat jelent amelyek tökéletesen illenek hozzád rejtett díjak és hátrányok nélkül.",
+      "keywords": "Affiliate marketing, Affiliate linkek magyarázata, Átláthatóság az affiliate marketingben, Támogatás affiliate linkeken keresztül, Hátrányok nélküli ajánlások, Sütik és nyomon követés az affiliate marketingben, Megbízható partnerek, Átlátható partnerprogramok, Affiliate partnerségek, Ingyenes webhelyhasználat, Affiliate linkek előnyei, Termékajánlások, Érthető partnerprogramok, Nincsenek további költségek affiliate"
+    },
+    "ro": {
+      "title": "Transparență în Marketingul Afiliat pentru recomandări în care poți avea încredere",
+      "description": "Transparența și încrederea în marketingul afiliat înseamnă recomandări potrivite pentru tine fără taxe ascunse sau dezavantaje.",
+      "keywords": "Marketing afiliat, Explicația linkurilor de afiliere, Transparență în marketingul afiliat, Suport prin linkuri de afiliere, Recomandări fără dezavantaje, Cookie uri și urmărire în marketingul afiliat, Parteneri de încredere, Programe de parteneriat transparente, Parteneriate de afiliere, Utilizare gratuită a site ului, Beneficii ale linkurilor de afiliere, Recomandări de produse, Programe de parteneriat clare, Fără costuri suplimentare afiliere"
+    },
+    "bg": {
+      "title": "Прозрачност в Афилиейт Маркетинга за препоръки на които можеш да се довериш",
+      "description": "Прозрачност и доверие в афилиейт маркетинга означава препоръки които са идеални за теб без скрити такси или недостатъци.",
+      "keywords": "Афилиейт маркетинг, Обяснение на афилиейт линкове, Прозрачност в афилиейт маркетинга, Поддръжка чрез афилиейт линкове, Препоръки без недостатъци, Бисквитки и проследяване в афилиейт маркетинга, Надеждни афилиейт партньори, Прозрачни партньорски програми, Афилиейт партньорства, Безплатно използване на уебсайта, Предимства на афилиейт линковете, Препоръки за продукти, Разбираеми партньорски програми, Без допълнителни разходи афилиейт"
+    }
+        
+      },
+
+
+
+      "frontend_developer": {
+    "en": {
+      "title": "Frontend Developer with Strapi Backend Experience for Modern Web Development with React, JavaScript, HTML5, and CSS3",
+      "description": "Looking for a Frontend Developer? Learn more about my work with React, JavaScript, HTML5, CSS3, and my backend experience with Strapi for dynamic and interactive websites!",
+      "keywords": "Frontend Developer, Web development with React, JavaScript and HTML5, CSS3 and responsive designs, Dynamic websites, User-friendly web development, Creative web development, Modern technologies in web development, Frontend development for businesses, Creating interactive websites, React Developer, Advancements in web development, Projects with HTML5 and CSS3, Dedicated Frontend Developer, Creating digital experiences, Strapi Backend Experience, Headless CMS Strapi"
+    },
+    "de": {
+      "title": "Frontend Developer mit Strapi Backend-Erfahrung für moderne Webentwicklung mit React, JavaScript, HTML5 und CSS3",
+      "description": "Suchen Sie einen Frontend Developer? Erfahren Sie mehr über meine Arbeit mit React, JavaScript, HTML5 und CSS3 sowie meine Backend-Erfahrung mit Strapi für dynamische und interaktive Webseiten!",
+      "keywords": "Frontend Developer, Webentwicklung mit React, JavaScript und HTML5, CSS3 und responsive Designs, Dynamische Webseiten, Benutzerfreundliche Webentwicklung, Kreative Webentwicklung, Moderne Technologien in der Webentwicklung, Frontend-Entwicklung für Unternehmen, Interaktive Webseiten erstellen, React Developer, Fortschritte in Webentwicklung, Projekte mit HTML5 und CSS3, Engagierter Frontend Developer, Digitale Erlebnisse gestalten, Strapi Backend-Erfahrung, Headless CMS Strapi"
+    },
+    "fr": {
+      "title": "Développeur Frontend avec Expérience Backend Strapi pour le Développement Web Moderne avec React, JavaScript, HTML5 et CSS3",
+      "description": "Vous cherchez un développeur frontend ? Découvrez mon travail avec React, JavaScript, HTML5 et CSS3, ainsi que mon expérience backend avec Strapi pour des sites web dynamiques et interactifs !",
+      "keywords": "Développeur Frontend, Développement web avec React, JavaScript et HTML5, CSS3 et conceptions responsives, Sites web dynamiques, Développement web convivial, Développement web créatif, Technologies modernes du web, Développement frontend pour entreprises, Création de sites interactifs, Développeur React, Avancées dans le développement web, Projets avec HTML5 et CSS3, Développeur frontend engagé, Création d'expériences digitales, Expérience Backend Strapi, Headless CMS Strapi"
+    },
+    "it": {
+      "title": "Sviluppatore Frontend con Esperienza Backend Strapi per lo Sviluppo Web Moderno con React, JavaScript, HTML5 e CSS3",
+      "description": "Cerchi uno sviluppatore frontend? Scopri di più sul mio lavoro con React, JavaScript, HTML5 e CSS3 e la mia esperienza backend con Strapi per siti web dinamici e interattivi!",
+      "keywords": "Sviluppatore Frontend, Sviluppo web con React, JavaScript e HTML5, CSS3 e design responsivi, Siti web dinamici, Sviluppo web user-friendly, Sviluppo web creativo, Tecnologie moderne per il web, Sviluppo frontend per aziende, Creazione di siti interattivi, Sviluppatore React, Progresso nello sviluppo web, Progetti con HTML5 e CSS3, Sviluppatore frontend dedicato, Creare esperienze digitali, Esperienza Backend Strapi, Headless CMS Strapi"
+    },
+    "es": {
+      "title": "Desarrollador Frontend con Experiencia Backend en Strapi para el Desarrollo Web Moderno con React, JavaScript, HTML5 y CSS3",
+      "description": "¿Buscas un desarrollador frontend? Conoce más sobre mi trabajo con React, JavaScript, HTML5 y CSS3, y mi experiencia backend con Strapi para sitios web dinámicos e interactivos.",
+      "keywords": "Desarrollador Frontend, Desarrollo web con React, JavaScript y HTML5, CSS3 y diseños responsivos, Sitios web dinámicos, Desarrollo web amigable, Desarrollo web creativo, Tecnologías modernas en el desarrollo web, Desarrollo frontend para empresas, Creación de sitios interactivos, Desarrollador React, Avances en el desarrollo web, Proyectos con HTML5 y CSS3, Desarrollador frontend dedicado, Crear experiencias digitales, Experiencia Backend en Strapi, Headless CMS Strapi"
+    },
+    "pt": {
+      "title": "Desenvolvedor Frontend com Experiência Backend em Strapi para o Desenvolvimento Web Moderno com React, JavaScript, HTML5 e CSS3",
+      "description": "Procurando um desenvolvedor frontend? Saiba mais sobre meu trabalho com React, JavaScript, HTML5 e CSS3, e minha experiência backend com Strapi para sites dinâmicos e interativos!",
+      "keywords": "Desenvolvedor Frontend, Desenvolvimento web com React, JavaScript e HTML5, CSS3 e designs responsivos, Sites dinâmicos, Desenvolvimento web amigável, Desenvolvimento web criativo, Tecnologias modernas no desenvolvimento web, Desenvolvimento frontend para empresas, Criação de sites interativos, Desenvolvedor React, Avanços no desenvolvimento web, Projetos com HTML5 e CSS3, Desenvolvedor frontend dedicado, Criar experiências digitais, Experiência Backend em Strapi, Headless CMS Strapi"
+    },
+    "ru": {
+      "title": "Фронтенд-разработчик с опытом бэкенда на Strapi для современной веб-разработки с React, JavaScript, HTML5 и CSS3",
+      "description": "Ищете фронтенд-разработчика? Узнайте больше о моей работе с React, JavaScript, HTML5 и CSS3, а также об опыте работы с бэкендом на Strapi для создания динамичных и интерактивных веб-сайтов!",
+      "keywords": "Фронтенд-разработчик, Веб-разработка с React, JavaScript и HTML5, CSS3 и адаптивный дизайн, Динамичные веб-сайты, Удобная веб-разработка, Креативная веб-разработка, Современные технологии веб-разработки, Фронтенд-разработка для бизнеса, Создание интерактивных сайтов, Разработчик React, Прогресс в веб-разработке, Проекты с HTML5 и CSS3, Увлеченный фронтенд-разработчик, Создание цифровых опытов, Опыт бэкенда на Strapi, Headless CMS Strapi"
+    },
+    "ja": {
+      "title": "フロントエンド開発者（Strapiバックエンド経験あり）React、JavaScript、HTML5、CSS3によるモダンなWeb開発",
+      "description": "フロントエンド開発者をお探しですか？React、JavaScript、HTML5、CSS3を使用した開発や、Strapiバックエンドの経験を活かした動的でインタラクティブなウェブサイト制作について詳しくご紹介します。",
+      "keywords": "フロントエンド開発者, Reactを使ったウェブ開発, JavaScriptとHTML5, CSS3とレスポンシブデザイン, 動的なウェブサイト, 使いやすいウェブ開発, 創造的なウェブ開発, モダンなウェブ開発技術, ビジネス向けフロントエンド開発, インタラクティブなウェブサイトの作成, React開発者, ウェブ開発の進展, HTML5とCSS3のプロジェクト, 献身的なフロントエンド開発者, デジタル体験を作る, Strapiバックエンド経験, Headless CMS Strapi"
+    },
+    "ko": {
+      "title": "프론트엔드 개발자 (Strapi 백엔드 경험 보유) React, JavaScript, HTML5 및 CSS3를 활용한 최신 웹 개발",
+      "description": "프론트엔드 개발자를 찾고 계신가요? React, JavaScript, HTML5 및 CSS3를 활용한 작업과 Strapi 백엔드 경험을 바탕으로 한 동적이고 인터랙티브 웹사이트 개발에 대해 알아보세요!",
+      "keywords": "프론트엔드 개발자, React로 웹 개발, JavaScript와 HTML5, CSS3와 반응형 디자인, 동적 웹사이트, 사용자 친화적인 웹 개발, 창의적인 웹 개발, 현대적인 웹 개발 기술, 비즈니스를 위한 프론트엔드 개발, 인터랙티브 웹사이트 생성, React 개발자, 웹 개발의 진보, HTML5와 CSS3 프로젝트, 헌신적인 프론트엔드 개발자, 디지털 경험 창출, Strapi 백엔드 경험, Headless CMS Strapi"
+    },
+    "zh": {
+      "title": "前端开发者（具备Strapi后端经验）使用React、JavaScript、HTML5和CSS3的现代Web开发",
+      "description": "正在寻找前端开发者？了解更多关于我使用React、JavaScript、HTML5和CSS3的工作，以及我的Strapi后端经验，用于开发动态和交互式网站！",
+      "keywords": "前端开发者, 使用React的Web开发, JavaScript和HTML5, CSS3和响应式设计, 动态网站, 用户友好的Web开发, 创意Web开发, 现代Web开发技术, 面向企业的前端开发, 创建交互式网站, React开发者, Web开发的进展, HTML5和CSS3项目, 专注的前端开发者, 创建数字体验, Strapi后端经验, Headless CMS Strapi"
+    },
+    "vi": {
+      "title": "Lập Trình Viên Frontend có Kinh Nghiệm Backend với Strapi cho Phát Triển Web Hiện Đại với React, JavaScript, HTML5 và CSS3",
+      "description": "Bạn đang tìm một lập trình viên frontend? Tìm hiểu thêm về công việc của tôi với React, JavaScript, HTML5 và CSS3 cùng kinh nghiệm backend với Strapi để tạo các trang web động và tương tác!",
+      "keywords": "Lập trình viên Frontend, Phát triển web với React, JavaScript và HTML5, CSS3 và thiết kế đáp ứng, Trang web động, Phát triển web thân thiện người dùng, Phát triển web sáng tạo, Công nghệ hiện đại trong phát triển web, Phát triển frontend cho doanh nghiệp, Tạo trang web tương tác, Lập trình viên React, Tiến bộ trong phát triển web, Dự án với HTML5 và CSS3, Lập trình viên frontend tận tâm, Tạo trải nghiệm kỹ thuật số, Kinh nghiệm Backend với Strapi, Headless CMS Strapi"
+    },
+    "th": {
+      "title": "นักพัฒนา Frontend พร้อมประสบการณ์ Backend ด้วย Strapi สำหรับการพัฒนาเว็บสมัยใหม่ด้วย React, JavaScript, HTML5 และ CSS3",
+      "description": "กำลังมองหานักพัฒนา Frontend อยู่ใช่ไหม? เรียนรู้เพิ่มเติมเกี่ยวกับการทำงานของฉันกับ React, JavaScript, HTML5 และ CSS3 รวมถึงประสบการณ์ Backend ด้วย Strapi สำหรับเว็บไซต์ที่มีความเคลื่อนไหวและโต้ตอบได้!",
+      "keywords": "นักพัฒนา Frontend, การพัฒนาเว็บด้วย React, JavaScript และ HTML5, CSS3 และการออกแบบที่ตอบสนองได้, เว็บไซต์ที่มีความเคลื่อนไหว, การพัฒนาเว็บที่เป็นมิตรต่อผู้ใช้, การพัฒนาเว็บสร้างสรรค์, เทคโนโลยีสมัยใหม่ในการพัฒนาเว็บ, การพัฒนา Frontend สำหรับธุรกิจ, การสร้างเว็บไซต์เชิงโต้ตอบ, นักพัฒนา React, ความก้าวหน้าในการพัฒนาเว็บ, โครงการที่ใช้ HTML5 และ CSS3, นักพัฒนา Frontend ที่ทุ่มเท, การสร้างประสบการณ์ดิจิทัล, ประสบการณ์ Backend ด้วย Strapi, Headless CMS Strapi"
+    },
+    "fil": {
+      "title": "Frontend Developer na may Karanasan sa Strapi Backend para sa Modernong Web Development gamit ang React, JavaScript, HTML5, at CSS3",
+      "description": "Naghahanap ka ba ng Frontend Developer? Alamin ang higit pa tungkol sa aking trabaho gamit ang React, JavaScript, HTML5, at CSS3, pati na rin ang aking karanasan sa backend na may Strapi para sa mga dynamic at interactive na website!",
+      "keywords": "Frontend Developer, Web development gamit ang React, JavaScript at HTML5, CSS3 at mga responsive designs, Mga dynamic na website, User-friendly na web development, Creative na web development, Modernong teknolohiya sa web development, Frontend development para sa negosyo, Paglikha ng interactive na mga website, React Developer, Mga pagsulong sa web development, Mga proyekto gamit ang HTML5 at CSS3, Dedikadong Frontend Developer, Paggawa ng digital na karanasan, Karanasan sa Strapi Backend, Headless CMS Strapi"
+    },
+    "nl": {
+      "title": "Frontend Developer met Strapi Backend Ervaring voor Moderne Webontwikkeling met React, JavaScript, HTML5 en CSS3",
+      "description": "Op zoek naar een frontend developer? Lees meer over mijn werk met React, JavaScript, HTML5 en CSS3, evenals mijn backend-ervaring met Strapi voor dynamische en interactieve websites!",
+      "keywords": "Frontend Developer, Webontwikkeling met React, JavaScript en HTML5, CSS3 en responsieve ontwerpen, Dynamische websites, Gebruiksvriendelijke webontwikkeling, Creatieve webontwikkeling, Moderne technologieën in webontwikkeling, Frontend-ontwikkeling voor bedrijven, Interactieve websites maken, React Developer, Vooruitgang in webontwikkeling, Projecten met HTML5 en CSS3, Toegewijde Frontend Developer, Digitale ervaringen creëren, Strapi Backend Ervaring, Headless CMS Strapi"
+    },
+    "sv": {
+      "title": "Frontend-utvecklare med Strapi Backend-erfarenhet för Modern webbutveckling med React, JavaScript, HTML5 och CSS3",
+      "description": "Letar du efter en frontend-utvecklare? Läs mer om mitt arbete med React, JavaScript, HTML5 och CSS3, samt min backend-erfarenhet med Strapi för dynamiska och interaktiva webbplatser!",
+      "keywords": "Frontend-utvecklare, Webbutveckling med React, JavaScript och HTML5, CSS3 och responsiv design, Dynamiska webbplatser, Användarvänlig webbutveckling, Kreativ webbutveckling, Moderna teknologier inom webbutveckling, Frontend-utveckling för företag, Skapa interaktiva webbplatser, React-utvecklare, Framsteg inom webbutveckling, Projekt med HTML5 och CSS3, Engagerad frontend-utvecklare, Skapa digitala upplevelser, Strapi Backend-erfarenhet, Headless CMS Strapi"
+    },
+    "pl": {
+      "title": "Frontend Developer z Doświadczeniem Backendowym w Strapi dla Nowoczesnego Tworzenia Stron Internetowych z React, JavaScript, HTML5 i CSS3",
+      "description": "Szukasz frontend developera? Dowiedz się więcej o mojej pracy z React, JavaScript, HTML5 i CSS3 oraz moim doświadczeniu backendowym w Strapi dla dynamicznych i interaktywnych stron internetowych!",
+      "keywords": "Frontend Developer, Tworzenie stron z React, JavaScript i HTML5, CSS3 i responsywny design, Dynamiczne strony internetowe, Przyjazne użytkownikowi tworzenie stron, Kreatywne tworzenie stron internetowych, Nowoczesne technologie w tworzeniu stron, Frontend dla firm, Tworzenie interaktywnych stron internetowych, React Developer, Postępy w tworzeniu stron, Projekty z HTML5 i CSS3, Zaangażowany Frontend Developer, Tworzenie cyfrowych doświadczeń, Doświadczenie Backendowe w Strapi, Headless CMS Strapi"
+    },
+    "cs": {
+      "title": "Frontend Developer se Zkušenostmi s Backendem ve Strapi pro Moderní Vývoj Webu s React, JavaScript, HTML5 a CSS3",
+      "description": "Hledáte frontend developera? Zjistěte více o mé práci s React, JavaScript, HTML5 a CSS3 a mých zkušenostech s backendem ve Strapi pro dynamické a interaktivní webové stránky!",
+      "keywords": "Frontend Developer, Vývoj webu s React, JavaScript a HTML5, CSS3 a responzivní design, Dynamické webové stránky, Uživatelsky přívětivý vývoj webu, Kreativní vývoj webu, Moderní technologie ve vývoji webu, Frontend pro firmy, Tvorba interaktivních webových stránek, React Developer, Pokroky ve vývoji webu, Projekty s HTML5 a CSS3, Oddaný Frontend Developer, Tvorba digitálních zážitků, Zkušenosti s Backendem ve Strapi, Headless CMS Strapi"
+    },
+    "hu": {
+      "title": "Frontend fejlesztő Strapi Backend tapasztalattal a Modern webfejlesztéshez React, JavaScript, HTML5 és CSS3 használatával",
+      "description": "Frontend fejlesztőt keres? Tudjon meg többet a munkámról React, JavaScript, HTML5 és CSS3 használatával, valamint Strapi backend tapasztalatomról dinamikus és interaktív weboldalakhoz!",
+      "keywords": "Frontend fejlesztő, Webfejlesztés React, JavaScript és HTML5 használatával, CSS3 és reszponzív dizájn, Dinamikus weboldalak, Felhasználóbarát webfejlesztés, Kreatív webfejlesztés, Modern technológiák a webfejlesztésben, Frontend fejlesztés vállalatok számára, Interaktív weboldalak készítése, React fejlesztő, Haladás a webfejlesztésben, Projektek HTML5 és CSS3 használatával, Elkötelezett Frontend fejlesztő, Digitális élmények létrehozása, Strapi Backend tapasztalat, Headless CMS Strapi"
+    },
+    "ro": {
+      "title": "Dezvoltator Frontend cu Experiență Backend în Strapi pentru Dezvoltare Web Modernă cu React, JavaScript, HTML5 și CSS3",
+      "description": "Căutați un dezvoltator frontend? Aflați mai multe despre munca mea cu React, JavaScript, HTML5 și CSS3, precum și experiența mea backend cu Strapi pentru site-uri web dinamice și interactive!",
+      "keywords": "Dezvoltator Frontend, Dezvoltare web cu React, JavaScript și HTML5, CSS3 și design responsive, Site-uri web dinamice, Dezvoltare web prietenoasă, Dezvoltare web creativă, Tehnologii moderne în dezvoltare web, Dezvoltare frontend pentru afaceri, Crearea site-urilor interactive, Dezvoltator React, Progrese în dezvoltare web, Proiecte cu HTML5 și CSS3, Dezvoltator frontend dedicat, Crearea experiențelor digitale, Experiență Backend în Strapi, Headless CMS Strapi"
+    },
+    "bg": {
+      "title": "Фронтенд Разработчик с Опит в Бекенда със Strapi за Модерен Уеб Развой с React, JavaScript, HTML5 и CSS3",
+      "description": "Търсите фронтенд разработчик? Научете повече за моята работа с React, JavaScript, HTML5 и CSS3, както и опита ми в бекенда със Strapi за динамични и интерактивни уебсайтове!",
+      "keywords": "Фронтенд Разработчик, Уеб разработка с React, JavaScript и HTML5, CSS3 и адаптивен дизайн, Динамични уебсайтове, Удобна уеб разработка, Креативна уеб разработка, Модерни технологии за уеб разработка, Фронтенд за бизнеси, Създаване на интерактивни уебсайтове, React Разработчик, Напредък в уеб разработката, Проекти с HTML5 и CSS3, Отдаден Фронтенд Разработчик, Създаване на дигитални изживявания, Опит в Бекенда със Strapi, Headless CMS Strapi"
+    }
+        
+      },
+
+
+
+      "kontakt": {
+    "en": {
+      "title": "Roman Messmer is your contact person at Media4U",
+      "description": "Questions? Contact Roman Messmer from Media4U in Switzerland. We are available via email and phone to discuss your concerns.",
+      "keywords": "Contact Media4U, Roman Messmer Contact, Media4U Switzerland Address, Haldenweg 1 Bülach, Advertising Partner Contact, Email Media4U, Phone Media4U Switzerland, Contact Form Media4U, Advertising Partner Switzerland, Media4U Support, Media4U Roman Messmer, Bülach Contact Media4U"
+    },
+    "de": {
+      "title": "Roman Messmer ist dein Ansprechpartner bei Media4U",
+      "description": "Fragen? Kontaktiere Roman Messmer von Media4U in der Schweiz. Wir sind per E-Mail und Telefon erreichbar, um deine Anliegen zu besprechen.",
+      "keywords": "Kontakt Media4U, Roman Messmer Kontakt, Media4U Schweiz Adresse, Haldenweg 1 Bülach, Werbepartner Kontakt, E-Mail Media4U, Telefon Media4U Schweiz, Kontaktformular Media4U, Werbepartner Schweiz, Media4U Support, Media4U Roman Messmer, Bülach Kontakt Media4U"
+    },
+    "fr": {
+      "title": "Roman Messmer est ton interlocuteur chez Media4U",
+      "description": "Des questions ? Contacte Roman Messmer de Media4U en Suisse. Nous sommes disponibles par e-mail et par téléphone pour répondre à tes préoccupations.",
+      "keywords": "Contact Media4U, Contact Roman Messmer, Adresse Media4U Suisse, Haldenweg 1 Bülach, Contact Partenaire Publicitaire, E-mail Media4U, Téléphone Media4U Suisse, Formulaire de Contact Media4U, Partenaire Publicitaire Suisse, Support Media4U, Media4U Roman Messmer, Bülach Contact Media4U"
+    },
+    "it": {
+      "title": "Roman Messmer è il tuo referente presso Media4U",
+      "description": "Domande? Contatta Roman Messmer di Media4U in Svizzera. Siamo disponibili via e-mail e telefono per discutere delle tue esigenze.",
+      "keywords": "Contatto Media4U, Contatto Roman Messmer, Indirizzo Media4U Svizzera, Haldenweg 1 Bülach, Contatto Partner Pubblicitario, E-mail Media4U, Telefono Media4U Svizzera, Modulo di Contatto Media4U, Partner Pubblicitario Svizzera, Supporto Media4U, Media4U Roman Messmer, Bülach Contatto Media4U"
+    },
+    "es": {
+      "title": "Roman Messmer es tu persona de contacto en Media4U",
+      "description": "¿Preguntas? Contacta con Roman Messmer de Media4U en Suiza. Estamos disponibles por correo electrónico y teléfono para resolver tus dudas.",
+      "keywords": "Contacto Media4U, Contacto Roman Messmer, Dirección Media4U Suiza, Haldenweg 1 Bülach, Contacto Socio Publicitario, Correo Electrónico Media4U, Teléfono Media4U Suiza, Formulario de Contacto Media4U, Socio Publicitario Suiza, Soporte Media4U, Media4U Roman Messmer, Bülach Contacto Media4U"
+    },
+    "pt": {
+      "title": "Roman Messmer é o teu contato na Media4U",
+      "description": "Perguntas? Entra em contato com Roman Messmer da Media4U na Suíça. Estamos disponíveis por e-mail e telefone para discutir as tuas dúvidas.",
+      "keywords": "Contato Media4U, Contato Roman Messmer, Endereço Media4U Suíça, Haldenweg 1 Bülach, Contato Parceiro Publicitário, E-mail Media4U, Telefone Media4U Suíça, Formulário de Contato Media4U, Parceiro Publicitário Suíça, Suporte Media4U, Media4U Roman Messmer, Bülach Contato Media4U"
+    },
+    "ru": {
+      "title": "Роман Мессмер твое контактное лицо в Media4U",
+      "description": "Вопросы? Свяжись с Романом Мессмером из Media4U в Швейцарии. Мы доступны по электронной почте и телефону, чтобы обсудить твои вопросы.",
+      "keywords": "Контакт Media4U, Роман Мессмер Контакт, Адрес Media4U Швейцария, Haldenweg 1 Bülach, Контакт Рекламный Партнер, Электронная Почта Media4U, Телефон Media4U Швейцария, Форма Контакта Media4U, Рекламный Партнер Швейцария, Поддержка Media4U, Media4U Роман Мессмер, Bülach Контакт Media4U"
+    },
+    "ja": {
+      "title": "Media4Uのあなたの連絡先はロマン・メスメルです",
+      "description": "質問がありますか？スイスのMedia4Uのロマン・メスメルに連絡してください。メールや電話でご相談いただけます。",
+      "keywords": "Media4U連絡先, ロマン・メスメル連絡先, Media4Uスイス住所, Haldenweg 1 Bülach, 広告パートナー連絡先, Media4Uメール, Media4Uスイス電話, Media4U問い合わせフォーム, スイス広告パートナー, Media4Uサポート, Media4Uロマン・メスメル, Bülach Media4U連絡先"
+    },
+    "ko": {
+      "title": "Media4U의 연락 담당자는 로만 메스머입니다",
+      "description": "질문이 있으신가요? 스위스 Media4U의 로만 메스머에게 연락하세요. 이메일과 전화로 문의 가능합니다.",
+      "keywords": "Media4U 연락처, 로만 메스머 연락처, Media4U 스위스 주소, Haldenweg 1 Bülach, 광고 파트너 연락처, Media4U 이메일, Media4U 스위스 전화, Media4U 문의 양식, 스위스 광고 파트너, Media4U 지원, Media4U 로만 메스머, Bülach Media4U 연락처"
+    },
+    "zh": {
+      "title": "Roman Messmer 是你在 Media4U 的联系人",
+      "description": "有问题？联系瑞士 Media4U 的 Roman Messmer。我们通过电子邮件和电话为你提供帮助。",
+      "keywords": "联系 Media4U, Roman Messmer 联系, Media4U 瑞士地址, Haldenweg 1 Bülach, 广告合作伙伴联系方式, 电子邮件 Media4U, 电话 Media4U 瑞士, 联系表格 Media4U, 广告合作伙伴瑞士, Media4U 支持, Media4U Roman Messmer, Bülach 联系 Media4U"
+    },
+    "vi": {
+      "title": "Roman Messmer là người liên hệ của bạn tại Media4U",
+      "description": "Có câu hỏi? Liên hệ Roman Messmer từ Media4U tại Thụy Sĩ. Chúng tôi sẵn sàng hỗ trợ qua email và điện thoại.",
+      "keywords": "Liên hệ Media4U, Liên hệ Roman Messmer, Địa chỉ Media4U Thụy Sĩ, Haldenweg 1 Bülach, Liên hệ Đối tác Quảng cáo, Email Media4U, Điện thoại Media4U Thụy Sĩ, Biểu mẫu Liên hệ Media4U, Đối tác Quảng cáo Thụy Sĩ, Hỗ trợ Media4U, Media4U Roman Messmer, Bülach Liên hệ Media4U"
+    },
+    "th": {
+      "title": "Roman Messmer คือผู้ติดต่อของคุณที่ Media4U",
+      "description": "มีคำถาม? ติดต่อ Roman Messmer จาก Media4U ในสวิตเซอร์แลนด์ เราพร้อมให้บริการทางอีเมลและโทรศัพท์เพื่อช่วยเหลือคุณ",
+      "keywords": "ติดต่อ Media4U, ติดต่อ Roman Messmer, ที่อยู่ Media4U สวิตเซอร์แลนด์, Haldenweg 1 Bülach, ติดต่อพันธมิตรโฆษณา, อีเมล Media4U, โทรศัพท์ Media4U สวิตเซอร์แลนด์, แบบฟอร์มติดต่อ Media4U, พันธมิตรโฆษณาสวิตเซอร์แลนด์, การสนับสนุน Media4U, Media4U Roman Messmer, Bülach ติดต่อ Media4U"
+    },
+    "fil": {
+      "title": "Si Roman Messmer ang iyong contact sa Media4U",
+      "description": "May mga tanong? Makipag-ugnayan kay Roman Messmer ng Media4U sa Switzerland. Available kami sa email at telepono para tugunan ang iyong mga alalahanin.",
+      "keywords": "Contact Media4U, Roman Messmer Contact, Address ng Media4U Switzerland, Haldenweg 1 Bülach, Contact Partner ng Advertisement, Email Media4U, Telepono Media4U Switzerland, Form ng Contact Media4U, Advertisement Partner Switzerland, Support ng Media4U, Media4U Roman Messmer, Bülach Contact Media4U"
+    },
+    "nl": {
+      "title": "Roman Messmer is jouw contactpersoon bij Media4U",
+      "description": "Vragen? Neem contact op met Roman Messmer van Media4U in Zwitserland. Wij zijn bereikbaar via e-mail en telefoon om jouw vragen te bespreken.",
+      "keywords": "Contact Media4U, Roman Messmer Contact, Media4U Zwitserland Adres, Haldenweg 1 Bülach, Contact Advertentiepartner, E-mail Media4U, Telefoon Media4U Zwitserland, Contactformulier Media4U, Advertentiepartner Zwitserland, Media4U Ondersteuning, Media4U Roman Messmer, Bülach Contact Media4U"
+    },
+    "sv": {
+      "title": "Roman Messmer är din kontaktperson på Media4U",
+      "description": "Frågor? Kontakta Roman Messmer från Media4U i Schweiz. Vi är tillgängliga via e-post och telefon för att diskutera dina frågor.",
+      "keywords": "Kontakt Media4U, Roman Messmer Kontakt, Media4U Schweiz Adress, Haldenweg 1 Bülach, Kontakt Annonsörspartner, E-post Media4U, Telefon Media4U Schweiz, Kontaktformulär Media4U, Annonsörspartner Schweiz, Media4U Support, Media4U Roman Messmer, Bülach Kontakt Media4U"
+    },
+    "pl": {
+      "title": "Roman Messmer to Twój kontakt w Media4U",
+      "description": "Pytania? Skontaktuj się z Romanem Messmerem z Media4U w Szwajcarii. Jesteśmy dostępni przez e-mail i telefon, aby omówić Twoje pytania.",
+      "keywords": "Kontakt Media4U, Roman Messmer Kontakt, Adres Media4U Szwajcaria, Haldenweg 1 Bülach, Kontakt Partner Reklamowy, E-mail Media4U, Telefon Media4U Szwajcaria, Formularz Kontaktowy Media4U, Partner Reklamowy Szwajcaria, Wsparcie Media4U, Media4U Roman Messmer, Bülach Kontakt Media4U"
+    },
+    "cs": {
+      "title": "Roman Messmer je tvá kontaktní osoba v Media4U",
+      "description": "Máš dotazy? Kontaktuj Romana Messmera z Media4U ve Švýcarsku. Jsme k dispozici prostřednictvím e-mailu a telefonu, abychom prodiskutovali tvé dotazy.",
+      "keywords": "Kontakt Media4U, Roman Messmer Kontakt, Adresa Media4U Švýcarsko, Haldenweg 1 Bülach, Kontakt Reklamní Partner, E-mail Media4U, Telefon Media4U Švýcarsko, Kontaktní Formulář Media4U, Reklamní Partner Švýcarsko, Podpora Media4U, Media4U Roman Messmer, Bülach Kontakt Media4U"
+    },
+    "hu": {
+      "title": "Roman Messmer a te kapcsolattartód a Media4U-nál",
+      "description": "Kérdésed van? Vedd fel a kapcsolatot a svájci Media4U Roman Messmerével. E-mailben és telefonon elérhetőek vagyunk, hogy megvitassuk az aggályaidat.",
+      "keywords": "Kapcsolat Media4U, Roman Messmer Kapcsolat, Media4U Svájc Cím, Haldenweg 1 Bülach, Kapcsolat Hirdetési Partner, E-mail Media4U, Telefon Media4U Svájc, Kapcsolati Űrlap Media4U, Hirdetési Partner Svájc, Media4U Támogatás, Media4U Roman Messmer, Bülach Kapcsolat Media4U"
+    },
+    "ro": {
+      "title": "Roman Messmer este persoana ta de contact la Media4U",
+      "description": "Întrebări? Contactează-l pe Roman Messmer de la Media4U din Elveția. Suntem disponibili prin e-mail și telefon pentru a discuta preocupările tale.",
+      "keywords": "Contact Media4U, Contact Roman Messmer, Adresa Media4U Elveția, Haldenweg 1 Bülach, Contact Partener Publicitate, Email Media4U, Telefon Media4U Elveția, Formular Contact Media4U, Partener Publicitate Elveția, Suport Media4U, Media4U Roman Messmer, Bülach Contact Media4U"
+    },
+    "bg": {
+      "title": "Роман Месмер е твоят контакт в Media4U",
+      "description": "Въпроси? Свържи се с Роман Месмер от Media4U в Швейцария. Ние сме на разположение по имейл и телефон, за да обсъдим твоите въпроси.",
+      "keywords": "Контакт Media4U, Роман Месмер Контакт, Адрес Media4U Швейцария, Haldenweg 1 Bülach, Контакт Партньор Реклама, Имейл Media4U, Телефон Media4U Швейцария, Формуляр за Контакт Media4U, Партньор Реклама Швейцария, Поддръжка Media4U, Media4U Роман Месмер, Bülach Контакт Media4U"
+    }   
+      },
+
+      "sms_textbild": {
+    "en": {
+      "title": "Reimagined SMS Text Pictures featuring Creative Animations and Nostalgic Art",
+      "description": "Discover reinvented nostalgic SMS text pictures. They are lovingly animated, uniquely designed and easy to share. Perfect for love, friendship, parties and more.",
+      "keywords": "SMS text pictures, Nostalgic text pictures, Animated text pictures, Nokia 3210 text art, Reimagined text pictures, Love and friendship text pictures, Holiday and party animations, Adventure and action art, Sports and hobby designs, Erotic and sexy text pictures, Modern text picture animations, Handcrafted text pictures, Nostalgia through SMS, Creative text picture art"
+    },
+    "de": {
+      "title": "Neu interpretierte SMS Textbilder mit kreativen Animationen und nostalgischer Kunst",
+      "description": "Entdecke modern neu erfundene nostalgische SMS Textbilder. Sie sind liebevoll animiert, einzigartig gestaltet und ganz einfach zu teilen. Perfekt für Liebe, Freundschaft, Partys und vieles mehr.",
+      "keywords": "SMS Textbilder, Nostalgische Textbilder, Animierte Textbilder, Nokia 3210 Textkunst, Textbilder neu interpretiert, Liebe und Freundschaft Textbilder, Festtage und Party Animationen, Abenteuer und Action Kunst, Sport und Hobby Designs, Erotik und Sex Textbilder, Moderne Textbild Animationen, Handgefertigte Textbilder, Nostalgie per SMS teilen, Kreative Textbildkunst"
+    },
+    "fr": {
+      "title": "Images SMS réinventées avec des animations créatives et de l'art nostalgique",
+      "description": "Redécouvre les images SMS nostalgiques réinventées. Elles sont animées avec soin, conçues de manière unique et très faciles à partager. Parfaites pour l'amour, l'amitié, les fêtes et bien plus encore.",
+      "keywords": "Images SMS, Images textuelles nostalgiques, Images textuelles animées, Art textuel Nokia 3210, Images textuelles réinventées, Images pour amour et amitié, Animations pour fêtes et vacances, Art aventure et action, Designs sport et loisir, Images textuelles érotiques et sensuelles, Animations modernes d'images textuelles, Images textuelles artisanales, Partager la nostalgie par SMS, Art créatif d'images textuelles"
+    },
+    "it": {
+      "title": "Immagini SMS reinventate con animazioni creative e arte nostalgica",
+      "description": "Scopri le immagini SMS nostalgiche reinventate. Sono animate con cura, progettate in modo unico e facilissime da condividere. Perfette per amore, amicizia, feste e molto altro.",
+      "keywords": "Immagini SMS, Immagini testuali nostalgiche, Immagini testuali animate, Arte testuale Nokia 3210, Immagini testuali reinventate, Immagini amore e amicizia, Animazioni per feste e festività, Arte avventura e azione, Design per sport e hobby, Immagini testuali erotiche e sexy, Animazioni moderne di immagini testuali, Immagini testuali fatte a mano, Nostalgia tramite SMS, Arte creativa di immagini testuali"
+    },
+    "es": {
+      "title": "Imágenes SMS reinventadas con animaciones creativas y arte nostálgico",
+      "description": "Descubre las imágenes SMS nostálgicas reinventadas. Están animadas con amor, tienen diseños únicos y son muy fáciles de compartir. Perfectas para el amor, la amistad, las fiestas y mucho más.",
+      "keywords": "Imágenes SMS, Imágenes de texto nostálgicas, Imágenes de texto animadas, Arte de texto Nokia 3210, Imágenes de texto reinventadas, Imágenes de amor y amistad, Animaciones para fiestas y celebraciones, Arte de aventura y acción, Diseños de deportes y pasatiempos, Imágenes de texto eróticas y sensuales, Animaciones modernas de imágenes de texto, Imágenes de texto hechas a mano, Nostalgia por SMS, Arte creativo de imágenes de texto"
+    },
+    "pt": {
+      "title": "Imagens SMS reinventadas com animações criativas e arte nostálgica",
+      "description": "Descobre as imagens SMS nostálgicas reinventadas. Elas são animadas com carinho, desenhadas de forma única e muito fáceis de partilhar. Perfeitas para o amor, a amizade, festas e muito mais.",
+      "keywords": "Imagens SMS, Imagens de texto nostálgicas, Imagens de texto animadas, Arte de texto Nokia 3210, Imagens de texto reinventadas, Imagens de amor e amizade, Animações de festas e celebrações, Arte de aventura e ação, Designs de esportes e hobbies, Imagens de texto eróticas e sensuais, Animações modernas de imagens de texto, Imagens de texto feitas à mão, Nostalgia via SMS, Arte criativa de imagens de texto"
+    },
+    "ru": {
+      "title": "Переосмысленные SMS картинки с креативными анимациями и ностальгическим искусством",
+      "description": "Открой для себя переосмысленные ностальгические SMS картинки. Они с любовью анимированы, уникально оформлены и ими легко делиться. Идеально подходят для любви, дружбы, вечеринок и многого другого.",
+      "keywords": "SMS картинки, Ностальгические текстовые картинки, Анимированные текстовые картинки, Текстовое искусство Nokia 3210, Переосмысленные текстовые картинки, Картинки о любви и дружбе, Анимации для праздников и вечеринок, Искусство приключений и экшена, Дизайны спорта и хобби, Эротические и сексуальные текстовые картинки, Современные анимации текстовых картинок, Ручная работа текстовых картинок, Ностальгия через SMS, Креативное искусство текстовых картинок"
+    },
+    "ja": {
+      "title": "創造的なアニメーションと懐かしいアートで再構築されたSMSテキスト画像",
+      "description": "懐かしいSMSテキスト画像が新しく生まれ変わりました。丁寧にアニメーション化された独自のデザインで、簡単にシェアできます。愛や友情、パーティーなどにぴったりです。",
+      "keywords": "SMSテキスト画像, 懐かしいテキスト画像, アニメーション化されたテキスト画像, Nokia 3210のテキストアート, 再構築されたテキスト画像, 愛と友情のテキスト画像, 祝日とパーティーのアニメーション, 冒険とアクションのアート, スポーツと趣味のデザイン, エロティックでセクシーなテキスト画像, モダンなテキスト画像アニメーション, 手作りのテキスト画像, SMSで共有する懐かしさ, 創造的なテキスト画像アート"
+    },
+    "ko": {
+      "title": "창의적인 애니메이션과 향수를 자극하는 예술로 재창조된 SMS 텍스트 이미지",
+      "description": "향수를 자극하는 SMS 텍스트 이미지를 새롭게 만나보세요. 정성스럽게 애니메이션화된 독특한 디자인으로 쉽게 공유할 수 있습니다. 사랑, 우정, 파티 등에 완벽하게 어울립니다.",
+      "keywords": "SMS 텍스트 이미지, 향수를 자극하는 텍스트 이미지, 애니메이션화된 텍스트 이미지, Nokia 3210 텍스트 아트, 재창조된 텍스트 이미지, 사랑과 우정을 위한 텍스트 이미지, 휴일과 파티 애니메이션, 모험과 액션 아트, 스포츠와 취미 디자인, 에로틱하고 섹시한 텍스트 이미지, 현대적인 텍스트 이미지 애니메이션, 손으로 만든 텍스트 이미지, SMS를 통한 향수, 창의적인 텍스트 이미지 예술"
+    },
+    "zh": {
+      "title": "结合创意动画和怀旧艺术的重新构想短信文字图片",
+      "description": "快来体验重新构想的怀旧短信文字图片吧。它们经过精心制作的动画处理，设计独特且非常容易分享。非常适合表达爱情、友谊、聚会等。",
+      "keywords": "短信文字图片, 怀旧文字图片, 动画文字图片, Nokia 3210文字艺术, 重新构想的文字图片, 爱与友谊文字图片, 节日和聚会动画, 冒险和动作艺术, 体育和爱好设计, 性感文字图片, 现代文字图片动画, 手工文字图片, 通过短信分享怀旧, 创意文字艺术"
+    },
+    "vi": {
+      "title": "Hình ảnh SMS được tái hiện với hoạt hình sáng tạo và nghệ thuật hoài niệm",
+      "description": "Khám phá hình ảnh SMS hoài niệm được tái hiện. Chúng được làm hoạt hình tinh tế, thiết kế độc đáo và rất dễ dàng chia sẻ. Hoàn hảo cho tình yêu, tình bạn, tiệc tùng và nhiều dịp khác.",
+      "keywords": "Hình ảnh SMS, Hình ảnh văn bản hoài niệm, Hình ảnh văn bản động, Nghệ thuật văn bản Nokia 3210, Hình ảnh văn bản tái hiện, Hình ảnh tình yêu và tình bạn, Hoạt hình ngày lễ và tiệc tùng, Nghệ thuật phiêu lưu và hành động, Thiết kế thể thao và sở thích, Hình ảnh văn bản gợi cảm và quyến rũ, Hoạt hình hình ảnh văn bản hiện đại, Hình ảnh văn bản thủ công, Hoài niệm qua SMS, Nghệ thuật sáng tạo hình ảnh văn bản"
+    },
+    "th": {
+      "title": "ภาพข้อความ SMS ที่ปรับปรุงใหม่พร้อมแอนิเมชันสร้างสรรค์และศิลปะที่ชวนระลึกถึง",
+      "description": "สัมผัสภาพข้อความ SMS ที่ชวนระลึกถึงในรูปแบบใหม่ ซึ่งสร้างเป็นแอนิเมชันอย่างพิถีพิถัน ออกแบบอย่างมีเอกลักษณ์ และแบ่งปันได้ง่ายมาก เหมาะอย่างยิ่งสำหรับความรัก มิตรภาพ ปาร์ตี้ และโอกาสอื่นๆ",
+      "keywords": "ภาพข้อความ SMS, ภาพข้อความที่ชวนระลึกถึง, ภาพข้อความแอนิเมชัน, ศิลปะข้อความ Nokia 3210, ภาพข้อความที่ปรับปรุงใหม่, ภาพข้อความความรักและมิตรภาพ, แอนิเมชันวันหยุดและปาร์ตี้, ศิลปะการผจญภัยและแอ็กชัน, การออกแบบกีฬาและงานอดิเรก, ภาพข้อความเซ็กซี่และเย้ายวน, แอนิเมชันภาพข้อความสมัยใหม่, ภาพข้อความที่ทำด้วยมือ, ระลึกถึงผ่าน SMS, ศิลปะภาพข้อความสร้างสรรค์"
+    },
+    "fil": {
+      "title": "Muling Nilikhang SMS na Larawan na may Malikhaing Animasyon at Nostalgic na Sining",
+      "description": "Tuklasin ang muling nilikhang nostalgic na mga larawan ng SMS. Maingat itong in-animate, may kakaibang disenyo, at napakadaling ibahagi. Perpekto para sa pag-ibig, pagkakaibigan, mga party, at marami pa.",
+      "keywords": "SMS na larawan, Nostalgic na mga larawan ng teksto, Animated na mga larawan ng teksto, Nokia 3210 text art, Muling nilikhang mga larawan ng teksto, Mga larawan ng pag-ibig at pagkakaibigan, Animasyon para sa mga holiday at party, Sining ng pakikipagsapalaran at aksyon, Mga disenyo ng isport at libangan, Mga erotic at seksing larawan ng teksto, Modernong animasyon ng mga larawan ng teksto, Mga gawaing kamay na larawan ng teksto, Nostalgia sa pamamagitan ng SMS, Malikhaing sining ng mga larawan ng teksto"
+    },
+    "nl": {
+      "title": "Hernieuwde SMS tekstafbeeldingen met creatieve animaties en nostalgische kunst",
+      "description": "Ontdek opnieuw uitgevonden nostalgische SMS tekstafbeeldingen. Ze zijn liefdevol geanimeerd, uniek ontworpen en heel makkelijk te delen. Perfect voor liefde, vriendschap, feestjes en veel meer.",
+      "keywords": "SMS tekstafbeeldingen, Nostalgische tekstafbeeldingen, Geanimeerde tekstafbeeldingen, Nokia 3210 tekstkunst, Hernieuwde tekstafbeeldingen, Liefde en vriendschap tekstafbeeldingen, Feest en vakantieanimaties, Avontuur en actiekunst, Sport en hobbyontwerpen, Erotische en sexy tekstafbeeldingen, Moderne tekstafbeeldinganimaties, Handgemaakte tekstafbeeldingen, Nostalgie via SMS, Creatieve tekstafbeeldingskunst"
+    },
+    "sv": {
+      "title": "Omtolkade SMS textbilder med kreativa animationer och nostalgisk konst",
+      "description": "Upptäck återskapade nostalgiska SMS textbilder. De är kärleksfullt animerade, unikt designade och väldigt lätta att dela. Perfekta för kärlek, vänskap, fester och mycket mer.",
+      "keywords": "SMS textbilder, Nostalgiska textbilder, Animerade textbilder, Nokia 3210 textkonst, Omtolkade textbilder, Kärlek och vänskap textbilder, Fest och högtidsanimationer, Äventyrs och actionkonst, Sport och hobbysdesigner, Erotiska och sexiga textbilder, Moderna textbildsanimationer, Handgjorda textbilder, Nostalgi via SMS, Kreativ textbildkonst"
+    },
+    "pl": {
+      "title": "Przeprojektowane SMS owe obrazy tekstowe z kreatywnymi animacjami i nostalgiczną sztuką",
+      "description": "Odkryj na nowo nostalgiczne obrazy tekstowe SMS. Są z miłością animowane, mają unikalny design i bardzo łatwo się nimi dzielić. Idealne do wyrażania miłości, przyjaźni, na imprezy i wiele więcej.",
+      "keywords": "Obrazy tekstowe SMS, Nostalgiczne obrazy tekstowe, Animowane obrazy tekstowe, Sztuka tekstowa Nokia 3210, Przeprojektowane obrazy tekstowe, Obrazy miłości i przyjaźni, Animacje na święta i imprezy, Sztuka przygody i akcji, Projekty sportowe i hobby, Erotyczne i seksowne obrazy tekstowe, Nowoczesne animacje obrazów tekstowych, Ręcznie wykonane obrazy tekstowe, Nostalgia przez SMS, Kreatywna sztuka obrazów tekstowych"
+    },
+    "cs": {
+      "title": "Přepracované SMS textové obrázky s kreativní animací a nostalgickým uměním",
+      "description": "Objev znovu nostalgické SMS textové obrázky. Jsou s láskou animované, mají jedinečný design a velmi snadno se sdílejí. Jsou perfektní pro lásku, přátelství, večírky a mnohem více.",
+      "keywords": "SMS textové obrázky, Nostalgické textové obrázky, Animované textové obrázky, Textové umění Nokia 3210, Přepracované textové obrázky, Obrázky lásky a přátelství, Animace pro svátky a večírky, Umění dobrodružství a akce, Designy sportu a koníčků, Erotické a sexy textové obrázky, Moderní animace textových obrázků, Ručně vyrobené textové obrázky, Nostalgie přes SMS, Kreativní textové obrázkové umění"
+    },
+    "hu": {
+      "title": "Újragondolt SMS szövegképek kreatív animációkkal és nosztalgikus művészettel",
+      "description": "Fedezd fel az újragondolt nosztalgikus SMS szövegképeket. Szeretettel animáltuk őket, egyedi a dizájnjuk és nagyon könnyű megosztani őket. Tökéletesek szerelemhez, barátsághoz, partikhoz és sok máshoz.",
+      "keywords": "SMS szövegképek, Nosztalgikus szövegképek, Animált szövegképek, Nokia 3210 szöveg művészet, Újragondolt szövegképek, Szerelem és barátság szövegképek, Ünnepi és parti animációk, Kaland és akcióművészet, Sport és hobbitervek, Erotikus és szexi szövegképek, Modern szövegkép animációk, Kézzel készített szövegképek, Nosztalgia SMS en keresztül, Kreatív szövegkép művészet"
+    },
+    "ro": {
+      "title": "Imagini text SMS reinterpretate cu animații creative și artă nostalgică",
+      "description": "Descoperă imaginile text SMS nostalgice reinventate. Sunt animate cu dragoste, au un design unic și sunt foarte ușor de partajat. Perfecte pentru dragoste, prietenie, petreceri și multe altele.",
+      "keywords": "Imagini text SMS, Imagini text nostalgice, Imagini text animate, Artă text Nokia 3210, Imagini text reinterpretate, Imagini text pentru dragoste și prietenie, Animații pentru sărbători și petreceri, Artă de aventură și acțiune, Designuri pentru sport și hobby uri, Imagini text erotice și sexy, Animații moderne de imagini text, Imagini text realizate manual, Nostalgie prin SMS, Artă creativă cu imagini text"
+    },
+    "bg": {
+      "title": "Преосмислени SMS текстови картинки с креативни анимации и носталгично изкуство",
+      "description": "Открий преосмислените носталгични SMS текстови картинки. Те са внимателно анимирани, с уникален дизайн и се споделят много лесно. Перфектни са за любов, приятелство, партита и още много.",
+      "keywords": "SMS текстови картинки, Носталгични текстови картинки, Анимирани текстови картинки, Текстово изкуство Nokia 3210, Преосмислени текстови картинки, Картинки за любов и приятелство, Анимации за празници и партита, Изкуство на приключения и екшън, Спортни и хоби дизайни, Еротични и секси текстови картинки, Модерни анимации на текстови картинки, Ръчно изработени текстови картинки, Носталгия чрез SMS, Креативно изкуство с текстови картинки"
+    }
+        
+      },
+
+      "textbild2": {
+    "en": {
+      "title": "Discover the new dimension of text images with Textbild 2.0",
+      "description": "Discover the next level of SMS text images with Textbild 2.0. Creativity and modern technology are combined for your unique messages.",
+      "keywords": "Textbild 2.0, Revolutionary text images, New dimension of art, Creative SMS text images, Colors and font sizes in text images, Rotations and reflections Textbild, Free placement Textbild 2.0, Innovation meets nostalgia, Text art with modern technology, Dynamic text images, Share creative messages, Art and SMS design, Modern text art, Innovative Textbild design, Text images reinvented"
+    },
+    "de": {
+      "title": "Entdecke die neue Dimension der Textbilder mit Textbild 2.0",
+      "description": "Entdecke die nächste Stufe der SMS Textbilder mit Textbild 2.0. Hier vereinen sich Kreativität und moderne Technik für deine einzigartigen Botschaften.",
+      "keywords": "Textbild 2.0, Revolutionäre Textbilder, Neue Dimension der Kunst, Kreative SMS Textbilder, Farben und Schriftgrößen in Textbildern, Drehungen und Spiegelungen Textbild, Freie Platzierung Textbild 2.0, Innovation trifft Nostalgie, Textkunst mit moderner Technik, Dynamische Textbilder, Kreative Botschaften teilen, Kunst und SMS Design, Moderne Textkunst, Innovatives Design Textbild, Textbilder neu erfunden"
+    },
+    "fr": {
+      "title": "Découvre la nouvelle dimension des images textuelles avec Textbild 2.0",
+      "description": "Découvre le niveau supérieur des images textuelles SMS avec Textbild 2.0. Créativité et technologie moderne se réunissent pour tes messages uniques.",
+      "keywords": "Textbild 2.0, Images textuelles révolutionnaires, Nouvelle dimension de l art, Images textuelles créatives SMS, Couleurs et tailles de police dans les images textuelles, Rotations et reflets Textbild, Placement libre Textbild 2.0, Innovation et nostalgie, Art textuel avec technologie moderne, Images textuelles dynamiques, Partager des messages créatifs, Art et design SMS, Art textuel moderne, Design innovant Textbild, Images textuelles réinventées"
+    },
+    "it": {
+      "title": "Scopri la nuova dimensione delle immagini testuali con Textbild 2.0",
+      "description": "Scopri il livello successivo delle immagini testuali SMS con Textbild 2.0. Creatività e tecnologia moderna si uniscono per i tuoi messaggi unici.",
+      "keywords": "Textbild 2.0, Immagini testuali rivoluzionarie, Nuova dimensione dell arte, Immagini testuali creative SMS, Colori e dimensioni dei caratteri nelle immagini testuali, Rotazioni e riflessi Textbild, Posizionamento libero Textbild 2.0, Innovazione e nostalgia, Arte testuale con tecnologia moderna, Immagini testuali dinamiche, Condividi messaggi creativi, Arte e design SMS, Arte testuale moderna, Design innovativo Textbild, Immagini testuali reinventate"
+    },
+    "es": {
+      "title": "Descubre la nueva dimensión de las imágenes de texto con Textbild 2.0",
+      "description": "Descubre el siguiente nivel de las imágenes de texto SMS con Textbild 2.0. La creatividad y la tecnología moderna se combinan para tus mensajes únicos.",
+      "keywords": "Textbild 2.0, Imágenes de texto revolucionarias, Nueva dimensión del arte, Imágenes de texto SMS creativas, Colores y tamaños de fuente en imágenes de texto, Rotaciones y reflejos Textbild, Colocación libre Textbild 2.0, Innovación y nostalgia, Arte textual con tecnología moderna, Imágenes de texto dinámicas, Comparte mensajes creativos, Arte y diseño SMS, Arte textual moderno, Diseño innovador Textbild, Imágenes de texto reinventadas"
+    },
+    "pt": {
+      "title": "Descobre a nova dimensão das imagens de texto com Textbild 2.0",
+      "description": "Descobre o próximo nível das imagens de texto SMS com Textbild 2.0. A criatividade e a tecnologia moderna combinam se para as tuas mensagens únicas.",
+      "keywords": "Textbild 2.0, Imagens de texto revolucionárias, Nova dimensão da arte, Imagens de texto criativas SMS, Cores e tamanhos de fonte em imagens de texto, Rotações e reflexões Textbild, Colocação livre Textbild 2.0, Inovação encontra nostalgia, Arte textual com tecnologia moderna, Imagens de texto dinâmicas, Compartilha mensagens criativas, Arte e design SMS, Arte textual moderna, Design inovador Textbild, Imagens de texto reinventadas"
+    },
+    "ru": {
+      "title": "Открой новую грань текстовых изображений с Textbild 2.0",
+      "description": "Открой новый уровень SMS текстовых изображений с Textbild 2.0. Креативность и современные технологии объединились для твоих уникальных сообщений.",
+      "keywords": "Textbild 2.0, Революционные текстовые изображения, Новое измерение искусства, Креативные SMS текстовые изображения, Цвета и размеры шрифта в текстовых изображениях, Вращения и отражения Textbild, Свободное размещение Textbild 2.0, Инновации встречают ностальгию, Текстовое искусство с современной технологией, Динамические текстовые изображения, Делись креативными сообщениями, Искусство и дизайн SMS, Современное текстовое искусство, Инновационный дизайн Textbild, Текстовые изображения переосмыслены"
+    },
+    "ja": {
+      "title": "Textbild 2.0でテキスト画像の新しい次元を発見しよう",
+      "description": "Textbild 2.0でSMSテキスト画像の次のレベルを発見してね。あなたのユニークなメッセージのために創造性と最新技術が融合しました。",
+      "keywords": "Textbild 2.0, 革新的なテキスト画像, 新次元のアート, クリエイティブなSMSテキスト画像, テキスト画像の色とフォントサイズ, Textbildの回転と反射, Textbild 2.0の自由配置, 革新とノスタルジアの融合, 最新技術を用いたテキストアート, ダイナミックなテキスト画像, クリエイティブなメッセージを共有, アートとSMSデザイン, モダンなテキストアート, 革新的なTextbildデザイン, 再発明されたテキスト画像"
+    },
+    "ko": {
+      "title": "Textbild 2.0과 함께 텍스트 이미지의 새로운 차원을 발견해 보세요",
+      "description": "Textbild 2.0으로 SMS 텍스트 이미지의 다음 단계를 경험해 보세요. 당신만의 독창적인 메시지를 위해 창의성과 현대 기술이 결합되었습니다.",
+      "keywords": "Textbild 2.0, 혁신적인 텍스트 이미지, 예술의 새로운 차원, 창의적인 SMS 텍스트 이미지, 텍스트 이미지의 색상 및 글꼴 크기, Textbild의 회전 및 반사, 자유로운 배치 Textbild 2.0, 혁신과 향수의 만남, 현대 기술을 활용한 텍스트 아트, 동적 텍스트 이미지, 창의적인 메시지 공유, 아트 및 SMS 디자인, 현대 텍스트 아트, 혁신적인 Textbild 디자인, 텍스트 이미지 재발명"
+    },
+    "zh": {
+      "title": "使用 Textbild 2.0 探索文本图像的新维度",
+      "description": "通过 Textbild 2.0 探索短信文本图像的下一阶段。将创意与现代技术结合为你带来独一无二的消息。",
+      "keywords": "Textbild 2.0, 革命性的文本图像, 艺术的新维度, 创意短信文本图像, 文本图像中的颜色和字体大小, Textbild的旋转和反射, 自由布局 Textbild 2.0, 创新与怀旧的结合, 结合现代技术的文本艺术, 动态文本图像, 分享创意消息, 艺术与短信设计, 现代文本艺术, 创新Textbild设计, 重新定义的文本图像"
+    },
+    "vi": {
+      "title": "Khám phá chiều không gian mới của hình ảnh văn bản với Textbild 2.0",
+      "description": "Khám phá cấp độ tiếp theo của hình ảnh văn bản SMS với Textbild 2.0. Sự sáng tạo và công nghệ hiện đại kết hợp để tạo nên những thông điệp độc đáo của bạn.",
+      "keywords": "Textbild 2.0, Hình ảnh văn bản cách mạng, Chiều không gian mới của nghệ thuật, Hình ảnh văn bản SMS sáng tạo, Màu sắc và kích thước phông chữ trong hình ảnh văn bản, Xoay và phản chiếu Textbild, Bố trí tự do Textbild 2.0, Đổi mới kết hợp hoài niệm, Nghệ thuật văn bản với công nghệ hiện đại, Hình ảnh văn bản động, Chia sẻ thông điệp sáng tạo, Nghệ thuật và thiết kế SMS, Nghệ thuật văn bản hiện đại, Thiết kế Textbild sáng tạo, Hình ảnh văn bản tái tạo"
+    },
+    "th": {
+      "title": "ค้นพบมิติใหม่ของภาพข้อความด้วย Textbild 2.0",
+      "description": "ค้นพบระดับถัดไปของภาพข้อความ SMS ด้วย Textbild 2.0 ความคิดสร้างสรรค์และเทคโนโลยีสมัยใหม่รวมกันเพื่อข้อความที่ไม่เหมือนใครของคุณ",
+      "keywords": "Textbild 2.0, ภาพข้อความปฏิวัติ, มิติใหม่ของศิลปะ, ภาพข้อความ SMS สร้างสรรค์, สีและขนาดฟอนต์ในภาพข้อความ, การหมุนและสะท้อน Textbild, การวางตำแหน่งอิสระ Textbild 2.0, นวัตกรรมและความทรงจำ, ศิลปะข้อความด้วยเทคโนโลยีสมัยใหม่, ภาพข้อความแบบไดนามิก, แชร์ข้อความสร้างสรรค์, ศิลปะและการออกแบบ SMS, ศิลปะข้อความสมัยใหม่, การออกแบบ Textbild สร้างสรรค์, ภาพข้อความที่ได้รับการปรับปรุงใหม่"
+    },
+    "fil": {
+      "title": "Tuklasin ang bagong dimensyon ng mga text image gamit ang Textbild 2.0",
+      "description": "Tuklasin ang susunod na antas ng SMS text images gamit ang Textbild 2.0. Pinagsama ang pagiging malikhain at modernong teknolohiya para sa iyong mga natatanging mensahe.",
+      "keywords": "Textbild 2.0, Rebolusyonaryong text images, Bagong dimensyon ng sining, Malikhaing SMS text images, Mga kulay at sukat ng font sa text images, Pag ikot at repleksyon ng Textbild, Malayang pag aayos Textbild 2.0, Inobasyon at nostalhiya, Text art gamit ang modernong teknolohiya, Dynamic text images, Magbahagi ng malikhaing mensahe, Sining at SMS na disenyo, Makabagong text art, Inobatibong disenyo ng Textbild, Muling naimbentong text images"
+    },
+    "nl": {
+      "title": "Ontdek de nieuwe dimensie van tekstafbeeldingen met Textbild 2.0",
+      "description": "Ontdek het volgende niveau van SMS tekstafbeeldingen met Textbild 2.0. Creativiteit en moderne technologie gecombineerd voor jouw unieke berichten.",
+      "keywords": "Textbild 2.0, Revolutionaire tekstafbeeldingen, Nieuwe dimensie van kunst, Creatieve SMS tekstafbeeldingen, Kleuren en lettergroottes in tekstafbeeldingen, Rotaties en reflecties Textbild, Vrije plaatsing Textbild 2.0, Innovatie ontmoet nostalgie, Tekstkunst met moderne technologie, Dynamische tekstafbeeldingen, Deel creatieve berichten, Kunst en SMS design, Moderne tekstkunst, Innovatief Textbild design, Tekstafbeeldingen heruitgevonden"
+    },
+    "sv": {
+      "title": "Upptäck den nya dimensionen av textbilder med Textbild 2.0",
+      "description": "Upptäck nästa nivå av SMS textbilder med Textbild 2.0. Kreativitet och modern teknik kombineras för dina unika meddelanden.",
+      "keywords": "Textbild 2.0, Revolutionerande textbilder, Ny dimension av konst, Kreativa SMS textbilder, Färger och teckenstorlekar i textbilder, Rotationer och reflektioner Textbild, Fri placering Textbild 2.0, Innovation möter nostalgi, Textkonst med modern teknik, Dynamiska textbilder, Dela kreativa meddelanden, Konst och SMS design, Modern textkonst, Innovativ Textbild design, Textbilder omdefinierade"
+    },
+    "pl": {
+      "title": "Odkryj nowy wymiar obrazów tekstowych z Textbild 2.0",
+      "description": "Odkryj nowy poziom obrazów tekstowych SMS dzięki Textbild 2.0. Kreatywność i nowoczesna technologia łączą się dla Twoich unikalnych wiadomości.",
+      "keywords": "Textbild 2.0, Rewolucyjne obrazy tekstowe, Nowy wymiar sztuki, Kreatywne obrazy tekstowe SMS, Kolory i rozmiary czcionek w obrazach tekstowych, Obracanie i odbicia Textbild, Dowolne rozmieszczenie Textbild 2.0, Innowacja spotyka nostalgię, Sztuka tekstowa z nowoczesną technologią, Dynamiczne obrazy tekstowe, Udostępniaj kreatywne wiadomości, Sztuka i projektowanie SMS, Nowoczesna sztuka tekstowa, Innowacyjny projekt Textbild, Obrazy tekstowe na nowo wymyślone"
+    },
+    "cs": {
+      "title": "Objev novou dimenzi textových obrázků s Textbild 2.0",
+      "description": "Objev další úroveň SMS textových obrázků s Textbild 2.0. Kreativita a moderní technologie se spojují pro tvé jedinečné zprávy.",
+      "keywords": "Textbild 2.0, Revoluční textové obrázky, Nová dimenze umění, Kreativní SMS textové obrázky, Barvy a velikosti písma v textových obrázcích, Rotace a odrazy Textbild, Volné umístění Textbild 2.0, Inovace setkává nostalgii, Textové umění s moderní technologií, Dynamické textové obrázky, Sdílej kreativní zprávy, Umění a SMS design, Moderní textové umění, Inovativní design Textbild, Textové obrázky znovu objevené"
+    },
+    "hu": {
+      "title": "Fedezd fel a szövegképek új dimenzióját a Textbild 2.0 val",
+      "description": "Fedezd fel az SMS szövegképek következő szintjét a Textbild 2.0 val. Kreativitás és modern technológia kombinációja a te egyedi üzeneteidhez.",
+      "keywords": "Textbild 2.0, Forradalmi szövegképek, Az új művészeti dimenzió, Kreatív SMS szövegképek, Színek és betűméretek szövegképekben, Forgások és tükröződések Textbild, Szabad elrendezés Textbild 2.0, Innováció és nosztalgia találkozása, Szövegművészet modern technológiával, Dinamikus szövegképek, Oszd meg kreatív üzeneteidet, Művészet és SMS tervezés, Modern szövegművészet, Innovatív Textbild tervezés, Újragondolt szövegképek"
+    },
+    "ro": {
+      "title": "Descoperă noua dimensiune a imaginilor text cu Textbild 2.0",
+      "description": "Descoperă următorul nivel al imaginilor text SMS cu Textbild 2.0. Creativitatea și tehnologia modernă se combină pentru mesajele tale unice.",
+      "keywords": "Textbild 2.0, Imagini text revoluționare, Noua dimensiune a artei, Imagini text SMS creative, Culori și dimensiuni ale fontului în imagini text, Rotații și reflexii Textbild, Amplasare liberă Textbild 2.0, Inovația întâlnește nostalgia, Artă text cu tehnologie modernă, Imagini text dinamice, Distribuie mesaje creative, Artă și design SMS, Artă text modernă, Design inovator Textbild, Imagini text reinventate"
+    },
+    "bg": {
+      "title": "Открий новото измерение на текстовите изображения с Textbild 2.0",
+      "description": "Открий следващото ниво на текстовите изображения за SMS с Textbild 2.0. Креативност и модерна технология се обединяват за твоите уникални съобщения.",
+      "keywords": "Textbild 2.0, Революционни текстови изображения, Ново измерение на изкуството, Креативни SMS текстови изображения, Цветове и размери на шрифта в текстови изображения, Въртене и отражения Textbild, Свободно разположение Textbild 2.0, Иновация среща носталгия, Текстово изкуство с модерна технология, Динамични текстови изображения, Сподели креативни съобщения, Изкуство и SMS дизайн, Съвременно текстово изкуство, Иновативен дизайн на Textbild, Преосмислени текстови изображения"
+    }
+        
+      },
+
+      "ascii_art_film": {
+       "en": {
+          "title": "ASCII Movies: The Matrix Classics in a New Dimension",
+          "description": "The Matrix in ASCII: A unique interpretation of the classic films in high-quality text art. Discover and share these impressive works!",
+          "keywords": "The Matrix in ASCII, ASCII Movies Matrix, Matrix Trilogy as text art, Fascinating ASCII art, Detailed ASCII Movies, Reinterpreted Matrix scenes, Text art in perfection, Art in minimalist form, Impressive text art Matrix, New dimension of ASCII art, Matrix film classics in ASCII, Modern ASCII interpretations, Experience the Matrix text world, Minimalist film art, Iconic scenes in ASCII"
+        },
+        "de": {
+          "title": "ASCII-Movies: Die Matrix-Klassiker in einer neuen Dimension",
+          "description": "Die Matrix in ASCII: Eine einzigartige Interpretation der Filmklassiker in hochwertiger Textkunst. Entdecke und teile diese beeindruckenden Werke!",
+          "keywords": "Die Matrix in ASCII, ASCII-Movies Matrix, Matrix-Trilogie als Textkunst, Faszinierende ASCII-Kunst, Detaillierte ASCII-Movies, Matrix-Szenen neu interpretiert, Textkunst in Perfektion, Kunst in minimalistischer Form, Beeindruckende Textkunst Matrix, Neue Dimension der ASCII-Kunst, Matrix-Filmklassiker als ASCII, Moderne ASCII-Interpretationen, Matrix-Textwelt erleben, Minimalistische Filmkunst, Iconische Szenen in ASCII"
+        },
+        "fr": {
+          "title": "ASCII-Movies : Les classiques de Matrix dans une nouvelle dimension",
+          "description": "Matrix en ASCII : Une interprétation unique des films classiques en art textuel de haute qualité. Découvrez et partagez ces œuvres impressionnantes !",
+          "keywords": "Matrix en ASCII, ASCII-Movies Matrix, Trilogie Matrix en art textuel, Art ASCII fascinant, Films ASCII détaillés, Scènes de Matrix réinterprétées, Art textuel parfait, Art minimaliste, Art textuel impressionnant Matrix, Nouvelle dimension de l'art ASCII, Classiques de Matrix en ASCII, Interprétations ASCII modernes, Découvrez le monde textuel de Matrix, Art cinématographique minimaliste, Scènes iconiques en ASCII"
+        },
+        "it": {
+          "title": "ASCII-Movies: I classici di Matrix in una nuova dimensione",
+          "description": "Matrix in ASCII: Un'interpretazione unica dei classici del cinema in arte testuale di alta qualità. Scopri e condividi queste opere impressionanti!",
+          "keywords": "Matrix in ASCII, ASCII-Movies Matrix, Trilogia di Matrix come arte testuale, Arte ASCII affascinante, Film ASCII dettagliati, Scene di Matrix reinterpretate, Arte testuale in perfezione, Arte minimalista, Arte testuale impressionante Matrix, Nuova dimensione dell'arte ASCII, Classici di Matrix in ASCII, Interpretazioni ASCII moderne, Scopri il mondo testuale di Matrix, Arte cinematografica minimalista, Scene iconiche in ASCII"
+        },
+        "es": {
+          "title": "ASCII-Movies: Los clásicos de Matrix en una nueva dimensión",
+          "description": "Matrix en ASCII: Una interpretación única de las películas clásicas en arte textual de alta calidad. ¡Descubre y comparte estas obras impresionantes!",
+          "keywords": "Matrix en ASCII, ASCII-Movies Matrix, Trilogía de Matrix en arte textual, Arte ASCII fascinante, Películas ASCII detalladas, Escenas de Matrix reinterpretadas, Arte textual perfecto, Arte minimalista, Arte textual impresionante Matrix, Nueva dimensión del arte ASCII, Clásicos de Matrix en ASCII, Interpretaciones ASCII modernas, Experimenta el mundo textual de Matrix, Arte cinematográfico minimalista, Escenas icónicas en ASCII"
+        },
+        "pt": {
+          "title": "ASCII-Movies: Os clássicos de Matrix em uma nova dimensão",
+          "description": "Matrix em ASCII: Uma interpretação única dos clássicos do cinema em arte textual de alta qualidade. Descubra e compartilhe essas obras impressionantes!",
+          "keywords": "Matrix em ASCII, ASCII-Movies Matrix, Trilogia Matrix como arte textual, Arte ASCII fascinante, Filmes ASCII detalhados, Cenas de Matrix reinterpretadas, Arte textual perfeita, Arte minimalista, Arte textual impressionante Matrix, Nova dimensão da arte ASCII, Clássicos de Matrix em ASCII, Interpretações ASCII modernas, Experimente o mundo textual de Matrix, Arte cinematográfica minimalista, Cenas icônicas em ASCII"
+        },
+        "ru": {
+          "title": "ASCII-Movies: Классика «Матрицы» в новом измерении",
+          "description": "«Матрица» в ASCII: Уникальная интерпретация культовых фильмов в высококачественном текстовом искусстве. Откройте и поделитесь этими впечатляющими работами!",
+          "keywords": "«Матрица» в ASCII, ASCII-Movies Matrix, Трилогия «Матрица» в текстовом искусстве, Увлекательное ASCII-искусство, Детализированные ASCII-фильмы, Сцены «Матрицы» в новой интерпретации, Текстовое искусство в совершенстве, Искусство в минималистичной форме, Впечатляющее текстовое искусство «Матрицы», Новое измерение ASCII-искусства, Классика фильмов «Матрица» в ASCII, Современные интерпретации ASCII, Ощутите текстовый мир «Матрицы», Минималистичное киноискусство, Знаковые сцены в ASCII"
+        },
+        "ja": {
+          "title": "ASCIIムービー：新次元のマトリックス・クラシック",
+          "description": "ASCIIで描くマトリックス：クラシック映画を高品質なテキストアートでユニークに解釈。驚きの作品を発見してシェアしましょう！",
+          "keywords": "ASCIIのマトリックス, ASCIIムービー マトリックス, テキストアートとしてのマトリックス三部作, 魅力的なASCIIアート, 詳細なASCIIムービー, 再解釈されたマトリックスシーン, 完璧なテキストアート, ミニマリストの形のアート, 印象的なテキストアート マトリックス, ASCIIアートの新次元, ASCIIでのマトリックス映画クラシック, 現代のASCII解釈, マトリックスのテキスト世界を体験, ミニマリストの映画アート, ASCIIでの象徴的なシーン"
+        },
+        "ko": {
+          "title": "ASCII 무비: 새로운 차원의 매트릭스 클래식",
+          "description": "ASCII로 표현된 매트릭스: 고품질 텍스트 아트로 클래식 영화를 독특하게 해석. 이 인상적인 작품들을 발견하고 공유하세요!",
+          "keywords": "ASCII 매트릭스, ASCII 무비 매트릭스, 텍스트 아트로 보는 매트릭스 3부작, 매력적인 ASCII 아트, 상세한 ASCII 무비, 재해석된 매트릭스 장면, 완벽한 텍스트 아트, 미니멀리즘 예술, 인상적인 텍스트 아트 매트릭스, ASCII 아트의 새로운 차원, ASCII로 표현된 매트릭스 영화 클래식, 현대적 ASCII 해석, 매트릭스 텍스트 세계 체험, 미니멀리스트 영화 아트, ASCII로 표현된 상징적 장면"
+        },
+        "zh": {
+          "title": "ASCII电影：全新维度的《黑客帝国》经典",
+          "description": "ASCII版《黑客帝国》：高品质文本艺术对经典电影的独特诠释。探索并分享这些令人惊叹的作品！",
+          "keywords": "ASCII版《黑客帝国》, ASCII电影《黑客帝国》, 以文本艺术展现的《黑客帝国》三部曲, 引人入胜的ASCII艺术, 细腻的ASCII电影, 《黑客帝国》场景的重新诠释, 完美的文本艺术, 极简艺术形式, 令人印象深刻的文本艺术《黑客帝国》, ASCII艺术的新维度, ASCII版《黑客帝国》电影经典, 现代ASCII诠释, 体验《黑客帝国》的文本世界, 极简主义电影艺术, ASCII展现的经典场景"
+        },
+        "vi": {
+          "title": "ASCII-Movies: Những bộ phim kinh điển của Matrix trong một chiều không gian mới",
+          "description": "Matrix trong ASCII: Một cách diễn giải độc đáo về các bộ phim kinh điển dưới dạng nghệ thuật văn bản chất lượng cao. Khám phá và chia sẻ những tác phẩm ấn tượng này!",
+          "keywords": "Matrix trong ASCII, ASCII-Movies Matrix, Bộ ba Matrix dưới dạng nghệ thuật văn bản, Nghệ thuật ASCII hấp dẫn, Phim ASCII chi tiết, Cảnh trong Matrix được diễn giải lại, Nghệ thuật văn bản hoàn hảo, Nghệ thuật dưới dạng tối giản, Nghệ thuật văn bản ấn tượng Matrix, Chiều không gian mới của nghệ thuật ASCII, Kinh điển phim Matrix dưới dạng ASCII, Diễn giải ASCII hiện đại, Trải nghiệm thế giới văn bản của Matrix, Nghệ thuật phim tối giản, Cảnh biểu tượng dưới dạng ASCII"
+        },
+        "th": {
+          "title": "ASCII-Movies: คลาสสิกของ The Matrix ในมิติใหม่",
+          "description": "The Matrix ใน ASCII: การตีความภาพยนตร์คลาสสิกด้วยศิลปะข้อความคุณภาพสูงที่ไม่เหมือนใคร ค้นพบและแชร์ผลงานที่น่าประทับใจเหล่านี้!",
+          "keywords": "The Matrix ใน ASCII, ASCII-Movies Matrix, ไตรภาค The Matrix ในศิลปะข้อความ, ศิลปะ ASCII ที่น่าทึ่ง, ภาพยนตร์ ASCII ที่ละเอียดอ่อน, ฉากใน The Matrix ที่ตีความใหม่, ศิลปะข้อความที่สมบูรณ์แบบ, ศิลปะแบบมินิมอล, ศิลปะข้อความที่น่าประทับใจ Matrix, มิติใหม่ของศิลปะ ASCII, คลาสสิกของภาพยนตร์ The Matrix ใน ASCII, การตีความ ASCII สมัยใหม่, สัมผัสโลกข้อความของ The Matrix, ศิลปะภาพยนตร์แบบมินิมอล, ฉากเด่นใน ASCII"
+        },
+        "fil": {
+          "title": "ASCII-Movies: Ang Mga Klasiko ng Matrix sa Bagong Dimensyon",
+          "description": "Ang Matrix sa ASCII: Isang natatanging interpretasyon ng mga klasikong pelikula sa mataas na kalidad na text art. Tuklasin at ibahagi ang mga kamangha-manghang likhang ito!",
+          "keywords": "Ang Matrix sa ASCII, ASCII-Movies Matrix, Trilogiyang Matrix bilang text art, Kahanga-hangang ASCII art, Detalyadong ASCII Movies, Muling na-interpretang mga eksena ng Matrix, Perpektong text art, Minimalistang sining, Kahanga-hangang text art Matrix, Bagong dimensyon ng ASCII art, Mga klasikong pelikula ng Matrix sa ASCII, Modernong interpretasyon ng ASCII, Maranasan ang text world ng Matrix, Minimalistang sining ng pelikula, Iconic na mga eksena sa ASCII"
+        },
+        "nl": {
+          "title": "ASCII-Movies: De Matrix Klassiekers in een Nieuwe Dimensie",
+          "description": "De Matrix in ASCII: Een unieke interpretatie van de klassieke films in hoogwaardige tekstkunst. Ontdek en deel deze indrukwekkende werken!",
+          "keywords": "De Matrix in ASCII, ASCII-Movies Matrix, Matrix Trilogie als tekstkunst, Fascinerende ASCII-kunst, Gedetailleerde ASCII-films, Matrix-scenes opnieuw geïnterpreteerd, Tekstkunst in perfectie, Kunst in minimalistische vorm, Indrukwekkende tekstkunst Matrix, Nieuwe dimensie van ASCII-kunst, Matrix filmklassiekers in ASCII, Moderne ASCII-interpretaties, Beleef de tekstwereld van Matrix, Minimalistische filmkunst, Iconische scènes in ASCII"
+        },
+        "sv": {
+          "title": "ASCII-Movies: Matrixklassikerna i en Ny Dimension",
+          "description": "Matrix i ASCII: En unik tolkning av klassiska filmer i högkvalitativ textkonst. Upptäck och dela dessa imponerande verk!",
+          "keywords": "Matrix i ASCII, ASCII-Movies Matrix, Matrix-trilogin som textkonst, Fascinerande ASCII-konst, Detaljerade ASCII-filmer, Omtolkade Matrix-scener, Textkonst i perfektion, Konst i minimalistisk form, Imponerande textkonst Matrix, Ny dimension av ASCII-konst, Matrix-filmklassiker i ASCII, Moderna ASCII-tolkningar, Upplev Matrix-textvärlden, Minimalistisk filmkonst, Ikoniska scener i ASCII"
+        },
+        "pl": {
+          "title": "ASCII-Movies: Klasyki Matrixa w Nowym Wymiarze",
+          "description": "Matrix w ASCII: Unikalna interpretacja klasycznych filmów w wysokiej jakości sztuce tekstowej. Odkryj i podziel się tymi imponującymi dziełami!",
+          "keywords": "Matrix w ASCII, ASCII-Movies Matrix, Trylogia Matrix jako sztuka tekstowa, Fascynująca sztuka ASCII, Szczegółowe filmy ASCII, Zreinterpretowane sceny z Matrixa, Sztuka tekstowa w doskonałości, Sztuka w minimalistycznej formie, Imponująca sztuka tekstowa Matrix, Nowy wymiar sztuki ASCII, Klasyki filmowe Matrixa w ASCII, Nowoczesne interpretacje ASCII, Doświadcz tekstowego świata Matrixa, Minimalistyczna sztuka filmowa, Kultowe sceny w ASCII"
+        },
+        "cs": {
+          "title": "ASCII-Movies: Klasika Matrixu v nové dimenzi",
+          "description": "Matrix v ASCII: Unikátní interpretace klasických filmů ve vysoce kvalitním textovém umění. Objevte a sdílejte tato působivá díla!",
+          "keywords": "Matrix v ASCII, ASCII-Movies Matrix, Matrix trilogie jako textové umění, Fascinující ASCII umění, Detailní ASCII filmy, Nově interpretované scény z Matrixu, Textové umění v dokonalosti, Umění v minimalistické formě, Působivé textové umění Matrix, Nová dimenze ASCII umění, Filmová klasika Matrixu v ASCII, Moderní ASCII interpretace, Zažijte textový svět Matrixu, Minimalistické filmové umění, Ikonické scény v ASCII"
+        },
+        "hu": {
+          "title": "ASCII-Movies: A Mátrix klasszikusai új dimenzióban",
+          "description": "A Mátrix ASCII-ben: Egyedi értelmezés a klasszikus filmekről magas minőségű szöveg művészettel. Fedezd fel és oszd meg ezeket a lenyűgöző alkotásokat!",
+          "keywords": "A Mátrix ASCII-ben, ASCII-Movies Matrix, Mátrix trilógia szöveg művészetként, Lenyűgöző ASCII művészet, Részletes ASCII filmek, Újraértelmezett Mátrix jelenetek, Szöveg művészet tökéletességben, Minimalista formájú művészet, Lenyűgöző szöveg művészet Mátrix, Az ASCII művészet új dimenziója, Mátrix filmklasszikusok ASCII-ben, Modern ASCII értelmezések, Tapasztalja meg a Mátrix szövegvilágát, Minimalista film művészet, Ikonikus jelenetek ASCII-ben"
+        },
+        "ro": {
+          "title": "ASCII-Movies: Clasicii Matrix într-o Nouă Dimensiune",
+          "description": "Matrix în ASCII: O interpretare unică a filmelor clasice în artă textuală de înaltă calitate. Descoperiți și împărtășiți aceste lucrări impresionante!",
+          "keywords": "Matrix în ASCII, ASCII-Movies Matrix, Trilogia Matrix ca artă textuală, Artă ASCII fascinantă, Filme ASCII detaliate, Scene reinterpretate din Matrix, Artă textuală în perfecțiune, Artă în formă minimalistă, Artă textuală impresionantă Matrix, Noua dimensiune a artei ASCII, Clasicii filmului Matrix în ASCII, Interpretări moderne ASCII, Experimentați lumea textului Matrix, Artă cinematografică minimalistă, Scene iconice în ASCII"
+        },
+        "bg": {
+          "title": "ASCII-Movies: Класиката „Матрицата“ в ново измерение",
+          "description": "„Матрицата“ в ASCII: Уникална интерпретация на класическите филми с висококачествено текстово изкуство. Открийте и споделете тези впечатляващи произведения!",
+          "keywords": "„Матрицата“ в ASCII, ASCII-Movies Matrix, Трилогията „Матрицата“ като текстово изкуство, Увлекателно ASCII изкуство, Подробни ASCII филми, Преосмислени сцени от „Матрицата“, Текстово изкуство в съвършенство, Изкуство в минималистична форма, Впечатляващо текстово изкуство Matrix, Нова измерение на ASCII изкуството, Класиката на филмите „Матрицата“ в ASCII, Съвременни ASCII интерпретации, Почувствайте текстовия свят на „Матрицата“, Минималистично филмово изкуство, Иконични сцени в ASCII"
+        }
+        
+      }
+      
+    }
+  }
+  

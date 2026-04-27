@@ -1,0 +1,29 @@
+/* Klasse zum Verstecken von Frames */
+:global(.hidden) {
+    display: none;
+}
+
+.console_textbild2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: #000000 1px solid;
+    background-color: rgb(255, 255, 255);
+    padding-top: calc(min(1vw + 2px, 12px));
+    padding-bottom: calc(min(1vw + 2px, 12px));
+}
+
+.console_textbild2 button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(min(2vw + 2px, 42px));
+    border: #000000 solid 1px;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+    padding: 0.5em 1em;
+    background-color: whitesmoke;
+}
+
+.console_textbild2 button i {
+    font-size: calc(min(3vw + 2px, 42px));
+}

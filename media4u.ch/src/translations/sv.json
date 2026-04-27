@@ -1,0 +1,546 @@
+{
+  "beispiel": {
+    "sms_textbild": "Exempel",
+    "textbild2": "Exempel"
+  },
+
+  "werbung": {
+    "title": "Reklam",
+    "loading": "Laddar...",
+    "error_loading": "Innehållet kunde inte laddas.",
+    "redirecting": "Omdirigerar",
+    "view_offer": "Visa erbjudande",
+    "badge_portfolio": "PORTFÖLJ",
+    "badge_partner": "PARTNER",
+    "badge_support": "SUPPORT",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "Säkra din annonsplats!",
+    "ad_space_desc": "Presentera ditt företag målinriktat i ett specifikt land eller öka din räckvidd till en internationell publik.",
+    "ad_space_aria": "Mer information om erbjudandet",
+    "ad_space_btn": "Säkra nu"
+  },
+
+  "mehr_info": {
+    "title": "Mer information"
+  },
+  
+  "header": {
+    "slogan1": "Kreativitet och Digital Konst",
+    "slogan2": "Globalt tillgänglig på 24 språk!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS Textbild",
+    "textbild2": "Textbild 2.0",
+    "ascii_art_film": "ASCII Konstfilm"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Annonsörer",
+    "affiliate_marketing": "Affiliate Marknadsföring",
+    "front_end_developer": "Frontendutvecklare",
+    "kontakt": "Kontakt",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "Ny",
+      "liebe_freundschaft": "Kärlek och Vänskap",
+      "festtage_party": "Helgdagar och Fester",
+      "freizeit_arbeit": "Fritid och Arbete",
+      "sport_hobby": "Sport och Hobbys",
+      "abenteuer_action": "Äventyr och Action",
+      "erotik_sex": "Erotik och Sex"
+    },
+
+    "textbild2": {
+      "neu2": "Ny",
+      "liebe_freundschaft2": "Kärlek och Vänskap",
+      "festtage_party2": "Helgdagar och Fester",
+      "freizeit_arbeit2": "Fritid och Arbete",
+      "sport_hobby2": "Sport och Hobbys",
+      "abenteuer_action2": "Äventyr och Action",
+      "erotik_sex2": "Erotik och Sex"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Modern Digital Konst och Innovativa Kommunikationsverktyg",
+    "p1": "media4u.ch är din destination för modern digital konst och innovativa kommunikationsverktyg. Med mitt omfattande utbud av SMS-textbilder och ASCII-filmer erbjuder jag dig kreativa och utmärkta upplevelser.",
+    "h2": "Internationell Räckvidd på 20 Språk",
+    "p2": "Min webbplats är tillgänglig på 20 språk för att nå en internationell publik och ge alla möjlighet att uppskatta mina unika konstverk. Dessutom erbjuder jag annonsutrymme och affiliateprogram inom SMS-textbilder och Textbild 2.0. Detta ger företag kreativa annonsmöjligheter samtidigt som min plattform stöds.",
+    "h3": "Utforska Digital Konst på Ett Nytt Sätt",
+    "p3": "Dyk in i den digitala konstens värld och upptäck vad media4u.ch har att erbjuda! Upplev kreativ kommunikation ur ett nytt perspektiv och dela det med världen.",
+    "h4": "Teknik Möter Digital Konst",
+    "p4": "Denna webbplats utvecklades med hjälp av JavaScript och React, vilket kombinerar modern webbutveckling med min passion för digital konst. Genom dessa teknologier skapas mina SMS-textbilder och ASCII-verk i innovativa format, vilket visar hur teknik och kreativitet samverkar för att skapa unika digitala upplevelser."
+  },
+
+  "werbepartner": {
+    "title": "Annonsörer",
+    "h1": "Förstärk Din Räckvidd – Annonsera på Min Webbplats!",
+    "p1": "Vill du presentera dina produkter eller tjänster för en bred publik? Min webbplats erbjuder den ideala plattformen för att öka ditt varumärkesmedvetenhet och attrahera nya kunder.",
+
+    "h2": "Varför Annonsera på Min Webbplats?",
+    "p2": "Nationell Synlighet: Nå besökare från hela landet och effektivt utöka din räckvidd. Maximal Uppmärksamhet: Dina annonser visas för alla besökare oavsett deras geografiska plats. Rättvis Visning: Annonsernas ordning slumpas om varje gång sidan laddas, vilket säkerställer att alla annonsörer får lika exponering. Integritetssäkring: Jag identifierar endast besökarnas ursprungsland – inga andra data samlas in.",
+
+    "h3_1": "DETALJER OM MIN ANNONSPLATS PRISUPPGIFT:",
+    "p3_1": "Under de första 90 dagarna betalar du endast 140 CHF för 30 dagars exponering.",
+    "p3_2": "Från dag 91 sjunker priset till 120 CHF för 30 dagars exponering (från dag 91 till 180).",
+    "p3_3": "Från dag 181 kostar annonsutrymmet endast 100 CHF för 30 dagars exponering.",
+
+    "h3_2": "VAD JAG BEHÖVER FRÅN DIG:",
+    "p3_4": "Ditt företagsnamn",
+    "p3_5": "Din erbjudelselänk (produkt- eller tjänstesida)",
+    "p3_6": "Länk till en bild som används i annonsutrymmet",
+    "bildgroesse": "Bildstorlek: 400x400 pixlar",
+
+    "h3_3": "VIKTIG INFORMATION:",
+    "p3_7": "Ditt annonsutrymme kommer endast att visas för besökare från det aktuella landet. Om du vill annonsera internationellt kan du köpa ytterligare annonsutrymmen för andra länder.",
+    "p3_8": "Boka ditt annonsutrymme nu och rikta in dig på din målgrupp exakt – anpassat till de regioner du är intresserad av!",
+
+    "h4": "Din Säkerhet Är Viktig för Mig:",
+    "p4": "Jag sätter kvalitet och pålitlighet i fokus. Varje annonsör granskas personligen av mig för att säkerställa att de är seriösa företag som uppfyller mina höga standarder.",
+
+    "h5": "Redo att Ta Steget Framåt?",
+    "p5": "Kontakta mig redan idag och placera ditt varumärke på min webbplats – tillsammans bygger vi en stark närvaro och för ditt företag framåt på ett hållbart sätt.",
+
+    "h6": "Intresserad?",
+    "p6": "Skicka mig ett meddelande om du behöver mer information eller vill boka ett annonsutrymme direkt. Jag ser fram emot att stödja dig på vägen mot framgång!"
+  },
+
+  "werbepartner_info": {
+    "title": "Annonsörer - Information",
+    "content_h3": "Boka Ditt Annonsutrymme!",
+    "content_p1": "Presentera ditt företag riktat i ett land eller utöka din räckvidd till en internationell publik.",
+    "content_button": "Se Erbjudande",
+    "content_button_info": "Boka Nu"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marknadsföring",
+    "h1": "Affiliate Länkar och Transparens på Min Webbplats",
+    "p1": "På min webbplats använder jag affiliate länkar för att presentera produkter och tjänster som passar dig. Transparens är särskilt viktigt för mig. Nedan förklarar jag hur affiliate länkar fungerar och vad det innebär för dig.",
+
+    "h2": "Vad Är Affiliate Länkar?",
+    "p2": "Affiliate länkar är speciella länkar som leder till produkter eller tjänster från partnerföretag. När du gör ett köp genom dessa länkar får jag en provision. Detta innebär inga extra kostnader för dig.",
+
+    "h3": "Varför Använder Jag Affiliate Länkar?",
+    "p3": "Användning av affiliate länkar hjälper mig att driva webbplatsen och erbjuda gratis innehåll. Jag väljer noggrant ut mina partners och de produkter jag rekommenderar för att säkerställa att de matchar ämnena och intressena hos mina besökare.",
+
+    "h4": "Hur Fungerar Spårning?",
+    "p4": "För att spåra att ett köp gjorts genom min länk använder mina partnerföretag cookies. Dessa cookies lagrar information under en begränsad tid när du klickar på en affiliate länk. Du kan hitta mer information om detta i min sekretesspolicy.",
+
+    "h5": "Inga Nackdelar För Dig",
+    "p5": "Viktigt att veta: Att klicka på affiliate länkar kommer inte att orsaka några nackdelar för dig. Priset på produkter eller tjänster förblir detsamma och det finns inga dolda avgifter.",
+
+    "h6": "Ansvarsfriskrivning",
+    "p6": "Jag rekommenderar endast produkter och tjänster som jag tror på. Men eftersom dessa erbjudanden tillhandahålls av mina partners är jag inte ansvarig för deras kvalitet eller tillgänglighet.",
+
+    "h7": "Transparens och Förtroende",
+    "p7": "Mitt mål är att kommunicera med dig på ett transparent och ärligt sätt. Om du har några frågor om affiliate länkar eller mina partnerskap, tveka inte att kontakta mig. Jag uppskattar ditt förtroende för mina rekommendationer!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "Frontendutvecklare",
+
+  "projekt_title_h2": "Nyfiken på mina projekt?",
+  "projekt_title_p1": "Här får du en översikt över mina tidigare arbeten:",
+  "projekt_title_h4": "Projekt för kunder och samarbetspartners",
+
+  "projekt_kunden_partner": "Kunder och samarbetspartners",
+  "projekt_kunden_partner_info": "Här kommer framtida kunder och samarbetspartners att listas",
+
+  "projekt_eigene_projekte": "Egna projekt",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Sten Sax Påse",
+  "projekte_eigene_projekte_memory_title": "Memory",
+  "projekte_eigene_projekte_wuerfeln_title": "Kasta tärning",
+  "projekte_eigene_projekte_puzzle_title": "Pussel",
+
+  "h1": "Välkommen till mitt område som frontendutvecklare!",
+  "p1": "Denna webbplats speglar min passion för modern och skalbar webbutveckling. Som självlärd har jag utvecklat den med React, JavaScript, HTML och CSS – teknologier som möjliggör dynamiska, interaktiva och visuellt tilltalande applikationer.",
+  "li_1": "HTML: Ren, semantisk och underhållbar struktur.",
+  "li_2": "CSS: Flexibla, responsiva designer för optimal visning på alla enheter.",
+  "li_3": "JavaScript & React: Dynamisk interaktivitet och hög prestanda för en skalbar och intuitiv användarupplevelse.",
+  "p2": "Mitt fokus ligger konsekvent på prestanda, skalbarhet och best practices för att skapa professionella, underhållbara och framtidssäkra webbapplikationer.",
+
+  "h2": "Mitt mål: Seniornivå inom frontendutveckling",
+  "p3": "Utöver att ha byggt denna webbplats fortsätter jag ständigt att fördjupa mina kunskaper i React och JavaScript, med ambitionen att skriva kod av högsta kvalitet – modulär, effektiv och välstrukturerad.",
+  "p4": "Jag söker aktivt utmanande projekt – oavsett om det gäller företag, byråer eller innovativa, självständiga initiativ – där jag kan bidra med och vidareutveckla min expertis.",
+  "p5": "Denna webbplats är inte bara min portfolio, utan också ett levande bevis på mina färdigheter och min fortlöpande utveckling inom frontendområdet.",
+
+  "h3": "Låt oss skapa digitala upplevelser tillsammans!",
+  "p6": "Söker du en engagerad frontendutvecklare som förvandlar innovativa idéer till skalbara, underhållbara och högpresterande lösningar?",
+  "p7": "Kontakta mig – jag ser fram emot spännande projekt!",
+  "kontakt_link": "<< Klicka här för att kontakta mig >>"
+},
+
+  "kontakt": {
+    "title": "Kontakt",
+    "email": "E-post",
+    "mobile": "Mobil"
+  },
+
+  "impressum": {
+    "title": "Juridisk Information",
+    "kontakt": "Kontakt",
+
+    "vertretungsberechtigter": "Behörig Representant",
+    "handelsregistereintrag": "Handelsregister",
+    "handelsregistereintrag_p1_1": "Handelsregisternummer: [Placeholder – data kommer senare]",
+    "handelsregistereintrag_p1_2": "Handelsregisternummer: [Placeholder – data kommer senare]",
+    "handelsregistereintrag_p2_1": "VAT-nummer:",
+    "handelsregistereintrag_p2_2": "Inte tillämpligt eftersom inga försäljningar har gjorts.",
+
+    "zweck_der_webseite": "Syftet med Webbplatsen",
+    "zweck_der_webseite_p1_1": "Artistisk Underhållning (t.ex. SMS Textbilder, Textbild 2.0 och ASCII-filmer)",
+    "zweck_der_webseite_p1_2": "Annonsutrymme för Annonsörer och Affiliate Marknadsföring",
+    "zweck_der_webseite_p1_3": "Tjänster som Frontend Utvecklare",
+
+    "haftungsausschluss": "Ansvarsfriskrivning",
+    "haftung_für_inhalte": "Ansvar för Innehåll",
+    "haftung_für_inhalte_p": "Innehållet på denna webbplats har skapats med största möjliga omsorg. Dock kan jag inte garantera innehållets korrekthet, fullständighet och aktualitet.",
+
+    "haftung_für_links": "Ansvar för Länkar",
+    "haftung_für_links_p": "Denna webbplats innehåller länkar till externa webbplatser från tredje part som jag inte har kontroll över. Därför kan jag inte hållas ansvarig för dessa externa innehåll. Leverantören eller administratören av de länkade sidorna är alltid ansvarig för innehållet på de länkade webbplatserna.",
+
+    "datenschutz": "Dataskydd",
+    "datenschutz_p": "Information om insamling, behandling och användning av personuppgifter finns i sekretesspolicyn."
+  },
+
+  "datenschutz": {
+    "title": "Sekretesspolicy",
+    "title_p": "Att skydda dina personuppgifter är mycket viktigt för mig. I denna sekretesspolicy informerar jag dig om vilka data som samlas in, behandlas och lagras på min webbplats samt dina rättigheter gällande dessa data.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Ansvarig för Databehandling",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "E-post:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobil:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Insamling och Lagring av Personuppgifter",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Vid besök på min webbplats kan följande data automatiskt samlas in:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "IP-adress från enheten (anonymiserad)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Datum och tid för besök",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Använd webbläsare och operativsystem",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Refererande URL (t.ex. var du kommer ifrån)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Besökta undersidor",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Dessa data har anonymiserats och används endast för statistiska ändamål och för att förbättra webbplatsen. De kan inte kopplas till din personliga identitet.",
+
+    "verwendung_personenbezogener_daten": "3. Användning av Personuppgifter",
+    "verwendung_personenbezogener_daten_p": "Personuppgifter som namn, e-postadress eller telefonnummer samlas endast in när du frivilligt tillhandahåller dem, till exempel via ett kontaktformulär. Dessa data används enbart för att behandla din förfrågan och delas inte med tredje part, såvida inte lag kräver det.",
+
+    "cookies": "4. Cookies",
+    "cookies_p1": "Min webbplats använder cookies för att analysera webbplatsens användning och göra besöket mer användarvänligt.",
+    "cookies_p2_1": "Nödvändiga Cookies: Nödvändiga för webbplatsens funktionalitet.",
+    "cookies_p2_2": "Analytiska Cookies: Hjälper till att förstå och förbättra webbplatsens användning (t.ex. via Google Analytics).",
+    "cookies_p2_3": "Du kan begränsa eller helt inaktivera användningen av cookies via inställningarna i din webbläsare.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Denna webbplats använder Google Analytics, en webbanalystjänst som erbjuds av Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).",
+
+    "google_analytics_p2": "Google Analytics använder cookies som möjliggör analys av din användning av webbplatsen. Information som genereras av dessa cookies om din användning av denna webbplats överförs och lagras vanligtvis på Googles servrar i USA.",
+
+    "google_analytics_p3_1": "IP-anonymisering:",
+    "google_analytics_p3_2": "Denna webbplats har aktiverat IP-anonymisering. Detta innebär att din IP-adress förkortas av Google inom EU:s medlemsstater eller i andra länder som deltar i det ekonomiska samarbetsområdet innan den vidarebefordras till USA.",
+
+    "google_analytics_p4_1": "Användning av Data:",
+    "google_analytics_p4_2": "Google använder denna information för att bedöma din användning av webbplatsen, sammanställa rapporter om webbplatsens aktivitet och tillhandahålla andra tjänster relaterade till webbplatsens och internetanvändningen.",
+
+    "google_analytics_p5_1": "Uteslutningsalternativ:",
+    "google_analytics_p5_2": "Du kan förhindra lagring av cookies genom att justera inställningarna för din webbläsarprogramvara på ett lämpligt sätt. Dessutom kan du förhindra Google från att samla in och behandla data som genereras av cookies och är relaterade till din användning av webbplatsen (inklusive din IP-adress) genom att ladda ner och installera följande webbläsarplugin:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "För mer information om användarvillkoren för Google Analytics, besök:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Annonsörer och Affiliate Länkar",
+    "werbepartner_und_affiliate_links_p1": "Jag samarbetar med annonsörer och affiliate marknadsföringsprogram. När du klickar på en affiliate länk eller annons kan externa leverantörer placera cookies eller samla in data för att mäta framgången av deras annonskampanjer eller försäljningar.",
+    "werbepartner_und_affiliate_links_p2": "För mer information om dessa partners sekretesspolicyer, besök deras webbplatser.",
+
+    "deine_rechte": "7. Dina Rättigheter",
+    "deine_rechte_p1_1": "Du har rätt att:",
+    "deine_rechte_p1_2": "Få tillgång till de data jag lagrar om dig",
+    "deine_rechte_p1_3": "Rätta felaktiga data",
+    "deine_rechte_p1_4": "Radera dina data i den mån lagen tillåter",
+    "deine_rechte_p1_5": "Begränsa databehandling",
+    "deine_rechte_p1_6": "Dataportabilitet",
+    "deine_rechte_p1_7": "För att utöva dessa rättigheter, vänligen kontakta mig via e-post på roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Datasäkerhet",
+    "datensicherheit_p": "Jag implementerar tekniska och organisatoriska åtgärder för att skydda dina data mot obehörig åtkomst, förlust eller missbruk.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Ändringar i denna Sekretesspolicy",
+    "änderungen_dieser_datenschutzerklärung_p": "Denna sekretesspolicy uppdateras vid behov för att uppfylla lagkrav eller anpassa sig till förändringar på webbplatsen."
+  },
+
+  "agb": {
+    "title": "Allmänna Villkor (T&C)",
+    "title_p1": "Datum: [Infoga Datum]",
+    "title_p2": "Dessa Allmänna Villkor (T&C) reglerar användningen av webbplatsen media4u.ch samt de tjänster och innehåll som erbjuds. Genom att besöka webbplatsen godkänner du följande villkor.",
+
+    "geltungsbereich": "1. Tillämplighet",
+    "geltungsbereich_p": "Dessa T&C gäller för alla besökare på webbplatsen media4u.ch samt för kunder som använder de erbjudna tjänsterna eller deltar i annonsörspartnerskap och affiliateprogram.",
+
+    "leistungen": "2. Tjänster",
+    "leistungen_p1_1": "media4u.ch erbjuder följande tjänster:",
+    "leistungen_p1_2": "Artistisk Underhållning (t.ex. SMS Textbilder, Textbild 2.0 och ASCII-filmer).",
+    "leistungen_p1_3": "Annonsutrymme för annonsörer och affiliate marknadsföring.",
+    "leistungen_p1_4": "Tjänster inom frontend-utveckling.",
+    "leistungen_p1_5": "Webbplatsen används för att presentera konstinnehåll, sälja annonsutrymme samt marknadsföra mina tjänster.",
+
+    "vertragsabschluss": "3. Avtalets Ingående",
+    "vertragsabschluss_p1_1": "Avtalet mellan dig och media4u.ch ingås i följande fall:",
+    "vertragsabschluss_p1_2": "Du ansöker om annonsutrymme eller partnerskap och jag bekräftar denna ansökan.",
+    "vertragsabschluss_p1_3": "Du ansöker om mina tjänster som frontend utvecklare och accepterar mitt erbjudande.",
+    "vertragsabschluss_p1_4": "Avtalet ingås skriftligen via e-post.",
+
+    "preise_und_zahlungsbedingungen": "4. Priser och Betalningsvillkor",
+    "preise_und_zahlungsbedingungen_p1_1": "För annonsörer gäller följande betalningsvillkor:",
+    "preise_und_zahlungsbedingungen_p1_2": "Priset för annonsutrymme bestäms individuellt.",
+    "preise_und_zahlungsbedingungen_p1_3": "Betalningar måste göras före periodens start.",
+    "preise_und_zahlungsbedingungen_p1_4": "För tjänster som frontend utvecklare fastställs priser genom överenskommelse.",
+
+    "preise_und_zahlungsbedingungen_p2": "Återbetalning av genomförda betalningar utesluts, såvida det inte beror på mitt fel.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Användarens Rättigheter och Plikter",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Användning av Innehåll",
+    "rechte_und_pflichten_der_nutzer_p1_2": "Innehållet på webbplatsen (inklusive konstverk) får endast användas eller distribueras med uttryckligt tillstånd.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "All obehörig användning eller kopiering av innehåll är förbjuden.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Användarbeteende",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Besökare och kunder är skyldiga att inte missbruka webbplatsen, exempelvis genom att sprida skadligt innehåll, spam eller obehöriga annonser.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Användning av annonsutrymmen och affiliateprogram måste följa lagstadgade krav.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Ansvarsfriskrivning",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Jag ansvarar inte för innehållets korrekthet, fullständighet och aktualitet på webbplatsen.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Jag ansvarar inte för skador som uppstår genom användning av webbplatsen eller innehållet från tredje part.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Annonsörer och Affiliateprogram",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Annonsörer åtar sig att endast främja respekterat och lagligt tillåtet innehåll.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch förbehåller sig rätten att neka innehåll som inte uppfyller webbplatsens standarder.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Specifika Bestämmelser för Annonsörer:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Om webbplatsen är otillgänglig i en dag eller längre, kommer de saknade dagarna att läggas till gratis i nästa minst 30 dagars bokning. Detta gäller endast för betalade annonsutrymmen och kräver fortsatt samarbete. Separat betalning eller kompensation för nedtid är undantagen.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Affiliateprogram drivs i samarbete med externa leverantörer. Jag ansvarar inte för innehållet och sekretesspolicyn hos dessa leverantörer.",
+
+    "verfügbarkeit_der_webseite": "8. Webbplatsens Tillgänglighet",
+    "verfügbarkeit_der_webseite_p": "Jag strävar efter att hålla webbplatsen tillgänglig dygnet runt. Dock kan jag inte garantera kontinuerlig tillgänglighet, exempelvis under underhåll, tekniska fel eller force majeure-situationer.",
+
+    "urheberrecht": "9. Upphovsrätt",
+    "urheberrecht_p": "Allt innehåll på media4u.ch är upphovsrättsskyddat. Det är förbjudet att använda det utan mitt skriftliga tillstånd.",
+
+    "änderungen_der_agb": "10. Ändringar av T&C",
+    "änderungen_der_agb_p": "Jag förbehåller mig rätten att ändra dessa T&C när som helst. Ändringar kommer att publiceras på webbplatsen och träder i kraft från och med publiceringsdatumet.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Jurisdiktion och Tillämplig Lag",
+    "gerichtsstand_und_anwendbares_recht_p": "Schweizisk lag gäller för alla tvister. Domstolen i Bülach, Schweiz, är behörig att lösa dessa tvister."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Cookie-innehåll"
+  },
+
+  "sms_textbild": {
+    "title": "SMS Textbild",
+    "h1": "SMS Textbilder Återuppfunna",
+    "p1": "Minnet som binder oss samman. Ikoniska SMS-textbilder från gamla Nokia-telefoner som 3210 samt tidiga modeller från Ericsson och Motorola har definierat en era. Dessa små mästerverk som en gång skickades via SMS återuppstår nu – modernare än någonsin tidigare.",
+    "p2": "På min webbplats hittar du exklusivt designade textbildsanimeringar som du enkelt kan njuta av och dela. Varje bild är ett unikt konstverk, handgjort med kärlek för att kombinera det förflutnas charm med dagens enkelhet. Det använda typsnittet liknar det klassiska Nokia-typsnittet, men är inte identiskt. Om du särskilt gillar en viss textbild kan du dela den via en länk – vilket gör varje meddelande till en speciell upplevelse.",
+
+    "h2": "Varje Animering, ett Mästerverk",
+    "p3": "Dessa textbilder är mer än bara minnen – de är konst. Varje animering är handgjord och noggrant designad för att omtolka estetiken av klassiska SMS-textbilder.",
+
+    "h3": "Tidlös Design, Förnyad för Nuet",
+    "p4": "Jag har återupplivat magin i klassiska textbilder. Genom animerade framställningar återuppstår ikoniska designer på ett modernt sätt – vilket gör det nostalgiska förflutna lysa igen.",
+
+    "h4": "Dela Har Aldrig Varit Så Enkelt",
+    "p5": "Med en länk skickar du inte bara ett meddelande, utan en upplevelse. Ett nostalgiskt ögonblick som du kan dela med andra."
+  },
+
+
+  "textbild2": {
+    "title": "Textbild 2.0",
+    "h1": "Textbild 2.0 Nästa Evolution",
+    "p1": "Kreativitet omdefinierad. Med Textbild 2.0 genomgår klassiska textbilder en revolution. Förbättrade funktioner som överlappande tecken, olika typsnittsstorlekar och färger, rotationer och speglingar samt fri positionering på skärmen skapar aldrig tidigare skådade konstverk.",
+    "p2": "På min webbplats hittar du dessa nya, komplexa textbildskapelser som du kan utforska och dela. Varje konstverk är ett unikt resultat av kreativitet och innovation, som kombinerar traditionen av gamla SMS-textbilder med möjligheterna i modern teknik.",
+
+    "h2": "EN NY DIMENSION AV KONST",
+    "p3": "Textbild 2.0 är mer än bara en evolution – det är en ny konstform. Genom att använda färger, variabla typsnittsstorlekar och dynamiska element kommer varje bild till liv som ett levande mästerverk som fängslar sinnena.",
+
+    "h3": "Innovation Möter Nostalgia",
+    "p4": "Jag har återuppfunnit magin i klassiska textbilder. Med modern teknik och kreativa designverktyg föds verk som kombinerar det nostalgiska förflutna med dagens innovationer.",
+
+    "h4": "Dela Din Passion",
+    "p5": "Med Textbild 2.0 blir varje meddelande en speciell upplevelse. Dela dessa unika konstverk med vänner och familj och upplev hur kreativitet förbinder människor."
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII Konstfilm",
+    "h1": "Matrix i Textform: En Ny Dimension av ASCII Konst",
+    "p1": "Du kanske redan är bekant med mina tidiga ASCII-filmer som presenterade scener från Matrix-trilogin i en unik textkonstform. Dessa tidiga verk visade hur komplexa filmer kunde representeras i minimalistisk ASCII-form.",
+
+    "h2": "Ett Nytt Perspektiv: Klassiska Matrixscener i en Fängslande Textvärld",
+    "p2": "Nu presenterar jag en förbättrad version av dessa verk. De nya ASCII-filmerna erbjuder ännu mer detaljerade och högkvalitativa återgivningar av ikoniska Matrixscener. Med teknologiska framsteg erbjuder dessa ASCII-konstverk en ännu mer imponerande tolkning av de klassiska filmerna, vilket gör att du kan uppleva Matrix på ett helt nytt sätt.",
+    "p3": "Känn dig fri att dela dessa ASCII-filmer med vänner, bekanta och familj så att de också kan njuta av denna unika konstform."
+  },
+  "matrix": {
+    "title": "Matrix",
+    "bibliothek": "Matrix Bibliotek"
+  },
+
+  "legal": {
+    "impressum": "Juridisk Information",
+    "datenschutz": "Sekretesspolicy",
+    "cookie": "Cookie",
+    "agb": "Allmänna Villkor"
+  },
+
+  "footer": {
+   "alle_rechte_vorbehalten": "Alla rättigheter förbehållna."
+  },
+
+
+
+
+  "neu": {
+    "title": "Ny"
+  },
+  "liebe_freundschaft": {
+    "title": "Kärlek och Vänskap",
+    "komm_zu_mir1": "Kom till mig 1",
+    "komm_zu_mir1_text1": "Hej, kom",
+    "komm_zu_mir1_text2": "till mig!",
+
+    "biene1": "Bi 1",
+    "biene1_text1": "Jag sticker",
+    "biene1_text2": "dig inte för att",
+    "biene1_text3": "jag gillar dig!"
+  },
+  "festtage_party": {
+    "title": "Helgdagar och Fester",
+
+    "geburtstag1": "Födelsedag 1",
+    "geburtstag1_text1": "Grattis",
+    "geburtstag1_text2": "på din",
+    "geburtstag1_text3": "födelsedag!"
+  },
+  "freizeit_arbeit": {
+    "title": "Fritid och Arbete",
+
+    "arbeit1": "Arbete 1",
+    "arbeit1_text1": "",
+    "arbeit1_text2": "Dagen är slut!",
+    "arbeit1_text3": "Jag går hem!",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "",
+    "arbeit1_text6": "Hejdå,",
+    "arbeit1_text7": "ses imorgon!"
+  },
+  "sport_hobby": {
+    "title": "Sport och Hobbys"
+  },
+  "abenteuer_action": {
+    "title": "Äventyr och Action"
+  },
+  "erotik_sex": {
+    "title": "Erotik och Sex"
+  },
+
+  
+
+  "neu2": {
+    "title": "Ny"
+  },
+  "liebe_freundschaft2": {
+    "title": "Kärlek och Vänskap",
+
+    "komm_zu_uns1": "Kom till oss 1",
+    "komm_zu_uns1_text1": "Hej, vad tittar du på",
+    "komm_zu_uns1_text2": "där borta?",
+    "komm_zu_uns1_text3": "Den personen",
+    "komm_zu_uns1_text4": "där borta!",
+    "komm_zu_uns1_text5": "De tittar på sin telefon",
+    "komm_zu_uns1_text6": "hela dagen!",
+    "komm_zu_uns1_text7": "Hej, har du tråkigt?",
+    "komm_zu_uns1_text8": "Kom till oss då! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Vi ses snart!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Helgdagar och Fester",
+
+    "geburtstag1": "Födelsedag 1",
+    "geburtstag1_text1": "Grattis på födelsedagen!",
+    "geburtstag1_text2": "Här är din present!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Fritid och Arbete",
+
+    "arbeit1": "Arbete 1",
+    "arbeit1_text1": "Dagen är slut!",
+    "arbeit1_text2": "Jag går hem!",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Hejdå,",
+    "arbeit1_text6": "ses imorgon!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sport och Hobbys"
+  },
+  "abenteuer_action2": {
+    "title": "Äventyr och Action"
+  },
+  "erotik_sex2": {
+    "title": "Erotik och Sex"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Kod är konst",
+  "Fullstackutvecklare",
+  "SMS Textkonst",
+  "Ingen 160-teckensgräns",
+  "ASCII Nostalgi",
+  "Gränslös kreativitet",
+  "Modern textkonst",
+  "Textbild 2.0",
+  "Digital konst",
+  "Typografisk konst",
+  "Teckendesign",
+  "Visuellt berättande",
+  "ASCII-konstfilmer",
+  "Rörlig ASCII",
+  "Interaktivitet",
+  "CSS Animationer",
+  "React & Vite",
+  "Semantisk HTML5",
+  "CSS Modules",
+  "DOM-manipulation",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Container-baserad",
+  "Felsäker",
+  "Tillgänglighet (A11y)",
+  "Responsiv design",
+  "Hög prestanda",
+  "SEO-optimerad",
+  "Säker design",
+  "Omutbara builds",
+  "Reproducerbar",
+  "24 språk",
+  "Internationell",
+  "Innovation",
+  "Web Engineering"
+]
+
+}

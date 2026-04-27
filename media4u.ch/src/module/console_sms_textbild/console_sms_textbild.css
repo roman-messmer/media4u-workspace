@@ -1,0 +1,63 @@
+/* src\module\console_sms_textbild\console_sms_textbild.css */
+
+/* Block: Hauptcontainer der Konsole */
+.sms_console {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #2a2c2a;
+    padding-top: calc(min(2vw + 2px, 20px));
+    padding-bottom: calc(min(2vw + 2px, 20px));
+}
+
+/* Element: Konsolen-Buttons */
+.sms_console__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5em 1em;
+    background-color: #e0e0e0;
+    border: 1px solid #000000;
+    border-radius: 0.5em;
+    cursor: pointer;
+    transition: background-color 0.2s ease, opacity 0.2s ease;
+}
+
+/* Hover-Zustand (nur wenn Button aktiv ist) */
+.sms_console__btn:hover:not(:disabled) {
+    background-color: #cccccc;
+}
+
+/* Element-State: Deaktivierter Button */
+.sms_console__btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+/* Element: Icon im Button */
+.sms_console__icon {
+    /* Responsive Skalierung für die Icons */
+    width: calc(min(3vw + 2px, 42px));
+    height: calc(min(3vw + 2px, 42px));
+    display: block;
+}
+
+
+.sms_textbild__caption {
+    display: flex;
+    flex-direction: column; /* Name UNTER die Konsole setzen */
+    background-color: #e0e0e0;
+}
+
+/* Jetzt greift der Selektor korrekt auf das Sibling-Element */
+.sms_textbild__name {
+    display: block;
+    width: 100%;
+    padding-top: min(1.5vw + 2px, 15px);
+    padding-bottom: min(1.5vw + 2px, 15px);
+    font-size: min(2.5vw + 2px, 28px); /* Schön groß für das Hauptbild */
+    text-align: center;
+    font-weight: 700;
+    color: #000000;
+    border-top: 2px solid #2a2c2a; /* Sichtbare Trennung zu den Buttons */
+}

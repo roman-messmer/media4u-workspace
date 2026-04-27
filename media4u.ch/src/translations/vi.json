@@ -1,0 +1,544 @@
+{
+  "beispiel": {
+    "sms_textbild": "Ví dụ",
+    "textbild2": "Ví dụ"
+  },
+
+  "werbung": {
+    "title": "Quảng cáo",
+    "loading": "Đang tải...",
+    "error_loading": "Không thể tải nội dung.",
+    "redirecting": "Đang chuyển hướng",
+    "view_offer": "Xem ưu đãi",
+    "badge_portfolio": "DANH MỤC",
+    "badge_partner": "ĐỐI TÁC",
+    "badge_support": "HỖ TRỢ",
+    "badge_affiliate": "LIÊN KẾT",
+    "ad_space_title": "Đăng ký vị trí quảng cáo!",
+    "ad_space_desc": "Giới thiệu công ty của bạn một cách mục tiêu tại một quốc gia cụ thể hoặc mở rộng phạm vi tiếp cận đến khán giả quốc tế.",
+    "ad_space_aria": "Thông tin thêm về ưu đãi",
+    "ad_space_btn": "Đăng ký ngay"
+  },
+
+  "mehr_info": {
+    "title": "Thông tin thêm"
+  },
+  
+  "header": {
+    "slogan1": "Sáng tạo và Nghệ thuật Số",
+    "slogan2": "Có thể truy cập toàn cầu bằng 24 ngôn ngữ!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "Hình ảnh Văn bản SMS",
+    "textbild2": "Hình ảnh Văn bản 2.0",
+    "ascii_art_film": "Phim Nghệ thuật ASCII"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Đối tác Quảng cáo",
+    "affiliate_marketing": "Tiếp thị Liên kết",
+    "front_end_developer": "Lập trình viên Frontend",
+    "kontakt": "Liên hệ",
+
+    "matrix": "Ma trận",
+
+    "sms_textbild": {
+      "neu": "Mới",
+      "liebe_freundschaft": "Tình yêu và Tình bạn",
+      "festtage_party": "Ngày lễ và Tiệc tùng",
+      "freizeit_arbeit": "Thời gian rảnh và Công việc",
+      "sport_hobby": "Thể thao và Sở thích",
+      "abenteuer_action": "Phiêu lưu và Hành động",
+      "erotik_sex": "Hư cấu và Tình dục"
+    },
+
+    "textbild2": {
+      "neu2": "Mới",
+      "liebe_freundschaft2": "Tình yêu và Tình bạn",
+      "festtage_party2": "Ngày lễ và Tiệc tùng",
+      "freizeit_arbeit2": "Thời gian rảnh và Công việc",
+      "sport_hobby2": "Thể thao và Sở thích",
+      "abenteuer_action2": "Phiêu lưu và Hành động",
+      "erotik_sex2": "Hư cấu và Tình dục"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Nghệ thuật Số Hiện đại và Công cụ Giao tiếp Sáng tạo",
+    "p1": "media4u.ch là điểm đến của bạn cho nghệ thuật số hiện đại và công cụ giao tiếp sáng tạo. Với bộ sưu tập phong phú các hình ảnh văn bản SMS và phim ASCII của tôi, tôi mang đến cho bạn những trải nghiệm sáng tạo và xuất sắc.",
+    "h2": "Phạm vi Quốc tế với 20 Ngôn ngữ",
+    "p2": "Trang web của tôi được cung cấp bằng 20 ngôn ngữ để tiếp cận khán giả quốc tế và cung cấp cơ hội cho mọi người thưởng thức các tác phẩm nghệ thuật độc đáo của tôi. Hơn nữa, tôi cung cấp không gian quảng cáo và chương trình liên kết trong lĩnh vực hình ảnh văn bản SMS và Hình ảnh Văn bản 2.0. Điều này cung cấp cơ hội quảng cáo sáng tạo cho các doanh nghiệp đồng thời hỗ trợ nền tảng của tôi.",
+    "h3": "Khám phá Nghệ thuật Số theo Cách Mới",
+    "p3": "Hãy đắm mình vào thế giới nghệ thuật số và khám phá những gì media4u.ch cung cấp! Trải nghiệm giao tiếp sáng tạo từ một góc nhìn mới và chia sẻ nó với thế giới.",
+    "h4": "Công nghệ Gặp Gỡ Nghệ thuật Số",
+    "p4": "Trang web này được phát triển bằng JavaScript và React, kết hợp phát triển web hiện đại với niềm đam mê nghệ thuật số của tôi. Những công nghệ này cho phép các hình ảnh văn bản SMS và các tác phẩm ASCII của tôi được tạo ra dưới các định dạng sáng tạo. Chúng cho thấy công nghệ và sự sáng tạo kết hợp để tạo ra những trải nghiệm kỹ thuật số độc đáo."
+  },
+
+  "werbepartner": {
+    "title": "Đối tác Quảng cáo",
+    "h1": "Mở Rộng Tầm Ảnh Hưởng Của Bạn – Quảng Cáo Trên Trang Web Của Tôi!",
+    "p1": "Bạn muốn giới thiệu sản phẩm hoặc dịch vụ của mình đến một lượng lớn khán giả? Trang web của tôi cung cấp nền tảng lý tưởng để nâng cao thương hiệu của bạn và thu hút khách hàng mới.",
+
+    "h2": "Tại Sao Quảng Cáo Trên Trang Web Của Tôi?",
+    "p2": "Tầm Nhìn Toàn Quốc: Tiếp cận khách truy cập từ khắp nơi trên đất nước, mở rộng tầm ảnh hưởng của bạn một cách hiệu quả. Tối Đa Sự Chú Ý: Quảng cáo của bạn sẽ được hiển thị cho tất cả khách truy cập, bất kể vị trí của họ. Trình Bày Công Bằng: Thứ tự quảng cáo được xáo trộn ngẫu nhiên mỗi lần tải trang, đảm bảo tất cả các đối tác quảng cáo đều có cơ hội hiển thị như nhau. Đảm Bảo Quyền Riêng Tư: Tôi chỉ xác định quốc gia xuất xứ của khách truy cập – không thu thập dữ liệu khác.",
+
+    "h3_1": "CHI TIẾT VỀ KHÔNG GIAN QUẢNG CÁO CỦA TÔI GIÁ CẢ:",
+    "p3_1": "Trong 90 ngày đầu tiên, bạn chỉ cần trả 140 CHF cho 30 ngày hiển thị.",
+    "p3_2": "Từ ngày thứ 91 trở đi, giá giảm xuống còn 120 CHF cho 30 ngày hiển thị (từ ngày 91 đến ngày 180).",
+    "p3_3": "Từ ngày thứ 181 trở đi, không gian quảng cáo chỉ cần 100 CHF cho 30 ngày hiển thị.",
+
+    "h3_2": "CÁC THÔNG TIN TÔI CẦN TỪ BẠN:",
+    "p3_4": "Tên công ty của bạn",
+    "p3_5": "Liên kết đến ưu đãi của bạn (trang sản phẩm hoặc dịch vụ)",
+    "p3_6": "Liên kết đến hình ảnh sẽ sử dụng trong không gian quảng cáo",
+    "bildgroesse": "Kích thước hình ảnh: 400x400 pixel",
+
+    "h3_3": "THÔNG TIN QUAN TRỌNG:",
+    "p3_7": "Không gian quảng cáo của bạn chỉ sẽ được hiển thị cho khách truy cập từ quốc gia tương ứng. Nếu bạn muốn quảng cáo quốc tế, bạn có thể mua thêm không gian quảng cáo cho các quốc gia khác.",
+    "p3_8": "Đặt ngay không gian quảng cáo của bạn và nhắm mục tiêu khán giả một cách chính xác – phù hợp với khu vực bạn quan tâm!",
+
+    "h4": "Sự An Toàn Của Bạn Là Quan Trọng Đối Với Tôi:",
+    "p4": "Tôi chú trọng vào chất lượng và độ tin cậy. Mỗi đối tác quảng cáo đều được tôi kiểm tra cá nhân để đảm bảo họ là các công ty uy tín đáp ứng các tiêu chuẩn cao của tôi.",
+
+    "h5": "Bạn Sẵn Sàng Để Tiến Vào Bước Tiếp Theo?",
+    "p5": "Liên hệ với tôi ngay hôm nay và đặt thương hiệu của bạn trên trang web của tôi – cùng nhau, chúng ta sẽ xây dựng sự hiện diện mạnh mẽ và đưa doanh nghiệp của bạn phát triển bền vững.",
+
+    "h6": "Bạn Có Quan Tâm?",
+    "p6": "Nếu bạn cần thêm thông tin hoặc muốn đặt không gian quảng cáo trực tiếp, hãy gửi tin nhắn cho tôi. Tôi mong được hỗ trợ bạn trên con đường đến thành công!"
+  },
+
+  "werbepartner_info": {
+    "title": "Đối tác Quảng cáo - Thông tin",
+    "content_h3": "Đặt Không gian Quảng cáo Ngay!",
+    "content_p1": "Giới thiệu công ty của bạn tập trung tại một quốc gia hoặc mở rộng phạm vi tiếp cận đến khán giả quốc tế.",
+    "content_button": "Xem Ưu Đãi",
+    "content_button_info": "Đặt Ngay"
+  },
+
+  "affiliate_marketing": {
+    "title": "Tiếp thị Liên kết",
+    "h1": "Liên kết Liên kết và Tính Minh bạch Trên Trang Web Của Tôi",
+    "p1": "Trên trang web của tôi, tôi sử dụng liên kết liên kết để giới thiệu các sản phẩm và dịch vụ phù hợp với bạn. Tính minh bạch đặc biệt quan trọng đối với tôi. Dưới đây, tôi giải thích cách liên kết liên kết hoạt động và điều này có ý nghĩa gì đối với bạn.",
+
+    "h2": "Liên kết Liên kết Là Gì?",
+    "p2": "Liên kết liên kết là những liên kết đặc biệt dẫn đến sản phẩm hoặc dịch vụ của các công ty đối tác. Khi bạn thực hiện mua hàng thông qua những liên kết này, tôi sẽ nhận được hoa hồng. Điều này không tạo ra bất kỳ khoản phí bổ sung nào cho bạn.",
+
+    "h3": "Tại Sao Sử Dụng Liên kết Liên kết?",
+    "p3": "Sử dụng liên kết liên kết giúp tôi duy trì trang web và cung cấp nội dung miễn phí. Tôi lựa chọn kỹ lưỡng các đối tác và sản phẩm mà tôi giới thiệu để đảm bảo chúng phù hợp với chủ đề và sở thích của khách truy cập của tôi.",
+
+    "h4": "Theo dõi Hoạt động Như Thế Nào?",
+    "p4": "Để theo dõi rằng một giao dịch đã được thực hiện thông qua liên kết của tôi, các công ty đối tác của tôi sử dụng cookie. Những cookie này lưu trữ thông tin trong một khoảng thời gian giới hạn khi bạn nhấp vào liên kết liên kết. Xem thêm chi tiết trong chính sách bảo mật của tôi.",
+
+    "h5": "Không Có Thiệt Hại Cho Bạn",
+    "p5": "Điều quan trọng cần biết: Việc nhấp vào liên kết liên kết sẽ không gây bất kỳ thiệt hại nào cho bạn. Giá sản phẩm hoặc dịch vụ không thay đổi và không có phí ẩn nào cả.",
+
+    "h6": "Miễn trừ Trách nhiệm",
+    "p6": "Tôi chỉ giới thiệu các sản phẩm và dịch vụ mà tôi tin tưởng. Tuy nhiên, vì các đề nghị này được cung cấp bởi các đối tác của tôi, tôi không chịu trách nhiệm về chất lượng hoặc tính khả dụng của chúng.",
+
+    "h7": "Tính Minh bạch và Niềm tin",
+    "p7": "Mục tiêu của tôi là giao tiếp với bạn một cách minh bạch và trung thực. Nếu bạn có bất kỳ câu hỏi nào về liên kết liên kết hoặc các mối quan hệ đối tác của tôi, đừng ngần ngại liên hệ với tôi. Tôi đánh giá cao niềm tin của bạn đối với những đề xuất của tôi!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+    "title": "Lập trình viên Frontend",
+
+    "projekt_title_h2": "Bạn có tò mò về các dự án của tôi không?",
+    "projekt_title_p1": "Tại đây, bạn sẽ có cái nhìn tổng quan về những công việc tôi đã thực hiện:",
+    "projekt_title_h4": "Dự án cho khách hàng và đối tác",
+
+    "projekt_kunden_partner": "Khách hàng và đối tác",
+    "projekt_kunden_partner_info": "Tại đây sẽ liệt kê các khách hàng và đối tác trong tương lai",
+
+    "projekt_eigene_projekte": "Dự án cá nhân",
+    "projekte_eigene_projekte_schere_stein_papier_title": "Kéo Búa Bao",
+    "projekte_eigene_projekte_memory_title": "Trò chơi ghi nhớ",
+    "projekte_eigene_projekte_wuerfeln_title": "Lăn xúc xắc",
+    "projekte_eigene_projekte_puzzle_title": "Trò chơi xếp hình",
+
+    "h1": "Chào mừng đến với lĩnh vực phát triển Frontend của tôi!",
+    "p1": "Trang web này thể hiện niềm đam mê của tôi đối với phát triển web hiện đại và có khả năng mở rộng. Là người tự học, tôi đã xây dựng nó với React, JavaScript, HTML và CSS – những công nghệ cho phép tạo ra các ứng dụng tương tác, động và hấp dẫn về mặt thị giác.",
+    "li_1": "HTML: Cấu trúc rõ ràng, có tính ngữ nghĩa và dễ bảo trì.",
+    "li_2": "CSS: Thiết kế linh hoạt, phản hồi tốt cho trải nghiệm tối ưu trên mọi thiết bị.",
+    "li_3": "JavaScript & React: Tính tương tác động và hiệu suất cao cho trải nghiệm người dùng trực quan và có thể mở rộng.",
+    "p2": "Tôi luôn tập trung vào hiệu suất, khả năng mở rộng và các nguyên tắc tốt nhất để tạo ra những ứng dụng web chuyên nghiệp, dễ bảo trì và có khả năng phát triển lâu dài.",
+
+    "h2": "Mục tiêu của tôi: Trở thành lập trình viên Frontend cấp cao",
+    "p3": "Bên cạnh việc phát triển trang web này, tôi không ngừng nâng cao kỹ năng về React và JavaScript, luôn hướng đến việc viết mã chất lượng cao – có cấu trúc rõ ràng, hiệu quả và có thể tái sử dụng.",
+    "p4": "Tôi đang tìm kiếm những dự án thách thức – dù là từ doanh nghiệp, agency hay các sáng kiến độc lập đổi mới – nơi tôi có thể áp dụng và mở rộng chuyên môn của mình.",
+    "p5": "Trang web này không chỉ là danh mục dự án của tôi mà còn là minh chứng sống cho năng lực và sự phát triển liên tục của tôi trong lĩnh vực Frontend.",
+
+    "h3": "Hãy cùng nhau tạo nên những trải nghiệm kỹ thuật số tuyệt vời!",
+    "p6": "Bạn đang tìm một lập trình viên Frontend nhiệt huyết, người có thể biến ý tưởng sáng tạo thành giải pháp có thể mở rộng, dễ bảo trì và hiệu quả?",
+    "p7": "Hãy liên hệ với tôi – tôi rất mong được hợp tác trong những dự án đầy hứa hẹn!",
+    "kontakt_link": "<< Nhấn vào đây để liên hệ >>"
+  },
+
+  "kontakt": {
+    "title": "Liên hệ",
+    "email": "Email",
+    "mobile": "Di động"
+  },
+
+  "impressum": {
+    "title": "Thông tin pháp lý",
+    "kontakt": "Liên hệ",
+
+    "vertretungsberechtigter": "Đại diện Có Thẩm quyền",
+    "handelsregistereintrag": "Sổ đăng ký thương mại",
+    "handelsregistereintrag_p1_1": "Đăng ký Thương mại: [Placeholder – dữ liệu sẽ được cung cấp sau]",
+    "handelsregistereintrag_p1_2": "Số đăng ký Thương mại: [Placeholder – dữ liệu sẽ được cung cấp sau]",
+    "handelsregistereintrag_p2_1": "Số VAT:",
+    "handelsregistereintrag_p2_2": "Không áp dụng, vì chưa có doanh số bán hàng.",
+
+    "zweck_der_webseite": "Mục đích của Trang web",
+    "zweck_der_webseite_p1_1": "Giải trí Nghệ thuật (ví dụ: Hình ảnh Văn bản SMS, Hình ảnh Văn bản 2.0 và Phim ASCII)",
+    "zweck_der_webseite_p1_2": "Không gian Quảng cáo cho Đối tác Quảng cáo và Tiếp thị Liên kết",
+    "zweck_der_webseite_p1_3": "Dịch vụ Như Nhà Phát triển Frontend",
+
+    "haftungsausschluss": "Miễn trừ Trách nhiệm",
+    "haftung_für_inhalte": "Trách nhiệm về Nội dung",
+    "haftung_für_inhalte_p": "Nội dung của trang web này được tạo ra với sự cẩn trọng tối đa. Tuy nhiên, tôi không thể đảm bảo tính chính xác, đầy đủ và cập nhật của nội dung.",
+
+    "haftung_für_links": "Trách nhiệm về Liên kết",
+    "haftung_für_links_p": "Trang web này bao gồm các liên kết đến các trang web bên ngoài của bên thứ ba, tôi không kiểm soát được nội dung của chúng. Do đó, tôi không chịu trách nhiệm về nội dung bên ngoài này. Nhà cung cấp hoặc quản trị viên của các trang liên kết đó luôn chịu trách nhiệm về nội dung của các trang web liên kết.",
+
+    "datenschutz": "Bảo vệ Dữ liệu",
+    "datenschutz_p": "Thông tin về việc thu thập, xử lý và sử dụng dữ liệu cá nhân được nêu trong Chính sách Bảo mật."
+  },
+
+  "datenschutz": {
+    "title": "Chính sách Bảo mật",
+    "title_p": "Bảo vệ dữ liệu cá nhân của bạn là rất quan trọng đối với tôi. Trong chính sách bảo mật này, tôi sẽ thông báo cho bạn về dữ liệu được thu thập, xử lý và lưu trữ trên trang web của tôi, cũng như các quyền của bạn liên quan đến dữ liệu đó.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Người Chịu Trách Nhiệm Xử Lý Dữ liệu",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "Email:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Di động:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Thu Thập và Lưu Trữ Dữ liệu Cá nhân",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Khi bạn truy cập trang web của tôi, các dữ liệu sau có thể được thu thập tự động:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "Địa chỉ IP của thiết bị (đã được ẩn danh)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Ngày và giờ truy cập",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Trình duyệt và hệ điều hành sử dụng",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "URL giới thiệu (ví dụ: bạn đến từ trang nào)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Các trang phụ đã truy cập",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Các dữ liệu này đã được ẩn danh và chỉ được sử dụng cho mục đích thống kê và cải thiện trang web. Không thể liên kết chúng với danh tính cá nhân của bạn.",
+
+    "verwendung_personenbezogener_daten": "3. Sử dụng Dữ liệu Cá nhân",
+    "verwendung_personenbezogener_daten_p": "Dữ liệu cá nhân như tên, địa chỉ email hoặc số điện thoại chỉ được thu thập khi bạn tự nguyện cung cấp, ví dụ qua mẫu liên hệ. Những dữ liệu này chỉ được sử dụng để xử lý yêu cầu của bạn và không được chia sẻ với bên thứ ba, trừ khi luật pháp yêu cầu.",
+
+    "cookies": "4. Cookies",
+    "cookies_p1": "Trang web của tôi sử dụng cookies để phân tích việc sử dụng trang web và làm cho việc truy cập trở nên thân thiện hơn.",
+    "cookies_p2_1": "Cookies cần thiết: Cần thiết cho chức năng của trang web.",
+    "cookies_p2_2": "Cookies phân tích: Giúp hiểu và cải thiện việc sử dụng trang web (ví dụ: thông qua Google Analytics).",
+    "cookies_p2_3": "Bạn có thể giới hạn hoặc tắt hoàn toàn việc sử dụng cookies qua cài đặt trình duyệt của mình.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Trang web này sử dụng Google Analytics, một dịch vụ phân tích web được cung cấp bởi Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).",
+
+    "google_analytics_p2": "Google Analytics sử dụng cookies để phân tích việc sử dụng trang web của bạn. Thông tin được tạo ra bởi các cookies này thường được chuyển và lưu trữ trên các máy chủ của Google tại Hoa Kỳ.",
+
+    "google_analytics_p3_1": "Ẩn danh IP:",
+    "google_analytics_p3_2": "Trang web này đã kích hoạt ẩn danh IP. Điều này có nghĩa là địa chỉ IP của bạn sẽ bị cắt bớt bởi Google tại một quốc gia thành viên EU hoặc một quốc gia tham gia Hiệp định Kinh tế Châu Âu trước khi được chuyển đến Hoa Kỳ.",
+
+    "google_analytics_p4_1": "Sử dụng Dữ liệu:",
+    "google_analytics_p4_2": "Google sử dụng thông tin này để đánh giá việc sử dụng trang web của bạn, soạn thảo báo cáo về hoạt động của trang web và cung cấp các dịch vụ khác liên quan đến việc sử dụng trang web và Internet.",
+
+    "google_analytics_p5_1": "Tùy chọn Loại bỏ:",
+    "google_analytics_p5_2": "Bạn có thể ngăn chặn việc lưu trữ cookies bằng cách điều chỉnh cài đặt phần mềm trình duyệt của mình một cách thích hợp. Ngoài ra, bạn có thể ngăn Google thu thập và xử lý dữ liệu được tạo bởi cookies và dữ liệu liên quan đến việc sử dụng trang web của bạn (bao gồm địa chỉ IP của bạn) bằng cách tải xuống và cài đặt plugin trình duyệt sau:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "Để biết thêm thông tin về điều khoản dịch vụ của Google Analytics, vui lòng truy cập:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Đối tác Quảng cáo và Liên kết Liên kết",
+    "werbepartner_und_affiliate_links_p1": "Tôi hợp tác với các đối tác quảng cáo và chương trình tiếp thị liên kết. Khi bạn nhấp vào liên kết liên kết hoặc quảng cáo, các nhà cung cấp bên thứ ba có thể đặt cookies hoặc thu thập dữ liệu để đo lường sự thành công của các chiến dịch quảng cáo hoặc bán hàng của họ.",
+    "werbepartner_und_affiliate_links_p2": "Để biết thêm thông tin về chính sách bảo mật của các đối tác này, vui lòng truy cập trang web của họ.",
+
+    "deine_rechte": "7. Quyền Lợi Của Bạn",
+    "deine_rechte_p1_1": "Bạn có quyền:",
+    "deine_rechte_p1_2": "Truy cập dữ liệu tôi lưu giữ về bạn",
+    "deine_rechte_p1_3": "Sửa đổi dữ liệu không chính xác",
+    "deine_rechte_p1_4": "Yêu cầu xóa dữ liệu của bạn trong phạm vi luật pháp cho phép",
+    "deine_rechte_p1_5": "Yêu cầu hạn chế xử lý",
+    "deine_rechte_p1_6": "Yêu cầu chuyển giao dữ liệu",
+    "deine_rechte_p1_7": "Để thực hiện các quyền này, vui lòng liên hệ với tôi qua email: roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. An ninh Dữ liệu",
+    "datensicherheit_p": "Tôi triển khai các biện pháp kỹ thuật và tổ chức để bảo vệ dữ liệu của bạn khỏi truy cập trái phép, mất mát hoặc sử dụng sai mục đích.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Thay đổi Chính sách Bảo mật",
+    "änderungen_dieser_datenschutzerklärung_p": "Chính sách bảo mật này sẽ được cập nhật khi cần thiết để đáp ứng yêu cầu pháp lý hoặc để thích ứng với các thay đổi của trang web."
+  },
+
+  "agb": {
+    "title": "Điều khoản và Điều kiện (T&C)",
+    "title_p1": "Ngày: [Chèn Ngày]",
+    "title_p2": "Các Điều khoản và Điều kiện (T&C) này điều chỉnh việc sử dụng trang web media4u.ch cũng như các dịch vụ và nội dung được cung cấp. Bằng cách truy cập trang web, bạn đồng ý với các điều khoản sau đây.",
+
+    "geltungsbereich": "1. Phạm vi Áp dụng",
+    "geltungsbereich_p": "Các T&C này áp dụng cho tất cả các khách truy cập của trang web media4u.ch cũng như cho các khách hàng sử dụng dịch vụ được cung cấp hoặc tham gia vào các đối tác quảng cáo và chương trình tiếp thị liên kết.",
+
+    "leistungen": "2. Dịch vụ",
+    "leistungen_p1_1": "media4u.ch cung cấp các dịch vụ sau:",
+    "leistungen_p1_2": "Giải trí Nghệ thuật (ví dụ: Hình ảnh Văn bản SMS, Hình ảnh Văn bản 2.0 và Phim ASCII).",
+    "leistungen_p1_3": "Không gian Quảng cáo cho đối tác quảng cáo và tiếp thị liên kết.",
+    "leistungen_p1_4": "Dịch vụ trong lĩnh vực phát triển frontend.",
+    "leistungen_p1_5": "Trang web được sử dụng để giới thiệu nội dung nghệ thuật, bán không gian quảng cáo và quảng bá dịch vụ của tôi.",
+
+    "vertragsabschluss": "3. Thành lập Hợp đồng",
+    "vertragsabschluss_p1_1": "Hợp đồng giữa bạn và media4u.ch được thành lập trong các trường hợp sau:",
+    "vertragsabschluss_p1_2": "Bạn yêu cầu không gian quảng cáo hoặc đối tác liên kết và yêu cầu này được tôi xác nhận.",
+    "vertragsabschluss_p1_3": "Bạn yêu cầu dịch vụ của tôi như một nhà phát triển frontend và chấp nhận đề nghị của tôi.",
+    "vertragsabschluss_p1_4": "Thành lập hợp đồng được thực hiện bằng văn bản qua email.",
+
+    "preise_und_zahlungsbedingungen": "4. Giá cả và Điều kiện Thanh toán",
+    "preise_und_zahlungsbedingungen_p1_1": "Đối với các đối tác quảng cáo, các điều kiện thanh toán sau đây áp dụng:",
+    "preise_und_zahlungsbedingungen_p1_2": "Giá của không gian quảng cáo được thỏa thuận riêng.",
+    "preise_und_zahlungsbedingungen_p1_3": "Thanh toán phải được thực hiện trước khi bắt đầu giai đoạn.",
+    "preise_und_zahlungsbedingungen_p1_4": "Giá của các dịch vụ như nhà phát triển frontend được quyết định thông qua thỏa thuận.",
+
+    "preise_und_zahlungsbedingungen_p2": "Hoàn tiền cho các khoản thanh toán đã thực hiện được loại trừ trừ khi có lỗi từ phía tôi.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Quyền và Nghĩa vụ của Người Dùng",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Sử dụng Nội dung",
+    "rechte_und_pflichten_der_nutzer_p1_2": "Nội dung của trang web (bao gồm các tác phẩm nghệ thuật) chỉ có thể được sử dụng hoặc phân phối khi có sự cho phép rõ ràng.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Việc sử dụng hoặc sao chép nội dung không được phép là bị cấm.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Hành vi của Người Dùng",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Khách truy cập và khách hàng có nghĩa vụ không lạm dụng trang web, chẳng hạn như lan truyền nội dung có hại, spam hoặc quảng cáo không được phép.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Việc sử dụng không gian quảng cáo và chương trình tiếp thị liên kết phải tuân thủ các yêu cầu pháp lý.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Miễn trừ Trách nhiệm",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Tôi không chịu trách nhiệm về tính chính xác, đầy đủ và cập nhật của nội dung trên trang web.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Tôi không chịu trách nhiệm về bất kỳ thiệt hại nào phát sinh từ việc sử dụng trang web hoặc nội dung của bên thứ ba.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Đối tác Quảng cáo và Chương trình Tiếp thị Liên kết",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Đối tác quảng cáo cam kết chỉ quảng bá nội dung được tôn trọng và được phép hợp pháp.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch bảo lưu quyền từ chối nội dung không đáp ứng tiêu chuẩn của trang web.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Quy định đặc biệt cho đối tác quảng cáo:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Nếu trang web không hoạt động trong một ngày trở lên, số ngày thiếu hụt sẽ được thêm miễn phí vào lần đặt phòng tiếp theo ít nhất 30 ngày. Điều này chỉ áp dụng cho không gian quảng cáo trả phí và yêu cầu sự hợp tác liên tục. Việc thanh toán hoặc bồi thường riêng cho số ngày ngừng hoạt động bị loại trừ.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Chương trình tiếp thị liên kết được thực hiện bằng cách hợp tác với các nhà cung cấp bên ngoài. Tôi không chịu trách nhiệm về nội dung và chính sách bảo mật của các nhà cung cấp này.",
+
+    "verfügbarkeit_der_webseite": "8. Sự Có Sẵn của Trang Web",
+    "verfügbarkeit_der_webseite_p": "Tôi cố gắng duy trì sự có sẵn liên tục của trang web. Tuy nhiên, tôi không thể đảm bảo sự có sẵn liên tục trong các trường hợp bảo trì, sự cố kỹ thuật hoặc tình huống bất khả kháng.",
+
+    "urheberrecht": "9. Bản quyền",
+    "urheberrecht_p": "Tất cả nội dung trên media4u.ch đều được bảo vệ bản quyền. Việc sử dụng chúng mà không có sự cho phép bằng văn bản của tôi là bị cấm.",
+
+    "änderungen_der_agb": "10. Thay đổi Điều khoản và Điều kiện",
+    "änderungen_der_agb_p": "Tôi bảo lưu quyền thay đổi các T&C này bất cứ lúc nào. Các thay đổi sẽ được đăng trên trang web và có hiệu lực kể từ ngày được đăng tải.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Thẩm quyền và Luật Áp dụng",
+    "gerichtsstand_und_anwendbares_recht_p": "Luật Thụy Sĩ sẽ áp dụng cho tất cả các tranh chấp. Tòa án tại Bülach, Thụy Sĩ, sẽ có thẩm quyền giải quyết các tranh chấp này."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Nội dung Cookie"
+  },
+
+  "sms_textbild": {
+    "title": "Hình ảnh Văn bản SMS",
+    "h1": "Hình ảnh Văn bản SMS Được Tái Tạo",
+    "p1": "Những ký ức kết nối chúng ta. Các hình ảnh văn bản SMS biểu tượng từ các điện thoại Nokia cũ như 3210, cũng như các mẫu điện thoại Ericsson và Motorola đầu tiên, đã định hình một kỷ nguyên. Những kiệt tác nhỏ này, từng được gửi qua SMS, giờ đây được tái sinh – hiện đại hơn bao giờ hết.",
+    "p2": "Trên trang web của tôi, bạn sẽ tìm thấy các hoạt hình hình ảnh văn bản được thiết kế độc quyền mà bạn có thể dễ dàng thưởng thức và chia sẻ. Mỗi hình ảnh là một tác phẩm nghệ thuật độc đáo, được tạo ra bằng tay với tình yêu để kết hợp sức hấp dẫn của quá khứ với sự đơn giản của ngày nay. Phông chữ được sử dụng giống với phông chữ cổ điển của Nokia, nhưng không giống hệt. Nếu bạn đặc biệt thích một hình ảnh văn bản nào đó, bạn có thể chia sẻ nó qua liên kết – làm cho mỗi tin nhắn trở thành một trải nghiệm đặc biệt.",
+
+    "h2": "Mỗi Hoạt Hình, Một Kiệt Tác",
+    "p3": "Những hình ảnh văn bản này không chỉ là những ký ức – chúng là nghệ thuật. Mỗi hoạt hình được tạo ra bằng tay và được thiết kế tỉ mỉ để tái tạo lại thẩm mỹ của các hình ảnh văn bản SMS cổ điển.",
+
+    "h3": "Thiết Kế Vượt Thời Gian, Tái Tạo Cho Hiện Tại",
+    "p4": "Tôi đã hồi sinh phép màu của những hình ảnh văn bản cổ điển. Thông qua các biểu diễn được hoạt hình hóa, các thiết kế biểu tượng được hồi sinh theo cách hiện đại – làm cho sự hoài niệm của quá khứ lại tỏa sáng một lần nữa.",
+
+    "h4": "Chia Sẻ Dễ Dàng Hơn Bao Giờ Hết",
+    "p5": "Với một liên kết, bạn không chỉ gửi một tin nhắn mà còn gửi một trải nghiệm. Một khoảnh khắc hoài niệm mà bạn có thể chia sẻ với người khác."
+  },
+
+
+  "textbild2": {
+    "title": "Hình ảnh Văn bản 2.0",
+    "h1": "Hình ảnh Văn bản 2.0 Sự Tiến Hóa Tiếp Theo",
+    "p1": "Sự sáng tạo được tái định nghĩa. Với Hình ảnh Văn bản 2.0, các hình ảnh văn bản cổ điển trải qua một cuộc cách mạng. Các tính năng nâng cao như chồng chữ, kích thước và màu sắc phông chữ khác nhau, xoay và phản chiếu, cũng như vị trí tự do trên màn hình tạo ra những tác phẩm nghệ thuật chưa từng thấy trước đây.",
+    "p2": "Trên trang web của tôi, bạn sẽ tìm thấy các sáng tạo phức tạp mới này của hình ảnh văn bản mà bạn có thể khám phá và chia sẻ. Mỗi tác phẩm là kết quả độc đáo của sự sáng tạo và đổi mới, kết hợp truyền thống của các hình ảnh văn bản SMS cổ điển với khả năng của công nghệ hiện đại.",
+
+    "h2": "MỘT CHIỀU DIMENSION MỚI CỦA NGHỆ THUẬT",
+    "p3": "Hình ảnh Văn bản 2.0 không chỉ là sự tiến hóa – nó là một hình thức nghệ thuật mới. Sử dụng màu sắc, kích thước phông chữ thay đổi và các yếu tố động, mỗi hình ảnh sống động như một kiệt tác rực rỡ, làm say đắm giác quan.",
+
+    "h3": "ĐỔI MỚI GẶP HOÀI NIỆM",
+    "p4": "Tôi đã tái tạo phép màu của các hình ảnh văn bản cổ điển. Bằng cách sử dụng công nghệ hiện đại và các công cụ thiết kế sáng tạo, các tác phẩm được tạo ra kết hợp sự hoài niệm của quá khứ với đổi mới của hiện tại.",
+
+    "h4": "CHIA SẺ NIỀM ĐAM MÊ CỦA BẠN",
+    "p5": "Với Hình ảnh Văn bản 2.0, mỗi tin nhắn trở thành một trải nghiệm đặc biệt. Chia sẻ những tác phẩm nghệ thuật độc đáo này với bạn bè và gia đình và trải nghiệm cách sự sáng tạo kết nối con người."
+  },
+
+
+  "ascii_art_film": {
+    "title": "Phim Nghệ thuật ASCII",
+    "h1": "Ma trận trong Dạng Văn bản: Một Chiều Dimension Mới của Nghệ thuật ASCII",
+    "p1": "Có lẽ bạn đã quen thuộc với các phim ASCII đầu tiên của tôi, những phim này đã trình bày các cảnh từ bộ ba Ma trận trong một hình thức nghệ thuật văn bản độc đáo. Những tác phẩm đầu tiên này đã chứng minh cách các bộ phim phức tạp có thể được hiển thị dưới dạng ASCII tối giản.",
+
+    "h2": "Một Góc Nhìn Mới: Các Cảnh Ma trận Cổ Điển trong Thế Giới Văn bản Hấp dẫn",
+    "p2": "Bây giờ, tôi giới thiệu phiên bản cải tiến của những tác phẩm này. Các phim ASCII mới cung cấp những hình ảnh chi tiết hơn và chất lượng cao hơn của các cảnh Ma trận biểu tượng. Nhờ sự tiến bộ của công nghệ, các tác phẩm nghệ thuật ASCII này cung cấp một cách diễn giải ấn tượng hơn về các bộ phim cổ điển, cho phép bạn trải nghiệm Ma trận một cách hoàn toàn mới.",
+    "p3": "Hãy thoải mái chia sẻ những phim ASCII này với bạn bè, người quen và gia đình để họ cũng có thể thưởng thức hình thức nghệ thuật độc đáo này."
+  },
+  "matrix": {
+    "title": "Ma trận",
+    "bibliothek": "Thư viện Ma trận"
+  },
+
+  "legal": {
+    "impressum": "Thông tin pháp lý",
+    "datenschutz": "Chính sách Bảo mật",
+    "cookie": "Cookie",
+    "agb": "Điều khoản và Điều kiện"
+  },
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Bảo lưu mọi quyền."
+  },
+
+
+  "neu": {
+    "title": "Mới"
+  },
+  "liebe_freundschaft": {
+    "title": "Tình yêu và Tình bạn",
+    "komm_zu_mir1": "Đến với tôi 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "Ong 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "Ngày lễ và Tiệc tùng",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "Thời gian rảnh và Công việc",
+
+    "arbeit1": "Công việc 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "Thể thao và Sở thích"
+  },
+  "abenteuer_action": {
+    "title": "Phiêu lưu và Hành động"
+  },
+  "erotik_sex": {
+    "title": "Hư cấu và Tình dục"
+  },
+
+
+  
+  "neu2": {
+    "title": "Mới"
+  },
+  "liebe_freundschaft2": {
+    "title": "Tình yêu và Tình bạn",
+
+    "komm_zu_uns1": "Tham gia với chúng tôi 1",
+    "komm_zu_uns1_text1": "Này, bạn đang nhìn gì",
+    "komm_zu_uns1_text2": "ở đó?",
+    "komm_zu_uns1_text3": "Người kia",
+    "komm_zu_uns1_text4": "ở đằng kia!",
+    "komm_zu_uns1_text5": "Cả ngày chỉ nhìn vào",
+    "komm_zu_uns1_text6": "điện thoại!",
+    "komm_zu_uns1_text7": "Này, bạn có chán không?",
+    "komm_zu_uns1_text8": "Vậy hãy tham gia",
+    "komm_zu_uns1_text8_1":"với chúng tôi! :-)",
+    "komm_zu_uns1_text9": "Hẹn gặp lại!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Ngày lễ và Tiệc tùng",
+
+    "geburtstag1": "Sinh nhật 1",
+    "geburtstag1_text1": "Chúc mừng sinh nhật!",
+    "geburtstag1_text2": "Đây là món quà của bạn!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Thời gian rảnh và Công việc",
+
+    "arbeit1": "Công việc 1",
+    "arbeit1_text1": "Hết giờ rồi!",
+    "arbeit1_text2": "Tôi về nhà đây.",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Tạm biệt.",
+    "arbeit1_text6": "Hẹn gặp lại ngày mai!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Thể thao và Sở thích"
+  },
+  "abenteuer_action2": {
+    "title": "Phiêu lưu và Hành động"
+  },
+  "erotik_sex2": {
+    "title": "Hư cấu và Tình dục"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Mã là nghệ thuật",
+  "Lập trình viên Fullstack",
+  "Nghệ thuật tin nhắn",
+  "Không giới hạn 160 ký tự",
+  "Hoài niệm ASCII",
+  "Sáng tạo vô hạn",
+  "Nghệ thuật chữ hiện đại",
+  "Ảnh văn bản 2.0",
+  "Nghệ thuật kỹ thuật số",
+  "Nghệ thuật sắp chữ",
+  "Thiết kế ký tự",
+  "Kể chuyện trực quan",
+  "Phim nghệ thuật ASCII",
+  "ASCII chuyển động",
+  "Tính tương tác",
+  "Hoạt hình CSS",
+  "React & Vite",
+  "HTML5 ngữ nghĩa",
+  "CSS Modules",
+  "Thao tác DOM",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Dựa trên container",
+  "An toàn sự cố",
+  "Tiếp cận (A11y)",
+  "Thiết kế đáp ứng",
+  "Hiệu suất cao",
+  "Tối ưu hóa SEO",
+  "Thiết kế bảo mật",
+  "Builds bất biến",
+  "Có thể tái tạo",
+  "24 Ngôn ngữ",
+  "Quốc tế",
+  "Đổi mới",
+  "Kỹ thuật Web"
+]
+
+}

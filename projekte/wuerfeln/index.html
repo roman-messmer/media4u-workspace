@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <title>Würfel mit Shake-Erkennung</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="scene">
+    <div class="rotator" id="rotator">
+      <div class="cube" id="cube">
+        <!-- Faces werden per JS befüllt -->
+        <div class="face front"  data-value="1"></div>
+        <div class="face back"   data-value="2"></div>
+        <div class="face right"  data-value="3"></div>
+        <div class="face left"   data-value="4"></div>
+        <div class="face top"    data-value="5"></div>
+        <div class="face bottom" data-value="6"></div>
+      </div>
+    </div>
+  </div>
+
+  <button class="fallback" id="rollButton">Würfeln</button>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>

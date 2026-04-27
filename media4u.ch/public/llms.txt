@@ -1,0 +1,22 @@
+# media4u.ch - Moderne Digitale Kunst & Webentwicklung
+
+## Über das Projekt
+media4u.ch ist die Plattform von Roman, einem Frontend Entwickler mit fundierter Backend-Erfahrung. Die Webseite verbindet moderne Webtechnologien mit nostalgischer und innovativer digitaler Kunst. Die Plattform ist international ausgerichtet und vollständig in 24 Sprachen lokalisiert.
+
+## Digitale Kunstformen
+- **SMS-Textbilder:** Detaillierte Kunstwerke aus Buchstaben, inspiriert von klassischen Handy-Textnachrichten (z. B. Nokia-Ära), neu interpretiert und optimiert für moderne Displays.
+- **Textbild 2.0:** Die Evolution der Textbilder. Kombiniert kreative Typografie mit moderner Webdarstellung durch übereinandergelegte Zeichen, verschiedene Schriftgrößen, Farben, Drehungen und Spiegelungen.
+- **ASCII-Art-Film:** Animierte Zeichenfolgen (z. B. Szenen aus der Matrix-Trilogie), die durch reinen Text bewegte, faszinierende Animationen erzeugen.
+
+## Tech Stack & Architektur
+- **Frontend:** React (komponentenbasierte Architektur mit Hooks, ohne schwere UI-Frameworks), Vite (Build-Tooling & HMR), semantisches HTML5, CSS3 (BEM-Methodik, modular), JavaScript (ES6+).
+- **Backend & CMS:** Strapi (Headless CMS via REST API für mehrsprachige Inhalte), Node.js (für Tooling und Backend-Workflows).
+- **Infrastruktur:** Docker & Docker Compose (Containerisierung für Strapi und NGINX), NGINX (Reverse Proxy, SSL), Bereitstellung via SSH/rsync und PM2.
+- **Best Practices:** i18n (React-i18next für 24 Sprachen), Barrierefreiheit (ARIA-Tags, Rollen), XSS-Schutz (HTML-Sanitization mit DOMPurify), robuste API-Calls (Fetch mit AbortController).
+
+## KI-Philosophie
+Künstliche Intelligenz wird auf media4u.ch als Werkzeug zur Effizienzsteigerung (z. B. für Übersetzungen), zur Code-Optimierung und für Sicherheits-Audits eingesetzt. Die architektonische Kontrolle und Verantwortung liegt vollständig beim Entwickler.
+
+## Geschäftsmodell
+- **Werbepartner:** Gezielte, landesspezifische Werbeplatzierungen. Es erfolgt kein invasives Tracking; lediglich das Herkunftsland der Besucher wird erfasst, um lokale Sichtbarkeit zu gewährleisten.
+- **Affiliate Marketing:** Transparente Nutzung von Affiliate-Links zur Refinanzierung des kostenlosen Angebots.

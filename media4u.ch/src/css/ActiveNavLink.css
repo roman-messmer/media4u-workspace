@@ -1,0 +1,19 @@
+/* ActiveNavLink.module.css */
+
+.nav_link {
+    color: black; /* Standardfarbe */
+    text-decoration: none;
+    margin: 0 12px;
+    font-size: 16px;
+    transition: color 0.3s, font-weight 0.3s;
+  }
+  
+  .nav_link:hover {
+    color: #555;
+  }
+  
+  .active {
+    color: red; /* Aktive Farbe */
+    font-weight: bold; /* Optional: Fettgedruckt */
+  }
+  

@@ -1,0 +1,1098 @@
+/* Deselect-Klasse, um die Textauswahl zu verhindern */
+.deselect,
+.deselect * {
+    user-select: none;          /* Standard-Syntax */
+    -webkit-user-select: none;  /* Safari */
+    -moz-user-select: none;     /* Firefox */
+    -ms-user-select: none;      /* IE10+/Edge */
+}
+
+.display_area {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.beispiel_textbild2 {
+    display: block;
+    container-type: inline-size;
+    border: 1px #000000 solid;
+    border-radius: 0.6rem 0.6rem 0.6rem 0.6rem;
+    width: 100%;
+    box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+}
+
+.beispiel_textbild2 .display .frame {
+    display: grid;
+    gap: 0em 0em;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.6rem 0.6rem 0rem 0rem;
+    font-family: 'Inconsolata', sans-serif;
+    background-color: #e9faff;
+}
+
+.beispiel_textbild2 .display .frame {
+    container-type: inline-size;
+    display: grid;
+    grid-template-columns: repeat(128, minmax(0, 1fr));
+    grid-template-rows: repeat(48, minmax(0, 1fr));
+    place-content: center;
+            
+    width: 100%; 
+    aspect-ratio: 128 / 48;
+
+    background-size: calc(100% / 128) calc(100% / 48);
+
+    /* Überlauf handhaben (scroll statt Layoutsprengung) */
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+
+    font-family: 'Inconsolata', monospace;
+    white-space: pre;
+    background-color: #e9faff;
+    color: #004d61;
+}
+
+.beispiel_textbild2 .display .frame pre {
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
+
+.beispiel_textbild2 .display .zeilen {
+    margin: 0; padding: 0;
+    font-family: 'Inconsolata', sans-serif;
+    color: #000000;
+    line-height: 1; /* Wichtig für vertikale Zentrierung */
+            
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.beispiel_textbild2 .display .zeilen .top_left { align-items: flex-start; justify-content: flex-start; }
+.beispiel_textbild2 .display .zeilen .top_center { align-items: flex-start; justify-content: center; }
+
+
+/* --- SCHRIFTGRÖSSEN (Container Queries) --- */
+/* Basis: 1 Grid-Zelle = ~0.78cqw (bei 128 Spalten) */
+.beispiel_textbild2 .display .zeilen16 { font-size: calc(100cqw / 128 * 1); }  /* 1x1 */
+.beispiel_textbild2 .display .zeilen8  { font-size: calc(100cqw / 128 * 2); }  /* 2x2 */
+.beispiel_textbild2 .display .zeilen4  { font-size: calc(100cqw / 128 * 4); }  /* 4x4 */
+.beispiel_textbild2 .display .zeilen2  { font-size: calc(100cqw / 128 * 8); }  /* 8x8 */
+.beispiel_textbild2 .display .zeilen1  { font-size: calc(100cqw / 128 * 16); } /* 16x16 */
+
+.beispiel_textbild2 figcaption {
+    display: flex;
+    width: auto;
+    background-color: whitesmoke;
+    border-radius: 0rem 0rem 0.6rem 0.6rem;
+    border-top: 1px #000000 solid;
+    justify-content: center;
+}
+
+.beispiel_textbild2 .vorschau_name {
+	display: block;
+	padding-top: calc(min(1vw + 2px, 42px));
+	padding-bottom: calc(min(1vw + 2px, 42px));
+	font-size: calc(min(2vw + 2px, 38px));
+}
+
+
+
+
+
+
+.bold {
+    font-weight: bold; /* oder 700 */
+}
+
+
+.drehen_0 {
+    transform: rotate(0deg);
+}
+
+.drehen_5 {
+    transform: rotate(5deg);
+}
+
+.drehen_10 {
+    transform: rotate(10deg);
+}
+
+.drehen_15 {
+    transform: rotate(15deg);
+}
+
+.drehen_20 {
+    transform: rotate(20deg);
+}
+
+.drehen_25 {
+    transform: rotate(25deg);
+}
+
+.drehen_30 {
+    transform: rotate(30deg);
+}
+
+.drehen_35 {
+    transform: rotate(35deg);
+}
+
+.drehen_40 {
+    transform: rotate(40deg);
+}
+
+.drehen_45 {
+    transform: rotate(45deg);
+}
+
+.drehen_50 {
+    transform: rotate(50deg);
+}
+
+.drehen_55 {
+    transform: rotate(55deg);
+}
+
+.drehen_60 {
+    transform: rotate(60deg);
+}
+
+.drehen_65 {
+    transform: rotate(65deg);
+}
+
+.drehen_70 {
+    transform: rotate(70deg);
+}
+
+.drehen_75 {
+    transform: rotate(75deg);
+}
+
+.drehen_80 {
+    transform: rotate(80deg);
+}
+
+.drehen_85 {
+    transform: rotate(85deg);
+}
+
+.drehen_90 {
+    transform: rotate(90deg);
+}
+
+.drehen_95 {
+    transform: rotate(95deg);
+}
+
+.drehen_100 {
+    transform: rotate(100deg);
+}
+
+.drehen_105 {
+    transform: rotate(105deg);
+}
+
+.drehen_110 {
+    transform: rotate(110deg);
+}
+
+.drehen_115 {
+    transform: rotate(115deg);
+}
+
+.drehen_120 {
+    transform: rotate(120deg);
+}
+
+.drehen_125 {
+    transform: rotate(125deg);
+}
+
+.drehen_130 {
+    transform: rotate(130deg);
+}
+
+.drehen_135 {
+    transform: rotate(135deg);
+}
+
+.drehen_140 {
+    transform: rotate(140deg);
+}
+
+.drehen_145 {
+    transform: rotate(145deg);
+}
+
+.drehen_150 {
+    transform: rotate(150deg);
+}
+
+.drehen_155 {
+    transform: rotate(155deg);
+}
+
+.drehen_160 {
+    transform: rotate(160deg);
+}
+
+.drehen_165 {
+    transform: rotate(165deg);
+}
+
+.drehen_170 {
+    transform: rotate(170deg);
+}
+
+.drehen_175 {
+    transform: rotate(175deg);
+}
+
+.drehen_180 {
+    transform: rotate(180deg);
+}
+
+.drehen_185 {
+    transform: rotate(185deg);
+}
+
+.drehen_190 {
+    transform: rotate(190deg);
+}
+
+.drehen_195 {
+    transform: rotate(195deg);
+}
+
+.drehen_200 {
+    transform: rotate(200deg);
+}
+
+.drehen_205 {
+    transform: rotate(205deg);
+}
+
+.drehen_210 {
+    transform: rotate(210deg);
+}
+
+.drehen_215 {
+    transform: rotate(215deg);
+}
+
+.drehen_220 {
+    transform: rotate(220deg);
+}
+
+.drehen_225 {
+    transform: rotate(225deg);
+}
+
+.drehen_230 {
+    transform: rotate(230deg);
+}
+
+.drehen_235 {
+    transform: rotate(235deg);
+}
+
+.drehen_240 {
+    transform: rotate(240deg);
+}
+
+.drehen_245 {
+    transform: rotate(245deg);
+}
+
+.drehen_250 {
+    transform: rotate(250deg);
+}
+
+.drehen_255 {
+    transform: rotate(255deg);
+}
+
+.drehen_260 {
+    transform: rotate(260deg);
+}
+
+.drehen_265 {
+    transform: rotate(265deg);
+}
+
+.drehen_270 {
+    transform: rotate(270deg);
+}
+
+.drehen_275 {
+    transform: rotate(275deg);
+}
+
+.drehen_280 {
+    transform: rotate(280deg);
+}
+
+.drehen_285 {
+    transform: rotate(285deg);
+}
+
+.drehen_290 {
+    transform: rotate(290deg);
+}
+
+.drehen_295 {
+    transform: rotate(295deg);
+}
+
+.drehen_300 {
+    transform: rotate(300deg);
+}
+
+.drehen_305 {
+    transform: rotate(305deg);
+}
+
+.drehen_310 {
+    transform: rotate(310deg);
+}
+
+.drehen_315 {
+    transform: rotate(315deg);
+}
+
+.drehen_320 {
+    transform: rotate(320deg);
+}
+
+.drehen_325 {
+    transform: rotate(325deg);
+}
+
+.drehen_330 {
+    transform: rotate(330deg);
+}
+
+.drehen_335 {
+    transform: rotate(335deg);
+}
+
+.drehen_340 {
+    transform: rotate(340deg);
+}
+
+.drehen_345 {
+    transform: rotate(345deg);
+}
+
+.drehen_350 {
+    transform: rotate(350deg);
+}
+
+.drehen_355 {
+    transform: rotate(355deg);
+}
+
+.drehen_360 {
+    transform: rotate(360deg);
+}
+
+
+
+
+.spiegeln_drehen_0 {
+    transform: rotate(0deg) scaleX(-1);
+}
+
+.spiegeln_drehen_5 {
+    transform: rotate(5deg) scaleX(-1);
+}
+
+.spiegeln_drehen_10 {
+    transform: rotate(10deg) scaleX(-1);
+}
+
+.spiegeln_drehen_15 {
+    transform: rotate(15deg) scaleX(-1);
+}
+
+.spiegeln_drehen_20 {
+    transform: rotate(20deg) scaleX(-1);
+}
+
+.spiegeln_drehen_25 {
+    transform: rotate(25deg) scaleX(-1);
+}
+
+.spiegeln_drehen_30 {
+    transform: rotate(30deg) scaleX(-1);
+}
+
+.spiegeln_drehen_35 {
+    transform: rotate(35deg) scaleX(-1);
+}
+
+.spiegeln_drehen_40 {
+    transform: rotate(40deg) scaleX(-1);
+}
+
+.spiegeln_drehen_45 {
+    transform: rotate(45deg) scaleX(-1);
+}
+
+.spiegeln_drehen_50 {
+    transform: rotate(50deg) scaleX(-1);
+}
+
+.spiegeln_drehen_55 {
+    transform: rotate(55deg) scaleX(-1);
+}
+
+.spiegeln_drehen_60 {
+    transform: rotate(60deg) scaleX(-1);
+}
+
+.spiegeln_drehen_65 {
+    transform: rotate(65deg) scaleX(-1);
+}
+
+.spiegeln_drehen_70 {
+    transform: rotate(70deg) scaleX(-1);
+}
+
+.spiegeln_drehen_75 {
+    transform: rotate(75deg) scaleX(-1);
+}
+
+.spiegeln_drehen_80 {
+    transform: rotate(80deg) scaleX(-1);
+}
+
+.spiegeln_drehen_85 {
+    transform: rotate(85deg) scaleX(-1);
+}
+
+.spiegeln_drehen_90 {
+    transform: rotate(90deg) scaleX(-1);
+}
+
+.spiegeln_drehen_95 {
+    transform: rotate(95deg) scaleX(-1);
+}
+
+.spiegeln_drehen_100 {
+    transform: rotate(100deg) scaleX(-1);
+}
+
+.spiegeln_drehen_105 {
+    transform: rotate(105deg) scaleX(-1);
+}
+
+.spiegeln_drehen_110 {
+    transform: rotate(110deg) scaleX(-1);
+}
+
+.spiegeln_drehen_115 {
+    transform: rotate(115deg) scaleX(-1);
+}
+
+.spiegeln_drehen_120 {
+    transform: rotate(120deg) scaleX(-1);
+}
+
+.spiegeln_drehen_125 {
+    transform: rotate(125deg) scaleX(-1);
+}
+
+.spiegeln_drehen_130 {
+    transform: rotate(130deg) scaleX(-1);
+}
+
+.spiegeln_drehen_135 {
+    transform: rotate(135deg) scaleX(-1);
+}
+
+.spiegeln_drehen_140 {
+    transform: rotate(140deg) scaleX(-1);
+}
+
+.spiegeln_drehen_145 {
+    transform: rotate(145deg) scaleX(-1);
+}
+
+.spiegeln_drehen_150 {
+    transform: rotate(150deg) scaleX(-1);
+}
+
+.spiegeln_drehen_155 {
+    transform: rotate(155deg) scaleX(-1);
+}
+
+.spiegeln_drehen_160 {
+    transform: rotate(160deg) scaleX(-1);
+}
+
+.spiegeln_drehen_165 {
+    transform: rotate(165deg) scaleX(-1);
+}
+
+.spiegeln_drehen_170 {
+    transform: rotate(170deg) scaleX(-1);
+}
+
+.spiegeln_drehen_175 {
+    transform: rotate(175deg) scaleX(-1);
+}
+
+.spiegeln_drehen_180 {
+    transform: rotate(180deg) scaleX(-1);
+}
+
+.spiegeln_drehen_185 {
+    transform: rotate(185deg) scaleX(-1);
+}
+
+.spiegeln_drehen_190 {
+    transform: rotate(190deg) scaleX(-1);
+}
+
+.spiegeln_drehen_195 {
+    transform: rotate(195deg) scaleX(-1);
+}
+
+.spiegeln_drehen_200 {
+    transform: rotate(200deg) scaleX(-1);
+}
+
+.spiegeln_drehen_205 {
+    transform: rotate(205deg) scaleX(-1);
+}
+
+.spiegeln_drehen_210 {
+    transform: rotate(210deg) scaleX(-1);
+}
+
+.spiegeln_drehen_215 {
+    transform: rotate(215deg) scaleX(-1);
+}
+
+.spiegeln_drehen_220 {
+    transform: rotate(220deg) scaleX(-1);
+}
+
+.spiegeln_drehen_225 {
+    transform: rotate(225deg) scaleX(-1);
+}
+
+.spiegeln_drehen_230 {
+    transform: rotate(230deg) scaleX(-1);
+}
+
+.spiegeln_drehen_235 {
+    transform: rotate(235deg) scaleX(-1);
+}
+
+.spiegeln_drehen_240 {
+    transform: rotate(240deg) scaleX(-1);
+}
+
+.spiegeln_drehen_245 {
+    transform: rotate(245deg) scaleX(-1);
+}
+
+.spiegeln_drehen_250 {
+    transform: rotate(250deg) scaleX(-1);
+}
+
+.spiegeln_drehen_255 {
+    transform: rotate(255deg) scaleX(-1);
+}
+
+.spiegeln_drehen_260 {
+    transform: rotate(260deg) scaleX(-1);
+}
+
+.spiegeln_drehen_265 {
+    transform: rotate(265deg) scaleX(-1);
+}
+
+.spiegeln_drehen_270 {
+    transform: rotate(270deg) scaleX(-1);
+}
+
+.spiegeln_drehen_275 {
+    transform: rotate(275deg) scaleX(-1);
+}
+
+.spiegeln_drehen_280 {
+    transform: rotate(280deg) scaleX(-1);
+}
+
+.spiegeln_drehen_285 {
+    transform: rotate(285deg) scaleX(-1);
+}
+
+.spiegeln_drehen_290 {
+    transform: rotate(290deg) scaleX(-1);
+}
+
+.spiegeln_drehen_295 {
+    transform: rotate(295deg) scaleX(-1);
+}
+
+.spiegeln_drehen_300 {
+    transform: rotate(300deg) scaleX(-1);
+}
+
+.spiegeln_drehen_305 {
+    transform: rotate(305deg) scaleX(-1);
+}
+
+.spiegeln_drehen_310 {
+    transform: rotate(310deg) scaleX(-1);
+}
+
+.spiegeln_drehen_315 {
+    transform: rotate(315deg) scaleX(-1);
+}
+
+.spiegeln_drehen_320 {
+    transform: rotate(320deg) scaleX(-1);
+}
+
+.spiegeln_drehen_325 {
+    transform: rotate(325deg) scaleX(-1);
+}
+
+.spiegeln_drehen_330 {
+    transform: rotate(330deg) scaleX(-1);
+}
+
+.spiegeln_drehen_335 {
+    transform: rotate(335deg) scaleX(-1);
+}
+
+.spiegeln_drehen_340 {
+    transform: rotate(340deg) scaleX(-1);
+}
+
+.spiegeln_drehen_345 {
+    transform: rotate(345deg) scaleX(-1);
+}
+
+.spiegeln_drehen_350 {
+    transform: rotate(350deg) scaleX(-1);
+}
+
+.spiegeln_drehen_355 {
+    transform: rotate(355deg) scaleX(-1);
+}
+
+.spiegeln_drehen_360 {
+    transform: rotate(360deg) scaleX(-1);
+}
+
+
+
+/* Schwarz, Grau und WeiÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¸ TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.Black {
+    color: black;
+}
+.DimGray {
+    color: dimgray;
+}
+.Gray {
+    color: gray;
+}
+.DarkGray {
+    color: darkgray;
+}
+.Silver {
+    color: silver;
+}
+.LightGrey {
+    color: lightgrey;
+}
+.WhiteSmoke {
+    color: whitesmoke;
+}
+.White {
+    color: white;
+}
+
+/* RottÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.DarkRed {
+    color: darkred;
+}
+.FireBrick {
+    color: firebrick;
+}
+.Crimson {
+    color: crimson;
+}
+.Red {
+    color: red;
+}
+.IndianRed {
+    color: indianred;
+}
+.LightCoral {
+    color: lightcoral;
+}
+.Salmon {
+    color: salmon;
+}
+.DarkSalmon {
+    color: darksalmon;
+}
+.LightSalmon {
+    color: lightsalmon;
+}
+
+/* PinktÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.HotPink {
+    color: hotpink;
+}
+.DeepPink {
+    color: deeppink;
+}
+.MediumVioletRed {
+    color: mediumvioletred;
+}
+.PaleVioletRed {
+    color: palevioletred;
+}
+.LightPink {
+    color: lightpink;
+}
+.Pink {
+    color: pink;
+}
+.Thistle {
+    color: thistle;
+}
+.Plum {
+    color: plum;
+}
+.Violet {
+    color: violet;
+}
+.Orchid {
+    color: orchid;
+}
+.Magenta {
+    color: magenta;
+}
+.Fuchsia {
+    color: fuchsia;
+}
+.MediumOrchid {
+    color: mediumorchid;
+}
+.DarkOrchid {
+    color: darkorchid;
+}
+.DarkViolet {
+    color: darkviolet;
+}
+.Purple {
+    color: purple;
+}
+.MediumPurple {
+    color: mediumpurple;
+}
+.RebeccaPurple {
+    color: rebeccapurple;
+}
+.BlueViolet {
+    color: blueviolet;
+}
+.Indigo {
+    color: indigo;
+}
+.DarkSlateBlue {
+    color: darkslateblue;
+}
+.SlateBlue {
+    color: slateblue;
+}
+.MediumSlateBlue {
+    color: mediumslateblue;
+}
+
+/* BlautÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.DarkBlue {
+    color: darkblue;
+}
+.MediumBlue {
+    color: mediumblue;
+}
+.Blue {
+    color: blue;
+}
+.RoyalBlue {
+    color: royalblue;
+}
+.SteelBlue {
+    color: steelblue;
+}
+.DodgerBlue {
+    color: dodgerblue;
+}
+.DeepSkyBlue {
+    color: deepskyblue;
+}
+.CornflowerBlue {
+    color: cornflowerblue;
+}
+.SkyBlue {
+    color: skyblue;
+}
+.LightSkyBlue {
+    color: lightskyblue;
+}
+.LightBlue {
+    color: lightblue;
+}
+.PowderBlue {
+    color: powderblue;
+}
+.Aqua {
+    color: aqua;
+}
+.Cyan {
+    color: cyan;
+}
+.PaleTurquoise {
+    color: paleturquoise;
+}
+.Aquamarine {
+    color: aquamarine;
+}
+.Turquoise {
+    color: turquoise;
+}
+.MediumTurquoise {
+    color: mediumturquoise;
+}
+.DarkTurquoise {
+    color: darkturquoise;
+}
+.LightSeaGreen {
+    color: lightseagreen;
+}
+.CadetBlue {
+    color: cadetblue;
+}
+.DarkCyan {
+    color: darkcyan;
+}
+.Teal {
+    color: teal;
+}
+
+/* GrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ntÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.DarkGreen {
+    color: darkgreen;
+}
+.Green {
+    color: green;
+}
+.ForestGreen {
+    color: forestgreen;
+}
+.SeaGreen {
+    color: seagreen;
+}
+.MediumSeaGreen {
+    color: mediumseagreen;
+}
+.SpringGreen {
+    color: springgreen;
+}
+.MediumSpringGreen {
+    color: mediumspringgreen;
+}
+.LightGreen {
+    color: lightgreen;
+}
+.PaleGreen {
+    color: palegreen;
+}
+.DarkSeaGreen {
+    color: darkseagreen;
+}
+.MediumAquamarine {
+    color: mediumaquamarine;
+}
+.YellowGreen {
+    color: yellowgreen;
+}
+.LawnGreen {
+    color: lawngreen;
+}
+.Chartreuse {
+    color: chartreuse;
+}
+.LimeGreen {
+    color: limegreen;
+}
+.Lime {
+    color: lime;
+}
+.GreenYellow {
+    color: greenyellow;
+}
+.OliveDrab {
+    color: olivedrab;
+}
+.Olive {
+    color: olive;
+}
+.DarkOliveGreen {
+    color: darkolivegreen;
+}
+
+/* GelbtÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.DarkKhaki {
+    color: darkkhaki;
+}
+.Khaki {
+    color: khaki;
+}
+.Yellow {
+    color: yellow;
+}
+.Gold {
+    color: gold;
+}
+.LightGoldenrodYellow {
+    color: lightgoldenrodyellow;
+}
+.LemonChiffon {
+    color: lemonchiffon;
+}
+.LightYellow {
+    color: lightyellow;
+}
+
+/* OrangetÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.Orange {
+    color: orange;
+}
+.DarkOrange {
+    color: darkorange;
+}
+.Coral {
+    color: coral;
+}
+.LightSalmon {
+    color: lightsalmon;
+}
+.SandyBrown {
+    color: sandybrown;
+}
+.Chocolate {
+    color: chocolate;
+}
+.Sienna {
+    color: sienna;
+}
+.Brown {
+    color: brown;
+}
+.Maroon {
+    color: maroon;
+}
+
+/* BrauntÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ne */
+.Beige {
+    color: beige;
+}
+.AntiqueWhite {
+    color: antiquewhite;
+}
+.BurlyWood {
+    color: burlywood;
+}
+.Wheat {
+    color: wheat;
+}
+.Tan {
+    color: tan;
+}
+.RosyBrown {
+    color: rosybrown;
+}
+.Moccasin {
+    color: moccasin;
+}
+.NavajoWhite {
+    color: navajowhite;
+}
+.PeachPuff {
+    color: peachpuff;
+}
+.MistyRose {
+    color: mistyrose;
+}
+.LavenderBlush {
+    color: lavenderblush;
+}
+.Linen {
+    color: linen;
+}
+.OldLace {
+    color: oldlace;
+}
+.PapayaWhip {
+    color: papayawhip;
+}
+.SeaShell {
+    color: seashell;
+}
+.MintCream {
+    color: mintcream;
+}
+.Azure {
+    color: azure;
+}
+.AliceBlue {
+    color: aliceblue;
+}
+.GhostWhite {
+    color: ghostwhite;
+}
+.Snow {
+    color: snow;
+}
+
+
+/* Definiere die Keyframes für die Blinkanimation */
+        @keyframes blink {
+            0% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        /* Definiere die blinkende Textklasse */
+        .blink_text {
+            animation: blink 1s infinite;
+        }

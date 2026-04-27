@@ -1,0 +1,13 @@
+Anleitung für die Werbefläche auf media4u.ch
+
+Ordner entpacken: Entpacken Sie den Ordner media4u.
+
+Inhalt anpassen: >    - Ersetzen Sie banner.jpg durch Ihr Werbebild (Format: 500x300 Pixel).
+
+Öffnen Sie partner.json mit einem Texteditor und passen Sie Firmenname, Link und Beschreibung an.
+
+Hochladen: Laden Sie den gesamten Ordner media4u per FTP in das Hauptverzeichnis Ihrer Webseite hoch.
+
+Beispiel-Pfad: https://ihre-domain.ch/media4u/partner.json
+
+Mitteilung: Senden Sie mir einfach den Link zu Ihrer partner.json. Den Rest erledigt mein System automatisch.

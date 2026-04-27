@@ -1,0 +1,16 @@
+/* src/components/quellcode/Quellcode.css */
+.quellcode {
+  overflow: auto;
+  overscroll-behavior: contain;
+}
+
+.quellcode .code {
+  display: block;
+  overflow: auto;
+  white-space: pre;
+  font-family: 'Inconsolata', monospace;
+  background: #f5f5f5;
+  color: #000000;
+  padding: 1rem;
+  border: .25rem solid #000000;
+}

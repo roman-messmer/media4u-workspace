@@ -1,0 +1,42 @@
+/* src/css/slogan.css */
+
+/* Block: Slogan Container */
+.slogan {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: flex-end;
+  text-align: right;
+  padding-bottom: 0rem;
+}
+
+/* Element: Content-Wrapper */
+.slogan__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+/* Element: Gemeinsame Typografie für alle Slogan-Zeilen */
+.slogan__line {
+  font-family: 'Inconsolata', sans-serif;
+  font-size: clamp(1rem, 0.714rem + 1.43vw, 2rem);
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size-adjust: 0.5;
+  line-height: 1.2;
+}
+
+/* Element: Status-Meldungen (Laden / Fehler) */
+.slogan__status {
+  font-family: 'Inconsolata', sans-serif;
+  font-size: clamp(1rem, 0.714rem + 1.43vw, 2rem);
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #777777; /* Standardfarbe für "Laden..." */
+}
+
+/* Modifier: Fehler-Status */
+.slogan__status--error {
+  color: var(--color-brand-red, red);
+}

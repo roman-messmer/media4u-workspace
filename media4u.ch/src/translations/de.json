@@ -1,0 +1,551 @@
+{
+  "beispiel": {
+    "sms_textbild": "Beispiel",
+    "textbild2": "Beispiel"
+  },
+
+  "werbung": {
+    "title": "Werbung",
+    "loading": "Wird geladen...",
+    "error_loading": "Inhalte konnten nicht geladen werden.",
+    "redirecting": "Weiterleitung",
+    "view_offer": "Ansehen",
+    "badge_portfolio": "PORTFOLIO",
+    "badge_partner": "PARTNER",
+    "badge_support": "SUPPORT",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "Werbeplatz sichern!",
+    "ad_space_desc": "Präsentieren Sie Ihr Unternehmen gezielt in einem Land oder erweitern Sie Ihre Reichweite bis zu einem internationalen Publikum.",
+    "ad_space_aria": "Mehr Informationen über das Angebot",
+    "ad_space_btn": "Jetzt sichern"
+  },
+
+  "mehr_info": {
+    "title": "Mehr Informationen"
+  },
+
+  "header": {
+    "slogan1": "Kreativität und digitale Kunst",
+    "slogan2": "weltweit zugänglich in 24 Sprachen!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS Textbild",
+    "textbild2": "Textbild 2.0",
+    "ascii_art_film": "ASCII Art Film"
+  },
+
+
+  "nav_sub": {
+    "werbepartner": "Werbepartner",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Frontend Entwickler",
+    "kontakt": "Kontakt",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "Neu",
+      "liebe_freundschaft": "Liebe und Freundschaft",
+      "festtage_party": "Festtage und Party",
+      "freizeit_arbeit": "Freizeit und Arbeit",
+      "sport_hobby": "Sport und Hobby",
+      "abenteuer_action": "Abenteuer und Action",
+      "erotik_sex": "Erotik und Sex"
+    },
+
+    "textbild2": {
+      "neu2": "Neu",
+      "liebe_freundschaft2": "Liebe und Freundschaft",
+      "festtage_party2": "Festtage und Party",
+      "freizeit_arbeit2": "Freizeit und Arbeit",
+      "sport_hobby2": "Sport und Hobby",
+      "abenteuer_action2": "Abenteuer und Action",
+      "erotik_sex2": "Erotik und Sex"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Moderne digitale Kunst und innovative Kommunikationsmittel",
+    "p1": "media4u.ch ist deine Adresse für moderne digitale Kunst und innovative Kommunikationsmittel. Mit meinem Angebot an SMS-Textbildern und ASCII-Movies biete ich dir kreative und außergewöhnliche Erlebnisse.",
+    "h2": "Internationale Reichweite in 20 Sprachen",
+    "p2": "Meine Webseite ist in 20 Sprachen verfügbar, um ein internationales Publikum zu erreichen und allen die Möglichkeit zu geben, meine einzigartigen Kunstwerke zu genießen. Zusätzlich biete ich Werbeflächen und Affiliate-Programme im Bereich der SMS-Textbilder und Textbilder 2.0 an. So erhalten Unternehmen kreative Werbemöglichkeiten und unterstützen gleichzeitig meine Plattform.",
+    "h3": "Erlebe digitale Kunst auf eine neue Weise",
+    "p3": "Tauche ein in die Welt der digitalen Kunst und entdecke, was media4u.ch für dich bereithält! Erlebe kreative Kommunikation neu und teile sie mit der Welt.",
+    "h4": "Technologie trifft auf digitale Kunst",
+    "p4": "Diese Webseite, entwickelt mit JavaScript und React, vereint moderne Webentwicklung mit meiner Leidenschaft für digitale Kunst. Mit diesen Technologien entstehen meine SMS-Textbilder und ASCII-Kunstwerke in innovativen Formaten. Sie demonstrieren, wie Technologie und Kreativität verschmelzen, um einzigartige digitale Erlebnisse zu schaffen."
+  },
+ 
+  "werbepartner": {
+    "title": "Werbepartner",
+    "h1": "Steigern Sie Ihre Reichweite – Werben Sie auf meiner Webseite!",
+    "p1": "Möchten Sie Ihre Produkte oder Dienstleistungen einem breiten Publikum präsentieren? Meine Webseite bietet Ihnen die ideale Plattform, um Ihre Marke bekannt zu machen und neue Kunden zu gewinnen.",
+
+    "h2": "Warum auf meiner Webseite werben?",
+    "p2": "Landesweite Sichtbarkeit: Erreichen Sie Besucher aus dem ganzen Land und erhöhen Sie Ihre Reichweite effektiv. Maximale Aufmerksamkeit: Ihre Werbeanzeige wird allen Besuchern angezeigt, unabhängig von ihrem Standort. Faire Präsentation: Die Reihenfolge der Anzeigen wird bei jedem Seitenaufruf zufällig neu angeordnet, sodass alle Werbepartner die gleiche Chance auf Sichtbarkeit haben. Datenschutz garantiert: Ich ermittle lediglich das Herkunftsland der Besucher – keine weiteren Daten werden erfasst.",
+
+    "h3_1": "MEINE WERBEPLATZ-DETAILS PREISGESTALTUNG:",
+    "p3_1": "Für die ersten 90 Tage zahlen Sie nur 140 Franken pro 30 Tage Präsenz.",
+    "p3_2": "Ab dem 91. Tag reduziert sich der Preis auf 120 Franken pro 30 Tage Präsenz (für die Tage 91 bis 180).",
+    "p3_3": "Ab dem 181. Tag kostet der Werbeplatz nur noch 100 Franken pro 30 Tage Präsenz.",
+
+    "h3_2": "WAS ICH VON IHNEN BENÖTIGE:",
+    "p3_4": "Den Namen Ihres Unternehmens",
+    "p3_5": "Einen Link zu Ihrem Angebot (Produkt- oder Dienstleistungsseite)",
+    "p3_6": "Einen Link zu einem Bild, das in der Werbefläche verwendet werden soll",
+    "bildgroesse": "Bildgrösse: 400x400 Pixel",
+
+    "h3_3": "WICHTIGE INFORMATION:",
+    "p3_7": "Ihr Werbeplatz wird nur den Besuchern aus dem betreffenden Land angezeigt. Möchten Sie international werben, können Sie zusätzliche Werbeflächen für andere Länder hinzubuchen.",
+    "p3_8": "Sichern Sie sich jetzt Ihre Werbefläche und erreichen Sie gezielt Ihre Zielgruppe – angepasst an die Region, die für Sie relevant ist!",
+
+    "h4": "Ihre Sicherheit ist mir wichtig:",
+    "p4": "Ich setze auf Qualität und Vertrauenswürdigkeit. Jeder Werbepartner wird von mir persönlich geprüft, um sicherzustellen, dass es sich um seriöse Unternehmen handelt, die meinen hohen Standards entsprechen.",
+
+    "h5": "Bereit, den nächsten Schritt zu gehen?",
+    "p5": "Kontaktieren Sie mich noch heute und platzieren Sie Ihre Marke auf meiner Webseite – gemeinsam entwickeln wir eine starke Präsenz und bringen Ihr Unternehmen nachhaltig voran.",
+
+    "h6": "Interesse geweckt?",
+    "p6": "Senden Sie mir eine Nachricht, wenn Sie weitere Informationen benötigen oder direkt eine Werbefläche buchen möchten. Ich freue mich darauf, Sie auf Ihrem Erfolgsweg zu unterstützen!"
+  },
+
+  "werbepartner_info": {
+    "title": "Werbepartner - Info",
+    "content_h3": "Werbeplatz sichern!",
+    "content_p1": "Präsentieren Sie Ihr Unternehmen gezielt in einem Land oder erweitern Sie Ihre Reichweite bis zu einem internationalen Publikum.",
+    "content_button": "Zum Angebot",
+    "content_button_info": "Jetzt sichern"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Affiliate-Links und Transparenz auf meiner Webseite",
+    "p1": "Auf meiner Webseite nutze ich Affiliate-Links, um euch passende Produkte und Dienstleistungen vorzustellen. Dabei ist mir Transparenz besonders wichtig. Im Folgenden erkläre ich, wie Affiliate-Links funktionieren und was das für euch bedeutet.",
+
+    "h2": "Was sind Affiliate-Links?",
+    "p2": "Affiliate-Links sind spezielle Links, die zu Produkten oder Dienstleistungen von Partnerunternehmen führen. Wenn ihr über einen solchen Link etwas kauft, erhalte ich eine Provision. Für euch entstehen dabei keine zusätzlichen Kosten.",
+
+    "h3": "Warum verwende ich Affiliate-Links?",
+    "p3": "Die Nutzung von Affiliate-Links hilft mir, die Webseite zu betreiben und die Inhalte kostenlos zur Verfügung zu stellen. Ich wähle meine Partner und die empfohlenen Produkte sorgfältig aus und achte darauf, dass sie zu den Themen und Interessen meiner Besucher passen.",
+
+    "h4": "Wie funktioniert das Tracking?",
+    "p4": "Um nachzuvollziehen, dass der Kauf über meinen Link erfolgt ist, setzen meine Partnerunternehmen Cookies ein. Diese speichern für eine begrenzte Zeit Informationen, wenn ihr auf einen Affiliate-Link klickt. Nähere Informationen dazu findet ihr in meiner Datenschutzerklärung.",
+
+    "h5": "Keine Nachteile für euch",
+    "p5": "Wichtig zu wissen: Für euch entstehen durch das Klicken auf Affiliate-Links keine Nachteile. Die Preise der Produkte oder Dienstleistungen bleiben unverändert, und es gibt keinerlei versteckte Gebühren.",
+
+    "h6": "Haftungsausschluss",
+    "p6": "Ich empfehle nur Produkte und Dienstleistungen, von denen ich überzeugt bin. Dennoch übernehme ich keine Haftung für die Qualität oder die Verfügbarkeit der beworbenen Angebote, da diese von meinen Partnern bereitgestellt werden.",
+
+    "h7": "Transparenz und Vertrauen",
+    "p7": "Mein Ziel ist es, transparent und ehrlich mit euch zu kommunizieren. Solltet ihr Fragen zu den Affiliate-Links oder meinen Partnerschaften haben, zögert nicht, mich zu kontaktieren. Ich schätze euer Vertrauen in meine Empfehlungen!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+    "title": "Frontend Entwickler",
+
+    "projekt_title_h2": "Neugierig auf meine Projekte?",
+    "projekt_title_p1": "Hier erhalten Sie einen Überblick über meine bisherigen Arbeiten:",
+    "projekt_title_h4": "Projekte für Kunden und Partner",
+
+    "projekt_kunden_partner": "Kunden und Partner",
+    "projekt_kunden_partner_info": "Hier werden zukünftige Kunden und Partner aufgelistet",
+
+    "projekt_eigene_projekte": "Eigene Projekte",
+    "projekte_eigene_projekte_schere_stein_papier_title": "Schere Stein Papier",
+    "projekte_eigene_projekte_memory_title": "Memory",
+    "projekte_eigene_projekte_wuerfeln_title": "Würfeln",
+    "projekte_eigene_projekte_puzzle_title": "Puzzle",
+
+    "h1": "Willkommen in meinem Bereich als Frontend Entwickler!",
+    "p1": "Diese Webseite verkörpert meine Leidenschaft für moderne, skalierbare Webentwicklung. Als Quereinsteiger habe ich sie entwickelt mit React, JavaScript, HTML und CSS – Technologien, die dynamische, interaktive und optisch ansprechende Anwendungen ermöglichen.",
+    "li_1": "HTML: Saubere, semantische und wartbare Struktur.",
+    "li_2": "CSS: Flexible, responsive Designs für optimale Darstellung auf allen Endgeräten.",
+    "li_3": "JavaScript & React: Dynamische Interaktivität und hohe Performance für eine skalierbare und intuitive Benutzererfahrung.",
+    "p2": "Mein Fokus liegt konsequent auf Performance, Skalierbarkeit und Best Practices, um professionelle, wartbare und zukunftssichere Webanwendungen zu schaffen.",
+    
+    "h2": "Mein Ziel: Senior-Level in der Frontend Entwicklung",
+    "p3": "Neben der Realisierung dieser Webseite erweitere ich kontinuierlich meine Kenntnisse in React und JavaScript, stets mit dem Anspruch, Code von höchster Qualität zu schreiben – modular, effizient und sauber strukturiert.",
+    "p4": "Ich suche gezielt nach anspruchsvollen Projekten – ob für Unternehmen, Agenturen oder innovative unabhängige Initiativen –, bei denen ich meine Expertise voll einbringen und erweitern kann.",
+    "p5": "Diese Webseite ist nicht nur mein Portfolio, sondern auch ein lebendiger Nachweis meiner Fähigkeiten und fortlaufenden Weiterentwicklung im Frontend-Bereich.",
+
+    "h3": "Lassen Sie uns gemeinsam digitale Erlebnisse schaffen!",
+    "p6": "Sie suchen einen engagierten Frontend Entwickler, der innovative Ideen in skalierbare, wartbare und performante Lösungen überführt?",
+    "p7": "Kontaktieren Sie mich – ich freue mich auf spannende Projekte!",
+    "kontakt_link": "<< Hier zum Kontakt >>"
+  },
+
+  "kontakt": {
+    "title": "Kontakt",
+    "name": "Roman Messmer",
+    "address": "Haldenweg 1\n 8081 Bülach\n CH Schweiz",
+    "email_label": "E-Mail",
+    "email_value": "roman.messmer@media4u.ch",
+    "mobile_label": "Mobile",
+    "mobile_value": "+41 78 765 88 42"
+  },
+
+  "impressum": {
+    "title": "Impressum",
+    "kontakt": "Kontakt",
+
+    "vertretungsberechtigter": "Vertretungsberechtigter",
+    "handelsregistereintrag": "Handelsregistereintrag",
+    "handelsregistereintrag_p1_1": "Eintrag im Handelsregister: [Platzhalter – Daten werden nachgereicht]",
+    "handelsregistereintrag_p1_2": "Handelsregisternummer: [Platzhalter – Daten werden nachgereicht]",
+    "handelsregistereintrag_p2_1": "Umsatzsteuer-Identifikationsnummer (MwSt-Nummer):",
+    "handelsregistereintrag_p2_2": "Nicht zutreffend, da noch kein Umsatz erzielt wurde.:",
+
+    "zweck_der_webseite": "Zweck der Webseite",
+    "zweck_der_webseite_p1_1": "Künstlerische Unterhaltung (z. B. SMS-Textbilder, Textbilder 2.0 und ASCII-Movies)",
+    "zweck_der_webseite_p1_2": "Werbeplätze für Werbepartner und Affiliate Marketing",
+    "zweck_der_webseite_p1_3": "Dienstleistungen als Frontend Developer",
+
+    "haftungsausschluss": "Haftungsausschluss",
+    "haftung_für_inhalte": "Haftung für Inhalte",
+    "haftung_für_inhalte_p": "Die Inhalte dieser Webseite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.",
+
+    "haftung_für_links": "Haftung für Links",
+    "haftung_für_links_p": "Diese Webseite enthält Links zu externen Webseiten Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.",
+
+    "datenschutz": "Datenschutz",
+    "datenschutz_p": "Informationen zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten findest du in der Datenschutzerklärung."
+  },
+
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "title_p": "Der Schutz deiner persönlichen Daten ist mir ein besonderes Anliegen. In dieser Datenschutzerklärung informiere ich dich darüber, welche Daten auf meiner Webseite erhoben, verarbeitet und gespeichert werden, sowie über deine Rechte in Bezug auf diese Daten.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Verantwortlicher für die Datenverarbeitung",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "E-Mail:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobile:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Erhebung und Speicherung personenbezogener Daten",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Beim Besuch meiner Webseite können folgende Daten automatisch erhoben werden:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "IP-Adresse des Geräts (anonymisiert)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Datum und Uhrzeit des Zugriffs",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Verwendeter Browser und Betriebssystem",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Verweisende URL (z. B. von welcher Seite du gekommen bist)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Aufgerufene Unterseiten",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Diese Daten werden anonymisiert und nur zu statistischen Zwecken sowie zur Verbesserung der Webseite genutzt. Eine Rückverfolgung zu deiner Person erfolgt nicht.",
+
+    "verwendung_personenbezogener_daten": "3. Verwendung personenbezogener Daten",
+    "verwendung_personenbezogener_daten_p": "Personenbezogene Daten wie Name, E-Mail-Adresse oder Telefonnummer werden nur dann erhoben, wenn du diese freiwillig, z. B. über das Kontaktformular, zur Verfügung stellst. Diese Daten werden ausschließlich für die Bearbeitung deiner Anfrage genutzt und nicht an Dritte weitergegeben, es sei denn, dies ist gesetzlich vorgeschrieben.",
+    
+    "cookies": "4. Cookies",
+    "cookies_p1": "Meine Webseite verwendet Cookies, um die Nutzung der Seite zu analysieren und den Besuch benutzerfreundlicher zu gestalten.",
+    "cookies_p2_1": "Erforderliche Cookies: Notwendig für den Betrieb der Webseite.",
+    "cookies_p2_2": "Analyse-Cookies: Helfen dabei, die Nutzung der Webseite zu verstehen und zu verbessern (z. B. durch Google Analytics).",
+    "cookies_p2_3": "Du kannst die Verwendung von Cookies in den Einstellungen deines Browsers einschränken oder vollständig deaktivieren.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Diese Webseite verwendet Google Analytics, einen Webanalysedienst der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“).",
+    
+    "google_analytics_p2": "Google Analytics verwendet Cookies, die eine Analyse der Benutzung der Webseite durch dich ermöglichen. Die durch Cookies erzeugten Informationen über deine Benutzung dieser Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.",
+    
+    "google_analytics_p3_1": "IP-Anonymisierung:",
+    "google_analytics_p3_2": "Auf dieser Webseite ist die IP-Anonymisierung aktiviert. Das bedeutet, dass deine IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übertragung in die USA gekürzt wird.",
+    
+    "google_analytics_p4_1": "Verwendung der Daten:",
+    "google_analytics_p4_2": "Google nutzt diese Informationen, um deine Nutzung der Webseite auszuwerten, Berichte über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen.",
+    
+    "google_analytics_p5_1": "Widerspruchsmöglichkeit:",
+    "google_analytics_p5_2": "Du kannst die Speicherung der Cookies durch eine entsprechende Einstellung deiner Browser-Software verhindern. Darüber hinaus kannst du die Erfassung der durch die Cookies erzeugten und auf deine Nutzung der Webseite bezogenen Daten (inkl. deiner IP-Adresse) durch Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem du das folgende Browser-Plugin herunterlädst und installierst:",
+    "google_analytics_p5_3": "tools.google.com",
+    
+    "google_analytics_p6_1": "Weitere Informationen zu den Nutzungsbedingungen von Google Analytics findest du unter:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Werbepartner und Affiliate-Links",
+    "werbepartner_und_affiliate_links_p1": "Ich arbeite mit Werbepartnern und Affiliate-Programmen zusammen. Beim Klick auf einen Affiliate-Link oder eine Anzeige kann es sein, dass Drittanbieter Cookies setzen oder Daten erfassen, um den Erfolg ihrer Anzeigen oder Verkäufe zu messen.",
+    "werbepartner_und_affiliate_links_p2": "Für weitere Informationen über die Datenschutzrichtlinien dieser Partner besuche deren Webseiten.",
+
+    "deine_rechte": "7. Deine Rechte",
+    "deine_rechte_p1_1": "Du hast das Recht auf:",
+    "deine_rechte_p1_2": "Auskunft über die von mir gespeicherten Daten",
+    "deine_rechte_p1_3": "Berichtigung unrichtiger Daten",
+    "deine_rechte_p1_4": "Löschung deiner Daten, soweit dies gesetzlich zulässig ist",
+    "deine_rechte_p1_5": "Einschränkung der Verarbeitung",
+    "deine_rechte_p1_6": "Datenübertragbarkeit",
+    "deine_rechte_p1_7": "Um diese Rechte auszuüben, kontaktiere mich bitte per E-Mail an roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Datensicherheit",
+    "datensicherheit_p": "Ich setze technische und organisatorische Maßnahmen ein, um deine Daten vor unberechtigtem Zugriff, Verlust oder Missbrauch zu schützen.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Änderungen dieser Datenschutzerklärung",
+    "änderungen_dieser_datenschutzerklärung_p": "Diese Datenschutzerklärung wird bei Bedarf aktualisiert, um rechtliche Anforderungen zu erfüllen oder Änderungen der Webseite anzupassen."
+  },
+
+  "agb": {
+    "title": "Allgemeine Geschäftsbedingungen (AGB)",
+    "title_p1": "Stand: [Datum einfügen]",
+    "title_p2": "Diese Allgemeinen Geschäftsbedingungen (AGB) regeln die Nutzung der Webseite media4u.ch sowie die angebotenen Dienstleistungen und Inhalte. Mit dem Zugriff auf die Webseite erklärst du dich mit den nachstehenden Bedingungen einverstanden.",
+
+    "geltungsbereich": "1. Geltungsbereich",
+    "geltungsbereich_p": "Diese AGB gelten für alle Besucher der Webseite media4u.ch, sowie für Kunden, die die angebotenen Dienstleistungen in Anspruch nehmen oder Werbepartner bzw. Affiliate-Programme nutzen.",
+
+    "leistungen": "2. Leistungen",
+    "leistungen_p1_1": "media4u.ch bietet folgende Leistungen an:",
+    "leistungen_p1_2": "Künstlerische Unterhaltung (z. B. SMS-Textbilder, Textbilder 2.0 und ASCII-Movies).",
+    "leistungen_p1_3": "Werbeflächen für Werbepartner und Affiliate-Marketing.",
+    "leistungen_p1_4": "Dienstleistungen im Bereich Frontend-Development.",
+    "leistungen_p1_5": "Die Webseite dient zur Präsentation künstlerischer Inhalte und der Vermarktung von Werbeflächen sowie der Bewerbung meiner Dienstleistungen.",
+
+    "vertragsabschluss": "3. Vertragsabschluss",
+    "vertragsabschluss_p1_1": "Der Vertrag zwischen dir und media4u.ch kommt zustande, wenn:",
+    "vertragsabschluss_p1_2": "Du eine Werbefläche oder Affiliate-Partnerschaft beantragst und diese von mir bestätigt wird.",
+    "vertragsabschluss_p1_3": "Du eine Anfrage für meine Dienstleistungen als Frontend-Developer stellst und ein Angebot von mir annimmst.",
+    "vertragsabschluss_p1_4": "Der Vertragsabschluss erfolgt schriftlich per E-Mail.",
+
+    "preise_und_zahlungsbedingungen": "4. Preise und Zahlungsbedingungen",
+    "preise_und_zahlungsbedingungen_p1_1": "Für Werbepartner gelten die folgenden Zahlungsbedingungen:",
+    "preise_und_zahlungsbedingungen_p1_2": "Der Preis für eine Werbefläche wird individuell vereinbart.",
+    "preise_und_zahlungsbedingungen_p1_3": "Zahlungen sind vor Beginn der Laufzeit zu leisten.",
+    "preise_und_zahlungsbedingungen_p1_4": "Für Dienstleistungen als Frontend-Developer werden die Preise nach Absprache festgelegt.",
+
+    "preise_und_zahlungsbedingungen_p2": "Eine Rückerstattung bereits geleisteter Zahlungen ist ausgeschlossen, es sei denn, es liegt ein Verschulden meinerseits vor.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Rechte und Pflichten der Nutzer",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Nutzung der Inhalte",
+    "rechte_und_pflichten_der_nutzer_p1_2": "Die Inhalte der Webseite (einschließlich der künstlerischen Werke) dürfen nur mit ausdrücklicher Zustimmung genutzt oder verbreitet werden.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Jegliche unerlaubte Nutzung oder Kopie der Inhalte ist untersagt.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Verhalten der Nutzer",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Besucher und Kunden sind verpflichtet, die Webseite nicht missbräuchlich zu nutzen, z. B. durch das Verbreiten schädlicher Inhalte, Spam oder unerlaubte Werbung.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Die Nutzung der Werbeflächen und Affiliate-Programme muss den rechtlichen Vorgaben entsprechen.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Haftungsausschluss",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Ich übernehme keine Haftung für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte auf der Webseite.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Für Schäden, die durch die Nutzung der Webseite oder durch verlinkte Inhalte Dritter entstehen, wird keine Haftung übernommen.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Werbepartner und Affiliate-Programme",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Werbepartner verpflichten sich, nur seriöse und rechtlich zulässige Inhalte zu bewerben.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch behält sich das Recht vor, Inhalte abzulehnen, die nicht den Standards der Webseite entsprechen.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Besondere Regelung für Werbepartner:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Falls die Webseite einen Tag oder länger nicht erreichbar sein sollte, werden die versäumten Tage bei der nächsten Buchung von mindestens 30 Tagen kostenlos hinzugerechnet. Dies gilt nur für bezahlte Werbeflächen und setzt eine fortlaufende Zusammenarbeit voraus. Eine Auszahlung oder separate Vergütung für Ausfalltage ist ausgeschlossen.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Affiliate-Programme werden in Zusammenarbeit mit externen Anbietern umgesetzt. Für die Inhalte und Datenschutzrichtlinien dieser Anbieter bin ich nicht verantwortlich.",
+
+    "verfügbarkeit_der_webseite": "8. Verfügbarkeit der Webseite",
+    "verfügbarkeit_der_webseite_p": "Ich bemühe mich, die Webseite jederzeit verfügbar zu halten. Eine ununterbrochene Verfügbarkeit kann jedoch nicht garantiert werden, z. B. bei Wartungsarbeiten, technischen Störungen oder höherer Gewalt.",
+
+    "urheberrecht": "9. Urheberrecht",
+    "urheberrecht_p": "Alle Inhalte auf media4u.ch sind urheberrechtlich geschützt. Eine Nutzung ohne meine schriftliche Zustimmung ist untersagt.",
+
+    "änderungen_der_agb": "10. Änderungen der AGB",
+    "änderungen_der_agb_p": "Ich behalte mir das Recht vor, diese AGB jederzeit zu ändern. Änderungen werden auf der Webseite veröffentlicht und gelten ab dem Veröffentlichungsdatum.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Gerichtsstand und anwendbares Recht",
+    "gerichtsstand_und_anwendbares_recht_p": "Für alle Streitigkeiten gilt Schweizer Recht. Gerichtsstand ist Bülach, Schweiz."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Inhalt von Cookie"
+  },
+  
+  "sms_textbild": {
+    "title": "SMS Textbild",
+    "h1": "SMS Textbilder Neu interpretiert",
+    "p1": "Erinnerungen, die uns verbinden. Die ikonischen Textbilder von alten Nokia-Handys wie dem 3210 und frühen Ericsson- und Motorola-Modellen haben eine ganze Ära geprägt. Diese kleinen Meisterwerke, die einst per SMS versendet wurden, erwecke ich jetzt wieder – neu und moderner als je zuvor.",
+    "p2": "Auf meiner Webseite findest du exklusiv gestaltete Textbild-Animationen, die du ganz einfach genießen und teilen kannst. Jedes Bild ist ein Unikat, liebevoll von Hand entworfen, um den Charme der Vergangenheit mit der Einfachheit von heute zu verbinden. Die verwendete Schriftart ähnelt der klassischen Nokia-Schrift, ist jedoch nicht identisch. Wenn dir ein Textbild besonders gefällt, kannst du es per Link teilen – so wird jede Botschaft zu einem besonderen Erlebnis.",
+
+    "h2": "Jede Animation, ein Meisterwerk",
+    "p3": "Diese Textbilder sind mehr als nur eine Erinnerung – sie sind Kunst. Jede Animation ist handgefertigt und bis ins Detail ausgearbeitet, um die Ästhetik der klassischen SMS-Textbilder neu zu interpretieren.",
+
+    "h3": "Zeitlose Designs, Für den Moment neu erfunden",
+    "p4": "Ich habe die Magie der alten Textbilder neu aufgelegt. Durch animierte Darstellungen erwachen die ikonischen Designs auf moderne Weise zum Leben – und lassen die Nostalgie der Vergangenheit ganz neu erstrahlen.",
+
+    "h4": "Teilen war nie einfacher",
+    "p5": "Mit einem einzigen Link versendest du nicht nur eine Nachricht, sondern ein Erlebnis. Ein nostalgischer Moment, den du mit anderen teilen kannst."
+  },
+
+  
+  "textbild2": {
+    "title": "Textbild 2.0",
+    "h1": "Textbild 2.0 die nächste Evolution",
+    "p1": "Kreativität neu definiert. Mit Textbilder 2.0 erleben die klassischen Textbilder eine Revolution. Durch erweiterte Möglichkeiten wie übereinandergelegte Zeichen, verschiedene Schriftgrößen und -farben, Drehungen und Spiegelungen sowie freie Platzierung auf dem Display entstehen Kunstwerke, die noch nie dagewesen sind.",
+    "p2": "Auf meiner Webseite findest du diese neuen, komplexen Textbild-Kreationen, die du entdecken und teilen kannst. Jedes Werk ist ein einzigartiges Ergebnis von Kreativität und Innovation, das die Tradition der alten SMS-Textbilder mit den Möglichkeiten der modernen Technik verbindet.",
+
+    "h2": "EINE NEUE DIMENSION DER KUNST",
+    "p3": "Die Textbilder 2.0 sind mehr als nur eine Weiterentwicklung – sie sind eine neue Form der Kunst. Durch die Verwendung von Farben, variablen Schriftgrößen und dynamischen Elementen erwacht jedes Bild zu einem lebendigen Meisterwerk, das die Sinne begeistert.",
+
+    "h3": "INNOVATION TRIFFT NOSTALGIE",
+    "p4": "Ich habe die Magie der klassischen Textbilder neu erfunden. Mit moderner Technologie und kreativen Design-Tools entstehen Werke, die die Nostalgie der Vergangenheit mit der Innovation der Gegenwart vereinen.",
+
+    "h4": "TEILE DEINE BEGEISTERUNG",
+    "p5": "Mit Textbilder 2.0 wird jede Nachricht zu einem besonderen Erlebnis. Teile diese einzigartigen Kunstwerke mit Freunden und Familie und erlebe, wie Kreativität Menschen verbindet."
+  },
+
+
+  "ascii_art_film": {
+    "title": "Ascii art Film",
+    "h1": "Die Matrix in Textform: Eine neue Dimension der ASCII-Kunst",
+    "p1": "Vielleicht kennst du schon meine früheren ASCII-Movies, die Szenen aus der Matrix-Trilogie in einer einzigartigen Textkunstform präsentierten. Diese frühen Arbeiten haben gezeigt, wie man komplexe Filme in minimalistischer ASCII-Form darstellen kann.",
+
+    "h2": "Eine neue Perspektive: Die Matrix-Klassiker in einer faszinierenden Textwelt",
+    "p2": "Jetzt präsentiere ich dir eine verbesserte Version dieser Werke. Die neuen ASCII-Movies bieten noch detailliertere und qualitativ hochwertigere Darstellungen der ikonischen Matrix-Szenen. Durch die Weiterentwicklung der Technik bieten diese ASCII-Kunstwerke eine noch eindrucksvollere Interpretation der Filmklassiker und lassen dich die Matrix auf eine ganz neue Art erleben.",
+    "p3": "Fühle dich frei, diese ASCII-Movies an Freunde, Bekannte und Familie weiterzuleiten, damit auch sie den Genuss dieser einzigartigen Kunstform erleben können."
+  },
+  "matrix": {
+    "title": "The Matrix",
+    "bibliothek": "Matrix Bibliothek"
+  },
+
+  "legal": {
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "cookie": "Cookie",
+    "agb": "AGB"
+  },
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Alle Rechte vorbehalten."
+  },
+
+
+
+  "neu": {
+    "title": "Neu"
+  },
+  "liebe_freundschaft": {
+    "title": "Liebe und Freundschaft",
+
+    "komm_zu_mir1": "Komm zu mir 1",
+    "komm_zu_mir1_text1": "Hey, komm",
+    "komm_zu_mir1_text2": "zu mir!",
+
+    "biene1": "Biene 1",
+    "biene1_text1": "Dich steche",
+    "biene1_text2": "ich nicht, weil",
+    "biene1_text3": "ich Dich mag!"
+  },
+  "festtage_party": {
+    "title": "Festtage und Party",
+
+    "geburtstag1": "Geburtstag 1",
+    "geburtstag1_text1": "Alles Gute",
+    "geburtstag1_text2": "zum",
+    "geburtstag1_text3": "Geburtstag!"
+  },
+  "freizeit_arbeit": {
+    "title": "Freizeit und Arbeit",
+
+    "arbeit1": "Arbeit 1",
+    "arbeit1_text1": "Feierabend!",
+    "arbeit1_text2": "Ich gehe nach",
+    "arbeit1_text3": "Hause!",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "",
+    "arbeit1_text6": "Tschüss,",
+    "arbeit1_text7": "bis morgen!"
+  },
+  "sport_hobby": {
+    "title": "Sport und Hobby"
+  },
+  "abenteuer_action": {
+    "title": "Abenteuer und Action"
+  },
+  "erotik_sex": {
+    "title": "Erotik und Sex"
+  },
+
+
+
+  "neu2": {
+    "title": "Neu"
+  },
+  "liebe_freundschaft2": {
+    "title": "Liebe und Freundschaft",
+
+    "komm_zu_uns1": "Komm zu uns 1",
+    "komm_zu_uns1_text1": "Hey was siehst",
+    "komm_zu_uns1_text2": "Du da?",
+    "komm_zu_uns1_text3": "Die Person",
+    "komm_zu_uns1_text4": "dort drüben!",
+    "komm_zu_uns1_text5": "Sie starrt den ganzen Tag",
+    "komm_zu_uns1_text6": "nur auf ihr Telefon!",
+    "komm_zu_uns1_text7": "Hey, hast Du Langeweile,",
+    "komm_zu_uns1_text8": "dann komm zu uns! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Bis gleich!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Festtage und Party",
+
+    "geburtstag1": "Geburtstag 1",
+    "geburtstag1_text1": "Alles Gute",
+    "geburtstag1_text2": "zum Geburtstag",
+    "geburtstag1_text3": "Hier ist Dein Geschenk!"
+  },
+  "freizeit_arbeit2": {
+    "title": "Freizeit und Arbeit",
+
+    "arbeit1": "Arbeit 1",
+    "arbeit1_text1": "Feierabend!",
+    "arbeit1_text2": "Ich gehe nach",
+    "arbeit1_text3": "Hause!",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Tschüss,",
+    "arbeit1_text6": "bis morgen!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sport und Hobby"
+  },
+  "abenteuer_action2": {
+    "title": "Abenteuer und Action"
+  },
+  "erotik_sex2": {
+    "title": "Erotik und Sex"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Code ist Kunst",
+  "Fullstack Entwickler",
+  "SMS-Textbilder",
+  "keine 160 Zeichen Limit",
+  "ASCII Nostalgie",
+  "Grenzenlos Kreativ",
+  "Moderne Textkunst",
+  "Textbild 2.0",
+  "Digitale Kunst",
+  "Typografische Kunst",
+  "Zeichen-Design",
+  "Visuelles Erzählen",
+  "ASCII-Art Filme",
+  "Bewegtes ASCII",
+  "Interaktivität",
+  "CSS Animationen",
+  "React & Vite",
+  "Semantisches HTML5",
+  "CSS Modules",
+  "DOM Manipulation",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Container-basiert",
+  "Ausfallsicher",
+  "Barrierefrei (A11y)",
+  "Responsive Design",
+  "Hochperformant",
+  "SEO Optimiert",
+  "Sicheres Design",
+  "Immutable Builds",
+  "Reproduzierbar",
+  "24 Sprachen",
+  "International",
+  "Innovation",
+  "Web Engineering"
+]
+  
+}

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NokiaFC22';
+  src: url('./nokiafc22.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('./Inconsolata-VariableFont_wdth,wght.ttf') format('truetype');
+}

@@ -1,0 +1,544 @@
+{
+  "beispiel": {
+    "sms_textbild": "Example",
+    "textbild2": "Example"
+  },
+
+  "werbung": {
+    "title": "Advertisement",
+    "loading": "Loading...",
+    "error_loading": "Content could not be loaded.",
+    "redirecting": "Redirecting",
+    "view_offer": "View Offer",
+    "badge_portfolio": "PORTFOLIO",
+    "badge_partner": "PARTNER",
+    "badge_support": "SUPPORT",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "Secure Your Ad Space!",
+    "ad_space_desc": "Present your business specifically in one country or expand your reach to an international audience.",
+    "ad_space_aria": "More information about the offer",
+    "ad_space_btn": "Secure Now"
+  },
+
+  "mehr_info": {
+    "title": "More Information"
+  },
+
+  "header": {
+    "slogan1": "Creativity and Digital Art",
+    "slogan2": "Globally accessible in 24 languages!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS Text Image",
+    "textbild2": "Text Image 2.0",
+    "ascii_art_film": "ASCII Art Film"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Advertising Partners",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Frontend Developer",
+    "kontakt": "Contact",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "New",
+      "liebe_freundschaft": "Love and Friendship",
+      "festtage_party": "Holidays and Party",
+      "freizeit_arbeit": "Leisure and Work",
+      "sport_hobby": "Sports and Hobby",
+      "abenteuer_action": "Adventure and Action",
+      "erotik_sex": "Erotic and Sex"
+    },
+
+    "textbild2": {
+      "neu2": "New",
+      "liebe_freundschaft2": "Love and Friendship",
+      "festtage_party2": "Holidays and Party",
+      "freizeit_arbeit2": "Leisure and Work",
+      "sport_hobby2": "Sports and Hobby",
+      "abenteuer_action2": "Adventure and Action",
+      "erotik_sex2": "Erotic and Sex"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Modern Digital Art and Innovative Communication Tools",
+    "p1": "media4u.ch is your destination for modern digital art and innovative communication tools. With my range of SMS text images and ASCII movies, I offer you creative and extraordinary experiences.",
+    "h2": "International Reach in 20 Languages",
+    "p2": "My website is available in 20 languages to reach an international audience and give everyone the opportunity to enjoy my unique artworks. Additionally, I offer advertising spaces and affiliate programs in the field of SMS text images and Text Images 2.0. This provides companies with creative advertising opportunities while supporting my platform.",
+    "h3": "Experience Digital Art in a New Way",
+    "p3": "Dive into the world of digital art and discover what media4u.ch has to offer you! Experience creative communication in a new light and share it with the world.",
+    "h4": "Technology Meets Digital Art",
+    "p4": "This website, developed with JavaScript and React, combines modern web development with my passion for digital art. With these technologies, my SMS text images and ASCII artworks are created in innovative formats. They demonstrate how technology and creativity merge to create unique digital experiences."
+  },
+
+  "werbepartner": {
+    "title": "Advertising Partners",
+    "h1": "Increase Your Reach – Advertise on My Website!",
+    "p1": "Would you like to showcase your products or services to a broad audience? My website offers the ideal platform to make your brand known and attract new customers.",
+
+    "h2": "Why Advertise on My Website?",
+    "p2": "Nationwide Visibility: Reach visitors from all over the country and effectively increase your reach. Maximum Attention: Your advertisement will be displayed to all visitors, regardless of their location. Fair Presentation: The order of advertisements is randomly rearranged with each page load, ensuring all advertising partners have an equal chance of visibility. Privacy Guaranteed: I only determine the visitors' country of origin – no other data is collected.",
+
+    "h3_1": "MY AD SPACE DETAILS PRICING:",
+    "p3_1": "For the first 90 days, you pay only 140 CHF per 30 days of presence.",
+    "p3_2": "From the 91st day, the price reduces to 120 CHF per 30 days of presence (for days 91 to 180).",
+    "p3_3": "From the 181st day, the ad space costs only 100 CHF per 30 days of presence.",
+
+    "h3_2": "WHAT I NEED FROM YOU:",
+    "p3_4": "Your company's name",
+    "p3_5": "A link to your offer (product or service page)",
+    "p3_6": "A link to an image to be used in the ad space",
+    "bildgroesse": "Image size: 400x400 pixels",
+
+    "h3_3": "IMPORTANT INFORMATION:",
+    "p3_7": "Your ad space will only be displayed to visitors from the respective country. If you wish to advertise internationally, you can purchase additional ad spaces for other countries.",
+    "p3_8": "Secure your ad space now and target your audience precisely – tailored to the region that is relevant to you!",
+
+    "h4": "Your Security is Important to Me:",
+    "p4": "I focus on quality and trustworthiness. Each advertising partner is personally reviewed by me to ensure they are reputable companies that meet my high standards.",
+
+    "h5": "Ready to Take the Next Step?",
+    "p5": "Contact me today and place your brand on my website – together, we will develop a strong presence and drive your business forward sustainably.",
+
+    "h6": "Interested?",
+    "p6": "Send me a message if you need more information or want to book an ad space directly. I look forward to supporting you on your path to success!"
+  },
+
+  "werbepartner_info": {
+    "title": "Advertising Partners - Info",
+    "content_h3": "Secure Ad Space!",
+    "content_p1": "Present your company targetedly in one country or expand your reach to an international audience.",
+    "content_button": "View Offer",
+    "content_button_info": "Secure Now"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Affiliate Links and Transparency on My Website",
+    "p1": "On my website, I use affiliate links to introduce you to suitable products and services. Transparency is especially important to me. Below, I explain how affiliate links work and what this means for you.",
+
+    "h2": "What Are Affiliate Links?",
+    "p2": "Affiliate links are special links that lead to products or services from partner companies. When you make a purchase through such a link, I earn a commission. This does not incur any additional costs for you.",
+
+    "h3": "Why Do I Use Affiliate Links?",
+    "p3": "Using affiliate links helps me operate the website and provide content for free. I carefully select my partners and the recommended products, ensuring they match the topics and interests of my visitors.",
+
+    "h4": "How Does Tracking Work?",
+    "p4": "To track that the purchase was made through my link, my partner companies use cookies. These store information for a limited time when you click on an affiliate link. You can find more information about this in my privacy policy.",
+
+    "h5": "No Disadvantages for You",
+    "p5": "Important to know: Clicking on affiliate links does not create any disadvantages for you. The prices of products or services remain unchanged, and there are no hidden fees.",
+
+    "h6": "Disclaimer",
+    "p6": "I only recommend products and services that I am convinced of. However, I do not assume any liability for the quality or availability of the advertised offers, as these are provided by my partners.",
+
+    "h7": "Transparency and Trust",
+    "p7": "My goal is to communicate transparently and honestly with you. If you have any questions about affiliate links or my partnerships, do not hesitate to contact me. I appreciate your trust in my recommendations!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+  
+  "front_end_developer": {
+  "title": "Frontend Developer",
+
+  "projekt_title_h2": "Curious about my projects?",
+  "projekt_title_p1": "Here you’ll find an overview of my previous work:",
+  "projekt_title_h4": "Projects for Clients and Partners",
+
+  "projekt_kunden_partner": "Clients and Partners",
+  "projekt_kunden_partner_info": "This section will showcase future clients and partners.",
+
+  "projekt_eigene_projekte": "Personal Projects",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Rock Paper Scissors",
+  "projekte_eigene_projekte_memory_title": "Memory Game",
+  "projekte_eigene_projekte_wuerfeln_title": "Roll dice",
+  "projekte_eigene_projekte_puzzle_title": "Puzzle",
+
+  "h1": "Welcome to my world as a Frontend Developer!",
+  "p1": "This website reflects my passion for modern, scalable web development. As a career changer, I built it using React, JavaScript, HTML, and CSS – technologies that enable dynamic, interactive, and visually engaging applications.",
+  "li_1": "HTML: Clean, semantic, and maintainable structure.",
+  "li_2": "CSS: Flexible, responsive designs optimized for all devices.",
+  "li_3": "JavaScript & React: Dynamic interactivity and high performance for scalable and intuitive user experiences.",
+  "p2": "My focus is consistently on performance, scalability, and best practices to create professional, maintainable, and future-proof web applications.",
+
+  "h2": "My Goal: Senior-Level Frontend Development",
+  "p3": "Beyond creating this website, I continuously deepen my knowledge of React and JavaScript, always striving to write code of the highest quality – modular, efficient, and well-structured.",
+  "p4": "I'm actively seeking challenging projects – whether for companies, agencies, or innovative independent initiatives – where I can fully contribute and expand my expertise.",
+  "p5": "This website is not only my portfolio, but also a living testament to my capabilities and ongoing development in the frontend field.",
+
+  "h3": "Let’s create digital experiences together!",
+  "p6": "Are you looking for a dedicated Frontend Developer who transforms innovative ideas into scalable, maintainable, and high-performance solutions?",
+  "p7": "Get in touch – I'm excited about new and inspiring projects!",
+  "kontakt_link": "<< Contact me here >>"
+},
+
+  "kontakt": {
+    "title": "Contact",
+    "email": "Email",
+    "mobile": "Mobile"
+  },
+
+  "impressum": {
+    "title": "Imprint",
+    "kontakt": "Contact",
+
+    "vertretungsberechtigter": "Authorized Representative",
+    "handelsregistereintrag": "Commercial Register Entry",
+    "handelsregistereintrag_p1_1": "Entry in the Commercial Register: [Placeholder – data to be provided]",
+    "handelsregistereintrag_p1_2": "Commercial Register Number: [Placeholder – data to be provided]",
+    "handelsregistereintrag_p2_1": "VAT Identification Number (VAT Number):",
+    "handelsregistereintrag_p2_2": "Not applicable, as no sales have been made yet.",
+
+    "zweck_der_webseite": "Purpose of the Website",
+    "zweck_der_webseite_p1_1": "Artistic Entertainment (e.g., SMS Text Images, Text Images 2.0, and ASCII Movies)",
+    "zweck_der_webseite_p1_2": "Advertising Spaces for Advertising Partners and Affiliate Marketing",
+    "zweck_der_webseite_p1_3": "Services as a Frontend Developer",
+
+    "haftungsausschluss": "Disclaimer",
+    "haftung_für_inhalte": "Liability for Content",
+    "haftung_für_inhalte_p": "The content of this website has been created with the utmost care. However, no guarantee can be provided for the accuracy, completeness, and timeliness of the content.",
+
+    "haftung_für_links": "Liability for Links",
+    "haftung_für_links_p": "This website contains links to external third-party websites, whose content I have no influence over. Therefore, I cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for the content of the linked sites.",
+
+    "datenschutz": "Data Protection",
+    "datenschutz_p": "Information about the collection, processing, and use of personal data can be found in the Privacy Policy."
+  },
+
+  "datenschutz": {
+    "title": "Privacy Policy",
+    "title_p": "Protecting your personal data is particularly important to me. In this privacy policy, I inform you about what data is collected, processed, and stored on my website, as well as your rights regarding this data.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Responsible for Data Processing",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "Email:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobile:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Collection and Storage of Personal Data",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "When visiting my website, the following data may be automatically collected:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "IP address of the device (anonymized)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Date and time of access",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Browser and operating system used",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Referring URL (e.g., from which page you came)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Accessed subpages",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "This data is anonymized and used solely for statistical purposes and to improve the website. No trace back to your person is possible.",
+
+    "verwendung_personenbezogener_daten": "3. Use of Personal Data",
+    "verwendung_personenbezogener_daten_p": "Personal data such as name, email address, or phone number is only collected if you voluntarily provide it, e.g., via the contact form. This data is used exclusively to process your request and is not shared with third parties unless required by law.",
+
+    "cookies": "4. Cookies",
+    "cookies_p1": "My website uses cookies to analyze site usage and make the visit more user-friendly.",
+    "cookies_p2_1": "Necessary Cookies: Essential for the operation of the website.",
+    "cookies_p2_2": "Analytics Cookies: Help understand and improve website usage (e.g., through Google Analytics).",
+    "cookies_p2_3": "You can restrict or completely disable the use of cookies in your browser settings.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "This website uses Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“).",
+
+    "google_analytics_p2": "Google Analytics uses cookies that allow the analysis of your use of the website. The information generated by these cookies about your use of this website is usually transmitted to a Google server in the USA and stored there.",
+
+    "google_analytics_p3_1": "IP Anonymization:",
+    "google_analytics_p3_2": "IP anonymization is enabled on this website. This means that your IP address is truncated by Google within member states of the European Union or in other contracting states of the Agreement on the European Economic Area before transmission to the USA.",
+
+    "google_analytics_p4_1": "Use of Data:",
+    "google_analytics_p4_2": "Google uses this information to evaluate your use of the website, compile reports on website activities, and provide other services related to website usage and internet usage.",
+
+    "google_analytics_p5_1": "Opt-Out Option:",
+    "google_analytics_p5_2": "You can prevent the storage of cookies by adjusting your browser software settings accordingly. Additionally, you can prevent the collection of data generated by the cookies and related to your use of the website (including your IP address) by Google and the processing of this data by Google by downloading and installing the following browser plugin:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "For more information on the terms of use of Google Analytics, visit:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Advertising Partners and Affiliate Links",
+    "werbepartner_und_affiliate_links_p1": "I work with advertising partners and affiliate programs. When you click on an affiliate link or an ad, third-party providers may set cookies or collect data to measure the success of their ads or sales.",
+    "werbepartner_und_affiliate_links_p2": "For more information about the privacy policies of these partners, visit their websites.",
+
+    "deine_rechte": "7. Your Rights",
+    "deine_rechte_p1_1": "You have the right to:",
+    "deine_rechte_p1_2": "Access the data I have stored about you",
+    "deine_rechte_p1_3": "Rectify incorrect data",
+    "deine_rechte_p1_4": "Delete your data, as far as legally permissible",
+    "deine_rechte_p1_5": "Restrict processing",
+    "deine_rechte_p1_6": "Data portability",
+    "deine_rechte_p1_7": "To exercise these rights, please contact me via email at roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Data Security",
+    "datensicherheit_p": "I implement technical and organizational measures to protect your data from unauthorized access, loss, or misuse.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Changes to This Privacy Policy",
+    "änderungen_dieser_datenschutzerklärung_p": "This privacy policy is updated as needed to comply with legal requirements or to adapt to changes on the website."
+  },
+
+  "agb": {
+    "title": "Terms and Conditions (T&C)",
+    "title_p1": "Date: [Insert Date]",
+    "title_p2": "These Terms and Conditions (T&C) govern the use of the website media4u.ch as well as the services and content offered. By accessing the website, you agree to the following terms.",
+
+    "geltungsbereich": "1. Scope",
+    "geltungsbereich_p": "These T&C apply to all visitors of the website media4u.ch, as well as to customers who use the offered services or participate in advertising partnerships and affiliate programs.",
+
+    "leistungen": "2. Services",
+    "leistungen_p1_1": "media4u.ch offers the following services:",
+    "leistungen_p1_2": "Artistic entertainment (e.g., SMS Text Images, Text Images 2.0, and ASCII Movies).",
+    "leistungen_p1_3": "Advertising spaces for advertising partners and affiliate marketing.",
+    "leistungen_p1_4": "Services in the field of frontend development.",
+    "leistungen_p1_5": "The website serves to present artistic content and market advertising spaces as well as promote my services.",
+
+    "vertragsabschluss": "3. Contract Conclusion",
+    "vertragsabschluss_p1_1": "The contract between you and media4u.ch is concluded when:",
+    "vertragsabschluss_p1_2": "You apply for an advertising space or affiliate partnership and it is confirmed by me.",
+    "vertragsabschluss_p1_3": "You make an inquiry for my services as a frontend developer and accept an offer from me.",
+    "vertragsabschluss_p1_4": "The contract is concluded in writing via email.",
+
+    "preise_und_zahlungsbedingungen": "4. Prices and Payment Terms",
+    "preise_und_zahlungsbedingungen_p1_1": "For advertising partners, the following payment terms apply:",
+    "preise_und_zahlungsbedingungen_p1_2": "The price for an advertising space is agreed upon individually.",
+    "preise_und_zahlungsbedingungen_p1_3": "Payments must be made before the start of the term.",
+    "preise_und_zahlungsbedingungen_p1_4": "For services as a frontend developer, prices are determined upon agreement.",
+
+    "preise_und_zahlungsbedingungen_p2": "Refunds of already made payments are excluded unless there is fault on my part.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Rights and Obligations of Users",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Use of Content",
+    "rechte_und_pflichten_der_nutzer_p1_2": "The content of the website (including artistic works) may only be used or distributed with explicit permission.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Any unauthorized use or copying of the content is prohibited.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 User Behavior",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Visitors and customers are obliged not to misuse the website, e.g., by spreading harmful content, spam, or unauthorized advertising.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "The use of advertising spaces and affiliate programs must comply with legal requirements.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Disclaimer",
+    "rechte_und_pflichten_der_nutzer_p1_8": "I assume no liability for the accuracy, completeness, and timeliness of the content on the website.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "I do not assume any liability for damages resulting from the use of the website or from linked third-party content.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Advertising Partners and Affiliate Programs",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Advertising partners commit to promoting only reputable and legally permissible content.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch reserves the right to reject content that does not meet the website's standards.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Special Regulation for Advertising Partners:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "If the website is unavailable for a day or longer, the missed days will be added for free to the next booking of at least 30 days. This only applies to paid advertising spaces and requires ongoing collaboration. Payouts or separate compensation for downtime days are excluded.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Affiliate programs are implemented in collaboration with external providers. I am not responsible for the content and privacy policies of these providers.",
+
+    "verfügbarkeit_der_webseite": "8. Availability of the Website",
+    "verfügbarkeit_der_webseite_p": "I strive to keep the website available at all times. However, uninterrupted availability cannot be guaranteed, e.g., during maintenance, technical disruptions, or force majeure.",
+
+    "urheberrecht": "9. Copyright",
+    "urheberrecht_p": "All content on media4u.ch is protected by copyright. Use without my written permission is prohibited.",
+
+    "änderungen_der_agb": "10. Changes to the T&C",
+    "änderungen_der_agb_p": "I reserve the right to change these T&C at any time. Changes will be published on the website and are effective from the date of publication.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Jurisdiction and Applicable Law",
+    "gerichtsstand_und_anwendbares_recht_p": "Swiss law applies to all disputes. The place of jurisdiction is Bülach, Switzerland."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Cookie Content"
+  },
+
+  "sms_textbild": {
+    "title": "SMS Text Image",
+    "h1": "SMS Text Images Reinterpreted",
+    "p1": "Memories that connect us. The iconic text images from old Nokia phones like the 3210 and early Ericsson and Motorola models shaped an entire era. These small masterpieces, once sent via SMS, I now revive – newer and more modern than ever before.",
+    "p2": "On my website, you'll exclusively find designed text image animations that you can easily enjoy and share. Each image is a unique creation, lovingly handcrafted to blend the charm of the past with today's simplicity. The font used resembles the classic Nokia font but is not identical. If you particularly like a text image, you can share it via a link – making every message a special experience.",
+
+    "h2": "Every Animation, a Masterpiece",
+    "p3": "These text images are more than just memories – they are art. Each animation is handcrafted and meticulously detailed to reinterpret the aesthetics of classic SMS text images.",
+
+    "h3": "Timeless Designs, Reinvented for the Moment",
+    "p4": "I have revitalized the magic of old text images. Through animated representations, the iconic designs come to life in a modern way – making the nostalgia of the past shine anew.",
+
+    "h4": "Sharing Has Never Been Easier",
+    "p5": "With a single link, you send not just a message but an experience. A nostalgic moment that you can share with others."
+  },
+
+
+  "textbild2": {
+    "title": "Text Image 2.0",
+    "h1": "Text Image 2.0 The Next Evolution",
+    "p1": "Redefining creativity. With Text Image 2.0, classic text images undergo a revolution. Enhanced features such as overlapping characters, various font sizes and colors, rotations and reflections, and free placement on the display create artworks never seen before.",
+    "p2": "On my website, you'll find these new, complex text image creations that you can explore and share. Each piece is a unique result of creativity and innovation, combining the tradition of old SMS text images with the possibilities of modern technology.",
+
+    "h2": "A NEW DIMENSION OF ART",
+    "p3": "Text Images 2.0 are more than just an evolution – they are a new form of art. Using colors, variable font sizes, and dynamic elements, each image comes to life as a vibrant masterpiece that delights the senses.",
+
+    "h3": "INNOVATION MEETS NOSTALGIA",
+    "p4": "I have reinvented the magic of classic text images. With modern technology and creative design tools, works are created that merge the nostalgia of the past with the innovation of the present.",
+
+    "h4": "SHARE YOUR ENTHUSIASM",
+    "p5": "With Text Image 2.0, every message becomes a special experience. Share these unique artworks with friends and family and experience how creativity connects people."
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII Art Film",
+    "h1": "The Matrix in Text Form: A New Dimension of ASCII Art",
+    "p1": "You might already be familiar with my earlier ASCII movies, which presented scenes from the Matrix trilogy in a unique text art form. These early works demonstrated how complex films could be depicted in minimalist ASCII form.",
+
+    "h2": "A New Perspective: The Matrix Classics in a Fascinating Text World",
+    "p2": "Now, I present an improved version of these works. The new ASCII movies offer even more detailed and higher-quality representations of the iconic Matrix scenes. Through technological advancements, these ASCII artworks provide an even more impressive interpretation of the film classics, allowing you to experience the Matrix in an entirely new way.",
+    "p3": "Feel free to share these ASCII movies with friends, acquaintances, and family so they too can enjoy this unique art form."
+  },
+  "matrix": {
+    "title": "The Matrix",
+    "bibliothek": "Matrix Library"
+  },
+
+  "legal": {
+    "impressum": "Imprint",
+    "datenschutz": "Privacy Policy",
+    "cookie": "Cookie",
+    "agb": "Terms and Conditions"
+  },
+
+  "footer": {
+  "alle_rechte_vorbehalten": "All rights reserved."
+  },
+  
+
+
+  "neu": {
+    "title": "New"
+  },
+  "liebe_freundschaft": {
+    "title": "Love and Friendship",
+    "komm_zu_mir1": "Come to me 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "Bee 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "Holidays and Party",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "Leisure and Work",
+
+    "arbeit1": "Work 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "Sports and Hobby"
+  },
+  "abenteuer_action": {
+    "title": "Adventure and Action"
+  },
+  "erotik_sex": {
+    "title": "Erotic and Sex"
+  },
+
+
+  "neu2": {
+    "title": "New"
+  },
+  "liebe_freundschaft2": {
+    "title": "Love and Friendship",
+
+    "komm_zu_uns1": "Join us 1",
+    "komm_zu_uns1_text1": "Hey, what are you looking at",
+    "komm_zu_uns1_text2": "over there?",
+    "komm_zu_uns1_text3": "That person",
+    "komm_zu_uns1_text4": "over there!",
+    "komm_zu_uns1_text5": "They stare at their phone",
+    "komm_zu_uns1_text6": "all day long!",
+    "komm_zu_uns1_text7": "Hey, are you bored?",
+    "komm_zu_uns1_text8": "Then join us! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "See you soon!",
+    "komm_zu_uns1_text10": ":-)"
+    
+  },
+  "festtage_party2": {
+    "title": "Holidays and Party",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday!",
+    "geburtstag1_text2": "Here is your gift!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Leisure and Work",
+
+    "arbeit1": "Work 1",
+    "arbeit1_text1": "Done for the day!",
+    "arbeit1_text2": "I'm heading home!",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Bye, see you",
+    "arbeit1_text6": "tomorrow!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sports and Hobby"
+  },
+  "abenteuer_action2": {
+    "title": "Adventure and Action"
+  },
+  "erotik_sex2": {
+    "title": "Erotic and Sex"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Code is Art",
+  "Fullstack Developer",
+  "SMS Text Art",
+  "No 160 char limit",
+  "ASCII Nostalgia",
+  "Limitlessly Creative",
+  "Modern Text Art",
+  "Text Picture 2.0",
+  "Digital Art",
+  "Typographic Art",
+  "Character Design",
+  "Visual Storytelling",
+  "ASCII Art Movies",
+  "Moving ASCII",
+  "Interactivity",
+  "CSS Animations",
+  "React & Vite",
+  "Semantic HTML5",
+  "CSS Modules",
+  "DOM Manipulation",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Container-based",
+  "Fail-safe",
+  "Accessible (A11y)",
+  "Responsive Design",
+  "High Performance",
+  "SEO Optimized",
+  "Secure Design",
+  "Immutable Builds",
+  "Reproducible",
+  "24 Languages",
+  "International",
+  "Innovation",
+  "Web Engineering"
+]
+
+}

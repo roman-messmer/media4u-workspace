@@ -1,0 +1,543 @@
+{
+  "beispiel": {
+    "sms_textbild": "Voorbeeld",
+    "textbild2": "Voorbeeld"
+  },
+
+  "werbung": {
+    "title": "Advertentie",
+    "loading": "Laden...",
+    "error_loading": "Inhoud kon niet worden geladen.",
+    "redirecting": "Doorsturen",
+    "view_offer": "Bekijken",
+    "badge_portfolio": "PORTFOLIO",
+    "badge_partner": "PARTNER",
+    "badge_support": "SUPPORT",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "Beveilig uw advertentieruimte!",
+    "ad_space_desc": "Presenteer uw bedrijf doelgericht in een specifiek land of vergroot uw bereik naar een internationaal publiek.",
+    "ad_space_aria": "Meer informatie over het aanbod",
+    "ad_space_btn": "Nu vastleggen"
+  },
+
+  "mehr_info": {
+    "title": "Meer informatie"
+  },
+  
+  "header": {
+    "slogan1": "Creativiteit en Digitale Kunst",
+    "slogan2": "Globaal toegankelijk in 24 talen!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS Tekstbeeld",
+    "textbild2": "Tekstbeeld 2.0",
+    "ascii_art_film": "ASCII Kunstfilm"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Advertentiepartners",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Frontend Ontwikkelaar",
+    "kontakt": "Contact",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "Nieuw",
+      "liebe_freundschaft": "Liefde en Vriendschap",
+      "festtage_party": "Feestdagen en Feesten",
+      "freizeit_arbeit": "Vrije Tijd en Werk",
+      "sport_hobby": "Sport en Hobby's",
+      "abenteuer_action": "Avontuur en Actie",
+      "erotik_sex": "Erotiek en Seks"
+    },
+
+    "textbild2": {
+      "neu2": "Nieuw",
+      "liebe_freundschaft2": "Liefde en Vriendschap",
+      "festtage_party2": "Feestdagen en Feesten",
+      "freizeit_arbeit2": "Vrije Tijd en Werk",
+      "sport_hobby2": "Sport en Hobby's",
+      "abenteuer_action2": "Avontuur en Actie",
+      "erotik_sex2": "Erotiek en Seks"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Moderne Digitale Kunst en Innovatieve Communicatietools",
+    "p1": "media4u.ch is uw bestemming voor moderne digitale kunst en innovatieve communicatietools. Met mijn uitgebreide collectie SMS-tekstbeelden en ASCII-films bied ik u creatieve en uitstekende ervaringen.",
+    "h2": "Internationale Bereik in 20 Talen",
+    "p2": "Mijn website is beschikbaar in 20 talen om een internationaal publiek te bereiken en iedereen de mogelijkheid te geven te genieten van mijn unieke kunstwerken. Daarnaast bied ik advertentieruimte en affiliate programma's in het gebied van SMS-tekstbeelden en Tekstbeeld 2.0. Dit biedt bedrijven creatieve advertentiemogelijkheden terwijl mijn platform wordt ondersteund.",
+    "h3": "Ontdek Digitale Kunst op een Nieuwe Manier",
+    "p3": "Duik in de wereld van digitale kunst en ontdek wat media4u.ch te bieden heeft! Ervaar creatieve communicatie vanuit een nieuw perspectief en deel het met de wereld.",
+    "h4": "Technologie Ontmoet Digitale Kunst",
+    "p4": "Deze website is ontwikkeld met behulp van JavaScript en React, waarbij moderne webontwikkeling wordt gecombineerd met mijn passie voor digitale kunst. Met deze technologieën worden mijn SMS-tekstbeelden en ASCII-creaties in innovatieve formaten gecreëerd. Ze laten zien hoe technologie en creativiteit samenkomen om unieke digitale ervaringen te creëren."
+  },
+
+  "werbepartner": {
+    "title": "Advertentiepartners",
+    "h1": "Vergroot Uw Bereik – Plaats Advertenties op Mijn Website!",
+    "p1": "Wilt u uw producten of diensten aan een breed publiek presenteren? Mijn website biedt het ideale platform om uw merk te promoten en nieuwe klanten aan te trekken.",
+
+    "h2": "Waarom Advertenties Plaatsen op Mijn Website?",
+    "p2": "Nationaal Zichtbaarheid: Bereik bezoekers uit het hele land en vergroot effectief uw bereik. Maximale Aandacht: Uw advertenties worden getoond aan alle bezoekers, ongeacht hun locatie. Eerlijke Presentatie: De volgorde van advertenties wordt elke keer dat de pagina laadt willekeurig opnieuw gesorteerd, zodat alle advertentiepartners gelijke zichtbaarheid krijgen. Gegarandeerde Privacy: Ik identificeer alleen het land van herkomst van bezoekers – geen andere gegevens worden verzameld.",
+
+    "h3_1": "DETAILS VAN MIJN ADVERTENTIERUIMTE PRIJZEN:",
+    "p3_1": "Gedurende de eerste 90 dagen betaalt u slechts 140 CHF voor 30 dagen aanwezigheid.",
+    "p3_2": "Vanaf dag 91 daalt de prijs tot 120 CHF voor 30 dagen aanwezigheid (van dag 91 tot 180).",
+    "p3_3": "Vanaf dag 181 kost de advertentieruimte slechts 100 CHF voor 30 dagen aanwezigheid.",
+
+    "h3_2": "WAT IK VAN U NODIG HEB:",
+    "p3_4": "De naam van uw bedrijf",
+    "p3_5": "Een link naar uw aanbieding (product- of dienstenpagina)",
+    "p3_6": "Een link naar een afbeelding die wordt gebruikt in de advertentieruimte",
+    "bildgroesse": "Afbeeldingsgrootte: 400x400 pixels",
+
+    "h3_3": "BELANGRIJKE INFORMATIE:",
+    "p3_7": "Uw advertentieruimte wordt alleen weergegeven aan bezoekers uit het betreffende land. Als u internationaal wilt adverteren, kunt u extra advertentieruimtes voor andere landen aanschaffen.",
+    "p3_8": "Reserveer nu uw advertentieruimte en target uw publiek nauwkeurig – afgestemd op de regio waarin u geïnteresseerd bent!",
+
+    "h4": "Uw Veiligheid Is Belangrijk Voor Mij:",
+    "p4": "Ik zet in op kwaliteit en betrouwbaarheid. Elke advertentiepartner wordt persoonlijk door mij gecontroleerd om ervoor te zorgen dat het serieuze bedrijven zijn die aan mijn hoge standaarden voldoen.",
+
+    "h5": "Klaar Om De Volgende Stap Te Zetten?",
+    "p5": "Neem vandaag nog contact met mij op en plaats uw merk op mijn website – samen bouwen we aan een sterke aanwezigheid en brengen we uw bedrijf duurzaam vooruit.",
+
+    "h6": "Geïnteresseerd?",
+    "p6": "Stuur mij een bericht als u meer informatie nodig heeft of direct een advertentieruimte wilt reserveren. Ik kijk ernaar uit om u te helpen op uw weg naar succes!"
+  },
+
+  "werbepartner_info": {
+    "title": "Advertentiepartners - Informatie",
+    "content_h3": "Reserveer Uw Advertentieruimte!",
+    "content_p1": "Presenteer uw bedrijf gericht in één land of breid uw bereik uit naar een internationaal publiek.",
+    "content_button": "Bekijk Aanbod",
+    "content_button_info": "Reserveer Nu"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Affiliate Links en Transparantie op Mijn Website",
+    "p1": "Op mijn website gebruik ik affiliate links om u geschikte producten en diensten voor te stellen. Transparantie is voor mij van groot belang. Hieronder leg ik uit hoe affiliate links werken en wat dit voor u betekent.",
+
+    "h2": "Wat Zijn Affiliate Links?",
+    "p2": "Affiliate links zijn speciale links die verwijzen naar producten of diensten van partnerbedrijven. Wanneer u via zo'n link een aankoop doet, ontvang ik een commissie. Dit brengt geen extra kosten met zich mee voor u.",
+
+    "h3": "Waarom Gebruik Ik Affiliate Links?",
+    "p3": "Het gebruik van affiliate links helpt mij mijn website te onderhouden en gratis content aan te bieden. Ik kies mijn partners en aanbevolen producten zorgvuldig uit zodat ze aansluiten bij de onderwerpen en interesses van mijn bezoekers.",
+
+    "h4": "Hoe Werkt Tracking?",
+    "p4": "Om te volgen dat een aankoop via mijn link is gedaan, gebruiken mijn partners cookies. Deze slaan informatie op voor een beperkte periode wanneer u op een affiliate link klikt. U kunt hier meer informatie over vinden in mijn privacybeleid.",
+
+    "h5": "Geen Nadelen voor U",
+    "p5": "Belangrijk om te weten: klikken op affiliate links veroorzaakt geen ongemakken voor u. De prijzen van producten of diensten blijven hetzelfde en er zijn geen verborgen kosten.",
+
+    "h6": "Disclaimer",
+    "p6": "Ik raad alleen producten en diensten aan waarin ik geloof. Echter, ik ben niet verantwoordelijk voor de kwaliteit of beschikbaarheid van de geadverteerde aanbiedingen, aangezien deze worden geleverd door mijn partners.",
+
+    "h7": "Transparantie en Vertrouwen",
+    "p7": "Mijn doel is om transparant en eerlijk met u te communiceren. Als u vragen heeft over affiliate links of mijn partnerschappen, aarzel dan niet om contact met mij op te nemen. Ik waardeer uw vertrouwen in mijn aanbevelingen!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "Frontend Ontwikkelaar",
+
+  "projekt_title_h2": "Benieuwd naar mijn projecten?",
+  "projekt_title_p1": "Hier vindt u een overzicht van mijn eerdere werk:",
+  "projekt_title_h4": "Projecten voor klanten en partners",
+
+  "projekt_kunden_partner": "Klanten en partners",
+  "projekt_kunden_partner_info": "In deze sectie worden toekomstige klanten en partners getoond.",
+
+  "projekt_eigene_projekte": "Eigen projecten",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Steen Papier Schaar",
+  "projekte_eigene_projekte_memory_title": "Memoryspel",
+  "projekte_eigene_projekte_wuerfeln_title": "Dobbelstenen werpen",
+  "projekte_eigene_projekte_puzzle_title": "Puzzel",
+
+  "h1": "Welkom in mijn wereld als Frontend Ontwikkelaar!",
+  "p1": "Deze website weerspiegelt mijn passie voor moderne en schaalbare webontwikkeling. Als carrièreswitcher heb ik deze site gebouwd met React, JavaScript, HTML en CSS – technologieën die het mogelijk maken om dynamische, interactieve en visueel aantrekkelijke applicaties te ontwikkelen.",
+  "li_1": "HTML: Schone, semantische en onderhoudsvriendelijke structuur.",
+  "li_2": "CSS: Flexibel en responsief ontwerp, geoptimaliseerd voor elk apparaat.",
+  "li_3": "JavaScript & React: Dynamische interactiviteit en hoge prestaties voor een schaalbare en intuïtieve gebruikerservaring.",
+  "p2": "Mijn focus ligt op performance, schaalbaarheid en best practices, om professionele, onderhoudbare en toekomstbestendige webapplicaties te realiseren.",
+
+  "h2": "Mijn doel: seniorniveau in frontend ontwikkeling",
+  "p3": "Naast het bouwen van deze website blijf ik mijn kennis van React en JavaScript verdiepen, met als doel code te schrijven van de hoogste kwaliteit – modulair, efficiënt en goed gestructureerd.",
+  "p4": "Ik ben actief op zoek naar uitdagende projecten – voor bedrijven, bureaus of innovatieve, onafhankelijke initiatieven – waarin ik mijn expertise volledig kan inzetten en verder ontwikkelen.",
+  "p5": "Deze website is niet alleen mijn portfolio, maar ook een levend bewijs van mijn vaardigheden en voortdurende groei als frontend ontwikkelaar.",
+
+  "h3": "Laten we samen digitale ervaringen creëren!",
+  "p6": "Bent u op zoek naar een toegewijde frontend ontwikkelaar die innovatieve ideeën vertaalt naar schaalbare, onderhoudbare en performante oplossingen?",
+  "p7": "Neem gerust contact met mij op – ik kijk uit naar inspirerende projecten!",
+  "kontakt_link": "<< Neem hier contact op >>"
+},
+
+  "kontakt": {
+    "title": "Contact",
+    "email": "E-mail",
+    "mobile": "Mobiel"
+  },
+
+  "impressum": {
+    "title": "Impressum",
+    "kontakt": "Contact",
+
+    "vertretungsberechtigter": "Bevoegde Vertegenwoordiger",
+    "handelsregistereintrag": "Handelsregister",
+    "handelsregistereintrag_p1_1": "Handelsregisterregistratie: [Placeholder – gegevens worden later aangeleverd]",
+    "handelsregistereintrag_p1_2": "Handelsregisternummer: [Placeholder – gegevens worden later aangeleverd]",
+    "handelsregistereintrag_p2_1": "BTW-identificatienummer (VAT nummer):",
+    "handelsregistereintrag_p2_2": "Niet van toepassing, omdat er nog geen verkopen zijn gedaan.",
+
+    "zweck_der_webseite": "Doel van de Website",
+    "zweck_der_webseite_p1_1": "Artistiek Entertainment (bijv. SMS Tekstbeelden, Tekstbeeld 2.0 en ASCII Films)",
+    "zweck_der_webseite_p1_2": "Advertentieruimte voor Advertentiepartners en Affiliate Marketing",
+    "zweck_der_webseite_p1_3": "Diensten als Frontend Ontwikkelaar",
+
+    "haftungsausschluss": "Disclaimer",
+    "haftung_für_inhalte": "Aansprakelijkheid voor Inhoud",
+    "haftung_für_inhalte_p": "De inhoud van deze website is met de grootst mogelijke zorgvuldigheid opgesteld. Echter, het is niet mogelijk om de nauwkeurigheid, volledigheid en actualiteit van de inhoud te garanderen.",
+
+    "haftung_für_links": "Aansprakelijkheid voor Links",
+    "haftung_für_links_p": "Deze website bevat links naar externe websites van derden, waarvan ik geen controle heb over de inhoud. Daarom kan ik niet aansprakelijk worden gesteld voor deze externe inhoud. De respectieve leverancier of beheerder van de gekoppelde pagina's is altijd verantwoordelijk voor de inhoud van de gekoppelde websites.",
+
+    "datenschutz": "Datenschutz",
+    "datenschutz_p": "Informatie over de verzameling, verwerking en het gebruik van persoonlijke gegevens is opgenomen in het Privacybeleid."
+  },
+
+  "datenschutz": {
+    "title": "Privacybeleid",
+    "title_p": "Het beschermen van uw persoonlijke gegevens is voor mij van groot belang. In dit privacybeleid informeer ik u over de gegevens die worden verzameld, verwerkt en opgeslagen op mijn website, evenals uw rechten met betrekking tot deze gegevens.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Verantwoordelijke voor de Gegevensverwerking",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "E-mail:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobiel:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Verzameling en Opslag van Persoonlijke Gegevens",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Bij het bezoeken van mijn website kunnen automatisch de volgende gegevens worden verzameld:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "IP-adres van het apparaat (geanonimiseerd)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Datum en tijd van toegang",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Gebruikte browser en besturingssysteem",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Refererende URL (bijv. van waar u bent gekomen)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Bezochte subpagina's",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Deze gegevens worden geanonimiseerd en uitsluitend gebruikt voor statistische doeleinden en om de website te verbeteren. Het is niet mogelijk om deze gegevens aan uw persoonlijkheid te koppelen.",
+
+    "verwendung_personenbezogener_daten": "3. Gebruik van Persoonlijke Gegevens",
+    "verwendung_personenbezogener_daten_p": "Persoonlijke gegevens zoals naam, e-mailadres of telefoonnummer worden alleen verzameld als u deze vrijwillig verstrekt, bijvoorbeeld via een contactformulier. Deze gegevens worden uitsluitend gebruikt voor het verwerken van uw verzoek en worden niet gedeeld met derden, tenzij wettelijk vereist.",
+
+    "cookies": "4. Cookies",
+    "cookies_p1": "Mijn website maakt gebruik van cookies om het gebruik van de site te analyseren en het bezoek gebruiksvriendelijker te maken.",
+    "cookies_p2_1": "Noodzakelijke Cookies: Onmisbaar voor het functioneren van de website.",
+    "cookies_p2_2": "Analytische Cookies: Helpen het gebruik van de website te begrijpen en te verbeteren (bijv. via Google Analytics).",
+    "cookies_p2_3": "U kunt het gebruik van cookies beperken of volledig uitschakelen via de instellingen van uw browser.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Deze website maakt gebruik van Google Analytics, een webanalyse-service die wordt aangeboden door Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).",
+
+    "google_analytics_p2": "Google Analytics gebruikt cookies die het mogelijk maken het gebruik van de website door u te analyseren. De informatie die door deze cookies wordt gegenereerd over uw gebruik van deze website wordt meestal overgedragen en opgeslagen op de servers van Google in de Verenigde Staten.",
+
+    "google_analytics_p3_1": "IP-anonimisering:",
+    "google_analytics_p3_2": "Op deze website is IP-anonimisering ingeschakeld. Dit betekent dat uw IP-adres wordt afgekort door Google binnen de lidstaten van de Europese Unie of in andere staten die deelnemen aan het Economisch Ruimte Akkoord voordat het wordt doorgestuurd naar de VS.",
+
+    "google_analytics_p4_1": "Gebruik van Gegevens:",
+    "google_analytics_p4_2": "Google gebruikt deze informatie om het gebruik van de website door u te evalueren, rapporten over de activiteiten van de website samen te stellen en andere diensten te leveren die verband houden met het gebruik van de website en internet.",
+
+    "google_analytics_p5_1": "Uitsluitingsoptie:",
+    "google_analytics_p5_2": "U kunt het opslaan van cookies voorkomen door de instellingen van uw browsersoftware dienovereenkomstig aan te passen. Bovendien kunt u het verzamelen van gegevens dat wordt gegenereerd door de cookies en verband houdt met uw gebruik van de website (inclusief uw IP-adres) door Google, evenals de verwerking van deze gegevens door Google, voorkomen door de volgende browserplugin te downloaden en te installeren:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "Voor meer informatie over de gebruiksvoorwaarden van Google Analytics, bezoek:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Advertentiepartners en Affiliate Links",
+    "werbepartner_und_affiliate_links_p1": "Ik werk samen met advertentiepartners en affiliate marketingprogramma's. Wanneer u op een affiliate link of advertentie klikt, kunnen externe leveranciers cookies plaatsen of gegevens verzamelen om het succes van hun advertentiecampagnes of verkopen te meten.",
+    "werbepartner_und_affiliate_links_p2": "Voor meer informatie over de privacybeleid van deze partners, bezoek hun websites.",
+
+    "deine_rechte": "7. Uw Rechten",
+    "deine_rechte_p1_1": "U heeft het recht:",
+    "deine_rechte_p1_2": "Toegang te krijgen tot de gegevens die ik over u bewaar",
+    "deine_rechte_p1_3": "Onjuiste gegevens te corrigeren",
+    "deine_rechte_p1_4": "Uw gegevens te verwijderen, voor zover dit wettelijk is toegestaan",
+    "deine_rechte_p1_5": "De verwerking te beperken",
+    "deine_rechte_p1_6": "De gegevensoverdraagbaarheid",
+    "deine_rechte_p1_7": "Om deze rechten uit te oefenen, neem alstublieft contact met mij op via e-mail: roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Gegevensbeveiliging",
+    "datensicherheit_p": "Ik implementeer technische en organisatorische maatregelen om uw gegevens te beschermen tegen ongeautoriseerde toegang, verlies of verkeerd gebruik.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Wijzigingen in dit Privacybeleid",
+    "änderungen_dieser_datenschutzerklärung_p": "Dit privacybeleid wordt indien nodig bijgewerkt om te voldoen aan wettelijke vereisten of om aanpassingen aan de website weer te geven."
+  },
+
+  "agb": {
+    "title": "Algemene Voorwaarden (AV)",
+    "title_p1": "Datum: [Datum Invoegen]",
+    "title_p2": "Deze Algemene Voorwaarden (AV) regelen het gebruik van de website media4u.ch, evenals de geboden diensten en inhoud. Door toegang te krijgen tot de website gaat u akkoord met de volgende voorwaarden.",
+
+    "geltungsbereich": "1. Toepassingsgebied",
+    "geltungsbereich_p": "Deze AV zijn van toepassing op alle bezoekers van de website media4u.ch, evenals op klanten die gebruikmaken van de geboden diensten of deelnemen aan advertentiepartnerschappen en affiliate programma's.",
+
+    "leistungen": "2. Diensten",
+    "leistungen_p1_1": "media4u.ch biedt de volgende diensten aan:",
+    "leistungen_p1_2": "Artistiek Entertainment (bijv. SMS Tekstbeelden, Tekstbeeld 2.0 en ASCII Films).",
+    "leistungen_p1_3": "Advertentieruimte voor advertentiepartners en affiliate marketing.",
+    "leistungen_p1_4": "Diensten op het gebied van frontend ontwikkeling.",
+    "leistungen_p1_5": "De website dient ter presentatie van artistieke inhoud en de verkoop van advertentieruimte, evenals ter promotie van mijn diensten.",
+
+    "vertragsabschluss": "3. Contractsluiting",
+    "vertragsabschluss_p1_1": "Het contract tussen u en media4u.ch wordt gesloten wanneer:",
+    "vertragsabschluss_p1_2": "U een aanvraag indient voor advertentieruimte of partnerschap en dit wordt bevestigd door mij.",
+    "vertragsabschluss_p1_3": "U een aanvraag doet voor mijn diensten als frontend ontwikkelaar en mijn aanbod accepteert.",
+    "vertragsabschluss_p1_4": "Het contract wordt schriftelijk via e-mail gesloten.",
+
+    "preise_und_zahlungsbedingungen": "4. Prijzen en Betalingsvoorwaarden",
+    "preise_und_zahlungsbedingungen_p1_1": "Voor advertentiepartners gelden de volgende betalingsvoorwaarden:",
+    "preise_und_zahlungsbedingungen_p1_2": "De prijs voor advertentieruimte wordt individueel overeengekomen.",
+    "preise_und_zahlungsbedingungen_p1_3": "Betalingen moeten worden gedaan vóór het begin van de periode.",
+    "preise_und_zahlungsbedingungen_p1_4": "Voor diensten als frontend ontwikkelaar worden de prijzen overeengekomen.",
+
+    "preise_und_zahlungsbedingungen_p2": "Terugbetaling van reeds gedane betalingen is uitgesloten, tenzij dit te wijten is aan mijn fout.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Rechten en Plichten van Gebruikers",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Gebruik van Inhoud",
+    "rechte_und_pflichten_der_nutzer_p1_2": "De inhoud van de website (inclusief artistieke werken) mag alleen worden gebruikt of verspreid met expliciete toestemming.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Elk ongeautoriseerd gebruik of kopiëren van inhoud is verboden.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Gedrag van Gebruikers",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Bezoekers en klanten zijn verplicht de website niet misbruiken, bijvoorbeeld door het verspreiden van schadelijke inhoud, spam of ongeautoriseerde advertenties.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Het gebruik van advertentieruimtes en affiliate programma's moet voldoen aan wettelijke vereisten.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Disclaimer",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Ik ben niet aansprakelijk voor de nauwkeurigheid, volledigheid en actualiteit van de inhoud op de website.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Ik ben niet aansprakelijk voor schade die voortvloeit uit het gebruik van de website of de inhoud van derden.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Advertentiepartners en Affiliate Programma's",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Advertentiepartners verplichten zich om alleen gerespecteerde en wettelijk toegestane inhoud te promoten.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch behoudt zich het recht voor om inhoud die niet voldoet aan de normen van de website te weigeren.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Specifieke Regelgeving voor Advertentiepartners:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Als de website voor een dag of langer niet beschikbaar is, worden de gemiste dagen gratis toegevoegd aan de volgende reservering voor minimaal 30 dagen. Dit geldt alleen voor betaalde advertentieruimtes en vereist voortdurende samenwerking. Betalingen of afzonderlijke compensatie voor downtime-dagen zijn uitgesloten.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Affiliate programma's worden uitgevoerd in samenwerking met externe leveranciers. Ik ben niet aansprakelijk voor de inhoud en privacybeleid van deze leveranciers.",
+
+    "verfügbarkeit_der_webseite": "8. Beschikbaarheid van de Website",
+    "verfügbarkeit_der_webseite_p": "Ik streef ernaar de website altijd beschikbaar te houden. Echter, ik kan geen voortdurende beschikbaarheid garanderen, bijvoorbeeld tijdens onderhoud, technische storingen of overmachtssituaties.",
+
+    "urheberrecht": "9. Auteursrechten",
+    "urheberrecht_p": "Alle inhoud op media4u.ch is auteursrechtelijk beschermd. Het is verboden om deze zonder mijn schriftelijke toestemming te gebruiken.",
+
+    "änderungen_der_agb": "10. Wijzigingen in de AV",
+    "änderungen_der_agb_p": "Ik behoud mij het recht voor om deze AV op elk moment te wijzigen. Wijzigingen worden op de website gepubliceerd en treden in werking vanaf de datum van publicatie.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Jurisdictie en Toepasselijk Recht",
+    "gerichtsstand_und_anwendbares_recht_p": "Het Zwitserse recht is van toepassing op alle geschillen. De rechtbank in Bülach, Zwitserland, is de bevoegde rechtbank."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Cookie-inhoud"
+  },
+
+  "sms_textbild": {
+    "title": "SMS Tekstbeeld",
+    "h1": "SMS Tekstbeelden Heruitgevonden",
+    "p1": "De herinneringen die ons verbinden. Iconische tekstbeelden van oude Nokia-telefoons zoals de 3210, evenals vroege modellen van Ericsson en Motorola, hebben een heel tijdperk gevormd. Deze kleine meesterwerken, ooit verzonden via SMS, breng ik nu terug – moderner dan ooit tevoren.",
+    "p2": "Op mijn website vindt u exclusief ontworpen animaties van tekstbeelden die u gemakkelijk kunt bekijken en delen. Elk beeld is een uniek kunstwerk, met de hand vervaardigd met liefde om de charme van het verleden te combineren met de eenvoud van vandaag. Het gebruikte lettertype lijkt op het klassieke Nokia-lettertype, maar is niet identiek. Als u een specifiek tekstbeeld leuk vindt, kunt u het delen via een link – waardoor elk bericht een speciale ervaring wordt.",
+
+    "h2": "Elke Animatie, een Meesterwerk",
+    "p3": "Deze tekstbeelden zijn meer dan alleen herinneringen – het is kunst. Elke animatie wordt met de hand gemaakt en zorgvuldig ontworpen om de esthetiek van klassieke SMS tekstbeelden opnieuw te interpreteren.",
+
+    "h3": "Tijdloze Ontwerpen, Hernieuwd voor het Heden",
+    "p4": "Ik heb de magie van klassieke tekstbeelden heruitgevonden. Door geanimeerde weergaven van iconische ontwerpen komen deze tot leven op een moderne manier – waardoor de nostalgie van het verleden opnieuw gaat schitteren.",
+
+    "h4": "Delen is Nooit Zo Eenvoudig Gelijk geweest",
+    "p5": "Met één link verzendt u niet alleen een bericht, maar een ervaring. Een nostalgisch moment dat u kunt delen met anderen."
+  },
+
+
+  "textbild2": {
+    "title": "Tekstbeeld 2.0",
+    "h1": "Tekstbeeld 2.0 De Volgende Evolutie",
+    "p1": "Creativiteit, heruitgevonden. Met Tekstbeeld 2.0 ondergaan klassieke tekstbeelden een revolutie. Verbeterde functies zoals overlappende tekens, verschillende lettergroottes en -kleuren, rotaties en reflecties, evenals vrije positionering op het scherm, creëren nooit eerder geziene kunstwerken.",
+    "p2": "Op mijn website vindt u deze nieuwe, complexe creaties van tekstbeelden die u kunt verkennen en delen. Elk kunstwerk is het unieke resultaat van creativiteit en innovatie, waarbij de traditie van oude SMS tekstbeelden wordt gecombineerd met de mogelijkheden van moderne technologie.",
+
+    "h2": "EEN NIEUWE DIMENSIE VAN KUNST",
+    "p3": "Tekstbeeld 2.0 is meer dan alleen een evolutie – het is een nieuwe kunstvorm. Door gebruik te maken van kleuren, variabele lettergroottes en dynamische elementen komt elk beeld tot leven als een levendig meesterwerk dat de zintuigen betovert.",
+
+    "h3": "INNOVATIE ONTMOET NOSTALGIE",
+    "p4": "Ik heb de magie van klassieke tekstbeelden heruitgevonden. Met moderne technologie en creatieve ontwerp tools ontstaan werken die de nostalgie van het verleden combineren met de innovatie van het heden.",
+
+    "h4": "DEEL UW PASSIE",
+    "p5": "Met Tekstbeeld 2.0 wordt elk bericht een speciale ervaring. Deel deze unieke kunstwerken met vrienden en familie en ervaar hoe creativiteit mensen verbindt."
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII Kunstfilm",
+    "h1": "Matrix in Tekstvorm: Een Nieuwe Dimensie van ASCII Kunst",
+    "p1": "Misschien bent u al bekend met mijn vroege ASCII-films, die scènes uit de Matrix-trilogie presenteerden in een unieke tekstkunstvorm. Deze vroege werken toonden aan hoe complexe films in een minimalistische ASCII-vorm konden worden weergegeven.",
+
+    "h2": "Een Nieuw Perspectief: De Klassieke Matrix Scènes in een Fascinerende Tekstwereld",
+    "p2": "Nu presenteer ik een verbeterde versie van deze werken. De nieuwe ASCII-films bieden nog meer gedetailleerde en hoogwaardige weergaven van iconische Matrix-scènes. Dankzij technologische vooruitgang bieden deze ASCII-kunstwerken een nog indrukwekkendere interpretatie van de klassieke films, waardoor u Matrix op een geheel nieuwe manier kunt ervaren.",
+    "p3": "Voel u vrij om deze ASCII-films te delen met vrienden, kennissen en familie zodat ook zij van deze unieke kunstvorm kunnen genieten."
+  },
+  "matrix": {
+    "title": "Matrix",
+    "bibliothek": "Matrix Bibliotheek"
+  },
+
+  "legal": {
+    "impressum": "Impressum",
+    "datenschutz": "Privacybeleid",
+    "cookie": "Cookie",
+    "agb": "Algemene Voorwaarden"
+  },
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Alle rechten voorbehouden."
+  },
+
+
+  "neu": {
+    "title": "Nieuw"
+  },
+  "liebe_freundschaft": {
+    "title": "Liefde en Vriendschap",
+    "komm_zu_mir1": "Kom naar mij 1",
+    "komm_zu_mir1_text1": "Hé, kom",
+    "komm_zu_mir1_text2": "naar mij!",
+
+    "biene1": "Bij 1",
+    "biene1_text1": "Ik steek je",
+    "biene1_text2": "niet omdat ik",
+    "biene1_text3": "je leuk vind!"
+  },
+  "festtage_party": {
+    "title": "Feestdagen en Feesten",
+
+    "geburtstag1": "Verjaardag 1",
+    "geburtstag1_text1": "Gefeliciteerd",
+    "geburtstag1_text2": "met je",
+    "geburtstag1_text3": "verjaardag!"
+  },
+  "freizeit_arbeit": {
+    "title": "Vrije Tijd en Werk",
+
+    "arbeit1": "Werk 1",
+    "arbeit1_text1": "",
+    "arbeit1_text2": "Feestavond!",
+    "arbeit1_text3": "Ik ga naar huis!",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "",
+    "arbeit1_text6": "Doei,",
+    "arbeit1_text7": "tot morgen!"
+  },
+  "sport_hobby": {
+    "title": "Sport en Hobby's"
+  },
+  "abenteuer_action": {
+    "title": "Avontuur en Actie"
+  },
+  "erotik_sex": {
+    "title": "Erotiek en Seks"
+  },
+
+  
+  "neu2": {
+    "title": "Nieuw"
+  },
+  "liebe_freundschaft2": {
+    "title": "Liefde en Vriendschap",
+
+    "komm_zu_uns1": "Kom bij ons 1",
+    "komm_zu_uns1_text1": "Hé, waar kijk je naar",
+    "komm_zu_uns1_text2": "daar?",
+    "komm_zu_uns1_text3": "Die persoon",
+    "komm_zu_uns1_text4": "daar!",
+    "komm_zu_uns1_text5": "Ze staren de hele dag naar",
+    "komm_zu_uns1_text6": "hun telefoon!",
+    "komm_zu_uns1_text7": "Hé, verveel je je?",
+    "komm_zu_uns1_text8": "Kom dan bij ons! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Tot straks!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Feestdagen en Feesten",
+
+    "geburtstag1": "Verjaardag 1",
+    "geburtstag1_text1": "Gefeliciteerd!",
+    "geburtstag1_text2": "Hier is jouw cadeau!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Vrije Tijd en Werk",
+
+    "arbeit1": "Werk 1",
+    "arbeit1_text1": "Einde van de dag!",
+    "arbeit1_text2": "Ik ga naar huis!",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Doei!",
+    "arbeit1_text6": "Tot morgen!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sport en Hobby's"
+  },
+  "abenteuer_action2": {
+    "title": "Avontuur en Actie"
+  },
+  "erotik_sex2": {
+    "title": "Erotiek en Seks"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Code is Kunst",
+  "Fullstack Developer",
+  "SMS Tekstkunst",
+  "Geen 160 tekens limiet",
+  "ASCII Nostalgie",
+  "Grenzeloos Creatief",
+  "Moderne tekstkunst",
+  "Tekstafbeelding 2.0",
+  "Digitale Kunst",
+  "Typografische Kunst",
+  "Karakterontwerp",
+  "Visuele verhalen",
+  "ASCII Art Films",
+  "Bewegend ASCII",
+  "Interactiviteit",
+  "CSS Animaties",
+  "React & Vite",
+  "Semantisch HTML5",
+  "CSS Modules",
+  "DOM Manipulatie",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Container-gebaseerd",
+  "Faalveilig",
+  "Toegankelijk (A11y)",
+  "Responsive Design",
+  "Hoge prestaties",
+  "SEO Geoptimaliseerd",
+  "Veilig Ontwerp",
+  "Immutable Builds",
+  "Reproduceerbaar",
+  "24 Talen",
+  "Internationaal",
+  "Innovatie",
+  "Web Engineering"
+]
+
+}

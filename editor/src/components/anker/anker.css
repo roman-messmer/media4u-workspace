@@ -1,0 +1,54 @@
+.anker {
+    position: fixed;
+    bottom: 16rem;
+    right: 0;
+    opacity: 0;
+    transition: opacity .3s ease;
+    pointer-events: none;
+    z-index: 9999
+}
+
+.anker.visible {
+    opacity: 1;
+    pointer-events: auto
+}
+
+.anker .icon-wrapper {
+    display: block
+}
+
+.anker img.icon {
+    padding: .4rem 0rem;
+    border-top: 1px solid #000;
+    border-right: none;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    border-radius: .5rem 0 0 .5rem;
+    width: 3rem;
+    height: 3.5rem;
+    transition: background-color .3s ease
+}
+
+.anker .icon.icon--default {
+    background-color: #d7d7d7
+}
+
+.anker .icon.icon--media4u {
+    background-color: #a7a7a7
+}
+
+.anker .icon.icon--sms {
+    background-color: #82b59f
+}
+
+.anker .icon.icon--textbild2 {
+    background-color: #89cee1
+}
+
+.anker .icon.icon--ascii {
+    background-color: #32cd32
+}
+
+.anker img.icon:hover {
+    background-color: red
+}

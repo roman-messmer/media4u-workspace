@@ -1,0 +1,56 @@
+/* src/css/console_ascii_art_film.css */
+
+/* Block: Hauptcontainer für den Player */
+.ascii_player {
+    background-color: #0b3d0b;
+    border-top: #000000 solid calc(min(0.05em + 2vw, 0.2em));
+    padding: 0.5em;
+}
+
+/* Element: Steuerungs-Grid */
+.ascii_player__controls {
+    display: grid;
+    grid-template-areas: "play pause back reset next";
+    gap: 0.5em 1em;
+}
+
+/* Element: Einzelner Button */
+.ascii_player__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.4em;
+    background-color: #00ff00;
+    border-radius: 6px;
+    border: 2px solid #000000;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.ascii_player__btn:hover {
+    background-color: #00cc00;
+}
+
+/* Element: Icon im Button */
+.ascii_player__icon {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+/* Modifier: Zuweisung der Grid-Positionen */
+.ascii_player__btn--back  { grid-area: back; }
+.ascii_player__btn--reset { grid-area: reset; }
+.ascii_player__btn--play  { grid-area: play; }
+.ascii_player__btn--pause { grid-area: pause; }
+.ascii_player__btn--next  { grid-area: next; }
+
+/* * Externe Steuerung: Klassen für die Matrix. 
+ * Gehören konzeptionell zur Film-Matrix, werden aber von hier gesteuert. 
+ */
+.ascii_art_film_matrix .frame {
+    display: none;
+}
+
+.ascii_art_film_matrix .frame.show {
+    display: block;
+}

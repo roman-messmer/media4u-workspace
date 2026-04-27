@@ -1,0 +1,37 @@
+/* src/css/social_media.css */
+
+/* Block: Social Media Container */
+.social_media {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+/* Element: Link-Wrapper */
+.social_media__link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #000000;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+/* Modifier: Link Hover */
+.social_media__link:hover {
+  color: #0077cc;
+}
+
+/* Element: Icon */
+.social_media__icon {
+  display: block;
+  width: 24px;
+  height: 24px;
+}
+
+/* Element: Text-Label */
+.social_media__name {
+  font-family: inherit;
+}

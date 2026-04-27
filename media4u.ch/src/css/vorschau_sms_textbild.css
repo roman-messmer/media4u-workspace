@@ -1,0 +1,88 @@
+.vorschau_gallery_sms_textbild {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 1em 0.5em;
+    padding-top: calc(min(1em + 2vw, 2em));
+    padding-bottom: calc(min(1em + 2vw, 2em));
+}
+
+.vorschau_sms_textbild {
+    border: 0.3em #2A2C2A solid;
+    border-radius: 0em 0em 0em 0em;
+    width: max-content;
+}
+
+.vorschau_sms_textbild .display .frame {
+    display: grid;
+    gap: 0em 0em;
+    width: max-content;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    align-items: left;
+    border-radius: 0em 0em 0em 0em;
+    font-family: NokiaFC22 !important;
+    background-color: #B0c4B1;
+}
+
+.vorschau_sms_textbild .display pre {
+    display: flex;
+    text-align: left;
+    white-space: pre;
+    color: #141414;
+    width: 100%;
+}
+
+.vorschau_sms_textbild .display pre.center {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.vorschau_sms_textbild .zeilen2,
+.vorschau_sms_textbild .zeilen4,
+.vorschau_sms_textbild .zeilen8,
+.vorschau_sms_textbild .zeilen16 {
+    font-family: NokiaFC22 !important;
+    line-height: 1.15em;
+}
+
+.vorschau_sms_textbild figcaption {
+    display: flex;
+    width: auto;
+    background-color: #e0e0e0;
+    border-radius: 0em 0em 0em 0em;
+    border-top: 0.3em #2A2C2A solid;
+    justify-content: center;
+}
+
+.vorschau_sms_textbild a.vorschau_name {
+	padding-top: calc(min(1vw + 2px, 8px));
+	padding-bottom: calc(min(1vw + 2px, 8px));
+	font-size: calc(min(2vw + 2px, 16px));
+    font-weight: bold;
+}
+
+
+@media (min-width: 100px) {
+    .vorschau_sms_textbild .frame {
+        grid-template-columns: repeat(84, 2px);
+        grid-template-rows: repeat(39, 2px);
+    }
+    .vorschau_sms_textbild .zeilen2 {
+        font-size: 32px;
+    }
+    .vorschau_sms_textbild .zeilen4 {
+        font-size: 16px;
+    }
+    .vorschau_sms_textbild .zeilen8 {
+        font-size: 8px;
+    }
+    .vorschau_sms_textbild .zeilen16 {
+        font-size: 4px;
+    }
+}
+
+

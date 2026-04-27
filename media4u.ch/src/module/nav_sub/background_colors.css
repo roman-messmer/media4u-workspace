@@ -1,0 +1,131 @@
+/* Media4u */
+.bg_media4u {
+  background-color: #a7a7a7;
+  transition: background-color 2s ease;
+}
+
+.header_bg_media4u {
+    background-image: url('../../assets/header_media4u_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-color 2s ease;
+    grid-area: overlap;
+    background-position: 10% center;
+}
+
+/* SMS Textbild */
+.bg_sms_textbild {
+  background-color: #82b59f;
+  transition: background-color 2s ease;
+}
+
+.header_bg_sms_textbild {
+    background-image: url('../../assets/header_sms_textbild_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-color 2s ease;
+    grid-area: overlap;
+    background-position: 10% center;
+}
+
+/* Textbild2 */
+.bg_textbild2 {
+  background-color: #89cee1;
+  transition: background-color 2s ease;
+}
+
+.header_bg_textbild2 {
+    background-image: url('../../assets/header_textbild2_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-color 2s ease;
+    grid-area: overlap;
+    background-position: 10% center;
+}
+
+/* ASCII Art Film */
+.bg_ascii_art_film {
+  background-color: #32cd32;
+  transition: background-color 2s ease;
+}
+
+.header_bg_matrix {
+  background-image: url('../../assets/header_matrix_bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: background-color 2s ease;
+  grid-area: overlap;
+  background-position: 10% center;
+}
+
+
+
+
+
+
+
+/* ==================== DESKTOPS & LAPTOPS ==================== */
+
+/* Desktops & Laptops */
+@media screen and (min-width: 150px) and (min-height: 0px) and (hover: hover) and (pointer: fine) {
+  
+}
+
+
+
+
+
+
+
+/* ===================== MOBILE ===================== */
+
+/* Mobile - Portrait */
+@media screen and (orientation: portrait) and (hover: none) and (pointer: coarse) {
+  
+}
+
+/* Mobile - Landscape */
+@media screen and (orientation: landscape) and (hover: none) and (pointer: coarse) {
+  
+}
+
+
+
+
+
+
+
+
+/* ===================== SMARTPHONES (bis 599px Breite) ===================== */
+
+/* Smartphones - Portrait */
+@media screen and (max-width: 599px) and (min-height: 480px) and (orientation: portrait) and (hover: none) and (pointer: coarse) {
+  
+}
+
+/* Smartphones - Landscape */
+@media screen and (max-height: 599px) and (min-width: 480px) and (orientation: landscape) and (hover: none) and (pointer: coarse) {
+  
+}
+
+
+
+
+
+
+
+/* ===================== TABLETS (600px bis 1366px Breite) ===================== */
+
+/* Tablets - Portrait */
+@media screen and (min-width: 600px) and (max-width: 1366px) and (min-height: 960px) and (orientation: portrait) and (hover: none) and (pointer: coarse) {
+  
+}
+
+/* Tablets - Landscape */
+@media screen and (min-height: 600px) and (max-height: 1366px) and (min-width: 960px) and (orientation: landscape) and (hover: none) and (pointer: coarse) {
+  
+}

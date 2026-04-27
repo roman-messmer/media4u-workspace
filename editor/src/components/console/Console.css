@@ -1,0 +1,54 @@
+.console {
+  display: grid;
+  grid-auto-flow: column;
+  gap: .5em;
+  align-items: center;
+  border-top: solid black 0.125em;
+}
+
+.console button {
+  display: flex;
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 1em .5em;
+  border-radius: .5em;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+}
+
+.console button:focus-visible {
+  outline: 2px solid #007acc;
+  outline-offset: 2px;
+}
+
+.console img {
+  width: 2em;   /* Icongröße */
+  height: 2em;
+  display: block;
+}
+
+
+@media screen and (max-width: 339px) {
+    .console {
+        gap: 0rem;
+    }
+    .console img {
+        width: 0.8rem;
+        height: 0.8rem
+    }
+    .console button {
+        padding: 0.5rem 0rem;
+    }
+}
+
+
+.sms_textbild .console {
+  border-top: solid #2a2c2a .5em;
+}
+
+.textbild2 .console {
+  border-top: solid #000000 .125em;
+  border-radius: 0em 0em .25em .25em;
+}

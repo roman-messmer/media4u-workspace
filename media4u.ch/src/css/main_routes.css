@@ -1,0 +1,45 @@
+.black {
+	color: #000000;
+}
+
+
+
+
+
+.sms_textbild_beispiel {
+	display: grid;
+	grid-template-areas:
+		"overlap";
+	justify-content: center;
+	width: 100%;
+}
+
+.sms_textbild_beispiel .frame {
+    display: flex;
+    font-family: NokiaCellphoneFC;
+	grid-area: overlap;
+	background-color: #B0c4B1;
+	border: solid 0.3em #000000;
+	padding: 2px;
+	padding-top: 2px;
+    white-space: pre;
+}
+
+.sms_textbild_beispiel .frame .pre {
+    display: flex;
+    font-family: NokiaCellphoneFC;
+    font-size: 24px;
+	line-height: 1.1em;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	font-weight: normal;
+	font-style: normal;
+	text-transform: none;
+    white-space: pre;
+}
+
+
+
+
+
+  

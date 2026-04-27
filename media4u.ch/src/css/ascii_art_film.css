@@ -1,0 +1,127 @@
+.display_ascii_art_film {
+	display: grid;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    justify-items: start;
+    align-items: start;
+
+    padding-top: 2em;
+    padding-bottom: 3em;	
+}
+
+.display_ascii_art_film .ascii_art_film_matrix {
+	border: #000000 solid calc(min(0.05em + 2vw, 0.2em));
+}
+
+.display_ascii_art_film .ascii_art_film_matrix figure {
+	display: grid;
+    grid-template-areas: 'overlap';
+}
+
+.display_ascii_art_film .ascii_art_film_matrix .frame {
+	display: grid;
+    grid-area: overlap;
+	background-color: #ffffff;
+	font-family: 'Inconsolata', sans-serif;
+	line-height: 1.6ch;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	width: 100% !important;
+	overflow: hidden;
+	justify-content: center;
+	text-align: left;
+	font-size: 0.715cqi; 
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	font-weight: 300;
+}
+
+.display_ascii_art_film .ascii_art_film_matrix .vorschau_name {
+	display: flex;
+	justify-content: center;
+	background-color: #32CD32;
+	padding-top: calc(min(0.1em + 2vw, 0.6em));
+	padding-bottom: calc(min(0.1em + 2vw, 0.6em));
+	width: 100%;
+	border-top: #000000 solid calc(min(0.05em + 2vw, 0.2em));
+}
+
+.titel_bibliothek {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.titel_bibliothek h2 {
+	text-align: center;
+}
+
+
+
+
+
+
+.matrix_vorschau {
+	display: flex;
+    padding-top: 2em;
+    padding-bottom: 3em;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	gap: 2em;
+}
+
+.matrix_vorschau .vorschau_ascii_art_film_matrix {
+	border: #0B3D0B solid calc(min(0.05em + 2vw, 0.2em));
+}
+
+.matrix_vorschau .vorschau_ascii_art_film_matrix figure {
+	display: grid;
+    grid-template-areas: 'overlap';
+}
+
+.matrix_vorschau .vorschau_ascii_art_film_matrix .vorschau_matrix,
+.matrix_vorschau .vorschau_ascii_art_film_matrix .vorschau_matrix_reloaded {
+	display: grid;
+    grid-area: overlap;
+	background-color: #ffffff;
+	font-family: 'Inconsolata', sans-serif;
+	line-height: 1.6ch;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	width: 100% !important;
+	overflow: hidden;
+	justify-content: center;
+	white-space: pre;
+	font-size: 0.3575cqi; 
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	font-weight: 300;
+}
+
+.matrix_vorschau .vorschau_ascii_art_film_matrix .vorschau_matrix::-webkit-scrollbar {
+  display: none;
+}
+
+.matrix_vorschau .vorschau_ascii_art_film_matrix .vorschau_name {
+	display: flex;
+	justify-content: center;
+	background-color: #32CD32;
+	padding-top: calc(min(0.1em + 2vw, 0.6em));
+	padding-bottom: calc(min(0.1em + 2vw, 0.6em));
+	width: 100%;
+	border-top: #0B3D0B solid calc(min(0.05em + 2vw, 0.2em));
+}
+
+.display_ascii_art_film .ascii_art_film_matrix .frame {
+	display: none;
+}
+
+.display_ascii_art_film .ascii_art_film_matrix .frame.show {
+	display: block;
+}
+
+@media (orientation: portrait) {
+    .display_ascii_art_film .ascii_art_film_matrix .frame {
+        font-size: .8cqi !important;
+    }
+}

@@ -1,0 +1,7 @@
+<IfModule mod_headers.c>
+    # Erlaubt media4u.ch den Zugriff auf die JSON-Daten
+    <Files "partner.json">
+        Header set Access-Control-Allow-Origin "https://media4u.ch"
+        Header set Access-Control-Allow-Methods "GET"
+    </Files>
+</IfModule>

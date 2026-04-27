@@ -1,0 +1,547 @@
+{
+  "beispiel": {
+    "sms_textbild": "例子",
+    "textbild2": "例子"
+  },
+
+  "werbung": {
+    "title": "广告",
+    "loading": "正在加载...",
+    "error_loading": "内容加载失败。",
+    "redirecting": "正在跳转",
+    "view_offer": "查看详情",
+    "badge_portfolio": "作品集",
+    "badge_partner": "合作伙伴",
+    "badge_support": "技术支持",
+    "badge_affiliate": "联属营销",
+    "ad_space_title": "获取您的广告位！",
+    "ad_space_desc": "在特定国家/地区有针对性地展示您的企业，或将您的影响力扩大到国际受众。",
+    "ad_space_aria": "更多关于此优惠的信息",
+    "ad_space_btn": "立即获取"
+  },
+
+  "mehr_info": {
+    "title": "更多信息"
+  },
+
+  "header": {
+    "slogan1": "创意与数字艺术",
+    "slogan2": "全球24种语言可访问！"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS文本图像",
+    "textbild2": "文本图像 2.0",
+    "ascii_art_film": "ASCII艺术电影"
+  },
+
+  "nav_sub": {
+    "werbepartner": "广告合作伙伴",
+    "affiliate_marketing": "联盟营销",
+    "front_end_developer": "前端开发者",
+    "kontakt": "联系方式",
+
+    "matrix": "矩阵",
+
+    "sms_textbild": {
+      "neu": "新",
+      "liebe_freundschaft": "爱与友情",
+      "festtage_party": "节日与派对",
+      "freizeit_arbeit": "休闲与工作",
+      "sport_hobby": "体育与爱好",
+      "abenteuer_action": "冒险与动作",
+      "erotik_sex": "情色与性爱"
+    },
+
+    "textbild2": {
+      "neu2": "新",
+      "liebe_freundschaft2": "爱与友情",
+      "festtage_party2": "节日与派对",
+      "freizeit_arbeit2": "休闲与工作",
+      "sport_hobby2": "体育与爱好",
+      "abenteuer_action2": "冒险与动作",
+      "erotik_sex2": "情色与性爱"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "现代数字艺术与创新沟通工具",
+    "p1": "media4u.ch 是您现代数字艺术与创新沟通工具的目的地。通过我丰富的SMS文本图像和ASCII电影系列，我为您提供创意且卓越的体验。",
+    "h2": "20种语言的国际覆盖",
+    "p2": "我的网站提供20种语言，以覆盖国际观众，让每个人都有机会欣赏我的独特艺术作品。此外，我在SMS文本图像和文本图像2.0领域提供广告空间和联盟计划。这为企业提供了创意的广告机会，同时支持我的平台。",
+    "h3": "以全新方式体验数字艺术",
+    "p3": "沉浸在数字艺术的世界，发现media4u.ch为您提供的内容！以全新视角体验创意沟通，并与世界分享。",
+    "h4": "科技与数字艺术的结合",
+    "p4": "这个网站是使用JavaScript和React开发的，结合了现代网页开发与我对数字艺术的热情。通过这些技术，我的SMS文本图像和ASCII作品以创新的格式创建，展示了科技与创意如何融合，创造独特的数字体验。"
+  },
+
+  "werbepartner": {
+    "title": "广告合作伙伴",
+    "h1": "扩大您的影响力——在我的网站上投放广告！",
+    "p1": "您想向广泛的受众展示您的产品或服务吗？我的网站提供了理想的平台，以提升您的品牌知名度并吸引新客户。",
+
+    "h2": "为什么在我的网站上投放广告？",
+    "p2": "全国可见性：覆盖全国各地的访客，效果显著地扩大您的影响范围。最大关注度：您的广告将展示给所有访客，无论他们的地理位置如何。公平展示：广告的顺序在每次页面加载时随机重排，确保所有广告合作伙伴都有相同的曝光机会。隐私保障：我仅确定访客的所在国家——不会收集其他数据。",
+
+    "h3_1": "我的广告空间详情 价格设置：",
+    "p3_1": "前90天，仅需支付140瑞士法郎即可展示30天。",
+    "p3_2": "从第91天起，价格降低至每30天120瑞士法郎（适用于91至180天）。",
+    "p3_3": "从第181天起，广告空间仅需100瑞士法郎即可展示30天。",
+
+    "h3_2": "我需要您提供的信息：",
+    "p3_4": "您的公司名称",
+    "p3_5": "您的优惠链接（产品或服务页面）",
+    "p3_6": "用于广告空间的图片链接",
+    "bildgroesse": "图片大小：400x400像素",
+
+    "h3_3": "重要信息：",
+    "p3_7": "您的广告空间仅会展示给相应国家的访客。如果您希望进行国际广告投放，可以为其他国家购买额外的广告空间。",
+    "p3_8": "立即预订您的广告空间，精准定位您的受众——针对您感兴趣的地区！",
+
+    "h4": "您的安全对我很重要：",
+    "p4": "我注重质量和可靠性。每位广告合作伙伴都由我亲自审核，以确保他们是符合我高标准的信誉良好的公司。",
+
+    "h5": "准备迈出下一步了吗？",
+    "p5": "立即联系我，将您的品牌展示在我的网站上 —— 我们携手打造强大的品牌形象，持续推动您的企业发展。",
+
+    "h6": "感兴趣吗？",
+    "p6": "如果您需要更多信息或想直接预订广告空间，请给我发送消息。我期待着在您的成功之路上支持您！"
+  },
+
+  "werbepartner_info": {
+    "title": "广告合作伙伴 - 信息",
+    "content_h3": "预订您的广告空间！",
+    "content_p1": "在一个国家有针对性地展示您的公司，或扩大您的覆盖范围至国际观众。",
+    "content_button": "查看优惠",
+    "content_button_info": "立即预订"
+  },
+
+  "affiliate_marketing": {
+    "title": "联盟营销",
+    "h1": "我网站上的联盟链接与透明度",
+    "p1": "在我的网站上，我使用联盟链接来介绍适合您的产品和服务。透明度对我来说尤为重要。以下是我如何运作联盟链接以及这对您意味着什么的解释。",
+
+    "h2": "什么是联盟链接？",
+    "p2": "联盟链接是指向合作伙伴公司的产品或服务的特殊链接。当您通过这些链接进行购买时，我会获得佣金。这不会给您带来额外的费用。",
+
+    "h3": "为什么使用联盟链接？",
+    "p3": "使用联盟链接帮助我运营网站并免费提供内容。我仔细选择我的合作伙伴和推荐的产品，确保它们与我的访客的主题和兴趣相匹配。",
+
+    "h4": "跟踪是如何工作的？",
+    "p4": "为了跟踪购买是通过我的链接完成的，我的合作伙伴公司使用cookies。这些cookies在您点击联盟链接时会在有限的时间内存储信息。您可以在我的隐私政策中找到更多关于这方面的信息。",
+
+    "h5": "对您没有任何不利影响",
+    "p5": "重要提示：点击联盟链接不会对您造成任何不利影响。产品或服务的价格保持不变，也没有隐藏费用。",
+
+    "h6": "免责声明",
+    "p6": "我只推荐我信任的产品和服务。然而，由于这些优惠是由我的合作伙伴提供的，我不对其质量或可用性负责。",
+
+    "h7": "透明度与信任",
+    "p7": "我的目标是与您进行透明和诚实的沟通。如果您对联盟链接或我的合作伙伴关系有任何疑问，请随时与我联系。感谢您对我推荐的信任！"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "前端开发者",
+
+  "projekt_title_h2": "想看看我的项目吗？",
+  "projekt_title_p1": "以下是我以往项目的概览：",
+  "projekt_title_h4": "客户与合作伙伴项目",
+
+  "projekt_kunden_partner": "客户与合作伙伴",
+  "projekt_kunden_partner_info": "这里将展示未来的客户与合作伙伴",
+
+  "projekt_eigene_projekte": "个人项目",
+  "projekte_eigene_projekte_schere_stein_papier_title": "剪刀石头布",
+  "projekte_eigene_projekte_memory_title": "记忆游戏",
+  "projekte_eigene_projekte_wuerfeln_title": "掷骰子",
+  "projekte_eigene_projekte_puzzle_title": "拼图",
+
+  "h1": "欢迎来到我的前端开发专属领域！",
+  "p1": "本网站体现了我对现代、可扩展 Web 开发的热情。作为非科班出身的开发者，我使用 React、JavaScript、HTML 和 CSS 构建了它 —— 这些技术可实现动态、交互性强且视觉美观的应用。",
+  "li_1": "HTML：结构清晰、语义化良好，便于维护。",
+  "li_2": "CSS：灵活响应式设计，确保在所有设备上呈现最佳效果。",
+  "li_3": "JavaScript 与 React：赋予网页高性能和可扩展的交互体验，提升用户使用的直观性。",
+  "p2": "我始终专注于性能、可扩展性与最佳实践，致力于打造专业、易维护、面向未来的 Web 应用。",
+
+  "h2": "我的目标：成为高级前端开发者",
+  "p3": "除了实现本网站外，我还不断深化对 React 和 JavaScript 的理解，始终追求编写高质量的代码 —— 模块化、高效、结构清晰。",
+  "p4": "我在积极寻找具有挑战性的项目 —— 无论是企业、代理机构，还是创新型独立项目 —— 希望能够充分发挥并提升我的专业能力。",
+  "p5": "这个网站不仅是我的作品集，更是我在前端领域能力和成长的真实体现。",
+
+  "h3": "让我们共同打造引人入胜的数字体验！",
+  "p6": "您是否在寻找一位热情投入的前端开发者，将创新想法转化为可扩展、可维护且高性能的解决方案？",
+  "p7": "欢迎与我联系 —— 我期待参与令人兴奋的项目！",
+  "kontakt_link": "<< 点击此处联系我 >>"
+},
+
+  "kontakt": {
+    "title": "联系方式",
+    "email": "电子邮件",
+    "mobile": "手机"
+  },
+
+  "impressum": {
+    "title": "法律声明",
+    "kontakt": "联系方式",
+
+    "vertretungsberechtigter": "授权代表",
+    "handelsregistereintrag": "商业登记",
+    "handelsregistereintrag_p1_1": "商业登记注册: [占位符 – 数据稍后提供]",
+    "handelsregistereintrag_p1_2": "商业登记号码: [占位符 – 数据稍后提供]",
+    "handelsregistereintrag_p2_1": "增值税识别号 (VAT 号码):",
+    "handelsregistereintrag_p2_2": "不适用，因为尚未进行销售。",
+
+    "zweck_der_webseite": "网站目的",
+    "zweck_der_webseite_p1_1": "艺术娱乐（例如，SMS文本图像、文本图像 2.0和ASCII电影）",
+    "zweck_der_webseite_p1_2": "为广告合作伙伴和联盟营销提供广告空间",
+    "zweck_der_webseite_p1_3": "作为前端开发者提供服务",
+
+    "haftungsausschluss": "免责声明",
+    "haftung_für_inhalte": "内容责任",
+    "haftung_für_inhalte_p": "本网站的内容是在最大程度上谨慎创建的。然而，无法保证内容的准确性、完整性和时效性。",
+
+    "haftung_für_links": "链接责任",
+    "haftung_für_links_p": "本网站包含指向第三方外部网站的链接，这些网站的内容不受我的控制。因此，我无法对这些外部内容承担任何责任。链接页面的相应供应商或运营者始终对链接网站的内容负责。",
+
+    "datenschutz": "数据保护",
+    "datenschutz_p": "有关个人数据的收集、处理和使用的信息，请参阅隐私政策。"
+  },
+
+  "datenschutz": {
+    "title": "隐私政策",
+    "title_p": "保护您的个人数据对我来说尤其重要。在本隐私政策中，我将告知您我的网站收集、处理和存储哪些数据，以及您对此类数据的权利。",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. 数据处理负责人",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "电子邮件：",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "手机：",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. 个人数据的收集与存储",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "访问我的网站时，以下数据可能会自动收集：",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "设备的IP地址（已匿名化）",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "访问日期和时间",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "使用的浏览器和操作系统",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "引用URL（例如，您来自哪个页面）",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "访问的子页面",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "这些数据已被匿名化，仅用于统计目的和网站改进。无法将其与您的个人身份关联。",
+
+    "verwendung_personenbezogener_daten": "3. 个人数据的使用",
+    "verwendung_personenbezogener_daten_p": "如姓名、电子邮件地址或电话号码等个人数据仅在您自愿提供的情况下收集，例如通过联系表格。这些数据仅用于处理您的请求，除非法律要求，否则不会与第三方共享。",
+
+    "cookies": "4. Cookies",
+    "cookies_p1": "我的网站使用Cookies来分析网站使用情况并提高访问体验的友好性。",
+    "cookies_p2_1": "必要的Cookies：网站功能所必需。",
+    "cookies_p2_2": "分析Cookies：帮助理解和改善网站使用情况（例如，通过Google Analytics）。",
+    "cookies_p2_3": "您可以在浏览器设置中限制或完全禁用Cookies的使用。",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "本网站使用Google LLC（1600 Amphitheatre Parkway, Mountain View, CA 94043, USA）（“Google”）提供的网络分析服务Google Analytics。",
+    
+    "google_analytics_p2": "Google Analytics使用Cookies来分析您对网站的使用情况。这些Cookies生成的信息通常会传输并存储在美国的Google服务器上。",
+    
+    "google_analytics_p3_1": "IP匿名化：",
+    "google_analytics_p3_2": "本网站已启用IP匿名化。这意味着您的IP地址在传输到美国之前，会在欧盟成员国或欧洲经济区协定成员国内由Google截断。",
+
+    "google_analytics_p4_1": "数据使用：",
+    "google_analytics_p4_2": "Google使用这些信息来评估您对网站的使用情况，编制关于网站活动的报告，并提供与网站使用和互联网使用相关的其他服务。",
+
+    "google_analytics_p5_1": "退出选项：",
+    "google_analytics_p5_2": "您可以通过相应地调整浏览器软件的设置来阻止Cookies的存储。此外，您可以通过下载并安装以下浏览器插件，阻止Google收集由Cookies生成的数据以及与您对网站的使用相关的数据（包括您的IP地址）并处理这些数据：",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "有关Google Analytics使用条款的更多信息，请访问：",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. 广告合作伙伴及联盟链接",
+    "werbepartner_und_affiliate_links_p1": "我与广告合作伙伴及联盟营销计划合作。当您点击联盟链接或广告时，第三方供应商可能会设置Cookies或收集数据以衡量其广告活动或销售的成功。",
+    "werbepartner_und_affiliate_links_p2": "有关这些合作伙伴隐私政策的更多信息，请访问他们的网站。",
+
+    "deine_rechte": "7. 您的权利",
+    "deine_rechte_p1_1": "您有权：",
+    "deine_rechte_p1_2": "访问我存储的关于您的数据",
+    "deine_rechte_p1_3": "更正不准确的数据",
+    "deine_rechte_p1_4": "在法律允许的范围内删除您的数据",
+    "deine_rechte_p1_5": "限制数据处理",
+    "deine_rechte_p1_6": "数据可携带性",
+    "deine_rechte_p1_7": "要行使这些权利，请通过电子邮件联系我，邮箱地址为roman.messmer@media4u.ch。",
+
+    "datensicherheit": "8. 数据安全",
+    "datensicherheit_p": "我实施了技术和组织措施，以保护您的数据免受未经授权的访问、丢失或滥用。",
+
+    "änderungen_dieser_datenschutzerklärung": "9. 隐私政策的更改",
+    "änderungen_dieser_datenschutzerklärung_p": "本隐私政策根据需要进行更新，以符合法律要求或适应网站的变化。"
+  },
+
+  "agb": {
+    "title": "条款与条件 (T&C)",
+    "title_p1": "日期: [插入日期]",
+    "title_p2": "这些条款与条件 (T&C) 规范了media4u.ch网站的使用以及提供的服务和内容。访问该网站即表示您同意以下条款。",
+
+    "geltungsbereich": "1. 适用范围",
+    "geltungsbereich_p": "这些T&C适用于所有访问media4u.ch网站的访客，以及使用所提供服务或参与广告合作伙伴关系和联盟计划的客户。",
+
+    "leistungen": "2. 服务",
+    "leistungen_p1_1": "media4u.ch提供以下服务：",
+    "leistungen_p1_2": "艺术娱乐（例如，SMS文本图像、文本图像 2.0和ASCII电影）。",
+    "leistungen_p1_3": "广告合作伙伴和联盟营销的广告空间。",
+    "leistungen_p1_4": "前端开发领域的服务。",
+    "leistungen_p1_5": "网站用于展示艺术内容、销售广告空间以及推广我的服务。",
+
+    "vertragsabschluss": "3. 合同的成立",
+    "vertragsabschluss_p1_1": "您与media4u.ch之间的合同在以下情况下成立：",
+    "vertragsabschluss_p1_2": "您申请广告空间或联盟合作伙伴关系，并且我确认该申请。",
+    "vertragsabschluss_p1_3": "您申请我的前端开发服务并接受我的报价。",
+    "vertragsabschluss_p1_4": "合同的成立通过电子邮件以书面形式进行。",
+
+    "preise_und_zahlungsbedingungen": "4. 价格与支付条件",
+    "preise_und_zahlungsbedingungen_p1_1": "对于广告合作伙伴，以下支付条件适用：",
+    "preise_und_zahlungsbedingungen_p1_2": "广告空间的价格需单独协商。",
+    "preise_und_zahlungsbedingungen_p1_3": "支付必须在期限开始前完成。",
+    "preise_und_zahlungsbedingungen_p1_4": "对于前端开发者等服务，价格通过协商确定。",
+
+    "preise_und_zahlungsbedingungen_p2": "已完成的付款退款除非因我方过失外，均不予退还。",
+
+    "rechte_und_pflichten_der_nutzer": "5. 用户的权利与义务",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 内容使用",
+    "rechte_und_pflichten_der_nutzer_p1_2": "网站的内容（包括艺术作品）仅可在明确许可下使用或分发。",
+    "rechte_und_pflichten_der_nutzer_p1_3": "任何未经授权的内容使用或复制都是禁止的。",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 用户行为",
+    "rechte_und_pflichten_der_nutzer_p1_5": "访客和客户有义务不得滥用网站，例如传播有害内容、垃圾邮件或未经授权的广告。",
+    "rechte_und_pflichten_der_nutzer_p1_6": "广告空间和联盟计划的使用必须符合法律要求。",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. 免责声明",
+    "rechte_und_pflichten_der_nutzer_p1_8": "我对网站内容的准确性、完整性和时效性不承担任何责任。",
+    "rechte_und_pflichten_der_nutzer_p1_9": "我不对因使用网站或第三方链接内容而导致的损害承担责任。",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. 广告合作伙伴及联盟计划",
+    "rechte_und_pflichten_der_nutzer_p1_11": "广告合作伙伴承诺仅推广受尊敬且合法允许的内容。",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch保留拒绝不符合网站标准的内容的权利。",
+    "rechte_und_pflichten_der_nutzer_p1_13": "广告合作伙伴的特殊规定：",
+    "rechte_und_pflichten_der_nutzer_p1_14": "如果网站因维护、技术故障或不可抗力而无法使用一天或更长时间，缺失的天数将免费添加到下一个至少30天的预订中。这仅适用于付费广告空间，并需持续合作。由于停机日数的单独支付或赔偿不予以外。",
+
+    "rechte_und_pflichten_der_nutzer_p2": "联盟计划与外部供应商合作实施。我不对这些供应商的内容及其隐私政策负责。",
+
+    "verfügbarkeit_der_webseite": "8. 网站的可用性",
+    "verfügbarkeit_der_webseite_p": "我努力保持网站的全天候可用性。然而，我无法保证不间断的可用性，例如在维护、技术故障或不可抗力期间。",
+
+    "urheberrecht": "9. 著作权",
+    "urheberrecht_p": "media4u.ch上的所有内容均受著作权保护。未经我的书面许可，禁止使用。",
+
+    "änderungen_der_agb": "10. 利用条款的更改",
+    "änderungen_der_agb_p": "我保留随时更改这些T&C的权利。更改将在网站上发布，并自发布之日起生效。",
+
+    "gerichtsstand_und_anwendbares_recht": "11. 管辖权及适用法律",
+    "gerichtsstand_und_anwendbares_recht_p": "瑞士法律适用于所有争议。管辖法院为瑞士的布拉赫。"
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Cookie内容"
+  },
+
+  "sms_textbild": {
+    "title": "SMS文本图像",
+    "h1": "重新诠释的SMS文本图像",
+    "p1": "连接我们的回忆。旧款Nokia手机（如3210）以及早期的Ericsson和Motorola型号的标志性SMS文本图像定义了一个时代。这些曾经通过SMS发送的小型杰作，如今以比以往更现代的形式重新焕发活力。",
+    "p2": "在我的网站上，您将找到独家设计的文本图像动画，您可以轻松欣赏和分享。每个图像都是手工精心制作的独特创作，结合了过去的魅力与今天的简约。使用的字体类似于经典的Nokia字体，但并不相同。如果您特别喜欢某个文本图像，可以通过链接分享它——使每条消息成为一次特别的体验。",
+
+    "h2": "每个动画，都是杰作",
+    "p3": "这些文本图像不仅仅是回忆——它们是艺术。每个动画都是手工制作，并经过精心细致的设计，以重新诠释经典的SMS文本图像美学。",
+
+    "h3": "永恒的设计，为当下重新创造",
+    "p4": "我重新点燃了旧款文本图像的魔力。通过动画化的表现，标志性的设计以现代方式复活——让过去的怀旧再次闪耀。",
+
+    "h4": "分享从未如此简单",
+    "p5": "只需一个链接，您不仅发送了一条消息，而是一种体验。一个怀旧的时刻，您可以与他人分享。"
+  },
+
+
+  "textbild2": {
+    "title": "文本图像 2.0",
+    "h1": "文本图像 2.0 下一步进化",
+    "p1": "创意重新定义。通过文本图像 2.0，经典的文本图像经历了革命性的变化。增强的功能如字符叠加、不同的字体大小和颜色、旋转和反射，以及屏幕上的自由定位，创造出了前所未有的艺术作品。",
+    "p2": "在我的网站上，您将找到这些新的复杂文本图像创作，可以进行探索和分享。每个作品都是创意与创新的独特成果，结合了传统的SMS文本图像与现代技术的可能性。",
+
+    "h2": "艺术的新维度",
+    "p3": "文本图像 2.0不仅仅是进化——它是一种全新的艺术形式。利用颜色、可变字体大小和动态元素，每个图像都以鲜活的杰作形式生动起来，令人赏心悦目。",
+
+    "h3": "创新遇上怀旧",
+    "p4": "我重新创造了经典文本图像的魔力。通过现代技术和创意设计工具，诞生了融合过去怀旧与当下创新的作品。",
+
+    "h4": "分享您的热情",
+    "p5": "有了文本图像 2.0，每条消息都成为一次特别的体验。与朋友和家人分享这些独特的艺术作品，感受创意如何连接人们。"
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII艺术电影",
+    "h1": "文本形式的矩阵：ASCII艺术的新维度",
+    "p1": "您可能已经熟悉我的早期ASCII电影，这些电影以独特的文本艺术形式呈现了《矩阵》三部曲的场景。这些早期作品展示了如何以极简的ASCII形式表现复杂的电影。",
+
+    "h2": "全新视角：迷人的文本世界中的矩阵经典场景",
+    "p2": "现在，我呈现了这些作品的改进版本。新的ASCII电影提供了更加详细和高质量的《矩阵》经典场景的表现。随着技术的进步，这些ASCII艺术作品为经典电影提供了更加令人印象深刻的解读，让您以全新的方式体验《矩阵》。",
+    "p3": "请随意与朋友、熟人和家人分享这些ASCII电影，让他们也能享受这种独特的艺术形式。"
+  },
+  "matrix": {
+    "title": "矩阵",
+    "bibliothek": "矩阵图书馆"
+  },
+
+
+  "legal": {
+    "impressum": "法律声明",
+    "datenschutz": "隐私政策",
+    "cookie": "Cookie",
+    "agb": "条款与条件"
+  },
+
+
+  "footer": {
+    "alle_rechte_vorbehalten": "保留所有权利。"
+  },
+
+
+
+  "neu": {
+    "title": "新"
+  },
+  "liebe_freundschaft": {
+    "title": "爱与友情",
+    "komm_zu_mir1": "来我这里 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "蜜蜂 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "节日与派对",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "休闲与工作",
+
+    "arbeit1": "工作 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "体育与爱好"
+  },
+  "abenteuer_action": {
+    "title": "冒险与动作"
+  },
+  "erotik_sex": {
+    "title": "情色与性爱"
+  },
+
+
+  
+  "neu2": {
+    "title": "新"
+  },
+  "liebe_freundschaft2": {
+    "title": "爱与友情",
+
+    "komm_zu_uns1": "加入我们 1",
+    "komm_zu_uns1_text1": "嘿，你在看什么",
+    "komm_zu_uns1_text2": "那里?",
+    "komm_zu_uns1_text3": "那个人",
+    "komm_zu_uns1_text4": "在那里！",
+    "komm_zu_uns1_text5": "整天盯着手机",
+    "komm_zu_uns1_text6": "看！",
+    "komm_zu_uns1_text7": "嘿，你无聊吗？",
+    "komm_zu_uns1_text8": "那就加入我们吧！:-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "待会见！",
+    "komm_zu_uns1_text10": ":-)"
+    
+  },
+  "festtage_party2": {
+    "title": "节日与派对",
+
+    "geburtstag1": "生日 1",
+    "geburtstag1_text1": "生日快乐！",
+    "geburtstag1_text2": "这是你的礼物！",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "休闲与工作",
+
+    "arbeit1": "工作 1",
+    "arbeit1_text1": "下班啦！",
+    "arbeit1_text2": "我要回家了。",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "再见。",
+    "arbeit1_text6": "明天见！",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "体育与爱好"
+  },
+  "abenteuer_action2": {
+    "title": "冒险与动作"
+  },
+  "erotik_sex2": {
+    "title": "情色与性爱"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "代码即艺术",
+  "全栈开发人员",
+  "短信字符画",
+  "无160字限制",
+  "ASCII怀旧",
+  "无限创意",
+  "现代字符艺术",
+  "文本图像 2.0",
+  "数字艺术",
+  "排版艺术",
+  "字符设计",
+  "视觉叙事",
+  "ASCII艺术电影",
+  "动态ASCII",
+  "交互性",
+  "CSS 动画",
+  "React & Vite",
+  "语义化 HTML5",
+  "CSS Modules",
+  "DOM 操作",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "无头 CMS",
+  "REST API",
+  "Docker & NGINX",
+  "基于容器",
+  "故障安全",
+  "无障碍 (A11y)",
+  "响应式设计",
+  "高性能",
+  "SEO 优化",
+  "安全设计",
+  "不可变构建",
+  "可复现",
+  "24 种语言",
+  "国际化",
+  "创新",
+  "Web 工程"
+]
+
+}

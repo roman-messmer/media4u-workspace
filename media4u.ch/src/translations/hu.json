@@ -1,0 +1,544 @@
+{
+  "beispiel": {
+    "sms_textbild": "Példa",
+    "textbild2": "Példa"
+  },
+
+  "werbung": {
+    "title": "Hirdetés",
+    "loading": "Betöltés...",
+    "error_loading": "A tartalmat nem sikerült betölteni.",
+    "redirecting": "Átirányítás",
+    "view_offer": "Megtekintés",
+    "badge_portfolio": "PORTFÓLIÓ",
+    "badge_partner": "PARTNER",
+    "badge_support": "TÁMOGATÁS",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "Biztosítsa hirdetési helyét!",
+    "ad_space_desc": "Mutassa be vállalkozását célzottan egy adott országban, vagy terjessze ki elérését egy nemzetközi közönségre.",
+    "ad_space_aria": "További információ az ajánlatról",
+    "ad_space_btn": "Lefoglalás most"
+  },
+
+  "mehr_info": {
+    "title": "További információk"
+  },
+  
+  "header": {
+    "slogan1": "Kreativitás és Digitális Művészet",
+    "slogan2": "Globálisan elérhető 24 nyelven!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "SMS Szöveges Kép",
+    "textbild2": "Szöveges Kép 2.0",
+    "ascii_art_film": "ASCII Művészeti Film"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Reklámtársak",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Frontend Fejlesztő",
+    "kontakt": "Kapcsolat",
+
+    "matrix": "Mátrix",
+
+    "sms_textbild": {
+      "neu": "Újdonság",
+      "liebe_freundschaft": "Szeretet és Barátság",
+      "festtage_party": "Ünnepek és Parti",
+      "freizeit_arbeit": "Szabadidő és Munka",
+      "sport_hobby": "Sport és Hobbi",
+      "abenteuer_action": "Kaland és Akció",
+      "erotik_sex": "Erotika és Szex"
+    },
+
+    "textbild2": {
+      "neu2": "Újdonság",
+      "liebe_freundschaft2": "Szeretet és Barátság",
+      "festtage_party2": "Ünnepek és Parti",
+      "freizeit_arbeit2": "Szabadidő és Munka",
+      "sport_hobby2": "Sport és Hobbi",
+      "abenteuer_action2": "Kaland és Akció",
+      "erotik_sex2": "Erotika és Szex"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Modern Digitális Művészet és Innovatív Kommunikációs Eszközök",
+    "p1": "A media4u.ch a célállomásod a modern digitális művészet és innovatív kommunikációs eszközök terén. Kiterjedt SMS szöveges képek és ASCII filmek kínálatával kreatív és kivételes élményeket nyújtok neked.",
+    "h2": "Nemzetközi Elérés 20 Nyelven",
+    "p2": "Weboldalam 20 nyelven elérhető, hogy nemzetközi közönséget érjen el, és mindenki számára lehetőséget biztosítson egyedi művészeti alkotásaim értékelésére. Emellett hirdetési területet és affiliate programokat kínálok az SMS szöveges képek és a Szöveges Kép 2.0 területén, ami kreatív reklámlehetőségeket biztosít a vállalkozások számára, miközben támogatja a platformomat.",
+    "h3": "Fedezd Fel a Digitális Művészetet Új Módon",
+    "p3": "Merülj el a digitális művészet világában, és fedezd fel, mit kínál a media4u.ch! Tapasztald meg a kreatív kommunikációt egy új perspektívából, és oszd meg a világgal.",
+    "h4": "Technológia Találkozik a Digitális Művészettel",
+    "p4": "Ez a weboldal JavaScript és React segítségével lett kifejlesztve, ötvözve a modern webfejlesztést a digitális művészet iránti szenvedélyemmel. Ezeknek a technológiáknak köszönhetően SMS szöveges képeim és ASCII műveim innovatív formátumokban jönnek létre, bemutatva, hogyan működnek együtt a technológia és a kreativitás egyedi digitális élmények létrehozásáért."
+  },
+
+  "werbepartner": {
+    "title": "Reklámtársak",
+    "h1": "Növeld Elérésed – Reklámozz a Weboldalamon!",
+    "p1": "Szeretnéd bemutatni termékeidet vagy szolgáltatásaidat egy széles közönség számára? Weboldalam ideális platformot kínál a márkád ismertségének növelésére és új ügyfelek vonzására.",
+  
+    "h2": "Miért Reklámozz a Weboldalamon?",
+    "p2": "Nemzeti Láthatóság: Érd el az ország egészéből érkező látogatókat és hatékonyan bővítsd elérésedet. Maximális Figyelem: Reklámaid minden látogató számára megjelennek, függetlenül azok földrajzi helyzetétől. Méltányos Megjelenés: A hirdetések sorrendje minden oldalbetöltéskor véletlenszerűen keveredik, biztosítva, hogy minden hirdető egyenlő eséllyel jelenjen meg. Adatvédelem Biztosítása: Csak a látogatók származási országát azonosítom – más adatokat nem gyűjtök.",
+  
+    "h3_1": "REKLÁMTERÜLET ÁRAIRÓL SZERINTELMEZÉS:",
+    "p3_1": "Az első 90 napban csak 140 CHF-t fizetsz 30 napos megjelenésért.",
+    "p3_2": "91. naptól az ár 120 CHF-re csökken 30 napos megjelenésért (91. nap és 180. nap között).",
+    "p3_3": "181. naptól a reklámterület csak 100 CHF-ba kerül 30 napos megjelenésért.",
+  
+    "h3_2": "MIT SZÜKSÉGES RÓLAM TŐL:",
+    "p3_4": "Céged neve",
+    "p3_5": "Ajánlatod linkje (termék- vagy szolgáltatásoldal)",
+    "p3_6": "Link egy képre, amelyet a reklámterületen használsz",
+    "bildgroesse": "Kép mérete: 400x400 pixel",
+  
+    "h3_3": "FONTOS INFORMÁCIÓK:",
+    "p3_7": "Reklámterületed csak az adott országból érkező látogatók számára fog megjelenni. Ha nemzetközi reklámozást szeretnél, további reklámterületeket vásárolhatsz más országok számára.",
+    "p3_8": "Foglalj most reklámterületet, és célozd meg pontosan a kívánt közönségedet – a régiókra szabva, amelyek érdekelnek!",
+  
+    "h4": "Biztonságod Fontos Számomra:",
+    "p4": "A minőséget és a megbízhatóságot helyezem előtérbe. Minden reklamálópartnert személyesen ellenőrzök, hogy biztosítsam, hogy komoly vállalkozások, amelyek megfelelnek a magas színvonalú követelményeimnek.",
+  
+    "h5": "Készen Állsz a Következő Lépésre?",
+    "p5": "Vegye fel velem a kapcsolatot még ma, és helyezze el márkáját a weboldalamon – közösen erős jelenlétet alakítunk ki, és fenntarthatóan visszük előre vállalkozását.",
+  
+    "h6": "Érdekel?",
+    "p6": "Küldj nekem üzenetet, ha további információra van szükséged, vagy szeretnél közvetlenül reklámterületet foglalni. Várom, hogy segíthessek neked az út felé a sikerhez!"
+  },
+
+  "werbepartner_info": {
+    "title": "Reklámtársak - Információ",
+    "content_h3": "Foglalj Reklámtérületet!",
+    "content_p1": "Prezentáld vállalkozásodat egy adott országban vagy bővítsd elérésedet nemzetközi közönségre.",
+    "content_button": "Nézd Meg Az Ajánlatot",
+    "content_button_info": "Foglalj Most"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Affiliate Linkek és Átláthatóság a Weboldalamon",
+    "p1": "Weboldalamon affiliate linkeket használok, hogy olyan termékeket és szolgáltatásokat mutassak be, amelyek megfelelőek számodra. Az átláthatóság különösen fontos számomra. Az alábbiakban elmagyarázom, hogyan működnek az affiliate linkek és mit jelentenek számodra.",
+  
+    "h2": "Mi Az Az Affiliate Link?",
+    "p2": "Az affiliate linkek speciális linkek, amelyek olyan termékekhez vagy szolgáltatásokhoz vezetnek, amelyeket partnercégek kínálnak. Amikor affiliate linkeken keresztül vásárolsz, jutalékot kapok. Ez nem eredményez extra költségeket számodra.",
+  
+    "h3": "Miért Használok Affiliate Linkeket?",
+    "p3": "Az affiliate linkek használata segít fenntartani a weboldalt és ingyenes tartalmat biztosítani. Gondosan választom ki partnereimet és azokat a termékeket, amelyeket ajánlok, hogy biztosítsam, hogy azok összhangban vannak a látogatóim témáival és érdeklődési köreivel.",
+  
+    "h4": "Hogyan Működik a Nyomonkövetés?",
+    "p4": "Annak érdekében, hogy nyomonkövethető legyen, hogy a vásárlás az én linkemen keresztül történt, a partnereim sütiket (cookies) használnak. Ezek a sütik korlátozott ideig tárolnak információkat, amikor kattintasz egy affiliate linkre. Erről bővebben az Adatvédelmi Szabályzatom tartalmazza.",
+  
+    "h5": "Nincs Hátránya Számodra",
+    "p5": "Fontos tudni: Az affiliate linkekre való kattintás nem okoz számodra semmilyen hátrányt. A termékek vagy szolgáltatások ára változatlan marad, és nincs rejtett díj.",
+  
+    "h6": "Felelősség Kizárása",
+    "p6": "Csak olyan termékeket és szolgáltatásokat ajánlok, amelyekben hiszek. Azonban, mivel ezek az ajánlatok a partnereimtől származnak, nem vagyok felelős azok minőségéért vagy elérhetőségéért.",
+  
+    "h7": "Átláthatóság és Bizalom",
+    "p7": "Célom, hogy átláthatóan és őszintén kommunikáljak veled. Ha bármilyen kérdésed van az affiliate linkekkel vagy a partneri együttműködéseimmel kapcsolatban, ne habozz kapcsolatba lépni velem. Köszönöm a bizalmadat a javaslataim iránt!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "Frontend fejlesztő",
+
+  "projekt_title_h2": "Érdekelnek a projektjeim?",
+  "projekt_title_p1": "Itt áttekintést találsz az eddigi munkáimról:",
+  "projekt_title_h4": "Projektek ügyfeleknek és partnereknek",
+
+  "projekt_kunden_partner": "Ügyfelek és partnerek",
+  "projekt_kunden_partner_info": "Ebben a részben jelennek majd meg a jövőbeli ügyfelek és partnerek.",
+
+  "projekt_eigene_projekte": "Saját projektek",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Kő, papír, olló",
+  "projekte_eigene_projekte_memory_title": "Memóriajáték",
+  "projekte_eigene_projekte_wuerfeln_title": "Kockadobás",
+  "projekte_eigene_projekte_puzzle_title": "Kirakós",
+
+  "h1": "Üdvözöllek a frontend fejlesztés világában!",
+  "p1": "Ez a weboldal a modern, skálázható webfejlesztés iránti szenvedélyemet tükrözi. Pályamódosítóként fejlesztettem React, JavaScript, HTML és CSS technológiákkal – ezek teszik lehetővé a dinamikus, interaktív és vizuálisan vonzó alkalmazásokat.",
+  "li_1": "HTML: Tiszta, szemantikus és jól karbantartható struktúra.",
+  "li_2": "CSS: Rugalmas, reszponzív design minden eszközre optimalizálva.",
+  "li_3": "JavaScript & React: Dinamikus interaktivitás és magas teljesítmény a skálázható és intuitív felhasználói élményhez.",
+  "p2": "Fókuszom mindig a teljesítményen, skálázhatóságon és a bevált gyakorlatokon van, hogy professzionális, fenntartható és jövőálló webalkalmazásokat hozzak létre.",
+
+  "h2": "Célom: senior szintű frontend fejlesztés",
+  "p3": "A weboldal megvalósítása mellett folyamatosan bővítem tudásomat React és JavaScript terén, hogy mindig a legmagasabb szintű – moduláris, hatékony és jól strukturált – kódot írjak.",
+  "p4": "Tudatosan keresem a kihívást jelentő projekteket – legyen szó cégekről, ügynökségekről vagy innovatív független kezdeményezésekről –, ahol teljes mértékben kamatoztathatom és tovább fejleszthetem a szakmai tudásomat.",
+  "p5": "Ez a weboldal nemcsak portfólióm, hanem élő bizonyítéka annak, hogy milyen szinten állok és hogyan fejlődöm folyamatosan frontend fejlesztőként.",
+
+  "h3": "Alkossunk közösen digitális élményeket!",
+  "p6": "Olyan elkötelezett frontend fejlesztőt keresel, aki képes az innovatív ötleteket skálázható, fenntartható és nagy teljesítményű megoldásokká alakítani?",
+  "p7": "Lépj kapcsolatba velem – izgatottan várom az új és érdekes projekteket!",
+  "kontakt_link": "<< Kapcsolatfelvétel itt >>"
+},
+
+  "kontakt": {
+    "title": "Kapcsolat",
+    "email": "E-mail",
+    "mobile": "Mobil"
+  },
+
+  "impressum": {
+    "title": "Jogi Információk",
+    "kontakt": "Kapcsolat",
+
+    "vertretungsberechtigter": "Képviselő jogosultsággal",
+    "handelsregistereintrag": "Cégjegyzék",
+    "handelsregistereintrag_p1_1": "Cégjegyzékbe való bejegyzés: [Placeholder – adatok később kerülnek hozzáadásra]",
+    "handelsregistereintrag_p1_2": "Cégjegyzékszám: [Placeholder – adatok később kerülnek hozzáadásra]",
+    "handelsregistereintrag_p2_1": "ÁFA szám:",
+    "handelsregistereintrag_p2_2": "Nem alkalmazható, mivel még nem történt eladás.",
+
+    "zweck_der_webseite": "A Weboldal Célja",
+    "zweck_der_webseite_p1_1": "Művészi Szórakozás (pl. SMS Szöveges Képek, Szöveges Kép 2.0 és ASCII filmek)",
+    "zweck_der_webseite_p1_2": "Reklámtér Partner Reklámtársak és Affiliate Marketing számára",
+    "zweck_der_webseite_p1_3": "Frontend Fejlesztői Szolgáltatások",
+
+    "haftungsausschluss": "Felelősség Kizárása",
+    "haftung_für_inhalte": "Felelősség az Tartalomért",
+    "haftung_für_inhalte_p": "Ezen weboldal tartalmát a lehető legnagyobb gondossággal készítettem el. Azonban nem tudom garantálni a tartalom pontosságát, teljességét és aktuális állapotát.",
+
+    "haftung_für_links": "Felelősség a Linkekért",
+    "haftung_für_links_p": "Ez a weboldal harmadik fél külső weboldalaira mutató linkeket tartalmaz, amelyeken nem rendelkezem irányítással. Ezért nem vállalok felelősséget ezen külső tartalmakért. A linkelt oldalak szolgáltatója vagy adminisztrátora mindig felelős a linkelt weboldalak tartalmáért.",
+
+    "datenschutz": "Adatvédelem",
+    "datenschutz_p": "Az adatgyűjtésről, feldolgozásról és személyes adatok használatáról szóló információk a Adatvédelmi Szabályzatban találhatók."
+  },
+
+  "datenschutz": {
+    "title": "Adatvédelmi Szabályzat",
+    "title_p": "A személyes adataid védelme számomra rendkívül fontos. Ebben az adatvédelmi szabályzatban tájékoztatlak azokról az adatokról, amelyeket a weboldalamon gyűjtök, dolgozok fel és tárolok, valamint a jogaidról ezekkel az adatokkal kapcsolatban.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Az Adatfeldolgozásért Felelős",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "E-mail:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobil:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Személyes Adatok Gyűjtése és Tárolása",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Amikor meglátogatod a weboldalamat, az alábbi adatok automatikusan gyűlhetnek össze:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "Az eszköz IP címe (anonimizált)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "A látogatás dátuma és ideje",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Használt böngésző és operációs rendszer",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Referenciális URL (pl. honnan jöttél)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Látogatott aloldalak",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Ezeket az adatokat anonimizálták, és kizárólag statisztikai célokra és a weboldal fejlesztésére használják. Nem kapcsolhatók össze a személyes identitásoddal.",
+
+    "verwendung_personenbezogener_daten": "3. Személyes Adatok Felhasználása",
+    "verwendung_personenbezogener_daten_p": "Személyes adatok, mint például név, e-mail cím vagy telefonszám, csak akkor gyűjtődnek, ha önkéntesen megadod őket, például egy kapcsolatfelvételi űrlapon keresztül. Ezeket az adatokat kizárólag a kéréseid kezelésére használom, és nem osztom meg harmadik felekkel, kivéve ha a jog ezt előírja.",
+
+    "cookies": "4. Cookie-k",
+    "cookies_p1": "A weboldalam cookie-kat használ a weboldal használatának elemzésére és a böngészés felhasználóbarátabbá tételére.",
+    "cookies_p2_1": "Szükséges Cookie-k: A weboldal működéséhez szükségesek.",
+    "cookies_p2_2": "Analitikai Cookie-k: Segítenek megérteni és javítani a weboldal használatát (pl. a Google Analytics segítségével).",
+    "cookies_p2_3": "A böngésződ beállításai között korlátozhatod vagy teljesen letilthatod a cookie-k használatát.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Ez a weboldal a Google LLC által kínált Google Analytics webanalitikai szolgáltatást használja, amelynek székhelye: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google”).",
+
+    "google_analytics_p2": "A Google Analytics cookie-kat használ, amelyek lehetővé teszik a weboldal használatának elemzését. Ezekből a cookie-król generált információk általában átkerülnek és tárolódnak a Google szerverein az Egyesült Államokban.",
+
+    "google_analytics_p3_1": "IP-anonimizálás:",
+    "google_analytics_p3_2": "Ez a weboldal engedélyezte az IP-anonimizálást. Ez azt jelenti, hogy a Google az IP-címedet az EU tagállamai vagy más országok, amelyek részt vesznek a gazdasági együttműködési területen, megvágja, mielőtt az az Egyesült Államokba továbbítaná.",
+
+    "google_analytics_p4_1": "Adatok Felhasználása:",
+    "google_analytics_p4_2": "A Google ezeket az információkat arra használja, hogy értékelje a weboldal használatát, jelentéseket készítsen a weboldal tevékenységéről, és egyéb szolgáltatásokat nyújtson a weboldal és az internet használatával kapcsolatban.",
+
+    "google_analytics_p5_1": "Kizárási Lehetőségek:",
+    "google_analytics_p5_2": "Megakadályozhatod a cookie-k tárolását azzal, hogy megfelelően beállítod a böngésződ szoftverét. Ezenkívül megakadályozhatod, hogy a Google gyűjtse és dolgozza fel a cookie-kkal generált adatokat és a weboldal használatával kapcsolatos adatokat (beleértve az IP-címedet) az alábbi böngésző plugin letöltésével és telepítésével:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "A Google Analytics használati feltételeiről további információkért látogass el ide:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Reklámtársak és Affiliate Linkek",
+    "werbepartner_und_affiliate_links_p1": "Reklámtársakkal és affiliate marketing programokkal működöm együtt. Amikor egy affiliate linkre vagy reklámra kattintasz, külső szolgáltatók cookie-kat állíthatnak be vagy adatokat gyűjthetnek kampányaik sikerének vagy eladásaik mérésére.",
+    "werbepartner_und_affiliate_links_p2": "További információkért ezeknek a partnereknek az adatvédelmi szabályzatairól látogass el a weboldalukra.",
+
+    "deine_rechte": "7. A Te Jogod",
+    "deine_rechte_p1_1": "Jogod van:",
+    "deine_rechte_p1_2": "Hozzáférni azokhoz az adatokhoz, amelyeket rólad tárolok",
+    "deine_rechte_p1_3": "Javítani a pontatlan adatokat",
+    "deine_rechte_p1_4": "Kérni az adataid törlését a törvény által engedélyezett mértékben",
+    "deine_rechte_p1_5": "Korlátozni az adatok feldolgozását",
+    "deine_rechte_p1_6": "Az adatok hordozhatóságának joga",
+    "deine_rechte_p1_7": "Ezeknek a jogoknak az érvényesítéséhez kérlek, vedd fel velem a kapcsolatot e-mailben: roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Adatbiztonság",
+    "datensicherheit_p": "Technikai és szervezési intézkedéseket alkalmazok az adataid védelme érdekében a jogosulatlan hozzáférés, elvesztés vagy helytelen használat ellen.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Adatvédelmi Szabályzat Módosítása",
+    "änderungen_dieser_datenschutzerklärung_p": "Ez az adatvédelmi szabályzat szükség szerint frissítésre kerül, hogy megfeleljen a jogi követelményeknek vagy alkalmazkodjon a weboldal változásaihoz."
+  },
+
+  "agb": {
+    "title": "Általános Szerződési Feltételek (ÁSZF)",
+    "title_p1": "Dátum: [Illessze be a dátumot]",
+    "title_p2": "Ezek az Általános Szerződési Feltételek (ÁSZF) szabályozzák a media4u.ch weboldal használatát, valamint az ott kínált szolgáltatásokat és tartalmakat. A weboldal meglátogatásával elfogadod a következő feltételeket.",
+
+    "geltungsbereich": "1. Hatály",
+    "geltungsbereich_p": "Ezek az ÁSZF minden media4u.ch weboldal látogatójára vonatkoznak, beleértve azokat az ügyfeleket is, akik az ott kínált szolgáltatásokat veszik igénybe vagy részt vesznek a reklámtársak és affiliate programokban.",
+
+    "leistungen": "2. Szolgáltatások",
+    "leistungen_p1_1": "A media4u.ch a következő szolgáltatásokat kínálja:",
+    "leistungen_p1_2": "Művészi Szórakozás (pl. SMS Szöveges Képek, Szöveges Kép 2.0 és ASCII filmek).",
+    "leistungen_p1_3": "Reklámtér Partner Reklámtársak és Affiliate Marketing számára.",
+    "leistungen_p1_4": "Frontend fejlesztési szolgáltatások.",
+    "leistungen_p1_5": "A weboldal művészeti tartalmak bemutatására, reklámtér értékesítésére és szolgáltatásaim népszerűsítésére szolgál.",
+
+    "vertragsabschluss": "3. Szerződéskötés",
+    "vertragsabschluss_p1_1": "A szerződés a következő esetekben jön létre téged és a media4u.ch között:",
+    "vertragsabschluss_p1_2": "Reklámtér vagy partnerség iránti kérelem benyújtása és annak általam történő megerősítése.",
+    "vertragsabschluss_p1_3": "Frontend fejlesztési szolgáltatásaim iránti kérelem benyújtása és az ajánlatom elfogadása.",
+    "vertragsabschluss_p1_4": "A szerződés írásban, e-mailen keresztül jön létre.",
+
+    "preise_und_zahlungsbedingungen": "4. Árak és Fizetési Feltételek",
+    "preise_und_zahlungsbedingungen_p1_1": "A reklámtársak esetében a következő fizetési feltételek érvényesek:",
+    "preise_und_zahlungsbedingungen_p1_2": "A reklámtér ára egyénileg kerül meghatározásra.",
+    "preise_und_zahlungsbedingungen_p1_3": "A fizetéseknek a periódus kezdetét megelőzően kell megtörténniük.",
+    "preise_und_zahlungsbedingungen_p1_4": "A frontend fejlesztői szolgáltatások árai egyeztetés alapján kerülnek meghatározásra.",
+
+    "preise_und_zahlungsbedingungen_p2": "A már megtörtént fizetések visszatérítése kizárt, kivéve, ha az én hibám miatt történt.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Felhasználói Jogok és Kötelezettségek",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Tartalom Használata",
+    "rechte_und_pflichten_der_nutzer_p1_2": "A weboldal tartalmát (beleértve az művészeti alkotásokat is) csak kifejezett engedéllyel lehet használni vagy terjeszteni.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Bármilyen engedély nélküli használat vagy tartalom másolás tilos.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Felhasználói Magatartás",
+    "rechte_und_pflichten_der_nutzer_p1_5": "A látogatóknak és ügyfeleknek kötelességük, hogy ne használják a weboldalt nem megfelelő módon, például káros tartalom, spam vagy engedély nélküli hirdetések terjesztésével.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "A reklámtér és affiliate programok használata a jogszabályi előírásoknak megfelelő kell, hogy legyen.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Felelősség Kizárása",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Nem vagyok felelős a weboldal tartalmának pontosságáért, teljességéért és aktuális állapotáért.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Nem vagyok felelős a weboldal vagy harmadik felek tartalmának használatából eredő károkért.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Reklámtársak és Affiliate Programok",
+    "rechte_und_pflichten_der_nutzer_p1_11": "A reklámtársak vállalják, hogy csak tiszteletre méltó és jogilag engedélyezett tartalmakat népszerűsítenek.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "A media4u.ch fenntartja magának a jogot, hogy elutasítson olyan tartalmakat, amelyek nem felelnek meg a weboldal standardjainak.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Speciális Szabályok Reklámtársak Számára:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Ha a weboldal egy napig vagy hosszabb ideig nem elérhető, a hiányzó napok ingyenesen hozzáadódnak a következő minimum 30 napos foglaláshoz. Ez kizárólag fizetős reklámtérre vonatkozik és folyamatos együttműködést igényel. A leállás napjaira vonatkozó külön fizetés vagy kárpótlás kizárt.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Az affiliate programok külső szolgáltatókkal együttműködésben működnek. Nem vagyok felelős ezen szolgáltatók tartalmáért és adatvédelmi szabályzataiért.",
+
+    "verfügbarkeit_der_webseite": "8. Weboldal Elérhetősége",
+    "verfügbarkeit_der_webseite_p": "Arra törekszem, hogy a weboldal mindig elérhető legyen. Azonban nem tudom garantálni a folyamatos elérhetőséget, például karbantartás, technikai problémák vagy erőforrások hiánya esetén.",
+
+    "urheberrecht": "9. Szerzői Jogok",
+    "urheberrecht_p": "Minden tartalom a media4u.ch oldalon szerzői jogvédelem alatt áll. Tiltott a használata írásbeli engedély nélkül.",
+
+    "änderungen_der_agb": "10. ÁSZF Módosítása",
+    "änderungen_der_agb_p": "Fenntartom magamnak a jogot, hogy bármikor módosítsam ezeket az Általános Szerződési Feltételeket. A módosítások a weboldalon kerülnek közzétételre, és a közzététel napjától lépnek hatályba.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Jursidikció és Irányadó Jog",
+    "gerichtsstand_und_anwendbares_recht_p": "A svájci jog az összes vitára vonatkozik. A Bülach, Svájc-i bíróság illetékes a viták rendezésére."
+  },
+
+  "cookie": {
+    "title": "Cookie",
+    "content": "Cookie tartalom"
+  },
+
+  "sms_textbild": {
+    "title": "SMS Szöveges Kép",
+    "h1": "Az SMS Szöveges Képek Újraértelmezve",
+    "p1": "Az emlékek, amelyek összekötnek minket. Ikonikus SMS szöveges képek régi Nokia telefonokból, mint a 3210, valamint az Ericsson és Motorola első modellei meghatározták egy korszakot. Ezek a kis mesterművek, amelyeket egyszerűen SMS-en keresztül küldtek, most újraélednek – modernebbek, mint valaha.",
+    "p2": "A weboldalamon kizárólagosan tervezett szöveges kép animációkat találsz, amelyeket könnyedén élvezhetsz és megoszthatsz. Minden kép egyedi műalkotás, szeretettel kézzel készítve, hogy ötvözze a múlt báját a mai egyszerűséggel. A használt betűtípus hasonlít a klasszikus Nokia betűtípushoz, de nem azonos vele. Ha különösen szereted egy adott szöveges képet, megoszthatod link segítségével – így minden üzenet különleges élménnyé válik.",
+
+    "h2": "Minden Animáció, Egy Mesteralkotás",
+    "p3": "Ezek a szöveges képek többek, mint emlékek – művészetek. Minden animáció kézzel készített és gondosan tervezett, hogy újraértelmezze a klasszikus SMS szöveges képek esztétikáját.",
+
+    "h3": "Időtlen Design, Megújítva a Jelenre",
+    "p4": "Újraélesztettem a klasszikus szöveges képek varázsát. Az animált bemutatások révén ikonikus dizájnok újra életre kelnek modern módon – így a nosztalgikus múlt újra ragyog.",
+
+    "h4": "Megosztás Soha Nem Volt Így Egyszerű",
+    "p5": "Egy linkkel nem csak üzenetet küldesz, hanem egy élményt is. Egy nosztalgikus pillanatot, amit megoszthatsz másokkal."
+  },
+
+
+  "textbild2": {
+    "title": "Szöveges Kép 2.0",
+    "h1": "Szöveges Kép 2.0 A Következő Evolúció",
+    "p1": "A kreativitás újradefiniálva. A Szöveges Kép 2.0 segítségével a klasszikus szöveges képek forradalmon mennek keresztül. Fejlesztett funkciók, mint az átfedő karakterek, különböző betűméretek és színek, forgások és tükrözések, valamint szabad elhelyezés a képernyőn soha látott műalkotásokat hoznak létre.",
+    "p2": "A weboldalamon felfedezheted és megoszthatod ezeket az új, összetettebb szöveges képeket. Minden műalkotás egyedi eredmény a kreativitásnak és az innovációnak, ötvözve a klasszikus SMS szöveges képek hagyományát a modern technológia lehetőségeivel.",
+
+    "h2": "ÚJ DIMENZIÓ A MŰVÉSZETBEN",
+    "p3": "A Szöveges Kép 2.0 nem csak evolúció – ez egy új művészeti forma. A színek, változó betűméretek és dinamikus elemek használatával minden kép életre kel mint egy élő mestermű, amely lenyűgözi az érzékeket.",
+
+    "h3": "Innováció Találkozik a Nosztalgiával",
+    "p4": "Újraélesztettem a klasszikus szöveges képek varázsát. Modern technológia és kreatív tervező eszközök használatával olyan műalkotások születnek, amelyek ötvözik a múlt nosztalgiáját a jelen innovációjával.",
+
+    "h4": "Oszd Meg a Szenvedélyed",
+    "p5": "A Szöveges Kép 2.0 segítségével minden üzenet egy különleges élménnyé válik. Oszd meg ezeket az egyedi műalkotásokat barátaiddal és családoddal, és tapasztald meg, hogyan kapcsolja össze a kreativitás az embereket."
+  },
+
+
+  "ascii_art_film": {
+    "title": "ASCII Művészeti Film",
+    "h1": "Matrix Szöveges Formában: Az ASCII Művészet Új Dimenziója",
+    "p1": "Lehet, hogy ismered az első ASCII filmjeimet, amelyek a Matrix trilógia jeleneteit egyedi szöveges művészeti formában mutatták be. Ezek az első művek bemutatták, hogyan lehet a bonyolult filmeket minimalistikus ASCII formában ábrázolni.",
+
+    "h2": "Új Perspektíva: Klasszikus Matrix Jelenetek a Lenyűgöző Szöveges Világban",
+    "p2": "Most bemutatom ezeknek a műveknek a továbbfejlesztett verzióját. Az új ASCII filmek még részletesebb és kiváló minőségű ábrázolásokat kínálnak a Matrix ikonikus jeleneteiből. A technológiai fejlődésnek köszönhetően ezek az ASCII művészeti alkotások még lenyűgözőbb interpretációt nyújtanak a klasszikus filmekből, lehetővé téve, hogy teljesen új módon éld át a Matrixot.",
+    "p3": "Nyugodtan oszd meg ezeket az ASCII filmeket barátaiddal, ismerőseiddel és családoddal, hogy ők is élvezhessék ezt az egyedi művészeti formát."
+  },
+  "matrix": {
+    "title": "Matrix",
+    "bibliothek": "Matrix Könyvtár"
+  },
+
+  "legal": {
+    "impressum": "Jogi Információk",
+    "datenschutz": "Adatvédelmi Szabályzat",
+    "cookie": "Cookie",
+    "agb": "Általános Szerződési Feltételek (ÁSZF)"
+  },
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Minden jog fenntartva."
+  },
+
+
+
+  "neu": {
+    "title": "Újdonság"
+  },
+  "liebe_freundschaft": {
+    "title": "Szeretet és Barátság",
+    "komm_zu_mir1": "Gyere hozzám 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "Méhecske 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "Ünnepek és Parti",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "Szabadidő és Munka",
+
+    "arbeit1": "Munka 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "Sport és Hobbi"
+  },
+  "abenteuer_action": {
+    "title": "Kaland és Akció"
+  },
+  "erotik_sex": {
+    "title": "Erotika és Szex"
+  },
+  
+
+  "neu2": {
+    "title": "Újdonság"
+  },
+  "liebe_freundschaft2": {
+    "title": "Szeretet és Barátság",
+
+    "komm_zu_uns1": "Csatlakozz hozzánk 1",
+    "komm_zu_uns1_text1": "Hé, mit nézel",
+    "komm_zu_uns1_text2": "ott?",
+    "komm_zu_uns1_text3": "Az az ember",
+    "komm_zu_uns1_text4": "ott!",
+    "komm_zu_uns1_text5": "Egész nap a telefonját",
+    "komm_zu_uns1_text6": "bámulja!",
+    "komm_zu_uns1_text7": "Hé, unatkozol?",
+    "komm_zu_uns1_text8": "Akkor csatlakozz hozzánk! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Hamarosan találkozunk!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Ünnepek és Parti",
+
+    "geburtstag1": "Születésnap 1",
+    "geburtstag1_text1": "Boldog születésnapot!",
+    "geburtstag1_text2": "Itt van az ajándékod!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Szabadidő és Munka",
+
+    "arbeit1": "Munka 1",
+    "arbeit1_text1": "Vége a napnak!",
+    "arbeit1_text2": "Megy haza!",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Viszlát!",
+    "arbeit1_text6": "Holnap találkozunk!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sport és Hobbi"
+  },
+  "abenteuer_action2": {
+    "title": "Kaland és Akció"
+  },
+  "erotik_sex2": {
+    "title": "Erotika és Szex"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "A kód művészet",
+  "Fullstack fejlesztő",
+  "SMS szövegkép",
+  "Nincs 160 karakteres limit",
+  "ASCII nosztalgia",
+  "Határtalan kreativitás",
+  "Modern szövegművészet",
+  "Szövegkép 2.0",
+  "Digitális művészet",
+  "Tipográfiai művészet",
+  "Karakter dizájn",
+  "Vizuális történetmesélés",
+  "ASCII Art filmek",
+  "Mozgó ASCII",
+  "Interaktivitás",
+  "CSS animációk",
+  "React & Vite",
+  "Szemantikus HTML5",
+  "CSS Modules",
+  "DOM manipuláció",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Konténer alapú",
+  "Hibabiztos",
+  "Akadálymentes (A11y)",
+  "Reszponzív dizájn",
+  "Nagy teljesítmény",
+  "SEO optimalizált",
+  "Biztonságos dizájn",
+  "Megváltoztathatatlan build",
+  "Reprodukálható",
+  "24 Nyelv",
+  "Nemzetközi",
+  "Innováció",
+  "Web Engineering"
+]
+
+}

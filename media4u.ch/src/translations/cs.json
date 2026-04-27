@@ -1,0 +1,548 @@
+{
+  "beispiel": {
+    "sms_textbild": "Příklad",
+    "textbild2": "Příklad"
+  },
+
+  "werbung": {
+    "title": "Reklama",
+    "loading": "Načítání...",
+    "error_loading": "Obsah se nepodařilo načíst.",
+    "redirecting": "Přesměrování",
+    "view_offer": "Zobrazit",
+    "badge_portfolio": "PORTFOLIO",
+    "badge_partner": "PARTNER",
+    "badge_support": "PODPORA",
+    "badge_affiliate": "AFFILIATE",
+    "ad_space_title": "Zajistěte si reklamní prostor!",
+    "ad_space_desc": "Prezentujte svou společnost cíleně v jedné zemi nebo rozšiřte svůj dosah na mezinárodní publikum.",
+    "ad_space_aria": "Více informací o nabídce",
+    "ad_space_btn": "Zajistit nyní"
+  },
+
+  "mehr_info": {
+    "title": "Více informací"
+  },
+  
+  "header": {
+    "slogan1": "Kreativita a Digitální Umění",
+    "slogan2": "Globálně dostupné ve 24 jazycích!"
+  },
+
+  "nav_main": {
+    "media4u": "Media4u",
+    "sms_textbild": "Obrazový Text SMS",
+    "textbild2": "Obrazový Text 2.0",
+    "ascii_art_film": "ASCII Umělecký Film"
+  },
+
+  "nav_sub": {
+    "werbepartner": "Reklamní Partneři",
+    "affiliate_marketing": "Affiliate Marketing",
+    "front_end_developer": "Frontendový vývojář",
+    "kontakt": "Kontakt",
+
+    "matrix": "Matrix",
+
+    "sms_textbild": {
+      "neu": "Novinka",
+      "liebe_freundschaft": "Láska a Přátelství",
+      "festtage_party": "Svátky a Párty",
+      "freizeit_arbeit": "Volný Čas a Práce",
+      "sport_hobby": "Sport a Koníčky",
+      "abenteuer_action": "Dobrodružství a Akce",
+      "erotik_sex": "Erotika a Sex"
+    },
+
+    "textbild2": {
+      "neu2": "Novinka",
+      "liebe_freundschaft2": "Láska a Přátelství",
+      "festtage_party2": "Svátky a Párty",
+      "freizeit_arbeit2": "Volný Čas a Práce",
+      "sport_hobby2": "Sport a Koníčky",
+      "abenteuer_action2": "Dobrodružství a Akce",
+      "erotik_sex2": "Erotika a Sex"
+    }
+  },
+
+  "media4u": {
+    "title": "MEDIA4U",
+    "h1": "Moderní Digitální Umění a Inovativní Komunikační Nástroje",
+    "p1": "media4u.ch je vaše destinace pro moderní digitální umění a inovativní komunikační nástroje. Díky mé rozsáhlé sbírce obrazových textů SMS a ASCII filmů vám nabízím kreativní a výjimečné zážitky.",
+    "h2": "Mezinárodní Dosah ve 20 Jazycích",
+    "p2": "Moje webová stránka je dostupná ve 20 jazycích, aby oslovila mezinárodní publikum a poskytla všem možnost ocenit mé jedinečné umělecké díla. Navíc nabízím reklamní prostor a affiliate programy v oblasti obrazových textů SMS a Obrazů Textu 2.0, což poskytuje kreativní reklamní příležitosti firmám při podpoře mé platformy.",
+    "h3": "Objevte Digitální Umění Novým Způsobem",
+    "p3": "Ponořte se do světa digitálního umění a objevte, co media4u.ch nabízí! Zažijte kreativní komunikaci z nové perspektivy a sdílejte ji se světem.",
+    "h4": "Technologie Se Setkává s Digitálním Uměním",
+    "p4": "Tato webová stránka byla vyvinuta pomocí JavaScriptu a Reactu, což kombinuje moderní webový vývoj s mou vášní pro digitální umění. Díky těmto technologiím jsou mé obrazové texty SMS a ASCII díla vytvářena v inovativních formátech, které ukazují, jak technologie a kreativita spolupracují na vytváření jedinečných digitálních zážitků."
+  },
+
+  "werbepartner": {
+    "title": "Reklamní Partneři",
+    "h1": "Rozšiřte Svůj Dosah – Reklamujte na Mé Webové Stránce!",
+    "p1": "Chcete prezentovat své produkty nebo služby široké veřejnosti? Moje webová stránka nabízí ideální platformu pro zvýšení povědomí o vaší značce a přilákání nových zákazníků.",
+
+    "h2": "Proč Reklamovat na Mé Webové Stránce?",
+    "p2": "Národní Viditelnost: Dosáhněte návštěvníků z celého státu a efektivně rozšiřte svůj dosah. Maximální Pozornost: Vaše reklamy budou zobrazovány všem návštěvníkům bez ohledu na jejich geografickou polohu. Spravedlivé Zobrazení: Pořadí reklam je při každém načtení stránky náhodně promícháno, což zajišťuje, že všichni reklamní partneři mají stejnou šanci na viditelnost. Zajištění Soukromí: Identifikuji pouze zemi původu návštěvníků – nesbírám žádné další údaje.",
+
+    "h3_1": "DETALY CEN ZA REKLAMNÍ PROSTOR:",
+    "p3_1": "V prvních 90 dnech platíte pouze 140 CHF za 30 dnů expozice.",
+    "p3_2": "Od 91. dne cena klesá na 120 CHF za 30 dnů expozice (od 91. do 180. dne).",
+    "p3_3": "Od 181. dne stojí reklamní prostor pouze 100 CHF za 30 dnů expozice.",
+
+    "h3_2": "CO OD VÁS POTŘEBUJÍM:",
+    "p3_4": "Název vaší společnosti",
+    "p3_5": "Odkaz na vaši nabídku (stránka produktu nebo služby)",
+    "p3_6": "Odkaz na obrázek, který bude použit v reklamním prostoru",
+    "bildgroesse": "Velikost obrázku: 400x400 pixelů",
+
+    "h3_3": "DŮLEŽITÉ INFORMACE:",
+    "p3_7": "Váš reklamní prostor bude zobrazován pouze návštěvníkům z příslušné země. Pokud chcete reklamovat mezinárodně, můžete zakoupit další reklamní prostory pro jiné země.",
+    "p3_8": "Rezervujte si svůj reklamní prostor nyní a přesně zacilte na své publikum – přizpůsobeno regionům, které vás zajímají!",
+
+    "h4": "Vaše Bezpečnost Je Pro Mě Důležitá:",
+    "p4": "Kladu důraz na kvalitu a spolehlivost. Každý reklamní partner je osobně ověřen mnou, aby se zajistilo, že jsou to seriózní firmy splňující mé vysoké standardy.",
+
+    "h5": "Jste Připravený Pokračovat?",
+    "p5": "Kontaktujte mě ještě dnes a umístěte svou značku na můj web – společně vytvoříme silnou přítomnost a dlouhodobě posuneme vaši firmu kupředu.",
+
+    "h6": "Zajímá Vás To?",
+    "p6": "Pošlete mi zprávu, pokud potřebujete více informací nebo chcete přímo rezervovat reklamní prostor. Těším se na možnost podpořit vás na cestě k úspěchu!"
+  },
+
+  "werbepartner_info": {
+    "title": "Reklamní Partneři - Informace",
+    "content_h3": "Rezervujte Svůj Reklamní Prostor!",
+    "content_p1": "Prezentujte svou firmu cíleně v jedné zemi nebo rozšiřte svůj dosah na mezinárodní publikum.",
+    "content_button": "Zobrazit Nabídku",
+    "content_button_info": "Rezervovat Nyní"
+  },
+
+  "affiliate_marketing": {
+    "title": "Affiliate Marketing",
+    "h1": "Affiliate Odkazy a Transparentnost na Mé Webové Stránce",
+    "p1": "Na mé webové stránce používám affiliate odkazy k doporučování produktů a služeb, které jsou pro vás vhodné. Transparentnost je pro mě zvláště důležitá. Níže vysvětluji, jak affiliate odkazy fungují a co to pro vás znamená.",
+
+    "h2": "Co Jsou Affiliate Odkazy?",
+    "p2": "Affiliate odkazy jsou speciální odkazy, které vedou na produkty nebo služby partnerských společností. Když provedete nákup prostřednictvím těchto odkazů, získávám provizi. To pro vás neznamená žádné dodatečné náklady.",
+
+    "h3": "Proč Používám Affiliate Odkazy?",
+    "p3": "Používání affiliate odkazů mi pomáhá udržovat webovou stránku a poskytovat obsah zdarma. Pečlivě vybírám své partnery a produkty, které doporučuji, abych zajistil, že odpovídají tématům a zájmům mých návštěvníků.",
+
+    "h4": "Jak Funguje Sledování?",
+    "p4": "Aby bylo možné sledovat, že nákup byl proveden prostřednictvím mého odkazu, moji affiliate partneři používají cookies, které ukládají informace po omezenou dobu, když kliknete na affiliate odkaz. Další podrobnosti naleznete v mé politice ochrany osobních údajů.",
+
+    "h5": "Žádné Negativní Dopady pro Vás",
+    "p5": "Důležité je vědět, že kliknutí na affiliate odkazy vám nijak neublíží. Cena produktů nebo služeb zůstává stejná a neexistují žádné skryté poplatky.",
+
+    "h6": "Vyloučení Odpovědnosti",
+    "p6": "Doporučuji pouze produkty a služby, kterým věřím. Nicméně, protože tyto nabídky jsou poskytovány mými partnery, nejsem zodpovědný za jejich kvalitu nebo dostupnost.",
+
+    "h7": "Transparentnost a Důvěra",
+    "p7": "Mým cílem je komunikovat s vámi transparentně a upřímně. Pokud máte jakékoliv dotazy ohledně affiliate odkazů nebo mých partnerství, neváhejte mě kontaktovat. Ocením vaši důvěru v mé doporučení!"
+  },
+
+  "affiliate_marketing_partner": {
+    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
+  },
+
+  "front_end_developer": {
+  "title": "Frontend vývojář",
+
+  "projekt_title_h2": "Zajímá vás moje práce?",
+  "projekt_title_p1": "Zde získáte přehled o mých dosavadních projektech:",
+  "projekt_title_h4": "Projekty pro klienty a partnery",
+
+  "projekt_kunden_partner": "Klienti a partneři",
+  "projekt_kunden_partner_info": "Zde budou uvedeni budoucí klienti a partneři.",
+
+  "projekt_eigene_projekte": "Vlastní projekty",
+  "projekte_eigene_projekte_schere_stein_papier_title": "Kámen, nůžky, papír",
+  "projekte_eigene_projekte_memory_title": "Pexeso",
+  "projekte_eigene_projekte_wuerfeln_title": "Házet kostkami",
+  "projekte_eigene_projekte_puzzle_title": "Puzzle",
+
+  "h1": "Vítejte v mém světě frontend vývoje!",
+  "p1": "Tato webová stránka odráží mou vášeň pro moderní a škálovatelný webový vývoj. Jako člověk z jiného oboru jsem ji vytvořil pomocí Reactu, JavaScriptu, HTML a CSS – technologií, které umožňují tvorbu dynamických, interaktivních a vizuálně poutavých aplikací.",
+  "li_1": "HTML: Čistá, sémantická a snadno udržovatelná struktura.",
+  "li_2": "CSS: Flexibilní, responzivní design optimalizovaný pro všechna zařízení.",
+  "li_3": "JavaScript & React: Dynamická interaktivita a vysoký výkon pro škálovatelné a intuitivní uživatelské prostředí.",
+  "p2": "Můj důraz je vždy na výkon, škálovatelnost a osvědčené postupy, abych vytvářel profesionální, udržitelné a do budoucna připravené webové aplikace.",
+
+  "h2": "Můj cíl: seniorní úroveň ve frontend vývoji",
+  "p3": "Kromě realizace této webové stránky si neustále prohlubuji znalosti Reactu a JavaScriptu, s cílem psát kód nejvyšší kvality – modulární, efektivní a přehledně strukturovaný.",
+  "p4": "Aktivně hledám náročné projekty – ať už pro firmy, agentury nebo inovativní nezávislé iniciativy –, kde mohu plně uplatnit a dále rozvíjet své znalosti.",
+  "p5": "Tato stránka není jen mým portfoliem, ale i živým důkazem mých dovedností a průběžného profesního růstu v oblasti frontend vývoje.",
+
+  "h3": "Pojďme společně tvořit digitální zážitky!",
+  "p6": "Hledáte zapáleného frontend vývojáře, který dokáže převést inovativní nápady do škálovatelných, udržitelných a výkonných řešení?",
+  "p7": "Kontaktujte mě – těším se na zajímavé projekty!",
+  "kontakt_link": "<< Kontaktujte mě zde >>"
+},
+
+  "kontakt": {
+    "title": "Kontakt",
+    "email": "E-mail",
+    "mobile": "Mobil"
+  },
+
+  "impressum": {
+    "title": "Právní Informace",
+    "kontakt": "Kontakt",
+
+    "vertretungsberechtigter": "Zástupce s Oprávněním",
+    "handelsregistereintrag": "Obchodní Rejstřík",
+    "handelsregistereintrag_p1_1": "Registrace v Obchodním Rejstříku: [Placeholder – údaje budou dodány později]",
+    "handelsregistereintrag_p1_2": "Číslo v Obchodním Rejstříku: [Placeholder – údaje budou dodány později]",
+    "handelsregistereintrag_p2_1": "DIČ:",
+    "handelsregistereintrag_p2_2": "Nepoužitelné, protože dosud nedošlo k prodeji.",
+
+    "zweck_der_webseite": "Účel Stránky",
+    "zweck_der_webseite_p1_1": "Umělecká Zábava (např. Obrazy Textů SMS, Obrazy Textů 2.0 a Filmy ASCII)",
+    "zweck_der_webseite_p1_2": "Reklamní Prostor pro Reklamní Partnery a Affiliate Marketing",
+    "zweck_der_webseite_p1_3": "Služby jako Frontend Vývojář",
+
+    "haftungsausschluss": "Vyloučení Odpovědnosti",
+    "haftung_für_inhalte": "Odpovědnost za Obsah",
+    "haftung_für_inhalte_p": "Obsah této stránky byl vytvořen s maximální péčí. Nicméně nemohu garantovat přesnost, úplnost a aktuálnost obsahu.",
+
+    "haftung_für_links": "Odpovědnost za Odkazy",
+    "haftung_für_links_p": "Tato stránka obsahuje odkazy na externí webové stránky třetích stran, nad kterými nemám kontrolu. Proto nemohu být odpovědný za tyto externí obsahy. Dodavatel nebo správce těchto propojených stránek je vždy odpovědný za obsah těchto propojených webových stránek.",
+
+    "datenschutz": "Ochrana Dat",
+    "datenschutz_p": "Informace o sběru, zpracování a používání osobních údajů jsou uvedeny v Politice Ochrany Soukromí."
+  },
+
+  "datenschutz": {
+    "title": "Politika Ochrany Soukromí",
+    "title_p": "Ochrana vašich osobních údajů je pro mě velmi důležitá. V této politice ochrany soukromí vás informuji o datech, která jsou shromažďována, zpracovávána a uchovávána na mé webové stránce, stejně jako o vašich právech týkajících se těchto dat.",
+
+    "verantwortlicher_für_die_datenverarbeitung": "1. Správce Dat",
+    "verantwortlicher_für_die_datenverarbeitung_e-mail": "E-mail:",
+    "verantwortlicher_für_die_datenverarbeitung_mobile": "Mobilní Telefon:",
+
+    "erhebung_und_speicherung_personenbezogener_daten": "2. Shromažďování a Uchovávání Osobních Údajů",
+    "erhebung_und_speicherung_personenbezogener_daten_p1": "Při návštěvě mé webové stránky mohou být automaticky shromažďována následující data:",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_1": "IP adresa zařízení (anonymizovaná)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_2": "Datum a čas návštěvy",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_3": "Použitý prohlížeč a operační systém",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_4": "Referenční URL (např. odkud jste přišli)",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_5": "Navštívené podstránky",
+    "erhebung_und_speicherung_personenbezogener_daten_p2_6": "Tato data jsou anonymizována a používána pouze pro statistické účely a zlepšení webové stránky. Nelze je spojit s vaší osobní identitou.",
+
+    "verwendung_personenbezogener_daten": "3. Použití Osobních Údajů",
+    "verwendung_personenbezogener_daten_p": "Osobní údaje jako jméno, e-mailová adresa nebo telefonní číslo jsou shromažďovány pouze tehdy, když je dobrovolně poskytnete, například prostřednictvím kontaktního formuláře. Tato data jsou používána pouze k vyřízení vašeho požadavku a nebudou sdílena s třetími stranami, ledaže to vyžaduje zákon.",
+
+    "cookies": "4. Cookies",
+    "cookies_p1": "Moje webová stránka používá cookies k analýze používání stránky a zajištění uživatelsky přívětivého prostředí.",
+    "cookies_p2_1": "Nezbytné Cookies: Nezbytné pro funkčnost webové stránky.",
+    "cookies_p2_2": "Analytické Cookies: Pomáhají porozumět a zlepšovat používání webové stránky (např. prostřednictvím Google Analytics).",
+    "cookies_p2_3": "Můžete omezit nebo úplně zakázat používání cookies prostřednictvím nastavení svého prohlížeče.",
+
+    "google_analytics": "5. Google Analytics",
+    "google_analytics_p1": "Tato stránka používá Google Analytics, webovou analytickou službu poskytovanou společností Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“).",
+
+    "google_analytics_p2": "Google Analytics používá cookies k analýze používání této webové stránky. Informace generované těmito cookies jsou obvykle přenášeny a uchovávány na serverech Google v USA.",
+
+    "google_analytics_p3_1": "Anonymizace IP:",
+    "google_analytics_p3_2": "Tato stránka aktivovala anonymizaci IP. To znamená, že vaše IP adresa bude Google v zemi členské EU nebo v jiných zemích zapojených do Evropské hospodářské spolupráce zkrácena před tím, než bude odeslána do USA.",
+
+    "google_analytics_p4_1": "Použití Dat:",
+    "google_analytics_p4_2": "Google používá tyto informace k posouzení používání této webové stránky, sestavování zpráv o aktivitě webové stránky a poskytování dalších služeb souvisejících s používáním webové stránky a internetu.",
+
+    "google_analytics_p5_1": "Možnosti Odstranění:",
+    "google_analytics_p5_2": "Můžete zabránit ukládání cookies vhodným nastavením softwaru vašeho prohlížeče. Dále můžete zabránit Google v shromažďování a zpracovávání dat generovaných těmito cookies a souvisejících s používáním této webové stránky (včetně vaší IP adresy) stažením a instalací následujícího pluginu pro prohlížeč:",
+    "google_analytics_p5_3": "tools.google.com",
+
+    "google_analytics_p6_1": "Pro více informací o podmínkách služby Google Analytics navštivte:",
+    "google_analytics_p6_2": "marketingplatform.google.com",
+
+    "werbepartner_und_affiliate_links": "6. Reklamní Partneři a Affiliate Odkazy",
+    "werbepartner_und_affiliate_links_p1": "Spolupracuji s reklamními partnery a affiliate marketingovými programy. Když kliknete na affiliate odkaz nebo reklamu, externí poskytovatelé mohou nastavovat cookies nebo shromažďovat data za účelem měření úspěšnosti jejich reklamních kampaní nebo prodejů.",
+    "werbepartner_und_affiliate_links_p2": "Pro více informací o zásadách ochrany osobních údajů těchto partnerů navštivte jejich webové stránky.",
+
+    "deine_rechte": "7. Vaše Práva",
+    "deine_rechte_p1_1": "Máte právo:",
+    "deine_rechte_p1_2": "Přístup k datům, která o vás uchovávám",
+    "deine_rechte_p1_3": "Oprava nepřesných dat",
+    "deine_rechte_p1_4": "Požadovat vymazání vašich dat v rozsahu, který to zákon umožňuje",
+    "deine_rechte_p1_5": "Požadovat omezení zpracování dat",
+    "deine_rechte_p1_6": "Právo na přenositelnost dat",
+    "deine_rechte_p1_7": "Chcete-li uplatnit tato práva, kontaktujte mě e-mailem na: roman.messmer@media4u.ch.",
+
+    "datensicherheit": "8. Bezpečnost Dat",
+    "datensicherheit_p": "Implementuji technická a organizační opatření na ochranu vašich dat před neoprávněným přístupem, ztrátou nebo zneužitím.",
+
+    "änderungen_dieser_datenschutzerklärung": "9. Změny Politiky Ochrany Soukromí",
+    "änderungen_dieser_datenschutzerklärung_p": "Tato politika ochrany soukromí bude aktualizována podle potřeby, aby splňovala právní požadavky nebo aby se přizpůsobila změnám na webové stránce."
+  },
+
+  "agb": {
+    "title": "Všeobecné Podmínky (V&P)",
+    "title_p1": "Datum: [Vložte Datum]",
+    "title_p2": "Tyto Všeobecné Podmínky (V&P) upravují používání webové stránky media4u.ch a poskytovaných služeb a obsahu. Přístupem na webovou stránku souhlasíte s následujícími podmínkami.",
+
+    "geltungsbereich": "1. Rozsah Působnosti",
+    "geltungsbereich_p": "Tyto V&P se vztahují na všechny návštěvníky webové stránky media4u.ch a na zákazníky využívající poskytované služby nebo účastnící se partnerských reklamních a affiliate programů.",
+
+    "leistungen": "2. Služby",
+    "leistungen_p1_1": "media4u.ch poskytuje následující služby:",
+    "leistungen_p1_2": "Umělecká Zábava (např. Obrazy Textů SMS, Obrazy Textů 2.0 a Filmy ASCII).",
+    "leistungen_p1_3": "Reklamní Prostor pro Reklamní Partnery a Affiliate Marketing.",
+    "leistungen_p1_4": "Služby v oblasti frontend vývoje.",
+    "leistungen_p1_5": "Webová stránka slouží k prezentaci uměleckého obsahu, prodeji reklamního prostoru a propagaci mých služeb.",
+
+    "vertragsabschluss": "3. Uzavření Smlouvy",
+    "vertragsabschluss_p1_1": "Smlouva mezi vámi a media4u.ch vzniká v následujících případech:",
+    "vertragsabschluss_p1_2": "Žádáte o reklamní prostor nebo partnerský program a tato žádost je mnou potvrzena.",
+    "vertragsabschluss_p1_3": "Žádáte o mé služby jako frontend vývojář a přijímáte mou nabídku.",
+    "vertragsabschluss_p1_4": "Uzavření smlouvy probíhá písemně prostřednictvím e-mailu.",
+
+    "preise_und_zahlungsbedingungen": "4. Ceny a Platební Podmínky",
+    "preise_und_zahlungsbedingungen_p1_1": "Pro reklamní partnery platí následující platební podmínky:",
+    "preise_und_zahlungsbedingungen_p1_2": "Cena za reklamní prostor je stanovena individuálně.",
+    "preise_und_zahlungsbedingungen_p1_3": "Platby musí být provedeny před začátkem období.",
+    "preise_und_zahlungsbedingungen_p1_4": "Ceny za služby jako frontend vývojář jsou dohodnuty prostřednictvím jednání.",
+
+    "preise_und_zahlungsbedingungen_p2": "Vrácení platby za již provedené platby je vyloučeno, ledaže je to způsobeno mou chybou.",
+
+    "rechte_und_pflichten_der_nutzer": "5. Práva a Povinnosti Uživatelů",
+    "rechte_und_pflichten_der_nutzer_p1_1": "5.1 Používání Obsahu",
+    "rechte_und_pflichten_der_nutzer_p1_2": "Obsah webové stránky (včetně uměleckých děl) může být používán nebo distribuován pouze s výslovným povolením.",
+    "rechte_und_pflichten_der_nutzer_p1_3": "Všeobecné nepovolené používání nebo kopírování obsahu je zakázáno.",
+    "rechte_und_pflichten_der_nutzer_p1_4": "5.2 Chování Uživatelů",
+    "rechte_und_pflichten_der_nutzer_p1_5": "Návštěvníci a zákazníci jsou povinni nevyužívat webovou stránku nevhodným způsobem, například šířením škodlivého obsahu, spamu nebo nepovolených reklam.",
+    "rechte_und_pflichten_der_nutzer_p1_6": "Používání reklamního prostoru a affiliate programů musí být v souladu s právními požadavky.",
+    "rechte_und_pflichten_der_nutzer_p1_7": "6. Vyloučení Odpovědnosti",
+    "rechte_und_pflichten_der_nutzer_p1_8": "Nejsem zodpovědný za přesnost, úplnost a aktuálnost obsahu na webové stránce.",
+    "rechte_und_pflichten_der_nutzer_p1_9": "Nejsem zodpovědný za škody vzniklé z používání webové stránky nebo obsahu třetích stran.",
+    "rechte_und_pflichten_der_nutzer_p1_10": "7. Reklamní Partneři a Affiliate Programy",
+    "rechte_und_pflichten_der_nutzer_p1_11": "Reklamní partneři se zavazují propagovat pouze respektovaný a legální povolený obsah.",
+    "rechte_und_pflichten_der_nutzer_p1_12": "media4u.ch si vyhrazuje právo odmítnout obsah, který neodpovídá standardům webové stránky.",
+    "rechte_und_pflichten_der_nutzer_p1_13": "Speciální Podmínky pro Reklamní Partnery:",
+    "rechte_und_pflichten_der_nutzer_p1_14": "Pokud webová stránka není dostupná po dobu jednoho dne nebo déle, chybějící dny budou přidány zdarma k následující rezervaci na minimálně 30 dnů. Toto platí pouze pro placené reklamní prostory a vyžaduje pokračující spolupráci. Oddělené platby nebo kompenzace za nedostupnost jsou vyloučeny.",
+
+    "rechte_und_pflichten_der_nutzer_p2": "Affiliate programy jsou realizovány ve spolupráci s externími poskytovateli. Nejsem zodpovědný za obsah a zásady ochrany osobních údajů těchto poskytovatelů.",
+
+    "verfügbarkeit_der_webseite": "8. Dostupnost Webové Stránky",
+    "verfügbarkeit_der_webseite_p": "Snažím se udržovat webovou stránku nepřetržitě dostupnou. Nicméně nemohu garantovat nepřetržitou dostupnost v případech údržby, technických problémů nebo nepředvídatelných situací.",
+
+    "urheberrecht": "9. Autorská Práva",
+    "urheberrecht_p": "Veškerý obsah na media4u.ch je chráněn autorskými právy. Je zakázáno jej používat bez mého písemného povolení.",
+
+    "änderungen_der_agb": "10. Změny Všeobecných Podmínek",
+    "änderungen_der_agb_p": "Vyhrazuji si právo kdykoliv změnit tyto Všeobecné Podmínky. Změny budou zveřejněny na webové stránce a vstoupí v platnost od data zveřejnění.",
+
+    "gerichtsstand_und_anwendbares_recht": "11. Jurisdikce a Použitelné Právo",
+    "gerichtsstand_und_anwendbares_recht_p": "Švýcarské právo se vztahuje na všechny spory. Soud v Bülach, Švýcarsko, je příslušný k řešení těchto sporů."
+  },
+
+  "cookie": {
+    "title": "Cookies",
+    "content": "Obsah Cookies"
+  },
+
+  "sms_textbild": {
+    "title": "Obrazový Text SMS",
+    "h1": "Obrazové Texty SMS Předefinovány",
+    "p1": "Vzpomínky, které nás spojují. Ikonické obrazové texty SMS z starých telefonů Nokia jako 3210, stejně jako první modely od Ericssonu a Motoroly, definovaly éru. Tato malá mistrovská díla, která byla kdysi posílána přes SMS, se nyní znovu rodí – modernější než kdy dříve.",
+    "p2": "Na mé webové stránce najdete exkluzivně navržené animace obrazových textů, které si můžete snadno užívat a sdílet. Každý obraz je jedinečné umělecké dílo, ručně vytvořené s láskou, aby spojilo kouzlo minulosti s jednoduchostí dneška. Použitý font připomíná klasický font Nokia, ale není identický. Pokud se vám líbí nějaký konkrétní obrazový text, můžete jej sdílet pomocí odkazu – což činí každou zprávu výjimečným zážitkem.",
+
+    "h2": "Každá Animace, Mistrovské Dílo",
+    "p3": "Tyto obrazové texty nejsou jen vzpomínky – jsou to umění. Každá animace je ručně vytvořena a pečlivě navržena, aby znovu interpretovala estetiku klasických obrazových textů SMS.",
+
+    "h3": "Nadčasový Design, Obnovený pro Současnost",
+    "p4": "Obnovil jsem kouzlo klasických obrazových textů. Díky animovaným prezentacím se ikonické návrhy znovu objevují v moderním provedení – což činí nostalgii minulosti znovu zářivou.",
+
+    "h4": "Sdílení Nikdy Nebylo Jednodušší",
+    "p5": "S jedním odkazem neposíláte jen zprávu, ale i zážitek. Nostalgický okamžik, který můžete sdílet s ostatními."
+  },
+
+
+  "textbild2": {
+    "title": "Obrazový Text 2.0",
+    "h1": "Obrazový Text 2.0 Další Evoluce",
+    "p1": "Kreativita předefinována. S Obrazovým Textem 2.0 prochází klasické obrazové texty revolucí. Vylepšené funkce jako překrývající se znaky, různé velikosti a barvy fontů, rotace a zrcadlení, stejně jako volné umístění na obrazovce vytvářejí dosud neviděná umělecká díla.",
+    "p2": "Na mé webové stránce najdete tyto nové, složitější kreace obrazových textů, které můžete prozkoumávat a sdílet. Každé dílo je jedinečným výsledkem kreativity a inovace, které kombinují tradici klasických SMS obrazových textů s možnostmi moderní technologie.",
+
+    "h2": "NOVÝ ROZMÍR UMĚNÍ",
+    "p3": "Obrazový Text 2.0 není jen evolucí – je to nová forma umění. Díky použití barev, proměnlivých velikostí fontů a dynamických prvků ožívá každý obraz jako živé mistrovské dílo, které okouzluje smysly.",
+
+    "h3": "Inovace Setkává Nostalgii",
+    "p4": "Obnovil jsem kouzlo klasických obrazových textů. Pomocí moderní technologie a kreativních designových nástrojů vznikají díla, která kombinují nostalgii minulosti s inovacemi současnosti.",
+
+    "h4": "Sdílejte Svou Vášeň",
+    "p5": "S Obrazovým Textem 2.0 se každá zpráva stává výjimečným zážitkem. Sdílejte tato jedinečná umělecká díla s přáteli a rodinou a zažijte, jak kreativita spojuje lidi."
+  },
+
+
+  "ascii_art_film": {
+    "title": "Film Sztuki ASCII",
+    "h1": "Matrix v Textové Formě: Nový Rozměr ASCII Umění",
+    "p1": "Možná znáte mé první ASCII filmy, které představovaly scény z trilogie Matrix ve unikátní formě textového umění. Tato první díla ukázala, jak složité filmy mohou být prezentovány v minimalistické formě ASCII.",
+
+    "h2": "Nový Pohled: Klasické Scény Matrixu ve Fascinujícím Textovém Světě",
+    "p2": "Nyní představuji vylepšenou verzi těchto děl. Nové ASCII filmy nabízejí ještě podrobnější a vysoce kvalitní ztvárnění ikonických scén z Matrixu. Díky technologickému pokroku tato ASCII umělecká díla poskytují ještě působivější interpretaci klasických filmů, což vám umožňuje zažít Matrix zcela novým způsobem.",
+    "p3": "Cítíte se svobodně sdílet tyto ASCII filmy s přáteli, známými a rodinou, aby si také mohli užít tuto unikátní formu umění."
+  },
+  "matrix": {
+    "title": "Matrix",
+    "bibliothek": "Matrix Knihovna"
+  },
+
+
+  "legal": {
+    "impressum": "Právní Informace",
+    "datenschutz": "Politika Ochrany Soukromí",
+    "cookie": "Cookies",
+    "agb": "Všeobecné Podmínky (V&P)"
+  },
+
+
+  "footer": {
+    "alle_rechte_vorbehalten": "Všechna práva vyhrazena."
+ },
+
+
+
+
+  "neu": {
+    "title": "Novinka"
+  },
+  "liebe_freundschaft": {
+    "title": "Láska a Přátelství",
+    "komm_zu_mir1": "Přijď ke mně 1",
+    "komm_zu_mir1_text1": "Hey, come",
+    "komm_zu_mir1_text2": "to me!",
+
+    "biene1": "Včela 1",
+    "biene1_text1": "I won't sting",
+    "biene1_text2": "you, because",
+    "biene1_text3": "I like you!"
+  },
+  "festtage_party": {
+    "title": "Svátky a Párty",
+
+    "geburtstag1": "Birthday 1",
+    "geburtstag1_text1": "Happy Birthday",
+    "geburtstag1_text2": "to You!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit": {
+    "title": "Volný Čas a Práce",
+
+    "arbeit1": "Práce 1",
+    "arbeit1_text1": "Done for",
+    "arbeit1_text2": "the day!",
+    "arbeit1_text3": "I'm heading",
+    "arbeit1_text4": "home!",
+    "arbeit1_text5": "Bye,",
+    "arbeit1_text6": "see you",
+    "arbeit1_text7": "tomorrow!"
+  },
+  "sport_hobby": {
+    "title": "Sport a Koníčky"
+  },
+  "abenteuer_action": {
+    "title": "Dobrodružství a Akce"
+  },
+  "erotik_sex": {
+    "title": "Erotika a Sex"
+  },
+
+  
+
+  "neu2": {
+    "title": "Novinka"
+  },
+  "liebe_freundschaft2": {
+    "title": "Láska a Přátelství",
+
+    "komm_zu_uns1": "Přidej se k nám 1",
+    "komm_zu_uns1_text1": "Hej, na co se díváš",
+    "komm_zu_uns1_text2": "tam?",
+    "komm_zu_uns1_text3": "Ta osoba",
+    "komm_zu_uns1_text4": "tam!",
+    "komm_zu_uns1_text5": "Celý den kouká",
+    "komm_zu_uns1_text6": "jen na telefon!",
+    "komm_zu_uns1_text7": "Hej, nudíš se?",
+    "komm_zu_uns1_text8": "Tak se přidej k nám! :-)",
+    "komm_zu_uns1_text8_1": "",
+    "komm_zu_uns1_text9": "Uvidíme se brzy!",
+    "komm_zu_uns1_text10": ":-)"
+
+  },
+  "festtage_party2": {
+    "title": "Svátky a Párty",
+
+    "geburtstag1": "Narozeniny 1",
+    "geburtstag1_text1": "Všechno nejlepší k narozeninám!",
+    "geburtstag1_text2": "Tady je tvůj dárek!",
+    "geburtstag1_text3": ""
+  },
+  "freizeit_arbeit2": {
+    "title": "Volný Čas a Práce",
+
+    "arbeit1": "Práce 1",
+    "arbeit1_text1": "Konec dne!",
+    "arbeit1_text2": "Jdu domů.",
+    "arbeit1_text3": "",
+    "arbeit1_text4": "",
+    "arbeit1_text5": "Čau.",
+    "arbeit1_text6": "Zítra na shledanou!",
+    "arbeit1_text7": ""
+  },
+  "sport_hobby2": {
+    "title": "Sport a Koníčky"
+  },
+  "abenteuer_action2": {
+    "title": "Dobrodružství a Akce"
+  },
+  "erotik_sex2": {
+    "title": "Erotika a Sex"
+  },
+
+  "animation_phrases": [
+  "MEDIA4U.CH",
+  "Kód je umění",
+  "Fullstack vývojář",
+  "SMS textové umění",
+  "Bez limitu 160 znaků",
+  "ASCII nostalgi",
+  "Neomezená kreativita",
+  "Moderní textové umění",
+  "Textový obraz 2.0",
+  "Digitální umění",
+  "Typografické umění",
+  "Design znaků",
+  "Vizuální vyprávění",
+  "Filmy ASCII Art",
+  "Pohyblivé ASCII",
+  "Interaktivita",
+  "CSS animace",
+  "React & Vite",
+  "Sémantické HTML5",
+  "CSS Modules",
+  "Manipulace DOM",
+  "Custom Hooks",
+  "Clean Code",
+  "Strapi CMS",
+  "Headless CMS",
+  "REST API",
+  "Docker & NGINX",
+  "Založeno na kontejnerech",
+  "Odolné proti chybám",
+  "Přístupnost (A11y)",
+  "Responzivní design",
+  "Vysoký výkon",
+  "SEO optimalizace",
+  "Bezpečný design",
+  "Neměnné buildy",
+  "Reprodukovatelné",
+  "24 Jazyků",
+  "Mezinárodní",
+  "Inovace",
+  "Webové inženýrství"
+]
+
+}

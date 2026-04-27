@@ -1,0 +1,435 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.contact-form {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.contact-form button {
+    background: #525252;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+}
+.contact-form button:hover {
+    background: Red;
+}
+
+
+.table-container {
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    overflow-x: auto;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #f5f5f5;
+    color: white;
+}
+
+th {
+    padding: 12px;
+    text-align: left;
+    color: black;
+    border: solid 1px #808080;
+}
+
+td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #808080;
+    color: #000000;
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.contact-form input {
+    margin-bottom: 1rem;
+}
+
+/* Responsive Darstellung */
+@media (max-width: 319px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tbody tr {
+        margin-bottom: 10px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        padding: 10px;
+        background: white;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    td {
+        text-align: right;
+        position: relative;
+        padding-left: 50%;
+    }
+
+    td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 10px;
+        font-weight: bold;
+        text-align: left;
+        color: #333;
+    }
+}
+
+
+
+
+
+.aside {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1em;
+    padding-top: calc(min(1em + 2vw, 2em));
+}
+
+.aside .figure {
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    -moz-box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    padding: 0px;
+    margin: 0px;
+    -webkit-border-radius: 0px 0px 6px 6px;
+    -moz-border-radius: 0px 0px 6px 6px;
+    border-radius: 0px 0px 6px 6px;
+}
+
+
+
+.aside .boxWerbepartnerInfo {
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    -moz-box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    box-shadow: 0px 2px 0px 0px rgba(0, 0, 0, 0.50);
+    padding: 0px;
+    margin: 0px;
+    -webkit-border-radius: 0px 0px 6px 6px;
+    -moz-border-radius: 0px 0px 6px 6px;
+    border-radius: 0px 0px 6px 6px;
+}
+
+
+.aside .boxWerbepartnerInfo .figcaption {
+    border-top: 0px solid #FF0000;
+}
+
+
+
+
+
+.aside img {
+    padding: 1rem;
+}
+
+.aside .banner {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+.aside .image-wrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 100%;        /* 1:1 Quadrat */
+  background: #fff;
+  overflow: hidden;
+}
+
+.aside .image-wrapper img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-width: 100%;
+  max-height: 100%;
+  transform: translate(-50%, -50%);
+  object-fit: contain;      /* vollständige Darstellung ohne Beschnitt */
+  display: block;
+}
+
+
+
+
+.aside .figcaption {
+    display: grid;
+    grid-auto-rows: 1fr;
+    align-self: center;
+    padding: 0em 1em 1em 1em;
+    background-color: #FFFFFF;
+    -webkit-border-radius: 0px 0px 6px 6px;
+    -moz-border-radius: 0px 0px 6px 6px;
+    border-radius: 0px 0px 6px 6px;
+    border-top: 3px solid #FF0000;
+}
+
+.aside .figcaption h4 {
+    display: flex;
+    width: 100%;
+    font-size: calc(min(3vw + 2px, 18px));
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+.aside .figcaption a {
+    display: flex;
+    width: 100%;
+    font-size: calc(min(6px + 2vw, 22px));
+    border: 1px solid #000000;
+    background-color: #E8E8E8;
+    padding: 0.5em 1em;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+}
+
+.aside .werbepartnerInfo {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    padding: 1em;
+    background-color: #FFFFFF;
+    align-content: space-evenly;
+    align-items: center;
+}
+
+.aside .werbepartnerInfo h3 {
+    font-size: calc(min(6vw + 2px, 38px));
+    padding-top: 0.5em;
+    padding-bottom: 0em;
+    color: #FF0000;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.aside .werbepartnerInfo p {
+    font-size: calc(min(3vw + 2px, 18px));
+    padding-bottom: 0.5em;
+}
+
+
+.affiliate_marketing_partner_hinweis {
+    padding-top: 1rem;
+    font-size: 0.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ==================== DESKTOPS & LAPTOPS ==================== */
+
+/* Desktops & Laptops */
+@media screen and (min-width: 0px) and (min-height: 0px) and (hover: hover) and (pointer: fine) {
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 11;
+        grid-row-end: 12;
+        align-content: space-between;
+        grid-template-columns: 1fr;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (min-width: 430px) and (min-height: 0px) and (hover: hover) and (pointer: fine) {
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 6;
+        grid-row-end: 7;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 860px) and (min-height: 0px) and (hover: hover) and (pointer: fine) {
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 5;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 1440px) and (min-height: 0px) and (hover: hover) and (pointer: fine) {
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 4;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 1430px) and (min-height: 0px) and (hover: hover) and (pointer: fine) {
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 3;
+        grid-column-end: 5;
+        grid-row-start: 3;
+        grid-row-end: 4;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+
+
+
+
+
+/* ===================== SMARTPHONES (bis 599px Breite) ===================== */
+
+/* Smartphones - Portrait */
+@media screen and (max-width: 599px) and (min-height: 480px) and (orientation: portrait) and (hover: none) and (pointer: coarse) {
+
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 11;
+        grid-row-end: 12;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+}
+
+/* Smartphones - Landscape */
+@media screen and (max-height: 599px) and (min-width: 480px) and (orientation: landscape) and (hover: none) and (pointer: coarse) {
+
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 6;
+        grid-row-end: 7;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+
+
+
+
+
+
+
+/* ===================== TABLETS (600px bis 1366px Breite) ===================== */
+
+/* Tablets - Portrait */
+@media screen and (min-width: 600px) and (max-width: 1366px) and (min-height: 960px) and (orientation: portrait) and (hover: none) and (pointer: coarse) {
+
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 6;
+        grid-row-end: 7;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Tablets - Landscape */
+@media screen and (min-height: 600px) and (max-height: 1366px) and (min-width: 960px) and (orientation: landscape) and (hover: none) and (pointer: coarse) {
+
+    .aside .boxWerbepartnerInfo {
+        display: grid;
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 5;
+        align-content: space-between;
+    }
+    .aside {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+}
