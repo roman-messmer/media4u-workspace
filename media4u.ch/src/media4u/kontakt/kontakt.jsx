@@ -7,6 +7,7 @@ import DynamicSEO from "../../module/DynamicSEO";
 import { sanitizeHtml } from "../../module/utils/sanitizeHtml.js";
 import { useVisibilityObserver } from "../../script/useVisibilityObserver";
 import AsciiArtPortrait from "./ascii-art_portrait";
+import KontaktQR from "./kontakt_qr";
 
 /**
  * Hilfskomponente für E-Mail Branding.
@@ -102,9 +103,13 @@ const Kontakt = () => {
             href={toTelHref(t("kontakt.mobile_value"))} 
             itemProp="telephone"
           >
+            {/* QR-Code */}
             {t("kontakt.mobile_value")}
           </a>
         </div>
+
+        <KontaktQR />
+
       </article>
     </main>
   );

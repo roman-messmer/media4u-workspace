@@ -11,6 +11,8 @@ const NavSubMedia4u = () => {
     { to: "/media4u/werbepartner", labelKey: "nav_sub.werbepartner" },
     { to: "/media4u/affiliate_marketing", labelKey: "nav_sub.affiliate_marketing" },
     { to: "/media4u/front_end_developer", labelKey: "nav_sub.front_end_developer" },
+    { to: "/media4u/ascii_art_generator", labelKey: "nav_sub.ascii_art_generator" },
+    { to: "/media4u/browser_spiele", labelKey: "nav_sub.browser_spiele" },
     { to: "/media4u/kontakt", labelKey: "nav_sub.kontakt" },
   ];
 

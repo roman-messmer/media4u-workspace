@@ -3,28 +3,73 @@ name: Production Deployment
 on:
   push:
     branches: [ main ]
-  workflow_dispatch: # Erlaubt manuelle Deployments via GitHub UI
+  workflow_dispatch:
+    inputs:
+      frontend:
+        description: 'media4u.ch (Frontend)'
+        type: boolean
+        default: false
+      projekte:
+        description: 'Projekte'
+        type: boolean
+        default: false
+      editor:
+        description: 'Editor'
+        type: boolean
+        default: false
+      werbung:
+        description: 'Werbung'
+        type: boolean
+        default: false
+      diverses:
+        description: 'Diverses'
+        type: boolean
+        default: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: 📥 Code auschecken
+        uses: actions/checkout@v4
+      
+      - name: ⚙️ Node.js einrichten
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Setup SSH Key
+      - name: 🔑 Setup SSH Key
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H 46.231.205.201 >> ~/.ssh/known_hosts
 
-      - name: Run Deploy (Editor)
+      # ---------------------------------------------------------
+      # DEPLOYMENT SCHRITTE (Nutzt ab jetzt das Universal-Skript)
+      # ---------------------------------------------------------
+      
+      - name: Deploy Frontend
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.frontend == true)
         shell: pwsh
-        run: ./deploy-github.ps1 -Project "editor" -SshKeyPath "~/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "frontend" -SshKeyPath "$HOME/.ssh/id_rsa"
 
-      - name: Run Deploy (Frontend)
+      - name: Deploy Editor
+        if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.editor == true)
         shell: pwsh
-        run: ./deploy-github.ps1 -Project "frontend" -SshKeyPath "~/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "editor" -SshKeyPath "$HOME/.ssh/id_rsa"
+
+      - name: Deploy Projekte
+        if: github.event_name == 'workflow_dispatch' && inputs.projekte == true
+        shell: pwsh
+        run: ./deploy-universal.ps1 -Project "projekte" -SshKeyPath "$HOME/.ssh/id_rsa"
+
+      - name: Deploy Werbung
+        if: github.event_name == 'workflow_dispatch' && inputs.werbung == true
+        shell: pwsh
+        run: ./deploy-universal.ps1 -Project "werbung" -SshKeyPath "$HOME/.ssh/id_rsa"
+
+      - name: Deploy Diverses
+        if: github.event_name == 'workflow_dispatch' && inputs.diverses == true
+        shell: pwsh
+        run: ./deploy-universal.ps1 -Project "diverses" -SshKeyPath "$HOME/.ssh/id_rsa"
