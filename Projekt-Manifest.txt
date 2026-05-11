@@ -19,6 +19,7 @@
 * Sicherheit: Konsequente HTML-Reinigung mit DOMPurify (3.3.3) gegen XSS-Schwachstellen.
 * Performance: Optimierung durch Vite-Builds, Lazy Loading und Überwachung via web-vitals.
 * Resiliente API-Integration: Nutzung von AbortController für saubere Abbrüche und klare UI-Error-States.
+* DevOps: git-sync.ps1 automatisiert den gesamten Git-Workflow (Add/Commit/Push) für konsistente Cloud-Synchronisation.
 * DevOps: Universal-Deployment-Skript garantiert reproduzierbare Builds und schützt vor Ausfällen durch automatisierte Integritätsprüfungen.
 
 # 🧠 KI-gestützte Entwicklung & Philosophie

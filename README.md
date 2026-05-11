@@ -17,6 +17,7 @@ Die Infrastruktur nutzt eine **native Host-NGINX-Architektur** für maximale Per
 Ein zentrales Deployment-System (`deploy-universal.ps1`) stellt sicher, dass kein Code live geht, der die Qualitätssicherung nicht besteht.
 
 **Automatisierter Workflow:**
+0.  **Git-Synchronisation:** Schneller Upload via `git-sync.ps1` (Add -> Commit -> Push).
 1.  **Umgebungserkennung:** Automatische Unterscheidung zwischen lokaler Windows-Ebene und GitHub Actions.
 2.  **Test-Validierung:** Build-Stop bei fehlerhaften Tests zum Schutz der Live-Seite.
 3.  **Sichere Paketierung:** Erstellung von `.tgz`-Artefakten inklusive Timestamp.
