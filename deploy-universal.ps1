@@ -90,10 +90,10 @@ if ($LASTEXITCODE -ne 0) { throw "FEHLER: Verpacken mit tar fehlgeschlagen!" }
 # ---------------------------------------------------------
 # 4. TRANSFER & SERVER SWAP
 # ---------------------------------------------------------
-# Authentifizierung vorbereiten (auf GitHub mit Key, Lokal nach System-Standard)
+# Authentifizierung vorbereiten
 $SshAuth = if ($IsGitHub -and (Test-Path $SshKeyPath)) { @("-i", $SshKeyPath) } else { @() }
 
-# Excludes schützen Unterordner, wenn das Haupt-Frontend deployt wird
+# Excludes schützen Unterordner (nur beim Frontend nötig)
 $Excludes = if ($Project -eq "frontend") {
     "--exclude=/projekte/** --exclude=/editor/** --exclude=/werbung/** --exclude=/diverses/** --exclude=/projekte --exclude=/editor --exclude=/werbung --exclude=/diverses"
 } else { "" }
@@ -101,32 +101,41 @@ $Excludes = if ($Project -eq "frontend") {
 $RemoteScript = @"
 set -e
 TARGET="$TargetRemote"
-PKG="$RemoteBase/$PkgName"
-TMP="\`$TARGET-tmp-new"
+PKG="`$HOME/$PkgName"
+TMP="`$TARGET-tmp-new"
 
-[ -f "\`$PKG" ] || { echo "FEHLER: Paket nicht gefunden auf Server"; exit 1; }
-
-mkdir -p "\`$TARGET" "\`$TMP"
-rm -rf "\`$TMP"/*
-tar -xzf "\`$PKG" -C "\`$TMP"
-rm -f "\`$PKG"
-
-if command -v rsync >/dev/null 2>&1; then
-    rsync -rltD --delete --omit-dir-times --no-perms --no-owner --no-group $Excludes "\`$TMP"/ "\`$TARGET"/
-else
-    cp -a "\`$TMP"/. "\`$TARGET"/
+if [[ ! -f "`$PKG" ]]; then
+    echo "FEHLER: Paket nicht gefunden in `$HOME"
+    exit 1
 fi
 
-rm -rf "\`$TMP"
+# Sicherstellen, dass das Zielverzeichnis existiert und beschreibbar ist
+mkdir -p "`$TARGET"
 
-if [ -d "$RemoteBase" ] && [ "$Project" == "frontend" ]; then
-    cd "$RemoteBase"
+# Temporären Ordner für sauberes Entpacken nutzen
+rm -rf "`$TMP"
+mkdir -p "`$TMP"
+tar -xzf "`$PKG" -C "`$TMP"
+rm -f "`$PKG"
+
+# Synchronisation mit rsync
+if command -v rsync >/dev/null 2>&1; then
+    # -a (archive) und -v (verbose) für bessere Fehlerdiagnose hinzugefügt
+    rsync -avz --delete --omit-dir-times --no-perms --no-owner --no-group $Excludes "`$TMP"/ "`$TARGET"/
+else
+    cp -a "`$TMP"/. "`$TARGET"/
+fi
+
+rm -rf "`$TMP"
+
+if [[ "$Project" == "frontend" ]]; then
+    cd "/srv/media4u/deploy"
     docker compose up -d --force-recreate frontend || true
 fi
 "@
 
-Write-Host "==> Lade Paket auf Server hoch..." -ForegroundColor Cyan
-& scp @SshAuth $LocalPkg "${User}@${Server}:${RemoteBase}/"
+Write-Host "==> Lade Paket sicher in Home-Verzeichnis hoch..." -ForegroundColor Cyan
+& scp @SshAuth $LocalPkg "${User}@${Server}:~/"
 if ($LASTEXITCODE -ne 0) { throw "FEHLER: Upload per scp fehlgeschlagen!" }
 
 Write-Host "==> Führe Remote-Swap aus..." -ForegroundColor Cyan

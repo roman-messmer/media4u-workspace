@@ -1,11 +1,28 @@
-Projekt	Befehl für die PowerShell
+# ==============================================================================
+# Media4u – PowerShell Quick-Commands (Universal Deployment)
+# ==============================================================================
 
-Hauptseite	.\deploy-github.ps1 -Project "frontend" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+# Das Skript erkennt die Umgebung (Lokal/GitHub) automatisch.
+# Standard-SshKeyPath: $env:USERPROFILE\.ssh\id_rsa
 
-Editor		.\deploy-github.ps1 -Project "editor" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+# --- Projekt-Deployments ---
 
-Projekte	.\deploy-github.ps1 -Project "projekte" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+# Hauptseite (media4u.ch)
+.\deploy-universal.ps1 -Project "frontend"
 
-Werbung		.\deploy-github.ps1 -Project "werbung" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+# WebEditor (editor.media4u.ch)
+.\deploy-universal.ps1 -Project "editor"
 
-Diverses	.\deploy-github.ps1 -Project "diverses" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+# Projekte (projekte.media4u.ch)
+.\deploy-universal.ps1 -Project "projekte"
+
+# Werbung (werbung.media4u.ch)
+.\deploy-universal.ps1 -Project "werbung"
+
+# Diverses (diverses.media4u.ch)
+.\deploy-universal.ps1 -Project "diverses"
+
+# --- Infrastruktur-Steuerung ---
+
+# Öffnet das Menü für Docker-Container (Strapi)
+.\restart-docker.ps1
