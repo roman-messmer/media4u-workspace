@@ -19,15 +19,12 @@
 }
 
 .fullscreen-overlay__content {
-  position: relative; /* Wichtig, damit das Icon absolut hierzu positioniert werden kann */
-  width: 90%;
-  max-width: 1200px;
-  height: 80vh;
-  background-color: #ffffff; /* Heller Hintergrund */
-  color: #333333; /* Dunkler Text */
-  border-radius: 12px;
-  padding: 2.5rem;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  color: #333;
+  padding: 1rem;
   overflow-y: auto;
 }
 
@@ -68,4 +65,27 @@
 .fullscreen-overlay__text {
   color: #555555; /* Lesbares Dunkelgrau für Fließtext */
   line-height: 1.6;
+}
+
+.fullscreen-overlay__content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  color: #333;
+  padding: 1rem;
+  
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; 
+}
+
+.fullscreen-overlay__body {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column; 
+  background-color: #020617;
+  border-radius: 8px; 
+  overflow: hidden;
 }

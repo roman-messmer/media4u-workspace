@@ -1,12 +1,13 @@
+// Generator.jsx
 import React from 'react';
 import "./generator.css"; 
+import AsciiStudio from './AsciiStudio'; // Den aufgeteilten Code importieren
 
 const Generator = ({ onClose }) => {
   return (
     <dialog className="fullscreen-overlay" open aria-modal="true">
-      
       <article className="fullscreen-overlay__content">
-        {/* Schließen-Icon jetzt INNERHALB der weißen Box */}
+        
         <button 
           className="fullscreen-overlay__close-btn" 
           onClick={onClose}
@@ -21,12 +22,13 @@ const Generator = ({ onClose }) => {
         <header className="fullscreen-overlay__header">
           <h3 className="fullscreen-overlay__title">ASCII Art Generator</h3>
         </header>
+        
         <div className="fullscreen-overlay__body">
-          <p className="fullscreen-overlay__text">Hier entsteht der Arbeitsbereich für die Bildumwandlung.</p>
-          {/* Hier kommen später Canvas, File-Upload etc. hin */}
+          {/* Die ausgelagerte App wird hier gerendert */}
+          <AsciiStudio />
         </div>
-      </article>
 
+      </article>
     </dialog>
   );
 };
