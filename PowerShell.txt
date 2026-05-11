@@ -1,0 +1,11 @@
+Projekt	Befehl für die PowerShell
+
+Hauptseite	.\deploy-github.ps1 -Project "frontend" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+
+Editor		.\deploy-github.ps1 -Project "editor" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+
+Projekte	.\deploy-github.ps1 -Project "projekte" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+
+Werbung		.\deploy-github.ps1 -Project "werbung" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"
+
+Diverses	.\deploy-github.ps1 -Project "diverses" -SshKeyPath "$env:USERPROFILE\.ssh\id_rsa"

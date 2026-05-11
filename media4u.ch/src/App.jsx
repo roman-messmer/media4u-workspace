@@ -38,6 +38,10 @@ import Impressum from './media4u/impressum/impressum';
 import Datenschutz from './media4u/datenschutz/datenschutz';
 import Cookie from './media4u/cookie/cookie';
 import Agb from './media4u/agb/agb';
+import AsciiArtGenerator from "./media4u/ascii_art_generator/ascii_art_generator";
+import Generator from "./media4u/ascii_art_generator/generator";
+import BrowserSpiele from './media4u/browser_spiele/browser_spiele';
+
 
 import SmsTextbild from './sms_textbild/sms_textbild';
 import Neu from './sms_textbild/neu';
@@ -184,6 +188,8 @@ function AppContent() {
               element={<FrontEndDeveloper />}
             />
             <Route path="/media4u/kontakt" element={<Kontakt />} />
+            <Route path="/media4u/ascii_art_generator" element={<AsciiArtGenerator />} />
+            <Route path="/media4u/browser_spiele" element={<BrowserSpiele />} />
             <Route path="/media4u/impressum" element={<Impressum />} />
             <Route path="/media4u/datenschutz" element={<Datenschutz />} />
             <Route path="/media4u/cookie" element={<Cookie />} />

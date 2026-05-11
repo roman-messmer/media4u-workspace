@@ -1,0 +1,71 @@
+/* ==========================================================================
+   BLOCK: fullscreen-overlay (Der Generator selbst - Light Mode)
+   ========================================================================== */
+.fullscreen-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  border: none;
+  /* Etwas helleres Overlay, damit die Seite im Hintergrund leicht durchschimmert */
+  background-color: rgba(0, 0, 0, 0.6); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.fullscreen-overlay__content {
+  position: relative; /* Wichtig, damit das Icon absolut hierzu positioniert werden kann */
+  width: 90%;
+  max-width: 1200px;
+  height: 80vh;
+  background-color: #ffffff; /* Heller Hintergrund */
+  color: #333333; /* Dunkler Text */
+  border-radius: 12px;
+  padding: 2.5rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+}
+
+.fullscreen-overlay__close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: transparent;
+  border: none;
+  color: #666666; /* Dunkelgraues Icon */
+  cursor: pointer;
+  padding: 0.5rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.fullscreen-overlay__close-btn:hover {
+  color: #ff0000; /* Wird rot beim Hovern */
+  transform: scale(1.1);
+}
+
+.fullscreen-overlay__icon {
+  display: block;
+}
+
+.fullscreen-overlay__header {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0; /* Helle Trennlinie */
+  padding-bottom: 1rem;
+  padding-right: 2rem; /* Platz lassen für das Schließen-Icon */
+}
+
+.fullscreen-overlay__title {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #111111; /* Fast Schwarz für starken Kontrast */
+}
+
+.fullscreen-overlay__text {
+  color: #555555; /* Lesbares Dunkelgrau für Fließtext */
+  line-height: 1.6;
+}

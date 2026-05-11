@@ -37,8 +37,12 @@
     "werbepartner": "Mitra Iklan",
     "affiliate_marketing": "Pemasaran Afiliasi",
     "front_end_developer": "Pengembang Frontend",
+    "ascii_art_generator": "Pembuat Seni ASCII",
+    "browser_spiele": "Game Browser",
     "kontakt": "Kontak",
+
     "matrix": "Matrix",
+
     "sms_textbild": {
       "neu": "Baru",
       "liebe_freundschaft": "Cinta dan Persahabatan",
@@ -48,6 +52,7 @@
       "abenteuer_action": "Petualangan dan Aksi",
       "erotik_sex": "Erotika dan Seks"
     },
+
     "textbild2": {
       "neu2": "Baru",
       "liebe_freundschaft2": "Cinta dan Persahabatan",
@@ -58,6 +63,7 @@
       "erotik_sex2": "Erotika dan Seks"
     }
   },
+
   "media4u": {
     "title": "MEDIA4U",
     "h1": "Seni digital modern dan media komunikasi inovatif",
@@ -69,6 +75,7 @@
     "h4": "Teknologi bertemu seni digital",
     "p4": "Situs web ini, dikembangkan dengan JavaScript dan React, menggabungkan pengembangan web modern dengan hasrat saya untuk seni digital. Dengan teknologi ini, gambar teks SMS dan karya seni ASCII saya diciptakan dalam format inovatif. Mereka menunjukkan bagaimana teknologi dan kreativitas bergabung untuk menciptakan pengalaman digital yang unik."
   },
+
   "werbepartner": {
     "title": "Mitra Iklan",
     "h1": "Tingkatkan jangkauan Anda – Beriklan di situs saya!",
@@ -94,6 +101,7 @@
     "h6": "Tertarik?",
     "p6": "Kirim pesan jika Anda membutuhkan informasi lebih lanjut atau ingin langsung memesan ruang iklan. Saya menantikan untuk mendukung perjalanan sukses Anda!"
   },
+
   "werbepartner_info": {
     "title": "Mitra Iklan - Info",
     "content_h3": "Amankan ruang iklan!",
@@ -101,6 +109,7 @@
     "content_button": "Lihat Penawaran",
     "content_button_info": "Amankan Sekarang"
   },
+
   "affiliate_marketing": {
     "title": "Pemasaran Afiliasi",
     "h1": "Tautan afiliasi dan transparansi di situs saya",
@@ -118,9 +127,11 @@
     "h7": "Transparansi dan Kepercayaan",
     "p7": "Tujuan saya adalah berkomunikasi secara transparan dan jujur. Jika Anda memiliki pertanyaan tentang tautan afiliasi atau kemitraan saya, jangan ragu untuk menghubungi saya. Saya menghargai kepercayaan Anda!"
   },
+
   "affiliate_marketing_partner": {
     "hinweis": "* Sebagai Mitra Amazon, saya mendapatkan komisi dari penjualan yang memenuhi syarat."
   },
+
   "front_end_developer": {
     "title": "Pengembang Frontend",
     "projekt_title_h2": "Penasaran dengan proyek saya?",
@@ -148,11 +159,13 @@
     "p7": "Hubungi saya — saya menantikan proyek yang menantang!",
     "kontakt_link": "<< Klik di sini untuk Kontak >>"
   },
+
   "kontakt": {
     "title": "Kontak",
     "email": "Surel",
     "mobile": "Mobile"
   },
+
   "impressum": {
     "title": "Impressum",
     "kontakt": "Kontak",
@@ -174,6 +187,7 @@
     "datenschutz": "Privasi",
     "datenschutz_p": "Informasi tentang pengumpulan, pemrosesan, dan penggunaan data pribadi dapat ditemukan di Kebijakan Privasi saya."
   },
+
   "datenschutz": {
     "title": "Kebijakan Privasi",
     "title_p": "Perlindungan data pribadi Anda sangat penting bagi saya. Dalam Kebijakan Privasi ini saya menjelaskan data apa yang dikumpulkan, diproses, dan disimpan di situs saya, serta hak Anda atas data tersebut.",
@@ -223,6 +237,7 @@
     "änderungen_dieser_datenschutzerklärung": "9. Perubahan Kebijakan Privasi",
     "änderungen_dieser_datenschutzerklärung_p": "Kebijakan Privasi ini dapat diperbarui sesuai kebutuhan untuk mematuhi persyaratan hukum atau perubahan situs."
   },
+
   "agb": {
     "title": "Syarat dan Ketentuan Umum (AGB)",
     "title_p1": "Berlaku sejak: [Masukkan tanggal]",
@@ -271,10 +286,12 @@
     "gerichtsstand_und_anwendbares_recht": "11. Yurisdiksi dan Hukum yang Berlaku",
     "gerichtsstand_und_anwendbares_recht_p": "Sengketa apa pun tunduk pada hukum Swiss. Tempat pengadilan adalah Bülach, Swiss."
   },
+
   "cookie": {
     "title": "Cookie",
     "content": "Isi Cookie"
   },
+
   "sms_textbild": {
     "title": "Gambar Teks SMS",
     "h1": "Gambar Teks SMS Ditafsirkan Ulang",
@@ -287,6 +304,7 @@
     "h4": "Berbagi Jadi Lebih Mudah",
     "p5": "Dengan satu tautan, Anda tidak hanya mengirim pesan, tetapi pengalaman. Sebuah momen nostalgia untuk Anda bagikan dengan orang lain."
   },
+
   "textbild2": {
     "title": "Gambar Teks 2.0",
     "h1": "Gambar Teks 2.0 Evolusi Berikutnya",
@@ -299,6 +317,7 @@
     "h4": "BAGIKAN ANTUSIASME ANDA",
     "p5": "Dengan Gambar Teks 2.0, setiap pesan menjadi pengalaman istimewa. Bagikan karya unik ini dengan teman dan keluarga, dan rasakan bagaimana kreativitas menghubungkan orang."
   },
+
   "ascii_art_film": {
     "title": "Film ASCII Art",
     "h1": "The Matrix dalam Bentuk Teks: Dimensi Baru Seni ASCII",
@@ -307,10 +326,12 @@
     "p2": "Sekarang saya hadirkan versi yang ditingkatkan dari karya tersebut. Film ASCII baru ini menawarkan representasi yang lebih detail dan berkualitas tinggi dari adegan-adegan ikonik Matrix. Dengan kemajuan teknik, karya seni ASCII ini memberikan interpretasi yang lebih mengesankan dari film klasik dan memungkinkan Anda merasakan Matrix dengan cara baru.",
     "p3": "Silakan bagikan film ASCII ini kepada teman, kenalan, dan keluarga Anda, agar mereka juga dapat menikmati seni unik ini."
   },
+
   "matrix": {
     "title": "The Matrix",
     "bibliothek": "Perpustakaan Matrix"
   },
+
   "legal": {
     "impressum": "Impressum",
     "datenschutz": "Privasi",
@@ -325,6 +346,7 @@
   "neu": {
     "title": "Baru"
   },
+
   "liebe_freundschaft": {
     "title": "Cinta dan Persahabatan",
     "komm_zu_mir1": "Datanglah Padaku 1",
@@ -335,6 +357,7 @@
     "biene1_text2": "menyengatmu karena",
     "biene1_text3": "Aku menyukaimu!"
   },
+
   "festtage_party": {
     "title": "Hari Raya dan Pesta",
     "geburtstag1": "Ulang Tahun 1",
@@ -342,6 +365,7 @@
     "geburtstag1_text2": "ulang",
     "geburtstag1_text3": "tahun!"
   },
+
   "freizeit_arbeit": {
     "title": "Waktu Luang dan Pekerjaan",
     "arbeit1": "Pekerjaan 1",
@@ -351,18 +375,23 @@
     "arbeit1_text6": "Dadah,",
     "arbeit1_text7": "sampai besok!"
   },
+
   "sport_hobby": {
     "title": "Olahraga dan Hobi"
   },
+
   "abenteuer_action": {
     "title": "Petualangan dan Aksi"
   },
+
   "erotik_sex": {
     "title": "Erotika dan Seks"
   },
+
   "neu2": {
     "title": "Baru"
   },
+
   "liebe_freundschaft2": {
     "title": "Cinta dan Persahabatan",
     "komm_zu_uns1": "Datanglah ke Kami 1",
@@ -376,6 +405,7 @@
     "komm_zu_uns1_text9": "Sampai jumpa!",
     "komm_zu_uns1_text10": ":-)"
   },
+
   "festtage_party2": {
     "title": "Hari Raya dan Pesta",
     "geburtstag1": "Ulang Tahun 1",
@@ -383,6 +413,7 @@
     "geburtstag1_text2": "ulang tahun",
     "geburtstag1_text3": "Ini hadiahnya!"
   },
+
   "freizeit_arbeit2": {
     "title": "Freizeit und Arbeit",
     "arbeit1": "Arbeit 1",
@@ -394,12 +425,15 @@
     "arbeit1_text6": "bis morgen!",
     "arbeit1_text7": ""
   },
+
   "sport_hobby2": {
     "title": "Olahraga dan Hobi"
   },
+
   "abenteuer_action2": {
     "title": "Petualangan dan Aksi"
   },
+  
   "erotik_sex2": {
     "title": "Erotika dan Seks"
   },

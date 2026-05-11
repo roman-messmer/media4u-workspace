@@ -46,7 +46,7 @@ jobs:
           ssh-keyscan -H 46.231.205.201 >> ~/.ssh/known_hosts
 
       # ---------------------------------------------------------
-      # DEPLOYMENT SCHRITTE (Kombiniert für Push & Checkboxen)
+      # DEPLOYMENT SCHRITTE (Nutzt ab jetzt das Universal-Skript)
       # ---------------------------------------------------------
       
       - name: Deploy Frontend
