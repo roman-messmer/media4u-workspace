@@ -2,25 +2,21 @@
 # Media4u – PowerShell Quick-Commands (Universal Deployment)
 # ==============================================================================
 
-# Das Skript erkennt die Umgebung (Lokal/GitHub) automatisch.
-# Standard-SshKeyPath: $env:USERPROFILE\.ssh\id_rsa
+# --- Git-Automatisierung ---
+
+# Führt add, commit und push in einem Schritt aus
+.\git-sync.ps1
 
 # --- Projekt-Deployments ---
 
-# Hauptseite (media4u.ch)
-.\deploy-universal.ps1 -Project "frontend"
+# Das Skript erkennt die Umgebung (Lokal/GitHub) automatisch.
+# Standard-SshKeyPath: $env:USERPROFILE\.ssh\id_rsa
 
-# WebEditor (editor.media4u.ch)
-.\deploy-universal.ps1 -Project "editor"
-
-# Projekte (projekte.media4u.ch)
-.\deploy-universal.ps1 -Project "projekte"
-
-# Werbung (werbung.media4u.ch)
-.\deploy-universal.ps1 -Project "werbung"
-
-# Diverses (diverses.media4u.ch)
-.\deploy-universal.ps1 -Project "diverses"
+.\deploy-universal.ps1 -Project "frontend"  # Hauptseite (media4u.ch)
+.\deploy-universal.ps1 -Project "editor"    # WebEditor (editor.media4u.ch)
+.\deploy-universal.ps1 -Project "projekte"  # Projekte (projekte.media4u.ch)
+.\deploy-universal.ps1 -Project "werbung"   # Werbung (werbung.media4u.ch)
+.\deploy-universal.ps1 -Project "diverses"  # Diverses (diverses.media4u.ch)
 
 # --- Infrastruktur-Steuerung ---
 
