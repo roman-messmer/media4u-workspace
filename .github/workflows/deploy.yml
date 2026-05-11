@@ -53,24 +53,24 @@ jobs:
         if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.frontend == true)
         shell: pwsh
         # Nutzt $HOME statt ~, damit dein PS1-Skript den Pfad auf Linux und Windows versteht
-        run: ./deploy-github.ps1 -Project "frontend" -SshKeyPath "$HOME/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "frontend" -SshKeyPath "$HOME/.ssh/id_rsa"
 
       - name: Deploy Editor
         if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.editor == true)
         shell: pwsh
-        run: ./deploy-github.ps1 -Project "editor" -SshKeyPath "$HOME/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "editor" -SshKeyPath "$HOME/.ssh/id_rsa"
 
       - name: Deploy Projekte
         if: github.event_name == 'workflow_dispatch' && inputs.projekte == true
         shell: pwsh
-        run: ./deploy-github.ps1 -Project "projekte" -SshKeyPath "$HOME/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "projekte" -SshKeyPath "$HOME/.ssh/id_rsa"
 
       - name: Deploy Werbung
         if: github.event_name == 'workflow_dispatch' && inputs.werbung == true
         shell: pwsh
-        run: ./deploy-github.ps1 -Project "werbung" -SshKeyPath "$HOME/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "werbung" -SshKeyPath "$HOME/.ssh/id_rsa"
 
       - name: Deploy Diverses
         if: github.event_name == 'workflow_dispatch' && inputs.diverses == true
         shell: pwsh
-        run: ./deploy-github.ps1 -Project "diverses" -SshKeyPath "$HOME/.ssh/id_rsa"
+        run: ./deploy-universal.ps1 -Project "diverses" -SshKeyPath "$HOME/.ssh/id_rsa"
