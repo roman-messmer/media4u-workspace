@@ -52,6 +52,7 @@ jobs:
       - name: Deploy Frontend
         if: github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.frontend == true)
         shell: pwsh
+        # Nutzt $HOME statt ~, damit dein PS1-Skript den Pfad auf Linux und Windows versteht
         run: ./deploy-universal.ps1 -Project "frontend" -SshKeyPath "$HOME/.ssh/id_rsa"
 
       - name: Deploy Editor
