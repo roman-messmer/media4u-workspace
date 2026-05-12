@@ -37,7 +37,7 @@ function resolveContent(apiResponse) {
       p_content_strategie: root.p_content_strategie ?? '',
       h2_backend: root.h2_backend ?? '',
       ul_backend: root.ul_backend ?? '',
-      h2_practices: root.h2_practices ?? '',
+      h2_architektur_qualitaesanspruch: root.h2_architektur_qualitaesanspruch ?? '',
       ul_practices: root.ul_practices ?? '',
       h2_KI_anwendung: root.h2_KI_anwendung ?? '',
       p_KI_anwendung: root.p_KI_anwendung ?? '',
@@ -211,7 +211,7 @@ const FrontEndDeveloper = () => {
             </section>
 
             <section>
-              <h3>{content.h2_practices}</h3>
+              <h3>{content.h2_architektur_qualitaesanspruch}</h3>
               <ul className="bullet-list" dangerouslySetInnerHTML={sanitized.ul_practices} />
             </section>
 
