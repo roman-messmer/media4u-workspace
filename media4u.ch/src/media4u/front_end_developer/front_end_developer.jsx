@@ -33,6 +33,8 @@ function resolveContent(apiResponse) {
       h2_fokus: root.h2_fokus ?? '',
       h2_frontend: root.h2_frontend ?? '',
       ul_frontend: root.ul_frontend ?? '',
+      h2_content_strategie: root.h2_content_strategie ?? '',
+      p_content_strategie: root.p_content_strategie ?? '',
       h2_backend: root.h2_backend ?? '',
       ul_backend: root.ul_backend ?? '',
       h2_practices: root.h2_practices ?? '',
@@ -154,7 +156,7 @@ const FrontEndDeveloper = () => {
       'ul_frontend', 'ul_backend', 'ul_practices', 'ul_partner', 'div_projekte', 'ul_KI_anwendung',
       'p_frontend_entwickler', 'p_anspruch_1', 'p_anspruch_2', 'p_KI_anwendung',
       'p_perspektiven_1', 'p_perspektiven_2', 'p_partner',
-      'p_interesse_1', 'p_interesse_2',
+      'p_interesse_1', 'p_interesse_2', 'p_content_strategie'
     ],
     []
   );
@@ -196,6 +198,11 @@ const FrontEndDeveloper = () => {
             <section>
               <h3>{content.h2_frontend}</h3>
               <ul className="bullet-list tech-icon-list" dangerouslySetInnerHTML={sanitized.ul_frontend} />
+            </section>
+
+            <section>
+              <h3>{content.h2_content_strategie}</h3>
+              <p className="bullet-list tech-icon-list" dangerouslySetInnerHTML={sanitized.p_content_strategie} />
             </section>
 
             <section>
