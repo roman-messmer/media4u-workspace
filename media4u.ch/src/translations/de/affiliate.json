@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Affiliate Marketing</h1>",
+    "    <h2>Affiliate-Links und Transparenz auf meiner Webseite</h2>",
+    "    <p>Auf meiner Webseite nutze ich Affiliate-Links, um euch passende Produkte und Dienstleistungen vorzustellen. Dabei ist mir Transparenz besonders wichtig. Im Folgenden erkläre ich, wie Affiliate-Links funktionieren und was das für euch bedeutet.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Affiliate Marketing\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>Was sind Affiliate-Links?</h2>",
+    "    <p>Affiliate-Links sind spezielle Links, die zu Produkten oder Dienstleistungen von Partnerunternehmen führen. Wenn ihr über einen solchen Link etwas kauft, erhalte ich eine Provision. Für euch entstehen dabei keine zusätzlichen Kosten.</p>",
+    "    <h2>Warum verwende ich Affiliate-Links?</h2>",
+    "    <p>Die Nutzung von Affiliate-Links hilft mir, die Webseite zu betreiben und die Inhalte kostenlos zur Verfügung zu stellen. Ich wähle meine Partner und die empfohlenen Produkte sorgfältig aus und achte darauf, dass sie zu den Themen und Interessen meiner Besucher passen.</p>",
+    "    <h2>Wie funktioniert das Tracking?</h2>",
+    "    <p>Um nachzuvollziehen, dass der Kauf über meinen Link erfolgt ist, setzen meine Partnerunternehmen Cookies ein. Diese speichern für eine begrenzte Zeit Informationen, wenn ihr auf einen Affiliate-Link klickt. Nähere Informationen dazu findet ihr in meiner Datenschutzerklärung.</p>",
+    "    <h2>Keine Nachteile für euch</h2>",
+    "    <p>Wichtig zu wissen: Für euch entstehen durch das Klicken auf Affiliate-Links keine Nachteile. Die Preise der Produkte oder Dienstleistungen bleiben unverändert, und es gibt keinerlei versteckte Gebühren.</p>",
+    "    <h2>Haftungsausschluss</h2>",
+    "    <p>Ich empfehle nur Produkte und Dienstleistungen, von denen ich überzeugt bin. Dennoch übernehme ich keine Haftung für die Qualität oder die Verfügbarkeit der beworbenen Angebote, da diese von meinen Partnern bereitgestellt werden.</p>",
+    "    <h2>Transparenz und Vertrauen</h2>",
+    "    <p>Mein Ziel ist es, transparent und ehrlich mit euch zu kommunizieren. Solltet ihr Fragen zu den Affiliate-Links oder meinen Partnerschaften haben, zögert nicht, mich zu kontaktieren. Ich schätze euer Vertrauen in meine Empfehlungen!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

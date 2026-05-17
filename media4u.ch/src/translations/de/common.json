@@ -121,33 +121,6 @@
     "content_button_info": "Jetzt sichern"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marketing",
-    "h1": "Affiliate-Links und Transparenz auf meiner Webseite",
-    "p1": "Auf meiner Webseite nutze ich Affiliate-Links, um euch passende Produkte und Dienstleistungen vorzustellen. Dabei ist mir Transparenz besonders wichtig. Im Folgenden erkläre ich, wie Affiliate-Links funktionieren und was das für euch bedeutet.",
-
-    "h2": "Was sind Affiliate-Links?",
-    "p2": "Affiliate-Links sind spezielle Links, die zu Produkten oder Dienstleistungen von Partnerunternehmen führen. Wenn ihr über einen solchen Link etwas kauft, erhalte ich eine Provision. Für euch entstehen dabei keine zusätzlichen Kosten.",
-
-    "h3": "Warum verwende ich Affiliate-Links?",
-    "p3": "Die Nutzung von Affiliate-Links hilft mir, die Webseite zu betreiben und die Inhalte kostenlos zur Verfügung zu stellen. Ich wähle meine Partner und die empfohlenen Produkte sorgfältig aus und achte darauf, dass sie zu den Themen und Interessen meiner Besucher passen.",
-
-    "h4": "Wie funktioniert das Tracking?",
-    "p4": "Um nachzuvollziehen, dass der Kauf über meinen Link erfolgt ist, setzen meine Partnerunternehmen Cookies ein. Diese speichern für eine begrenzte Zeit Informationen, wenn ihr auf einen Affiliate-Link klickt. Nähere Informationen dazu findet ihr in meiner Datenschutzerklärung.",
-
-    "h5": "Keine Nachteile für euch",
-    "p5": "Wichtig zu wissen: Für euch entstehen durch das Klicken auf Affiliate-Links keine Nachteile. Die Preise der Produkte oder Dienstleistungen bleiben unverändert, und es gibt keinerlei versteckte Gebühren.",
-
-    "h6": "Haftungsausschluss",
-    "p6": "Ich empfehle nur Produkte und Dienstleistungen, von denen ich überzeugt bin. Dennoch übernehme ich keine Haftung für die Qualität oder die Verfügbarkeit der beworbenen Angebote, da diese von meinen Partnern bereitgestellt werden.",
-
-    "h7": "Transparenz und Vertrauen",
-    "p7": "Mein Ziel ist es, transparent und ehrlich mit euch zu kommunizieren. Solltet ihr Fragen zu den Affiliate-Links oder meinen Partnerschaften haben, zögert nicht, mich zu kontaktieren. Ich schätze euer Vertrauen in meine Empfehlungen!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
     "title": "Frontend Entwickler",
