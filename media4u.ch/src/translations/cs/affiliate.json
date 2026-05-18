@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Affiliate marketing</h1>",
     "    <h2>Affiliate odkazy a transparentnost na mém webu</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Transparentnost a důvěra</h2>",
     "    <p>Mým cílem je komunikovat s vámi transparentně a upřímně. Pokud máte jakékoli dotazy ohledně affiliate odkazů nebo mých partnerství, neváhejte mě kontaktovat. Oceňuji vaši důvěru v má doporučení!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Jako partner společnosti Amazon vydělávám na kvalifikovaných nákupech.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }
