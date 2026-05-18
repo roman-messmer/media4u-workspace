@@ -5,9 +5,9 @@ import { QRCodeSVG } from "qrcode.react";
 import "./kontakt_qr.css";
 
 const KontaktQR = () => {
-  const { t } = useTranslation();
+  // Namespace explizit auf 'kontakt' setzen
+  const { t } = useTranslation('kontakt');
   
-  // Dynamische URL-Generierung, funktioniert auf Localhost und Live-Server
   const vcfUrl = `${window.location.origin}/Roman_Messmer.vcf?v=2`;
   const logoUrl = "/vcf_logo.jpg";
 
