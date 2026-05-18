@@ -1,4 +1,3 @@
-// src/components/pages/Kontakt.jsx
 import React, { useMemo } from "react";
 import { useTranslation } from "react-i18next";
 import "./kontakt.css";
@@ -7,111 +6,49 @@ import DynamicSEO from "../../module/DynamicSEO";
 import { sanitizeHtml } from "../../module/utils/sanitizeHtml.js";
 import { useVisibilityObserver } from "../../script/useVisibilityObserver";
 import AsciiArtPortrait from "./ascii-art_portrait";
-import KontaktQR from "./kontakt_qr";
-
-/**
- * Hilfskomponente für E-Mail Branding.
- * Wandelt "media4u.ch" in das Logo-Format mit roter "4" um.
- */
-const BrandEmail = ({ email }) => {
-  const [local, domain = ""] = (email || "").split("@");
-  const isMedia4u = domain.toLowerCase().includes("media4u.ch");
-
-  return (
-    <>
-      {local}@
-      {isMedia4u ? (
-        <>media<span className="kontakt__brand-accent">4u</span>.ch</>
-      ) : (
-        domain
-      )}
-    </>
-  );
-};
-
-/**
- * Bereinigt Telefonnummern für den tel:-Link (E.164-Format).
- */
-const toTelHref = (phone) => {
-  if (!phone) return "";
-  return `tel:${phone.replace(/[^\d+]/g, "")}`;
-};
+import KontaktQR from "./kontakt_qr"; 
 
 const Kontakt = () => {
-  const { t, i18n } = useTranslation();
+  // Namespace explizit auf 'kontakt' setzen, analog zu 'affiliate'
+  const { t, i18n } = useTranslation('kontakt'); 
   const lang = i18n?.language?.split("-")[0] || "de";
 
-  // Aktiviert Einblend-Animationen beim Scrollen
   useVisibilityObserver();
 
-  /**
-   * Bereitet die Adresse aus dem JSON sicher auf.
-   * Ersetzt Zeilenumbrüche (\n) durch echte HTML-Breaks (<br/>).
-   */
-  const sanitizedAddress = useMemo(() => {
-    const rawAddress = t("kontakt.address");
-    return { __html: sanitizeHtml(rawAddress.replace(/\n/g, "<br/>")) };
+  // Header-HTML auslesen, zusammensetzen und gegen XSS absichern
+  const headerHtml = useMemo(() => {
+    const contentArray = t("kontakt_header_content", { returnObjects: true });
+    const rawHtml = Array.isArray(contentArray) ? contentArray.join("") : (contentArray || "");
+    return sanitizeHtml(rawHtml);
+  }, [t]);
+
+  // Section-HTML auslesen, zusammensetzen und gegen XSS absichern
+  const sectionHtml = useMemo(() => {
+    const contentArray = t("kontakt_section_content", { returnObjects: true });
+    const rawHtml = Array.isArray(contentArray) ? contentArray.join("") : (contentArray || "");
+    return sanitizeHtml(rawHtml);
   }, [t]);
 
   return (
-    <main className="kontakt">
+    <>
       <DynamicSEO page="kontakt" lang={lang} />
 
-      <header className="kontakt__header">
-        <h1 className="kontakt__title">{t("kontakt.title")}</h1>
-      </header>
+      {/* Inizierung des bereinigten Header-HTML */}
+      <div style={{ display: "contents" }} dangerouslySetInnerHTML={{ __html: headerHtml }} />
 
-      {/* Portrait Komponente (ASCII-Kunst) */}
       <AsciiArtPortrait />
 
-      {/* Kontakt Details mit Schema.org für SEO */}
-      <article 
+      <section 
         className="kontakt__card" 
         itemScope 
         itemType="https://schema.org/Person"
       >
-        <h2 className="kontakt__name" itemProp="name">
-          {t("kontakt.name")}
-        </h2>
-
-        {/* Adresse */}
-        <div className="kontakt__group">
-          <address 
-            className="kontakt__address" 
-            itemProp="address" 
-            dangerouslySetInnerHTML={sanitizedAddress} 
-          />
-        </div>
-
-        {/* E-Mail */}
-        <div className="kontakt__group">
-          <h2 className="kontakt__label">{t("kontakt.email_label")}</h2>
-          <a 
-            className="kontakt__link" 
-            href={`mailto:${t("kontakt.email_value")}`} 
-            itemProp="email"
-          >
-            <BrandEmail email={t("kontakt.email_value")} />
-          </a>
-        </div>
-
-        {/* Mobile / Telefon */}
-        <div className="kontakt__group">
-          <h2 className="kontakt__label">{t("kontakt.mobile_label")}</h2>
-          <a 
-            className="kontakt__link" 
-            href={toTelHref(t("kontakt.mobile_value"))} 
-            itemProp="telephone"
-          >
-            {/* QR-Code */}
-            {t("kontakt.mobile_value")}
-          </a>
-        </div>
-
+        {/* Inizierung der bereinigten Adressdaten */}
+        <div style={{ display: "contents" }} dangerouslySetInnerHTML={{ __html: sectionHtml }} />
+        
         <KontaktQR />
-
-      </article>
-    </main>
+      </section>
+    </>
   );
 };
 

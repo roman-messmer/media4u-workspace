@@ -7,17 +7,18 @@ import "./kontakt_qr.css";
 const KontaktQR = () => {
   const { t } = useTranslation();
   
+  // Dynamische URL-Generierung, funktioniert auf Localhost und Live-Server
   const vcfUrl = `${window.location.origin}/Roman_Messmer.vcf?v=2`;
   const logoUrl = "/vcf_logo.jpg";
 
   return (
     <div className="kontakt__qr-section">
-      <h2 className="kontakt__label">{t("kontakt.save_contact", "Kontakt speichern")}</h2>
+      <h2 className="kontakt__label">{t("kontakt_qr_label", "Kontakt speichern")}</h2>
       
       <div 
         className="kontakt__qr-wrapper" 
         role="img" 
-        aria-label={t("kontakt.qr_alt", "QR-Code für vCard Download")}
+        aria-label={t("kontakt_qr_alt", "QR-Code für vCard Download")}
       >
         <QRCodeSVG
           value={vcfUrl}
@@ -37,7 +38,7 @@ const KontaktQR = () => {
         href={vcfUrl} 
         download="Roman_Messmer.vcf"
       >
-        {t("kontakt.download_btn", "vCard direkt herunterladen")}
+        {t("kontakt_qr_btn", "vCard direkt herunterladen")}
       </a>
     </div>
   );
