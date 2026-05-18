@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Modern Digital Art and Innovative Communication Tools",
-    "p1": "media4u.ch is your destination for modern digital art and innovative communication tools. With my range of SMS text images and ASCII movies, I offer you creative and extraordinary experiences.",
-    "h2": "International Reach in 20 Languages",
-    "p2": "My website is available in 20 languages to reach an international audience and give everyone the opportunity to enjoy my unique artworks. Additionally, I offer advertising spaces and affiliate programs in the field of SMS text images and Text Images 2.0. This provides companies with creative advertising opportunities while supporting my platform.",
-    "h3": "Experience Digital Art in a New Way",
-    "p3": "Dive into the world of digital art and discover what media4u.ch has to offer you! Experience creative communication in a new light and share it with the world.",
-    "h4": "Technology Meets Digital Art",
-    "p4": "This website, developed with JavaScript and React, combines modern web development with my passion for digital art. With these technologies, my SMS text images and ASCII artworks are created in innovative formats. They demonstrate how technology and creativity merge to create unique digital experiences."
-  },
 
   "werbepartner": {
     "title": "Advertising Partners",
@@ -155,11 +144,6 @@
   "kontakt_link": "<< Contact me here >>"
 },
 
-  "kontakt": {
-    "title": "Contact",
-    "email": "Email",
-    "mobile": "Mobile"
-  },
 
   "impressum": {
     "title": "Imprint",

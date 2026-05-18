@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Moderní Digitální Umění a Inovativní Komunikační Nástroje",
-    "p1": "media4u.ch je vaše destinace pro moderní digitální umění a inovativní komunikační nástroje. Díky mé rozsáhlé sbírce obrazových textů SMS a ASCII filmů vám nabízím kreativní a výjimečné zážitky.",
-    "h2": "Mezinárodní Dosah ve 20 Jazycích",
-    "p2": "Moje webová stránka je dostupná ve 20 jazycích, aby oslovila mezinárodní publikum a poskytla všem možnost ocenit mé jedinečné umělecké díla. Navíc nabízím reklamní prostor a affiliate programy v oblasti obrazových textů SMS a Obrazů Textu 2.0, což poskytuje kreativní reklamní příležitosti firmám při podpoře mé platformy.",
-    "h3": "Objevte Digitální Umění Novým Způsobem",
-    "p3": "Ponořte se do světa digitálního umění a objevte, co media4u.ch nabízí! Zažijte kreativní komunikaci z nové perspektivy a sdílejte ji se světem.",
-    "h4": "Technologie Se Setkává s Digitálním Uměním",
-    "p4": "Tato webová stránka byla vyvinuta pomocí JavaScriptu a Reactu, což kombinuje moderní webový vývoj s mou vášní pro digitální umění. Díky těmto technologiím jsou mé obrazové texty SMS a ASCII díla vytvářena v inovativních formátech, které ukazují, jak technologie a kreativita spolupracují na vytváření jedinečných digitálních zážitků."
-  },
 
   "werbepartner": {
     "title": "Reklamní Partneři",
@@ -155,11 +144,6 @@
   "kontakt_link": "<< Kontaktujte mě zde >>"
 },
 
-  "kontakt": {
-    "title": "Kontakt",
-    "email": "E-mail",
-    "mobile": "Mobil"
-  },
 
   "impressum": {
     "title": "Právní Informace",

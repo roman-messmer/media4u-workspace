@@ -68,17 +68,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Moderne digitale Kunst und innovative Kommunikationsmittel",
-    "p1": "media4u.ch ist deine Adresse für moderne digitale Kunst und innovative Kommunikationsmittel. Mit meinem Angebot an SMS-Textbildern und ASCII-Movies biete ich dir kreative und außergewöhnliche Erlebnisse.",
-    "h2": "Internationale Reichweite in 20 Sprachen",
-    "p2": "Meine Webseite ist in 20 Sprachen verfügbar, um ein internationales Publikum zu erreichen und allen die Möglichkeit zu geben, meine einzigartigen Kunstwerke zu genießen. Zusätzlich biete ich Werbeflächen und Affiliate-Programme im Bereich der SMS-Textbilder und Textbilder 2.0 an. So erhalten Unternehmen kreative Werbemöglichkeiten und unterstützen gleichzeitig meine Plattform.",
-    "h3": "Erlebe digitale Kunst auf eine neue Weise",
-    "p3": "Tauche ein in die Welt der digitalen Kunst und entdecke, was media4u.ch für dich bereithält! Erlebe kreative Kommunikation neu und teile sie mit der Welt.",
-    "h4": "Technologie trifft auf digitale Kunst",
-    "p4": "Diese Webseite, entwickelt mit JavaScript und React, vereint moderne Webentwicklung mit meiner Leidenschaft für digitale Kunst. Mit diesen Technologien entstehen meine SMS-Textbilder und ASCII-Kunstwerke in innovativen Formaten. Sie demonstrieren, wie Technologie und Kreativität verschmelzen, um einzigartige digitale Erlebnisse zu schaffen."
-  },
  
   "werbepartner": {
     "title": "Werbepartner",
@@ -156,15 +145,6 @@
     "kontakt_link": "<< Hier zum Kontakt >>"
   },
 
-  "kontakt": {
-    "title": "Kontakt",
-    "name": "Roman Messmer",
-    "address": "Haldenweg 1\n 8081 Bülach\n CH Schweiz",
-    "email_label": "E-Mail",
-    "email_value": "roman.messmer@media4u.ch",
-    "mobile_label": "Mobile",
-    "mobile_value": "+41 78 765 88 42"
-  },
 
   "impressum": {
     "title": "Impressum",

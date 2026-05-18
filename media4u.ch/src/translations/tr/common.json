@@ -62,17 +62,7 @@
       "erotik_sex2": "Erotik ve Seks"
     }
   },
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Modern dijital sanat ve yenilikçi iletişim araçları",
-    "p1": "media4u.ch modern dijital sanat ve yenilikçi iletişim araçları için adresindir. SMS metin görselleri ve ASCII filmleri teklifimle sana yaratıcı ve sıra dışı deneyimler sunuyorum.",
-    "h2": "20 dilde uluslararası erişim",
-    "p2": "Web sitem, uluslararası bir kitleye ulaşmak ve herkesin benzersiz sanat eserlerimi keyifle deneyimlemesini sağlamak için 20 dilde mevcuttur. Ek olarak, SMS metin görselleri ve Metin Görselleri 2.0 alanında reklam alanları ve iştirak programları sunuyorum. Böylece işletmeler yaratıcı reklam fırsatları elde ederken platformumu da destekliyor.",
-    "h3": "Dijital sanatı yeni bir şekilde deneyimle",
-    "p3": "Dijital sanat dünyasına dal ve media4u.ch'in senin için neler sunduğunu keşfet! Yaratıcı iletişimi yeniden yaşa ve dünyayla paylaş.",
-    "h4": "Teknoloji dijital sanatla buluşuyor",
-    "p4": "Bu web sitesi JavaScript ve React ile geliştirilmiş olup, modern web geliştirmeyi dijital sanata olan tutkumla birleştiriyor. Bu teknolojilerle SMS metin görsellerim ve ASCII sanat eserlerim yenilikçi formatlarda ortaya çıkıyor. Teknoloji ve yaratıcılığın nasıl birleşerek benzersiz dijital deneyimler yarattığını gösteriyor."
-  },
+
   "werbepartner": {
     "title": "Reklam Ortakları",
     "h1": "Erişiminizi Artırın – Web Sitemde Reklam Verin!",
@@ -133,11 +123,7 @@
     "p7": "Benimle iletişime geçin – heyecan verici projeleri dört gözle bekliyorum!",
     "kontakt_link": "<< İletişime Gitmek İçin Tıklayın >>"
   },
-  "kontakt": {
-    "title": "İletişim",
-    "email": "E-posta",
-    "mobile": "Mobil"
-  },
+
   "impressum": {
     "title": "Yasal Bilgiler",
     "kontakt": "İletişim",

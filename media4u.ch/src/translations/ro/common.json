@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Artă Digitală Modernă și Instrumente Inovatoare de Comunicare",
-    "p1": "media4u.ch este destinația ta pentru artă digitală modernă și instrumente inovatoare de comunicare. Cu o colecție extinsă de imagini text SMS și filme ASCII, îți ofer experiențe creative și unice.",
-    "h2": "Atingere Internațională în 20 de Limbi",
-    "p2": "Site-ul meu este disponibil în 20 de limbi pentru a ajunge la un public internațional și pentru a permite tuturor să aprecieze operele mele unice de artă. În plus, ofer spațiu publicitar și programe de afiliere în domeniul imaginilor text SMS și al Imaginilor Text 2.0, ceea ce oferă oportunități creative de publicitate pentru companii, susținând în același timp platforma mea.",
-    "h3": "Descoperă Arta Digitală într-un Mod Nou",
-    "p3": "Cufundă-te în lumea artei digitale și descoperă ce oferă media4u.ch! Experimentează comunicarea creativă dintr-o nouă perspectivă și împărtășește-o cu lumea.",
-    "h4": "Tehnologia Întâlnește Arta Digitală",
-    "p4": "Acest site a fost dezvoltat folosind JavaScript și React, combinând dezvoltarea web modernă cu pasiunea mea pentru arta digitală. Datorită acestor tehnologii, imaginile mele text SMS și operele ASCII sunt create în formate inovatoare, demonstrând cum tehnologia și creativitatea lucrează împreună pentru a crea experiențe digitale unice."
-  },
 
   "werbepartner": {
     "title": "Parteneri de Publicitate",
@@ -155,11 +144,6 @@
   "kontakt_link": "<< Click aici pentru contact >>"
 },
 
-  "kontakt": {
-    "title": "Contact",
-    "email": "E-mail",
-    "mobile": "Telefon Mobil"
-  },
 
   "impressum": {
     "title": "Informații Legale",

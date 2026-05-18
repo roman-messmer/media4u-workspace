@@ -62,17 +62,7 @@
       "erotik_sex2": "Erotik dan Seks"
     }
   },
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Seni digital moden dan alat komunikasi inovatif",
-    "p1": "media4u.ch adalah alamat anda untuk seni digital moden dan alat komunikasi inovatif. Dengan penawaran saya dalam bentuk gambar teks SMS dan ASCII-Movie, saya mempersembahkan pengalaman kreatif dan luar biasa untuk anda.",
-    "h2": "Jangkauan antarabangsa dalam 20 bahasa",
-    "p2": "Laman web saya tersedia dalam 20 bahasa untuk mencapai khalayak antarabangsa dan memberi semua peluang untuk menikmati karya seni unik saya. Selain itu, saya menawarkan ruang iklan dan program afiliasi dalam bidang SMS Teks Gambar dan Teks Gambar 2.0. Dengan itu, syarikat memperoleh peluang pengiklanan kreatif sambil menyokong platform saya.",
-    "h3": "Alami seni digital dengan cara baru",
-    "p3": "Selami dunia seni digital dan temui apa yang media4u.ch sediakan untuk anda! Rasai komunikasi kreatif dengan cara baru dan kongsikannya dengan seluruh dunia.",
-    "h4": "Teknologi bertemu seni digital",
-    "p4": "Laman web ini, dibangunkan dengan JavaScript dan React, menggabungkan pembangunan web moden dengan minat saya terhadap seni digital. Dengan teknologi ini, lahirlah gambar teks SMS dan karya seni ASCII dalam format inovatif—menunjukkan bagaimana teknologi dan kreativiti bersatu untuk mencipta pengalaman digital yang unik."
-  },
+
   "werbepartner": {
     "title": "Rakan Iklan",
     "h1": "Tingkatkan jangkauan anda – Beriklan di laman web saya!",
@@ -133,11 +123,7 @@
     "p7": "Hubungi saya—saya teruja untuk projek menarik!",
     "kontakt_link": "<< Klik di sini untuk Hubungi >>"
   },
-  "kontakt": {
-    "title": "Hubungi",
-    "email": "E-mel",
-    "mobile": "Mudah Alih"
-  },
+
   "impressum": {
     "title": "Cetakan",
     "kontakt": "Hubungi",

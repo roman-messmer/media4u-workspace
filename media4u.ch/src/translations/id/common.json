@@ -64,17 +64,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Seni digital modern dan media komunikasi inovatif",
-    "p1": "media4u.ch adalah alamat Anda untuk seni digital modern dan media komunikasi inovatif. Dengan penawaran gambar teks SMS dan film ASCII, saya menawarkan pengalaman kreatif dan luar biasa.",
-    "h2": "Jangkauan internasional dalam 20 bahasa",
-    "p2": "Situs web saya tersedia dalam 20 bahasa untuk menjangkau audiens internasional dan memberi semua orang kesempatan untuk menikmati karya seni unik saya. Selain itu, saya menawarkan ruang iklan dan program afiliasi di bidang gambar teks SMS dan Gambar Teks 2.0. Dengan demikian, perusahaan mendapatkan peluang iklan kreatif sambil mendukung platform saya.",
-    "h3": "Rasakan seni digital dengan cara baru",
-    "p3": "Masuklah ke dunia seni digital dan temukan apa yang disiapkan media4u.ch untuk Anda! Rasakan komunikasi kreatif yang baru dan bagikan kepada dunia.",
-    "h4": "Teknologi bertemu seni digital",
-    "p4": "Situs web ini, dikembangkan dengan JavaScript dan React, menggabungkan pengembangan web modern dengan hasrat saya untuk seni digital. Dengan teknologi ini, gambar teks SMS dan karya seni ASCII saya diciptakan dalam format inovatif. Mereka menunjukkan bagaimana teknologi dan kreativitas bergabung untuk menciptakan pengalaman digital yang unik."
-  },
 
   "werbepartner": {
     "title": "Mitra Iklan",
@@ -138,11 +127,6 @@
     "kontakt_link": "<< Klik di sini untuk Kontak >>"
   },
 
-  "kontakt": {
-    "title": "Kontak",
-    "email": "Surel",
-    "mobile": "Mobile"
-  },
 
   "impressum": {
     "title": "Impressum",

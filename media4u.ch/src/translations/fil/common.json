@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Modernong Digital na Sining at Inobatibong Mga Kasangkapan sa Komunikasyon",
-    "p1": "Ang media4u.ch ay ang iyong destinasyon para sa modernong digital na sining at inobatibong mga kasangkapan sa komunikasyon. Sa malawak na koleksyon ng mga SMS tekstong larawan at ASCII pelikula, nag-aalok ako ng mga malikhaing at natatanging karanasan.",
-    "h2": "Internasyonal na Abot sa 20 na Wika",
-    "p2": "Ang aking website ay magagamit sa 20 na wika upang maabot ang isang internasyonal na madla at magbigay-daan sa lahat na pahalagahan ang aking mga natatanging likhang sining. Bukod dito, nag-aalok ako ng espasyo sa advertising at mga programang affiliate sa larangan ng mga SMS tekstong larawan at Tekstong Larawan 2.0, na nagbibigay ng mga malikhaing oportunidad sa advertising para sa mga negosyo habang sinusuportahan ang aking platform.",
-    "h3": "Tuklasin ang Digital na Sining sa Isang Bagong Paraan",
-    "p3": "Lumubog sa mundo ng digital na sining at tuklasin kung ano ang inaalok ng media4u.ch! Maranasan ang malikhaing komunikasyon mula sa isang bagong pananaw at ibahagi ito sa mundo.",
-    "h4": "Teknolohiya na Nakikipagtagpo sa Digital na Sining",
-    "p4": "Ang website na ito ay binuo gamit ang JavaScript at React, pinagsasama ang makabagong web development sa aking pagmamahal sa digital na sining. Dahil sa mga teknolohiyang ito, ang aking mga SMS tekstong larawan at ASCII na likhang sining ay nilikha sa mga inobatibong format, na nagpapakita kung paano nagtutulungan ang teknolohiya at kreatibidad upang lumikha ng mga natatanging digital na karanasan."
-  },
 
   "werbepartner": {
     "title": "Mga Partner sa Advertising",
@@ -154,11 +143,6 @@
   "kontakt_link": "<< Makipag-ugnayan dito >>"
 },
 
-  "kontakt": {
-    "title": "Kontakt",
-    "email": "Email",
-    "mobile": "Mobile"
-  },
 
   "impressum": {
     "title": "Legal na Impormasyon",

@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Moderne Digitale Kunst en Innovatieve Communicatietools",
-    "p1": "media4u.ch is uw bestemming voor moderne digitale kunst en innovatieve communicatietools. Met mijn uitgebreide collectie SMS-tekstbeelden en ASCII-films bied ik u creatieve en uitstekende ervaringen.",
-    "h2": "Internationale Bereik in 20 Talen",
-    "p2": "Mijn website is beschikbaar in 20 talen om een internationaal publiek te bereiken en iedereen de mogelijkheid te geven te genieten van mijn unieke kunstwerken. Daarnaast bied ik advertentieruimte en affiliate programma's in het gebied van SMS-tekstbeelden en Tekstbeeld 2.0. Dit biedt bedrijven creatieve advertentiemogelijkheden terwijl mijn platform wordt ondersteund.",
-    "h3": "Ontdek Digitale Kunst op een Nieuwe Manier",
-    "p3": "Duik in de wereld van digitale kunst en ontdek wat media4u.ch te bieden heeft! Ervaar creatieve communicatie vanuit een nieuw perspectief en deel het met de wereld.",
-    "h4": "Technologie Ontmoet Digitale Kunst",
-    "p4": "Deze website is ontwikkeld met behulp van JavaScript en React, waarbij moderne webontwikkeling wordt gecombineerd met mijn passie voor digitale kunst. Met deze technologieën worden mijn SMS-tekstbeelden en ASCII-creaties in innovatieve formaten gecreëerd. Ze laten zien hoe technologie en creativiteit samenkomen om unieke digitale ervaringen te creëren."
-  },
 
   "werbepartner": {
     "title": "Advertentiepartners",
@@ -155,11 +144,6 @@
   "kontakt_link": "<< Neem hier contact op >>"
 },
 
-  "kontakt": {
-    "title": "Contact",
-    "email": "E-mail",
-    "mobile": "Mobiel"
-  },
 
   "impressum": {
     "title": "Impressum",

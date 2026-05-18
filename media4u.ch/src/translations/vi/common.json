@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Nghệ thuật Số Hiện đại và Công cụ Giao tiếp Sáng tạo",
-    "p1": "media4u.ch là điểm đến của bạn cho nghệ thuật số hiện đại và công cụ giao tiếp sáng tạo. Với bộ sưu tập phong phú các hình ảnh văn bản SMS và phim ASCII của tôi, tôi mang đến cho bạn những trải nghiệm sáng tạo và xuất sắc.",
-    "h2": "Phạm vi Quốc tế với 20 Ngôn ngữ",
-    "p2": "Trang web của tôi được cung cấp bằng 20 ngôn ngữ để tiếp cận khán giả quốc tế và cung cấp cơ hội cho mọi người thưởng thức các tác phẩm nghệ thuật độc đáo của tôi. Hơn nữa, tôi cung cấp không gian quảng cáo và chương trình liên kết trong lĩnh vực hình ảnh văn bản SMS và Hình ảnh Văn bản 2.0. Điều này cung cấp cơ hội quảng cáo sáng tạo cho các doanh nghiệp đồng thời hỗ trợ nền tảng của tôi.",
-    "h3": "Khám phá Nghệ thuật Số theo Cách Mới",
-    "p3": "Hãy đắm mình vào thế giới nghệ thuật số và khám phá những gì media4u.ch cung cấp! Trải nghiệm giao tiếp sáng tạo từ một góc nhìn mới và chia sẻ nó với thế giới.",
-    "h4": "Công nghệ Gặp Gỡ Nghệ thuật Số",
-    "p4": "Trang web này được phát triển bằng JavaScript và React, kết hợp phát triển web hiện đại với niềm đam mê nghệ thuật số của tôi. Những công nghệ này cho phép các hình ảnh văn bản SMS và các tác phẩm ASCII của tôi được tạo ra dưới các định dạng sáng tạo. Chúng cho thấy công nghệ và sự sáng tạo kết hợp để tạo ra những trải nghiệm kỹ thuật số độc đáo."
-  },
 
   "werbepartner": {
     "title": "Đối tác Quảng cáo",
@@ -155,11 +144,6 @@
     "kontakt_link": "<< Nhấn vào đây để liên hệ >>"
   },
 
-  "kontakt": {
-    "title": "Liên hệ",
-    "email": "Email",
-    "mobile": "Di động"
-  },
 
   "impressum": {
     "title": "Thông tin pháp lý",

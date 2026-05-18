@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Nowoczesna Sztuka Cyfrowa i Innowacyjne Narzędzia Komunikacyjne",
-    "p1": "media4u.ch to Twoje miejsce docelowe dla nowoczesnej sztuki cyfrowej i innowacyjnych narzędzi komunikacyjnych. Dzięki mojej szerokiej kolekcji obrazów tekstowych SMS i filmów ASCII oferuję Ci kreatywne i wyjątkowe doświadczenia.",
-    "h2": "Międzynarodowy Zasięg w 20 Językach",
-    "p2": "Moja strona internetowa jest dostępna w 20 językach, aby dotrzeć do międzynarodowej publiczności i dać wszystkim możliwość docenienia moich unikalnych dzieł sztuki. Dodatkowo oferuję przestrzeń reklamową i programy afiliacyjne w zakresie obrazów tekstowych SMS oraz Obrazów Tekstowych 2.0, co zapewnia kreatywne możliwości reklamowe dla firm, jednocześnie wspierając moją platformę.",
-    "h3": "Odkryj Sztukę Cyfrową na Nowy Sposób",
-    "p3": "Zanurz się w świecie sztuki cyfrowej i odkryj, co oferuje media4u.ch! Doświadcz kreatywnej komunikacji z nowej perspektywy i podziel się nią ze światem.",
-    "h4": "Technologia Spotyka Sztukę Cyfrową",
-    "p4": "Ta strona internetowa została opracowana za pomocą JavaScript i React, łącząc nowoczesny rozwój stron internetowych z moją pasją do sztuki cyfrowej. Dzięki tym technologiom moje obrazy tekstowe SMS i dzieła ASCII są tworzone w innowacyjnych formatach, pokazując, jak technologia i kreatywność współpracują, aby tworzyć unikalne doświadczenia cyfrowe."
-  },
 
   "werbepartner": {
     "title": "Partnerzy Reklamowi",
@@ -155,11 +144,6 @@
   "kontakt_link": "<< Skontaktuj się tutaj >>"
 },
 
-  "kontakt": {
-    "title": "Kontakt",
-    "email": "E-mail",
-    "mobile": "Telefon Komórkowy"
-  },
 
   "impressum": {
     "title": "Informacje Prawne",

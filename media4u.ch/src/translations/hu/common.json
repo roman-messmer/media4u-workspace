@@ -67,17 +67,6 @@
     }
   },
 
-  "media4u": {
-    "title": "MEDIA4U",
-    "h1": "Modern Digitális Művészet és Innovatív Kommunikációs Eszközök",
-    "p1": "A media4u.ch a célállomásod a modern digitális művészet és innovatív kommunikációs eszközök terén. Kiterjedt SMS szöveges képek és ASCII filmek kínálatával kreatív és kivételes élményeket nyújtok neked.",
-    "h2": "Nemzetközi Elérés 20 Nyelven",
-    "p2": "Weboldalam 20 nyelven elérhető, hogy nemzetközi közönséget érjen el, és mindenki számára lehetőséget biztosítson egyedi művészeti alkotásaim értékelésére. Emellett hirdetési területet és affiliate programokat kínálok az SMS szöveges képek és a Szöveges Kép 2.0 területén, ami kreatív reklámlehetőségeket biztosít a vállalkozások számára, miközben támogatja a platformomat.",
-    "h3": "Fedezd Fel a Digitális Művészetet Új Módon",
-    "p3": "Merülj el a digitális művészet világában, és fedezd fel, mit kínál a media4u.ch! Tapasztald meg a kreatív kommunikációt egy új perspektívából, és oszd meg a világgal.",
-    "h4": "Technológia Találkozik a Digitális Művészettel",
-    "p4": "Ez a weboldal JavaScript és React segítségével lett kifejlesztve, ötvözve a modern webfejlesztést a digitális művészet iránti szenvedélyemmel. Ezeknek a technológiáknak köszönhetően SMS szöveges képeim és ASCII műveim innovatív formátumokban jönnek létre, bemutatva, hogyan működnek együtt a technológia és a kreativitás egyedi digitális élmények létrehozásáért."
-  },
 
   "werbepartner": {
     "title": "Reklámtársak",
@@ -155,11 +144,6 @@
   "kontakt_link": "<< Kapcsolatfelvétel itt >>"
 },
 
-  "kontakt": {
-    "title": "Kapcsolat",
-    "email": "E-mail",
-    "mobile": "Mobil"
-  },
 
   "impressum": {
     "title": "Jogi Információk",
