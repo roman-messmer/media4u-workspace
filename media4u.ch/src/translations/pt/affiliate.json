@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Marketing de Afiliados</h1>",
     "    <h2>Links de Afiliados e Transparência no Meu Site</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Transparência e Confiança</h2>",
     "    <p>Meu objetivo é me comunicar com vocês de forma transparente e honesta. Caso tenham alguma dúvida sobre os links de afiliados ou minhas parcerias, não hesitem em me contatar. Agradeço a confiança em minhas recomendações!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Como Associado da Amazon, ganho com compras qualificadas.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

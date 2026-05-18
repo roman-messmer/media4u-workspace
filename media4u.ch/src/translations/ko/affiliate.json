@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>제휴 마케팅</h1>",
     "    <h2>내 웹사이트의 제휴 링크 및 투명성</h2>",
@@ -23,7 +22,6 @@
     "    <h2>투명성과 신뢰</h2>",
     "    <p>제 목표는 여러분과 투명하고 정직하게 소통하는 것입니다. 제휴 링크나 파트너십에 대해 질문이 있으시면 언제든지 저에게 연락해 주세요. 제 추천을 신뢰해 주셔서 감사합니다!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Amazon 어소시에이트로서 적격 판매를 통해 수입을 얻습니다.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

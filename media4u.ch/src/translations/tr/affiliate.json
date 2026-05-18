@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Satış Ortaklığı (Affiliate Marketing)</h1>",
     "    <h2>Web Sitemdeki Satış Ortaklığı Bağlantıları ve Şeffaflık</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Şeffaflık ve Güven</h2>",
     "    <p>Amacım sizlerle şeffaf ve dürüst bir şekilde iletişim kurmaktır. Satış ortaklığı bağlantıları veya ortaklıklarım hakkında herhangi bir sorunuz olursa benimle iletişime geçmekten çekinmeyin. Tavsiyelerime duyduğunuz güveni takdir ediyorum!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Bir Amazon Gelir Ortağı olarak, uygun satın alımlardan kazanç sağlıyorum.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

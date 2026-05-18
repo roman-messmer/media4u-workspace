@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>アフィリエイトマーケティング</h1>",
     "    <h2>当ウェブサイトにおけるアフィリエイトリンクと透明性について</h2>",
@@ -23,7 +22,6 @@
     "    <h2>透明性と信頼</h2>",
     "    <p>私の目標は、皆様と透明かつ誠実にコミュニケーションをとることです。アフィリエイトリンクやパートナーシップについてご質問がある場合は、遠慮なくご連絡ください。私の推奨を信頼していただき感謝しています！</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Amazonアソシエイトとして、適格販売により収入を得ています。</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

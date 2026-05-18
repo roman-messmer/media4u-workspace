@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Affiliate Marketing</h1>",
     "    <h2>Affiliate linkek és átláthatóság a weboldalamon</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Átláthatóság és bizalom</h2>",
     "    <p>Célom, hogy átláthatóan és őszintén kommunikáljak veletek. Ha bármilyen kérdésetek van az affiliate linkekkel vagy a partnerségeimmel kapcsolatban, ne habozzatok kapcsolatba lépni velem. Nagyra értékelem a javaslataimba vetett bizalmatokat!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Amazon-partnerként a jogosult vásárlások után jutalékot kapok.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

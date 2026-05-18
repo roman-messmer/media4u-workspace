@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Tiếp thị liên kết</h1>",
     "    <h2>Liên kết tiếp thị và tính minh bạch trên trang web của tôi</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Tính minh bạch và sự tin tưởng</h2>",
     "    <p>Mục tiêu của tôi là giao tiếp với các bạn một cách minh bạch và trung thực. Nếu bạn có bất kỳ câu hỏi nào về các liên kết tiếp thị hoặc quan hệ đối tác của tôi, đừng ngần ngại liên hệ với tôi. Tôi đánh giá cao sự tin tưởng của bạn vào các đề xuất của tôi!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Với tư cách là Đối tác Amazon, tôi kiếm tiền từ các giao dịch mua đủ điều kiện.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

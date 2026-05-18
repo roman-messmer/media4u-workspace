@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>联盟营销</h1>",
     "    <h2>我网站上的联盟链接和透明度</h2>",
@@ -23,7 +22,6 @@
     "    <h2>透明与信任</h2>",
     "    <p>我的目标是与你们进行透明和诚实的沟通。如果你们对联盟链接或我的合作伙伴关系有任何疑问，请随时与我联系。我感谢你们对我推荐的信任！</p>",
     "    <p class=\"affiliate-hinweis\"><em>* 作为亚马逊联盟成员，我通过符合条件的购买获得收益。</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Pemasaran Ahli Gabungan</h1>",
     "    <h2>Pautan Ahli Gabungan dan Ketelusan di Tapak Web Saya</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Ketelusan dan Kepercayaan</h2>",
     "    <p>Matlamat saya adalah untuk berkomunikasi dengan anda secara telus dan jujur. Sekiranya anda mempunyai sebarang soalan mengenai pautan ahli gabungan atau perkongsian saya, jangan teragak-agak untuk menghubungi saya. Saya menghargai kepercayaan anda terhadap cadangan saya!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Sebagai Rakan Sekutu Amazon, saya memperoleh pendapatan daripada pembelian yang layak.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

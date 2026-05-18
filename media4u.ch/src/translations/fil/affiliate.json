@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Affiliate Marketing</h1>",
     "    <h2>Mga Affiliate Link at Transparency sa Aking Website</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Transparency at Tiwala</h2>",
     "    <p>Ang layunin ko ay makipag-usap sa inyo nang transparent at tapat. Kung mayroon kayong anumang mga katanungan tungkol sa mga affiliate link o sa aking mga partnership, huwag mag-atubiling makipag-ugnayan sa akin. Pinahahalagahan ko ang inyong tiwala sa aking mga rekomendasyon!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Bilang isang Amazon Associate, kumikita ako mula sa mga kwalipikadong pagbili.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

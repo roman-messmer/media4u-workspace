@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Pemasaran Afiliasi</h1>",
     "    <h2>Tautan Afiliasi dan Transparansi di Situs Web Saya</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Transparansi dan Kepercayaan</h2>",
     "    <p>Tujuan saya adalah untuk berkomunikasi dengan kalian secara transparan dan jujur. Jika kalian memiliki pertanyaan tentang tautan afiliasi atau kemitraan saya, jangan ragu untuk menghubungi saya. Saya menghargai kepercayaan kalian pada rekomendasi saya!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* Sebagai Mitra Amazon, saya mendapat penghasilan dari pembelian yang memenuhi syarat.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }

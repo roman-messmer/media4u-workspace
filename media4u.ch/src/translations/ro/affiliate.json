@@ -1,6 +1,5 @@
 {
   "affiliate_marketing_content": [
-    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
     "  <header>",
     "    <h1>Marketing afiliat</h1>",
     "    <h2>Link-uri afiliate și transparență pe site-ul meu</h2>",
@@ -23,7 +22,6 @@
     "    <h2>Transparență și încredere</h2>",
     "    <p>Scopul meu este să comunic cu voi în mod transparent și onest. Dacă aveți întrebări despre link-urile afiliate sau despre parteneriatele mele, nu ezitați să mă contactați. Apreciez încrederea voastră în recomandările mele!</p>",
     "    <p class=\"affiliate-hinweis\"><em>* În calitate de partener Amazon, obțin venituri din achizițiile eligibile.</em></p>",
-    "  </article>",
-    "</main>"
+    "  </article>"
   ]
 }
