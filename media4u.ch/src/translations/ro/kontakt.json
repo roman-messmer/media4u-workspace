@@ -1,0 +1,21 @@
+{
+  "kontakt_header_content": [
+      "<header class=\"kontakt__header\">",
+      " <h1 class=\"kontakt__title\">Contact</h1>",
+      "</header>"
+    ],
+    "kontakt_section_content": [
+      "<h2 class=\"kontakt__name\" itemProp=\"name\">",
+      "Roman Messmer",
+      "</h2>",
+      "<address class=\"kontakt__address\" itemprop=\"address\">",
+      "Haldenweg 1<br>8081 Bülach<br>CH Elveția</address>",
+      "<h2 class=\"kontakt__label\">E-mail</h2>",
+      "<a class=\"kontakt__link\" href=\"mailto:roman.messmer@media4u.ch\" itemprop=\"email\">roman.messmer@media<span class=\"kontakt__brand-accent\">4u</span>.ch</a>",
+      "<h2 class=\"kontakt__label\">Mobil</h2>",
+      "<a class=\"kontakt__link\" href=\"tel:+41787658842\" itemprop=\"telephone\">+41 78 765 88 42</a>"
+    ],
+    "kontakt_qr_label": "Salvează contactul",
+    "kontakt_qr_alt": "Cod QR pentru descărcarea vCard",
+    "kontakt_qr_btn": "Descarcă vCard direct"
+}
