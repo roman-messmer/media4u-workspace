@@ -120,33 +120,6 @@
     "content_button_info": "Prenota Ora"
   },
 
-  "affiliate_marketing": {
-    "title": "Marketing di Affiliazione",
-    "h1": "Link di Affiliazione e Trasparenza sul Mio Sito",
-    "p1": "Sul mio sito utilizzo link di affiliazione per presentarti prodotti e servizi adatti. La trasparenza è particolarmente importante per me. Di seguito, spiego come funzionano i link di affiliazione e cosa significano per te.",
-
-    "h2": "Cosa Sono i Link di Affiliazione?",
-    "p2": "I link di affiliazione sono link speciali che conducono a prodotti o servizi di aziende partner. Quando effettui un acquisto tramite uno di questi link, ricevo una commissione. Questo non comporta costi aggiuntivi per te.",
-
-    "h3": "Perché Utilizzo i Link di Affiliazione?",
-    "p3": "L'utilizzo dei link di affiliazione mi aiuta a gestire il sito web e a fornire contenuti gratuitamente. Seleziono attentamente i miei partner e i prodotti raccomandati, assicurandomi che siano in linea con gli argomenti e gli interessi dei miei visitatori.",
-
-    "h4": "Come Funziona il Tracciamento?",
-    "p4": "Per tracciare che l'acquisto sia stato effettuato tramite il mio link, le aziende partner utilizzano i cookie. Questi memorizzano informazioni per un periodo limitato quando clicchi su un link di affiliazione. Puoi trovare maggiori informazioni a riguardo nella mia politica sulla privacy.",
-
-    "h5": "Nessun Svantaggio per Te",
-    "p5": "Importante sapere: Cliccare sui link di affiliazione non comporta alcun svantaggio per te. I prezzi dei prodotti o servizi rimangono invariati e non ci sono costi nascosti.",
-
-    "h6": "Esclusione di Responsabilità",
-    "p6": "Raccomando solo prodotti e servizi di cui sono convinto. Tuttavia, non assumo alcuna responsabilità per la qualità o la disponibilità delle offerte pubblicizzate, poiché queste sono fornite dai miei partner.",
-
-    "h7": "Trasparenza e Fiducia",
-    "p7": "Il mio obiettivo è comunicare in modo trasparente e onesto con te. Se hai domande sui link di affiliazione o sulle mie partnership, non esitare a contattarmi. Apprezzo la tua fiducia nelle mie raccomandazioni!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Sviluppatore Frontend",

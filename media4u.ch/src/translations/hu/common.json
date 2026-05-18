@@ -120,33 +120,6 @@
     "content_button_info": "Foglalj Most"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marketing",
-    "h1": "Affiliate Linkek és Átláthatóság a Weboldalamon",
-    "p1": "Weboldalamon affiliate linkeket használok, hogy olyan termékeket és szolgáltatásokat mutassak be, amelyek megfelelőek számodra. Az átláthatóság különösen fontos számomra. Az alábbiakban elmagyarázom, hogyan működnek az affiliate linkek és mit jelentenek számodra.",
-  
-    "h2": "Mi Az Az Affiliate Link?",
-    "p2": "Az affiliate linkek speciális linkek, amelyek olyan termékekhez vagy szolgáltatásokhoz vezetnek, amelyeket partnercégek kínálnak. Amikor affiliate linkeken keresztül vásárolsz, jutalékot kapok. Ez nem eredményez extra költségeket számodra.",
-  
-    "h3": "Miért Használok Affiliate Linkeket?",
-    "p3": "Az affiliate linkek használata segít fenntartani a weboldalt és ingyenes tartalmat biztosítani. Gondosan választom ki partnereimet és azokat a termékeket, amelyeket ajánlok, hogy biztosítsam, hogy azok összhangban vannak a látogatóim témáival és érdeklődési köreivel.",
-  
-    "h4": "Hogyan Működik a Nyomonkövetés?",
-    "p4": "Annak érdekében, hogy nyomonkövethető legyen, hogy a vásárlás az én linkemen keresztül történt, a partnereim sütiket (cookies) használnak. Ezek a sütik korlátozott ideig tárolnak információkat, amikor kattintasz egy affiliate linkre. Erről bővebben az Adatvédelmi Szabályzatom tartalmazza.",
-  
-    "h5": "Nincs Hátránya Számodra",
-    "p5": "Fontos tudni: Az affiliate linkekre való kattintás nem okoz számodra semmilyen hátrányt. A termékek vagy szolgáltatások ára változatlan marad, és nincs rejtett díj.",
-  
-    "h6": "Felelősség Kizárása",
-    "p6": "Csak olyan termékeket és szolgáltatásokat ajánlok, amelyekben hiszek. Azonban, mivel ezek az ajánlatok a partnereimtől származnak, nem vagyok felelős azok minőségéért vagy elérhetőségéért.",
-  
-    "h7": "Átláthatóság és Bizalom",
-    "p7": "Célom, hogy átláthatóan és őszintén kommunikáljak veled. Ha bármilyen kérdésed van az affiliate linkekkel vagy a partneri együttműködéseimmel kapcsolatban, ne habozz kapcsolatba lépni velem. Köszönöm a bizalmadat a javaslataim iránt!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Frontend fejlesztő",

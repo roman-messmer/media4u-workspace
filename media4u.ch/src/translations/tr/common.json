@@ -105,26 +105,7 @@
     "content_button": "Teklifi Gör",
     "content_button_info": "Şimdi ayırtın"
   },
-  "affiliate_marketing": {
-    "title": "İştirak Pazarlaması",
-    "h1": "Web Sitemde İştirak Bağlantıları ve Şeffaflık",
-    "p1": "Web sitemde size uygun ürün ve hizmetleri tanıtmak için iştirak bağlantıları kullanıyorum. Bu süreçte şeffaflık benim için çok önemli. Aşağıda iştirak bağlantılarının nasıl çalıştığını ve sizin için ne anlama geldiğini açıklıyorum.",
-    "h2": "İştirak Bağlantıları Nedir?",
-    "p2": "İştirak bağlantıları, ortak şirketlerin ürün veya hizmetlerine yönlendiren özel bağlantılardır. Bu bağlantı üzerinden bir şey satın aldığınızda ben komisyon alırım. Sizin için ek bir maliyet oluşmaz.",
-    "h3": "Neden İştirak Bağlantıları Kullanıyorum?",
-    "p3": "İştirak bağlantılarını kullanmak, web sitesini işletmeme ve içeriği ücretsiz sunmama yardımcı oluyor. Ortaklarımı ve önerilen ürünleri özenle seçiyor, ziyaretçilerimin ilgi alanlarına uygun olmasına dikkat ediyorum.",
-    "h4": "Takip Nasıl Çalışır?",
-    "p4": "Satın almanın bağlantım üzerinden yapıldığını teyit etmek için ortak şirketlerim çerez kullanır. Bu çerezler, iştirak bağlantısına tıkladığınızda belirli bir süre bilgi saklar. Daha fazla bilgi için gizlilik politikamı inceleyebilirsiniz.",
-    "h5": "Sizin için Dezavantaj Yok",
-    "p5": "Bilmeniz gereken önemli nokta: İştirak bağlantılarına tıklamak size hiçbir dezavantaj sağlamaz. Ürün veya hizmet fiyatları değişmez ve gizli ücret yoktur.",
-    "h6": "Feragatname",
-    "p6": "Sadece güvenilir bulduğum ürün ve hizmetleri öneriyorum. Yine de, bu tekliflerin kalitesi veya bulunabilirliği konusunda sorumluluk kabul etmiyorum; çünkü bunlar ortaklarım tarafından sağlanmaktadır.",
-    "h7": "Şeffaflık ve Güven",
-    "p7": "Amacım sizinle şeffaf ve dürüst bir şekilde iletişim kurmak. İştirak bağlantıları veya ortaklıklarım hakkında sorularınız olursa, benimle iletişime geçmekten çekinmeyin. Önerilerime duyduğunuz güvene değer veriyorum!"
-  },
-  "affiliate_marketing_partner": {
-    "hinweis": "* Amazon iş ortağı olarak nitelikli satışlardan gelir elde ediyorum."
-  },
+  
   "front_end_developer": {
     "title": "Önyüz Geliştirici",
     "projekt_title_h2": "Projelerime merak ediyor musunuz?",

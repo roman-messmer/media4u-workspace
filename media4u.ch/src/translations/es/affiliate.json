@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Marketing de afiliados</h1>",
+    "    <h2>Enlaces de afiliados y transparencia en mi sitio web</h2>",
+    "    <p>En mi sitio web utilizo enlaces de afiliados para presentarles productos y servicios adecuados. Para mí, la transparencia es especialmente importante. A continuación explico cómo funcionan los enlaces de afiliados y qué significa esto para ustedes.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Marketing de afiliados\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>¿Qué son los enlaces de afiliados?</h2>",
+    "    <p>Los enlaces de afiliados son enlaces especiales que dirigen a productos o servicios de empresas asociadas. Si compran algo a través de uno de estos enlaces, recibo una comisión. Esto no supone ningún costo adicional para ustedes.</p>",
+    "    <h2>¿Por qué utilizo enlaces de afiliados?</h2>",
+    "    <p>El uso de enlaces de afiliados me ayuda a mantener el sitio web y a ofrecer el contenido de forma gratuita. Elijo cuidadosamente a mis socios y los productos recomendados, y me aseguro de que se ajusten a los temas y a los intereses de mis visitantes.</p>",
+    "    <h2>¿Cómo funciona el seguimiento?</h2>",
+    "    <p>Para rastrear que la compra se ha realizado a través de mi enlace, mis empresas asociadas utilizan cookies. Estas almacenan información durante un tiempo limitado cuando hacen clic en un enlace de afiliados. Encontrarán más información al respecto en mi política de privacidad.</p>",
+    "    <h2>Sin desventajas para ustedes</h2>",
+    "    <p>Es importante saberlo: hacer clic en enlaces de afiliados no tiene ninguna desventaja para ustedes. Los precios de los productos o servicios no cambian y no hay tarifas ocultas de ningún tipo.</p>",
+    "    <h2>Descargo de responsabilidad</h2>",
+    "    <p>Solo recomiendo productos y servicios de los que estoy convencido. Sin embargo, no asumo ninguna responsabilidad por la calidad o la disponibilidad de las ofertas promocionadas, ya que son proporcionadas por mis socios.</p>",
+    "    <h2>Transparencia y confianza</h2>",
+    "    <p>Mi objetivo es comunicarme con ustedes de forma transparente y honesta. Si tienen preguntas sobre los enlaces de afiliados o mis asociaciones, no duden en contactarme. ¡Aprecio su confianza en mis recomendaciones!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* Como socio de Amazon, gano una comisión por las compras que califican.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

@@ -105,26 +105,7 @@
     "content_button": "Tawaran",
     "content_button_info": "Tempah sekarang"
   },
-  "affiliate_marketing": {
-    "title": "Pemasaran Afiliasi",
-    "h1": "Pautan Afiliasi dan Ketelusan di laman web saya",
-    "p1": "Di laman web saya, saya menggunakan pautan afiliasi untuk memperkenalkan produk dan perkhidmatan sesuai. Kejelasan sangat penting bagi saya. Berikut penjelasan cara pautan afiliasi berfungsi dan maksudnya untuk anda.",
-    "h2": "Apa itu pautan afiliasi?",
-    "p2": "Pautan afiliasi adalah pautan khas ke produk atau perkhidmatan syarikat rakan kongsi. Jika anda membeli melalui pautan tersebut, saya menerima komisen—anda tidak dikenakan kos tambahan.",
-    "h3": "Mengapa saya menggunakan pautan afiliasi?",
-    "p3": "Penggunaan pautan afiliasi membantu saya mengekalkan laman web ini dan menyediakan kandungan percuma. Saya memilih rakan kongsi dan produk dengan teliti untuk memastikan kesesuaian dengan topik dan minat pelawat.",
-    "h4": "Bagaimana penjejakan berfungsi?",
-    "p4": "Untuk mengesahkan pembelian melalui pautan saya, syarikat rakan kongsi menggunakan kuki. Ia menyimpan maklumat dalam tempoh tertentu apabila anda klik pautan afiliasi. Maklumat lanjut ada dalam Polisi Privasi saya.",
-    "h5": "Tiada kelemahan untuk anda",
-    "p5": "Anda tidak mengalami sebarang kelemahan dengan mengklik pautan afiliasi. Harga produk atau perkhidmatan tidak berubah, dan tiada bayaran tersembunyi.",
-    "h6": "Penafian",
-    "p6": "Saya hanya mengesyorkan produk dan perkhidmatan yang saya yakini. Namun, saya tidak bertanggungjawab terhadap kualiti atau ketersediaan kerana ia disediakan oleh rakan kongsi saya.",
-    "h7": "Ketelusan dan Kepercayaan",
-    "p7": "Matlamat saya berkomunikasi dengan telus dan jujur. Jika anda ada soalan tentang pautan afiliasi atau kerjasama, jangan ragu hubungi saya. Saya hargai kepercayaan anda!"
-  },
-  "affiliate_marketing_partner": {
-    "hinweis": "*Sebagai Rakan Kongsi Amazon, saya memperoleh komisen daripada jualan yang layak."
-  },
+  
   "front_end_developer": {
     "title": "Pembangun Frontend",
     "projekt_title_h2": "Ingin melihat projek saya?",

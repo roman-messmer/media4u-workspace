@@ -120,33 +120,6 @@
     "content_button_info": "Secure Now"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marketing",
-    "h1": "Affiliate Links and Transparency on My Website",
-    "p1": "On my website, I use affiliate links to introduce you to suitable products and services. Transparency is especially important to me. Below, I explain how affiliate links work and what this means for you.",
-
-    "h2": "What Are Affiliate Links?",
-    "p2": "Affiliate links are special links that lead to products or services from partner companies. When you make a purchase through such a link, I earn a commission. This does not incur any additional costs for you.",
-
-    "h3": "Why Do I Use Affiliate Links?",
-    "p3": "Using affiliate links helps me operate the website and provide content for free. I carefully select my partners and the recommended products, ensuring they match the topics and interests of my visitors.",
-
-    "h4": "How Does Tracking Work?",
-    "p4": "To track that the purchase was made through my link, my partner companies use cookies. These store information for a limited time when you click on an affiliate link. You can find more information about this in my privacy policy.",
-
-    "h5": "No Disadvantages for You",
-    "p5": "Important to know: Clicking on affiliate links does not create any disadvantages for you. The prices of products or services remain unchanged, and there are no hidden fees.",
-
-    "h6": "Disclaimer",
-    "p6": "I only recommend products and services that I am convinced of. However, I do not assume any liability for the quality or availability of the advertised offers, as these are provided by my partners.",
-
-    "h7": "Transparency and Trust",
-    "p7": "My goal is to communicate transparently and honestly with you. If you have any questions about affiliate links or my partnerships, do not hesitate to contact me. I appreciate your trust in my recommendations!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
   
   "front_end_developer": {
   "title": "Frontend Developer",

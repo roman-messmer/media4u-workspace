@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Marketing d'affiliation</h1>",
+    "    <h2>Liens d'affiliation et transparence sur mon site web</h2>",
+    "    <p>Sur mon site web, j'utilise des liens d'affiliation pour vous présenter des produits et services adaptés. La transparence est particulièrement importante pour moi. Ci-dessous, j'explique comment fonctionnent les liens d'affiliation et ce que cela signifie pour vous.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Marketing d'affiliation\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>Que sont les liens d'affiliation ?</h2>",
+    "    <p>Les liens d'affiliation sont des liens spéciaux qui mènent aux produits ou services d'entreprises partenaires. Si vous achetez quelque chose via un tel lien, je reçois une commission. Cela n'entraîne aucun coût supplémentaire pour vous.</p>",
+    "    <h2>Pourquoi j'utilise des liens d'affiliation ?</h2>",
+    "    <p>L'utilisation de liens d'affiliation m'aide à exploiter le site web et à fournir le contenu gratuitement. Je choisis soigneusement mes partenaires et les produits recommandés, en veillant à ce qu'ils correspondent aux thèmes et aux intérêts de mes visiteurs.</p>",
+    "    <h2>Comment fonctionne le suivi ?</h2>",
+    "    <p>Pour suivre qu'un achat a été effectué via mon lien, mes entreprises partenaires utilisent des cookies. Ceux-ci stockent des informations pour une durée limitée lorsque vous cliquez sur un lien d'affiliation. Vous trouverez plus d'informations à ce sujet dans ma politique de confidentialité.</p>",
+    "    <h2>Aucun inconvénient pour vous</h2>",
+    "    <p>Important à savoir : Cliquer sur des liens d'affiliation ne présente aucun inconvénient pour vous. Les prix des produits ou services restent inchangés et il n'y a absolument aucun frais caché.</p>",
+    "    <h2>Clause de non-responsabilité</h2>",
+    "    <p>Je ne recommande que des produits et services dont je suis convaincu. Néanmoins, je n'assume aucune responsabilité quant à la qualité ou à la disponibilité des offres promues, car celles-ci sont fournies par mes partenaires.</p>",
+    "    <h2>Transparence et confiance</h2>",
+    "    <p>Mon objectif est de communiquer avec vous de manière transparente et honnête. Si vous avez des questions sur les liens d'affiliation ou mes partenariats, n'hésitez pas à me contacter. J'apprécie votre confiance en mes recommandations !</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

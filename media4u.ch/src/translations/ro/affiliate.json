@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Marketing afiliat</h1>",
+    "    <h2>Link-uri afiliate și transparență pe site-ul meu</h2>",
+    "    <p>Pe site-ul meu, folosesc link-uri afiliate pentru a vă prezenta produse și servicii adecvate. Transparența este deosebit de importantă pentru mine. Mai jos, explic cum funcționează link-urile afiliate și ce înseamnă acest lucru pentru voi.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Marketing afiliat\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>Ce sunt link-urile afiliate?</h2>",
+    "    <p>Link-urile afiliate sunt link-uri speciale care duc la produse sau servicii ale companiilor partenere. Dacă cumpărați ceva printr-un astfel de link, primesc un comision. Acest lucru nu implică niciun cost suplimentar pentru voi.</p>",
+    "    <h2>De ce folosesc link-uri afiliate?</h2>",
+    "    <p>Utilizarea link-urilor afiliate mă ajută să operez site-ul web și să ofer conținutul gratuit. Îmi aleg cu grijă partenerii și produsele recomandate, asigurându-mă că se potrivesc cu temele și interesele vizitatorilor mei.</p>",
+    "    <h2>Cum funcționează urmărirea?</h2>",
+    "    <p>Pentru a urmări că o achiziție a fost făcută prin link-ul meu, companiile partenere folosesc cookie-uri. Acestea stochează informații pentru un timp limitat când faceți clic pe un link afiliat. Puteți găsi mai multe informații despre acest lucru în politica mea de confidențialitate.</p>",
+    "    <h2>Fără dezavantaje pentru voi</h2>",
+    "    <p>Important de știut: A face clic pe link-urile afiliate nu are niciun dezavantaj pentru voi. Prețurile produselor sau serviciilor rămân neschimbate și nu există absolut nicio taxă ascunsă.</p>",
+    "    <h2>Disclaimer</h2>",
+    "    <p>Recomand doar produse și servicii de care sunt convins. Cu toate acestea, nu îmi asum nicio răspundere pentru calitatea sau disponibilitatea ofertelor promovate, deoarece acestea sunt furnizate de partenerii mei.</p>",
+    "    <h2>Transparență și încredere</h2>",
+    "    <p>Scopul meu este să comunic cu voi în mod transparent și onest. Dacă aveți întrebări despre link-urile afiliate sau despre parteneriatele mele, nu ezitați să mă contactați. Apreciez încrederea voastră în recomandările mele!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* În calitate de partener Amazon, obțin venituri din achizițiile eligibile.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

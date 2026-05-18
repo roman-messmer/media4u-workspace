@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Affiliate Marketing</h1>",
+    "    <h2>Affiliate links and transparency on my website</h2>",
+    "    <p>I use affiliate links on my website to introduce you to suitable products and services. Transparency is particularly important to me. Below I explain how affiliate links work and what that means for you.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Affiliate Marketing\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>What are affiliate links?</h2>",
+    "    <p>Affiliate links are special links that lead to products or services from partner companies. If you buy something via such a link I receive a commission. There are no additional costs for you.</p>",
+    "    <h2>Why do I use affiliate links?</h2>",
+    "    <p>Using affiliate links helps me run the website and provide the content for free. I carefully select my partners and the recommended products and ensure that they match the topics and interests of my visitors.</p>",
+    "    <h2>How does tracking work?</h2>",
+    "    <p>To track that a purchase was made via my link my partner companies use cookies. These store information for a limited time when you click on an affiliate link. You can find more information about this in my privacy policy.</p>",
+    "    <h2>No disadvantages for you</h2>",
+    "    <p>Important to know: Clicking on affiliate links does not result in any disadvantages for you. The prices of the products or services remain unchanged and there are no hidden fees.</p>",
+    "    <h2>Disclaimer</h2>",
+    "    <p>I only recommend products and services that I am convinced of. However I assume no liability for the quality or availability of the advertised offers since these are provided by my partners.</p>",
+    "    <h2>Transparency and trust</h2>",
+    "    <p>My goal is to communicate transparently and honestly with you. If you have any questions about the affiliate links or my partnerships please do not hesitate to contact me. I appreciate your trust in my recommendations!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* As an Amazon Associate I earn from qualifying purchases.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

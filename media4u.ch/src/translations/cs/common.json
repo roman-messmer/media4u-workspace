@@ -120,33 +120,6 @@
     "content_button_info": "Rezervovat Nyní"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marketing",
-    "h1": "Affiliate Odkazy a Transparentnost na Mé Webové Stránce",
-    "p1": "Na mé webové stránce používám affiliate odkazy k doporučování produktů a služeb, které jsou pro vás vhodné. Transparentnost je pro mě zvláště důležitá. Níže vysvětluji, jak affiliate odkazy fungují a co to pro vás znamená.",
-
-    "h2": "Co Jsou Affiliate Odkazy?",
-    "p2": "Affiliate odkazy jsou speciální odkazy, které vedou na produkty nebo služby partnerských společností. Když provedete nákup prostřednictvím těchto odkazů, získávám provizi. To pro vás neznamená žádné dodatečné náklady.",
-
-    "h3": "Proč Používám Affiliate Odkazy?",
-    "p3": "Používání affiliate odkazů mi pomáhá udržovat webovou stránku a poskytovat obsah zdarma. Pečlivě vybírám své partnery a produkty, které doporučuji, abych zajistil, že odpovídají tématům a zájmům mých návštěvníků.",
-
-    "h4": "Jak Funguje Sledování?",
-    "p4": "Aby bylo možné sledovat, že nákup byl proveden prostřednictvím mého odkazu, moji affiliate partneři používají cookies, které ukládají informace po omezenou dobu, když kliknete na affiliate odkaz. Další podrobnosti naleznete v mé politice ochrany osobních údajů.",
-
-    "h5": "Žádné Negativní Dopady pro Vás",
-    "p5": "Důležité je vědět, že kliknutí na affiliate odkazy vám nijak neublíží. Cena produktů nebo služeb zůstává stejná a neexistují žádné skryté poplatky.",
-
-    "h6": "Vyloučení Odpovědnosti",
-    "p6": "Doporučuji pouze produkty a služby, kterým věřím. Nicméně, protože tyto nabídky jsou poskytovány mými partnery, nejsem zodpovědný za jejich kvalitu nebo dostupnost.",
-
-    "h7": "Transparentnost a Důvěra",
-    "p7": "Mým cílem je komunikovat s vámi transparentně a upřímně. Pokud máte jakékoliv dotazy ohledně affiliate odkazů nebo mých partnerství, neváhejte mě kontaktovat. Ocením vaši důvěru v mé doporučení!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Frontend vývojář",

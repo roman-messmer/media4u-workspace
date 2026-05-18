@@ -120,33 +120,6 @@
     "content_button_info": "Reserveer Nu"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marketing",
-    "h1": "Affiliate Links en Transparantie op Mijn Website",
-    "p1": "Op mijn website gebruik ik affiliate links om u geschikte producten en diensten voor te stellen. Transparantie is voor mij van groot belang. Hieronder leg ik uit hoe affiliate links werken en wat dit voor u betekent.",
-
-    "h2": "Wat Zijn Affiliate Links?",
-    "p2": "Affiliate links zijn speciale links die verwijzen naar producten of diensten van partnerbedrijven. Wanneer u via zo'n link een aankoop doet, ontvang ik een commissie. Dit brengt geen extra kosten met zich mee voor u.",
-
-    "h3": "Waarom Gebruik Ik Affiliate Links?",
-    "p3": "Het gebruik van affiliate links helpt mij mijn website te onderhouden en gratis content aan te bieden. Ik kies mijn partners en aanbevolen producten zorgvuldig uit zodat ze aansluiten bij de onderwerpen en interesses van mijn bezoekers.",
-
-    "h4": "Hoe Werkt Tracking?",
-    "p4": "Om te volgen dat een aankoop via mijn link is gedaan, gebruiken mijn partners cookies. Deze slaan informatie op voor een beperkte periode wanneer u op een affiliate link klikt. U kunt hier meer informatie over vinden in mijn privacybeleid.",
-
-    "h5": "Geen Nadelen voor U",
-    "p5": "Belangrijk om te weten: klikken op affiliate links veroorzaakt geen ongemakken voor u. De prijzen van producten of diensten blijven hetzelfde en er zijn geen verborgen kosten.",
-
-    "h6": "Disclaimer",
-    "p6": "Ik raad alleen producten en diensten aan waarin ik geloof. Echter, ik ben niet verantwoordelijk voor de kwaliteit of beschikbaarheid van de geadverteerde aanbiedingen, aangezien deze worden geleverd door mijn partners.",
-
-    "h7": "Transparantie en Vertrouwen",
-    "p7": "Mijn doel is om transparant en eerlijk met u te communiceren. Als u vragen heeft over affiliate links of mijn partnerschappen, aarzel dan niet om contact met mij op te nemen. Ik waardeer uw vertrouwen in mijn aanbevelingen!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Frontend Ontwikkelaar",

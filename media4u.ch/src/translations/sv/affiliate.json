@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Affiliate-marknadsföring</h1>",
+    "    <h2>Affiliate-länkar och transparens på min webbplats</h2>",
+    "    <p>På min webbplats använder jag affiliate-länkar för att presentera lämpliga produkter och tjänster för er. Transparens är särskilt viktigt för mig. Nedan förklarar jag hur affiliate-länkar fungerar och vad det innebär för er.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Affiliate-marknadsföring\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>Vad är affiliate-länkar?</h2>",
+    "    <p>Affiliate-länkar är speciella länkar som leder till produkter eller tjänster från partnerföretag. Om ni köper något via en sådan länk får jag en provision. Detta medför inga extra kostnader för er.</p>",
+    "    <h2>Varför använder jag affiliate-länkar?</h2>",
+    "    <p>Användningen av affiliate-länkar hjälper mig att driva webbplatsen och tillhandahålla innehållet gratis. Jag väljer mina partners och rekommenderade produkter noggrant och ser till att de passar mina besökares ämnen och intressen.</p>",
+    "    <h2>Hur fungerar spårningen?</h2>",
+    "    <p>För att spåra att ett köp har gjorts via min länk använder mina partnerföretag cookies. Dessa lagrar information under en begränsad tid när ni klickar på en affiliate-länk. Mer information om detta finns i min integritetspolicy.</p>",
+    "    <h2>Inga nackdelar för er</h2>",
+    "    <p>Viktigt att veta: Att klicka på affiliate-länkar innebär inga nackdelar för er. Priserna på produkterna eller tjänsterna förblir oförändrade och det finns absolut inga dolda avgifter.</p>",
+    "    <h2>Ansvarsfriskrivning</h2>",
+    "    <p>Jag rekommenderar endast produkter och tjänster som jag är övertygad om. Ändå tar jag inget ansvar för kvaliteten eller tillgängligheten av de marknadsförda erbjudandena, eftersom dessa tillhandahålls av mina partners.</p>",
+    "    <h2>Transparens och förtroende</h2>",
+    "    <p>Mitt mål är att kommunicera med er på ett transparent och ärligt sätt. Om ni har frågor om affiliate-länkarna eller mina partnerskap, tveka inte att kontakta mig. Jag uppskattar ert förtroende för mina rekommendationer!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* Som Amazon-partner tjänar jag pengar på kvalificerade köp.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

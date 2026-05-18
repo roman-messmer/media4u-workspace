@@ -120,33 +120,6 @@
     "content_button_info": "Réserver Maintenant"
   },
 
-  "affiliate_marketing": {
-    "title": "Marketing d'Affiliation",
-    "h1": "Liens d'Affiliation et Transparence sur Mon Site",
-    "p1": "Sur mon site, j'utilise des liens d'affiliation pour vous présenter des produits et services adaptés. La transparence est particulièrement importante pour moi. Ci-dessous, j'explique comment fonctionnent les liens d'affiliation et ce que cela signifie pour vous.",
-
-    "h2": "Qu'est-ce que les Liens d'Affiliation ?",
-    "p2": "Les liens d'affiliation sont des liens spéciaux qui mènent à des produits ou services de sociétés partenaires. Lorsque vous effectuez un achat via un tel lien, je reçois une commission. Cela ne vous entraîne aucun coût supplémentaire.",
-
-    "h3": "Pourquoi Utiliser des Liens d'Affiliation ?",
-    "p3": "L'utilisation de liens d'affiliation m'aide à gérer le site web et à fournir du contenu gratuitement. Je sélectionne soigneusement mes partenaires et les produits recommandés, en veillant à ce qu'ils correspondent aux sujets et aux intérêts de mes visiteurs.",
-
-    "h4": "Comment Fonctionne le Suivi ?",
-    "p4": "Pour suivre que l'achat a été effectué via mon lien, mes sociétés partenaires utilisent des cookies. Ceux-ci stockent des informations pendant une durée limitée lorsque vous cliquez sur un lien d'affiliation. Vous trouverez plus d'informations à ce sujet dans ma politique de confidentialité.",
-
-    "h5": "Aucun Inconvénient pour Vous",
-    "p5": "Important à savoir : Cliquer sur des liens d'affiliation ne vous crée aucun inconvénient. Les prix des produits ou services restent inchangés, et il n'y a aucun frais caché.",
-
-    "h6": "Clause de Non-Responsabilité",
-    "p6": "Je ne recommande que des produits et services dont je suis convaincu. Cependant, je n'assume aucune responsabilité quant à la qualité ou à la disponibilité des offres annoncées, car elles sont fournies par mes partenaires.",
-
-    "h7": "Transparence et Confiance",
-    "p7": "Mon objectif est de communiquer de manière transparente et honnête avec vous. Si vous avez des questions concernant les liens d'affiliation ou mes partenariats, n'hésitez pas à me contacter. J'apprécie votre confiance dans mes recommandations !"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Développeur Frontend",

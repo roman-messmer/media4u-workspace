@@ -110,28 +110,6 @@
     "content_button_info": "Amankan Sekarang"
   },
 
-  "affiliate_marketing": {
-    "title": "Pemasaran Afiliasi",
-    "h1": "Tautan afiliasi dan transparansi di situs saya",
-    "p1": "Di situs saya, saya menggunakan tautan afiliasi untuk memperkenalkan Anda pada produk dan layanan yang sesuai. Transparansi sangat penting bagi saya. Berikut saya jelaskan cara kerja tautan afiliasi dan apa artinya bagi Anda.",
-    "h2": "Apa itu tautan afiliasi?",
-    "p2": "Tautan afiliasi adalah tautan khusus yang mengarah ke produk atau layanan perusahaan mitra. Jika Anda melakukan pembelian melalui tautan tersebut, saya mendapatkan komisi. Anda tidak dikenakan biaya tambahan apapun.",
-    "h3": "Mengapa saya menggunakan tautan afiliasi?",
-    "p3": "Penggunaan tautan afiliasi membantu saya menjalankan situs dan menyediakan konten secara gratis. Saya memilih mitra dan produk yang direkomendasikan dengan cermat agar sesuai dengan minat pengunjung.",
-    "h4": "Bagaimana pelacakan bekerja?",
-    "p4": "Untuk melacak pembelian melalui tautan saya, perusahaan mitra menggunakan cookie. Cookie ini menyimpan informasi untuk jangka waktu tertentu saat Anda mengklik tautan afiliasi. Untuk detail lebih lanjut, baca Kebijakan Privasi saya.",
-    "h5": "Tidak ada kerugian bagi Anda",
-    "p5": "Penting diketahui: Mengklik tautan afiliasi tidak merugikan Anda. Harga produk atau layanan tetap sama, dan tidak ada biaya tersembunyi.",
-    "h6": "Penafian",
-    "p6": "Saya hanya merekomendasikan produk dan layanan yang saya yakini. Namun, saya tidak bertanggung jawab atas kualitas atau ketersediaan penawaran yang disediakan mitra.",
-    "h7": "Transparansi dan Kepercayaan",
-    "p7": "Tujuan saya adalah berkomunikasi secara transparan dan jujur. Jika Anda memiliki pertanyaan tentang tautan afiliasi atau kemitraan saya, jangan ragu untuk menghubungi saya. Saya menghargai kepercayaan Anda!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Sebagai Mitra Amazon, saya mendapatkan komisi dari penjualan yang memenuhi syarat."
-  },
-
   "front_end_developer": {
     "title": "Pengembang Frontend",
     "projekt_title_h2": "Penasaran dengan proyek saya?",

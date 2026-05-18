@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Affiliate marketing</h1>",
+    "    <h2>Affiliate odkazy a transparentnost na mém webu</h2>",
+    "    <p>Na svém webu používám affiliate odkazy, abych vám představil vhodné produkty a služby. Transparentnost je pro mě obzvláště důležitá. Níže vysvětluji, jak affiliate odkazy fungují a co to pro vás znamená.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Affiliate marketing\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>Co jsou affiliate odkazy?</h2>",
+    "    <p>Affiliate odkazy jsou speciální odkazy, které vedou na produkty nebo služby partnerských společností. Pokud si přes takový odkaz něco koupíte, obdržím provizi. Vám tím nevznikají žádné dodatečné náklady.</p>",
+    "    <h2>Proč používám affiliate odkazy?</h2>",
+    "    <p>Používání affiliate odkazů mi pomáhá provozovat web a poskytovat obsah zdarma. Pečlivě si vybírám své partnery a doporučené produkty a dbám na to, aby odpovídaly tématům a zájmům mých návštěvníků.</p>",
+    "    <h2>Jak funguje sledování?</h2>",
+    "    <p>Ke sledování, že byl nákup proveden přes můj odkaz, používají mé partnerské společnosti soubory cookie. Ty uchovávají informace po omezenou dobu, když kliknete na affiliate odkaz. Více informací o tom naleznete v mých zásadách ochrany osobních údajů.</p>",
+    "    <h2>Žádné nevýhody pro vás</h2>",
+    "    <p>Důležité vědět: Kliknutí na affiliate odkazy pro vás nepředstavuje žádné nevýhody. Ceny produktů nebo služeb zůstávají nezměněny a neexistují naprosto žádné skryté poplatky.</p>",
+    "    <h2>Zřeknutí se odpovědnosti</h2>",
+    "    <p>Doporučuji pouze produkty a služby, o kterých jsem přesvědčen. Přesto nenesu žádnou odpovědnost za kvalitu nebo dostupnost propagovaných nabídek, protože ty poskytují moji partneři.</p>",
+    "    <h2>Transparentnost a důvěra</h2>",
+    "    <p>Mým cílem je komunikovat s vámi transparentně a upřímně. Pokud máte jakékoli dotazy ohledně affiliate odkazů nebo mých partnerství, neváhejte mě kontaktovat. Oceňuji vaši důvěru v má doporučení!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* Jako partner společnosti Amazon vydělávám na kvalifikovaných nákupech.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

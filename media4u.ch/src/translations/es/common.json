@@ -120,33 +120,7 @@
     "content_button_info": "Reservar Ahora"
   },
 
-  "affiliate_marketing": {
-    "title": "Marketing de Afiliados",
-    "h1": "Enlaces de Afiliados y Transparencia en Mi Sitio Web",
-    "p1": "En mi sitio web, utilizo enlaces de afiliados para presentarte productos y servicios adecuados. La transparencia es especialmente importante para mí. A continuación, explico cómo funcionan los enlaces de afiliados y qué significa esto para ti.",
-
-    "h2": "¿Qué Son los Enlaces de Afiliados?",
-    "p2": "Los enlaces de afiliados son enlaces especiales que conducen a productos o servicios de empresas asociadas. Cuando realizas una compra a través de uno de estos enlaces, gano una comisión. Esto no genera costos adicionales para ti.",
-
-    "h3": "¿Por Qué Utilizo Enlaces de Afiliados?",
-    "p3": "El uso de enlaces de afiliados me ayuda a operar el sitio web y proporcionar contenido de forma gratuita. Selecciono cuidadosamente a mis socios y los productos recomendados, asegurándome de que coincidan con los temas e intereses de mis visitantes.",
-
-    "h4": "¿Cómo Funciona el Seguimiento?",
-    "p4": "Para rastrear que la compra se realizó a través de mi enlace, mis empresas asociadas utilizan cookies. Estas almacenan información por un tiempo limitado cuando haces clic en un enlace de afiliado. Puedes encontrar más información al respecto en mi política de privacidad.",
-
-    "h5": "Sin Desventajas para Ti",
-    "p5": "Importante saber: Hacer clic en enlaces de afiliados no te genera ninguna desventaja. Los precios de los productos o servicios permanecen sin cambios y no hay tarifas ocultas.",
-
-    "h6": "Descargo de Responsabilidad",
-    "p6": "Solo recomiendo productos y servicios de los que estoy convencido. Sin embargo, no asumo ninguna responsabilidad por la calidad o disponibilidad de las ofertas publicitadas, ya que son proporcionadas por mis socios.",
-
-    "h7": "Transparencia y Confianza",
-    "p7": "Mi objetivo es comunicarme de manera transparente y honesta contigo. Si tienes alguna pregunta sobre los enlaces de afiliados o mis asociaciones, no dudes en contactarme. ¡Aprecio tu confianza en mis recomendaciones!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
+  
 
   "front_end_developer": {
   "title": "Desarrollador Frontend",

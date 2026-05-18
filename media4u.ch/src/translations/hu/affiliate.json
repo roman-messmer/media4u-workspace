@@ -1,0 +1,29 @@
+{
+  "affiliate_marketing_content": [
+    "<main class=\"affiliate-marketing-page\" aria-busy=\"false\" aria-live=\"polite\">",
+    "  <header>",
+    "    <h1>Affiliate Marketing</h1>",
+    "    <h2>Affiliate linkek és átláthatóság a weboldalamon</h2>",
+    "    <p>A weboldalamon affiliate linkeket használok, hogy megfelelő termékeket és szolgáltatásokat mutassak be nektek. Az átláthatóság különösen fontos számomra. Az alábbiakban elmagyarázom, hogyan működnek az affiliate linkek, és mit jelent ez számotokra.</p>",
+    "  </header>",
+    "  <article>",
+    "    <figure class=\"figure\">",
+    "      <img src=\"https://cms.media4u.ch/uploads/media4u_affiliate_marketing_bild_1_833091ef9f.jpg\" alt=\"Affiliate Marketing\" class=\"responsive-image zoom-in\" loading=\"lazy\">",
+    "    </figure>",
+    "    <h2>Mik azok az affiliate linkek?</h2>",
+    "    <p>Az affiliate linkek olyan speciális linkek, amelyek partnercégek termékeihez vagy szolgáltatásaihoz vezetnek. Ha valami ilyesmit vásároltok egy ilyen linken keresztül, jutalékot kapok. Ez semmilyen többletköltséggel nem jár számotokra.</p>",
+    "    <h2>Miért használok affiliate linkeket?</h2>",
+    "    <p>Az affiliate linkek használata segít nekem a weboldal üzemeltetésében és a tartalom ingyenes biztosításában. Gondosan megválasztom a partnereimet és az ajánlott termékeket, figyelve arra, hogy illeszkedjenek a látogatóim témáihoz és érdeklődési köréhez.</p>",
+    "    <h2>Hogyan működik a nyomon követés?</h2>",
+    "    <p>Annak nyomon követésére, hogy a vásárlás a linkemen keresztül történt-e, a partnercégeim sütiket (cookie-kat) használnak. Ezek korlátozott ideig tárolnak információkat, amikor egy affiliate linkre kattintotok. Erről bővebb információt az adatvédelmi nyilatkozatomban találtok.</p>",
+    "    <h2>Nincs hátrány számotokra</h2>",
+    "    <p>Fontos tudni: Az affiliate linkekre való kattintás semmilyen hátránnyal nem jár számotokra. A termékek vagy szolgáltatások árai változatlanok maradnak, és egyáltalán nincsenek rejtett díjak.</p>",
+    "    <h2>Felelősségkizárás</h2>",
+    "    <p>Csak olyan termékeket és szolgáltatásokat ajánlok, amelyekről meg vagyok győződve. Mindazonáltal nem vállalok felelősséget a hirdetett ajánlatok minőségéért vagy elérhetőségéért, mivel ezeket a partnereim biztosítják.</p>",
+    "    <h2>Átláthatóság és bizalom</h2>",
+    "    <p>Célom, hogy átláthatóan és őszintén kommunikáljak veletek. Ha bármilyen kérdésetek van az affiliate linkekkel vagy a partnerségeimmel kapcsolatban, ne habozzatok kapcsolatba lépni velem. Nagyra értékelem a javaslataimba vetett bizalmatokat!</p>",
+    "    <p class=\"affiliate-hinweis\"><em>* Amazon-partnerként a jogosult vásárlások után jutalékot kapok.</em></p>",
+    "  </article>",
+    "</main>"
+  ]
+}

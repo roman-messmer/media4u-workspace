@@ -120,33 +120,6 @@
     "content_button_info": "Rezervă Acum"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marketing",
-    "h1": "Linkuri Afiliate și Transparență pe Site-ul Meu",
-    "p1": "Pe site-ul meu folosesc linkuri afiliate pentru a prezenta produse și servicii care sunt potrivite pentru tine. Transparența este extrem de importantă pentru mine. Mai jos explic cum funcționează linkurile afiliate și ce înseamnă pentru tine.",
-
-    "h2": "Ce Sunt Linkurile Afiliate?",
-    "p2": "Linkurile afiliate sunt linkuri speciale care duc la produse sau servicii oferite de companii partenere. Când faci o achiziție printr-un astfel de link, primesc un comision. Acest lucru nu îți aduce costuri suplimentare.",
-
-    "h3": "De Ce Folosesc Linkuri Afiliate?",
-    "p3": "Folosirea linkurilor afiliate mă ajută să mențin site-ul web și să ofer conținut gratuit. Aleg cu grijă partenerii mei și produsele recomandate pentru a mă asigura că se potrivesc subiectelor și intereselor vizitatorilor mei.",
-
-    "h4": "Cum Funcționează Urmărirea?",
-    "p4": "Pentru a urmări că o achiziție a fost făcută prin linkul meu, partenerii mei afiliati folosesc cookie-uri care stochează informații pentru o perioadă limitată de timp atunci când faci clic pe un link afiliat. Poți găsi mai multe informații despre acest lucru în politica mea de confidențialitate.",
-
-    "h5": "Fără Dezavantaje Pentru Tine",
-    "p5": "Este important să știi că clicarea pe linkurile afiliate nu îți aduce niciun dezavantaj. Prețurile produselor sau serviciilor rămân neschimbate și nu există taxe ascunse.",
-
-    "h6": "Excludere de Responsabilitate",
-    "p6": "Recomand doar produse și servicii în care am încredere. Cu toate acestea, deoarece aceste oferte sunt furnizate de partenerii mei, nu sunt responsabil pentru calitatea sau disponibilitatea acestora.",
-
-    "h7": "Transparență și Încredere",
-    "p7": "Scopul meu este să comunic cu tine într-un mod transparent și onest. Dacă ai întrebări despre linkurile afiliate sau parteneriatele mele, nu ezita să mă contactezi. Apreciez încrederea ta în recomandările mele!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Dezvoltator Frontend",

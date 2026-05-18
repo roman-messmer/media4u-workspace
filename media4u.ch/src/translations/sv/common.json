@@ -120,33 +120,6 @@
     "content_button_info": "Boka Nu"
   },
 
-  "affiliate_marketing": {
-    "title": "Affiliate Marknadsföring",
-    "h1": "Affiliate Länkar och Transparens på Min Webbplats",
-    "p1": "På min webbplats använder jag affiliate länkar för att presentera produkter och tjänster som passar dig. Transparens är särskilt viktigt för mig. Nedan förklarar jag hur affiliate länkar fungerar och vad det innebär för dig.",
-
-    "h2": "Vad Är Affiliate Länkar?",
-    "p2": "Affiliate länkar är speciella länkar som leder till produkter eller tjänster från partnerföretag. När du gör ett köp genom dessa länkar får jag en provision. Detta innebär inga extra kostnader för dig.",
-
-    "h3": "Varför Använder Jag Affiliate Länkar?",
-    "p3": "Användning av affiliate länkar hjälper mig att driva webbplatsen och erbjuda gratis innehåll. Jag väljer noggrant ut mina partners och de produkter jag rekommenderar för att säkerställa att de matchar ämnena och intressena hos mina besökare.",
-
-    "h4": "Hur Fungerar Spårning?",
-    "p4": "För att spåra att ett köp gjorts genom min länk använder mina partnerföretag cookies. Dessa cookies lagrar information under en begränsad tid när du klickar på en affiliate länk. Du kan hitta mer information om detta i min sekretesspolicy.",
-
-    "h5": "Inga Nackdelar För Dig",
-    "p5": "Viktigt att veta: Att klicka på affiliate länkar kommer inte att orsaka några nackdelar för dig. Priset på produkter eller tjänster förblir detsamma och det finns inga dolda avgifter.",
-
-    "h6": "Ansvarsfriskrivning",
-    "p6": "Jag rekommenderar endast produkter och tjänster som jag tror på. Men eftersom dessa erbjudanden tillhandahålls av mina partners är jag inte ansvarig för deras kvalitet eller tillgänglighet.",
-
-    "h7": "Transparens och Förtroende",
-    "p7": "Mitt mål är att kommunicera med dig på ett transparent och ärligt sätt. Om du har några frågor om affiliate länkar eller mina partnerskap, tveka inte att kontakta mig. Jag uppskattar ditt förtroende för mina rekommendationer!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Frontendutvecklare",

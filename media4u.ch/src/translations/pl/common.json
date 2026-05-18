@@ -120,33 +120,6 @@
     "content_button_info": "Rezerwuj Teraz"
   },
 
-  "affiliate_marketing": {
-    "title": "Marketing Afiliacyjny",
-    "h1": "Linki Afiliacyjne i Transparentność na Mojej Stronie",
-    "p1": "Na mojej stronie używam linków afiliacyjnych, aby zaprezentować produkty i usługi odpowiednie dla Ciebie. Transparentność jest dla mnie bardzo ważna. Poniżej wyjaśniam, jak działają linki afiliacyjne i co to oznacza dla Ciebie.",
-
-    "h2": "Czym Są Linki Afiliacyjne?",
-    "p2": "Linki afiliacyjne to specjalne linki, które prowadzą do produktów lub usług firm partnerskich. Gdy dokonasz zakupu przez taki link, otrzymuję prowizję. Nie generuje to żadnych dodatkowych kosztów dla Ciebie.",
-
-    "h3": "Dlaczego Używam Linków Afiliacyjnych?",
-    "p3": "Używanie linków afiliacyjnych pomaga mi utrzymać stronę internetową i oferować darmowe treści. Starannie wybieram swoich partnerów i rekomendowane produkty, aby upewnić się, że pasują one do tematów i zainteresowań moich odwiedzających.",
-
-    "h4": "Jak Działa Śledzenie?",
-    "p4": "Aby śledzić, że zakup został dokonany przez mój link, moi partnerzy używają ciasteczek (cookies). Te ciasteczka przechowują informacje przez ograniczony czas, gdy klikniesz w link afiliacyjny. Możesz znaleźć więcej informacji na ten temat w mojej polityce prywatności.",
-
-    "h5": "Brak Wad dla Ciebie",
-    "p5": "Ważne do wiedzenia: kliknięcie w linki afiliacyjne nie powoduje żadnych niedogodności dla Ciebie. Ceny produktów lub usług pozostają takie same i nie ma ukrytych opłat.",
-
-    "h6": "Zastrzeżenie",
-    "p6": "Rekomenduję tylko produkty i usługi, w które wierzę. Jednakże, ponieważ oferty te są dostarczane przez moich partnerów, nie jestem odpowiedzialny za ich jakość lub dostępność.",
-
-    "h7": "Transparentność i Zaufanie",
-    "p7": "Mój cel to komunikacja z Tobą w sposób transparentny i uczciwy. Jeśli masz pytania dotyczące linków afiliacyjnych lub moich partnerstw, nie wahaj się ze mną skontaktować. Doceniam Twoje zaufanie do moich rekomendacji!"
-  },
-
-  "affiliate_marketing_partner": {
-    "hinweis": "* Als Amazon-Partner verdiene ich an qualifizierten Verkäufen."
-  },
 
   "front_end_developer": {
   "title": "Programista Frontend",
