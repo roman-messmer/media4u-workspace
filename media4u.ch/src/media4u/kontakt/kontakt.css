@@ -38,6 +38,9 @@
   color: #000;
   line-height: 1.4;
   font-size: var(--font-size-kontakt);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
 }
 
 /* Element: Die Labels (ROMAN MESSMER, E-MAIL, TELEFON) */
@@ -56,4 +59,5 @@
 
 .kontakt__link {
   font-size: var(--font-size-kontakt);
+  color: black;
 }
