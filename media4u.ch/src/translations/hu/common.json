@@ -68,39 +68,6 @@
   },
 
 
-  "werbepartner": {
-    "title": "Reklámtársak",
-    "h1": "Növeld Elérésed – Reklámozz a Weboldalamon!",
-    "p1": "Szeretnéd bemutatni termékeidet vagy szolgáltatásaidat egy széles közönség számára? Weboldalam ideális platformot kínál a márkád ismertségének növelésére és új ügyfelek vonzására.",
-  
-    "h2": "Miért Reklámozz a Weboldalamon?",
-    "p2": "Nemzeti Láthatóság: Érd el az ország egészéből érkező látogatókat és hatékonyan bővítsd elérésedet. Maximális Figyelem: Reklámaid minden látogató számára megjelennek, függetlenül azok földrajzi helyzetétől. Méltányos Megjelenés: A hirdetések sorrendje minden oldalbetöltéskor véletlenszerűen keveredik, biztosítva, hogy minden hirdető egyenlő eséllyel jelenjen meg. Adatvédelem Biztosítása: Csak a látogatók származási országát azonosítom – más adatokat nem gyűjtök.",
-  
-    "h3_1": "REKLÁMTERÜLET ÁRAIRÓL SZERINTELMEZÉS:",
-    "p3_1": "Az első 90 napban csak 140 CHF-t fizetsz 30 napos megjelenésért.",
-    "p3_2": "91. naptól az ár 120 CHF-re csökken 30 napos megjelenésért (91. nap és 180. nap között).",
-    "p3_3": "181. naptól a reklámterület csak 100 CHF-ba kerül 30 napos megjelenésért.",
-  
-    "h3_2": "MIT SZÜKSÉGES RÓLAM TŐL:",
-    "p3_4": "Céged neve",
-    "p3_5": "Ajánlatod linkje (termék- vagy szolgáltatásoldal)",
-    "p3_6": "Link egy képre, amelyet a reklámterületen használsz",
-    "bildgroesse": "Kép mérete: 400x400 pixel",
-  
-    "h3_3": "FONTOS INFORMÁCIÓK:",
-    "p3_7": "Reklámterületed csak az adott országból érkező látogatók számára fog megjelenni. Ha nemzetközi reklámozást szeretnél, további reklámterületeket vásárolhatsz más országok számára.",
-    "p3_8": "Foglalj most reklámterületet, és célozd meg pontosan a kívánt közönségedet – a régiókra szabva, amelyek érdekelnek!",
-  
-    "h4": "Biztonságod Fontos Számomra:",
-    "p4": "A minőséget és a megbízhatóságot helyezem előtérbe. Minden reklamálópartnert személyesen ellenőrzök, hogy biztosítsam, hogy komoly vállalkozások, amelyek megfelelnek a magas színvonalú követelményeimnek.",
-  
-    "h5": "Készen Állsz a Következő Lépésre?",
-    "p5": "Vegye fel velem a kapcsolatot még ma, és helyezze el márkáját a weboldalamon – közösen erős jelenlétet alakítunk ki, és fenntarthatóan visszük előre vállalkozását.",
-  
-    "h6": "Érdekel?",
-    "p6": "Küldj nekem üzenetet, ha további információra van szükséged, vagy szeretnél közvetlenül reklámterületet foglalni. Várom, hogy segíthessek neked az út felé a sikerhez!"
-  },
-
   "werbepartner_info": {
     "title": "Reklámtársak - Információ",
     "content_h3": "Foglalj Reklámtérületet!",

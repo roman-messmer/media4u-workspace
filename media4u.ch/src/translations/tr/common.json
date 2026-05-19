@@ -63,31 +63,7 @@
     }
   },
 
-  "werbepartner": {
-    "title": "Reklam Ortakları",
-    "h1": "Erişiminizi Artırın – Web Sitemde Reklam Verin!",
-    "p1": "Ürünlerinizi veya hizmetlerinizi geniş bir kitleye tanıtmak mı istiyorsunuz? Web sitem, markanızı duyurmanız ve yeni müşteriler kazanmanız için ideal platformu sunuyor.",
-    "h2": "Neden Web Sitemde Reklam Vermelisiniz?",
-    "p2": "Ülke Çapında Görünürlük: Ziyaretçilere tüm ülkeden ulaşarak erişiminizi etkili şekilde artırın. Maksimum Dikkat: Reklamınız, ziyaretçilerin konumlarına bakılmaksızın herkese gösterilir. Adil Sunum: Reklamların sırası her sayfa yenilendiğinde rastgele değişir, böylece tüm reklam ortakları eşit görünürlük şansına sahip olur. Veri Gizliliği Garantisi: Ziyaretçilerin yalnızca menşe ülkesini tespit ederim – başka hiçbir veri kaydedilmez.",
-    "h3_1": "REKLAM ALANI DETAYLARI FİYATLANDIRMA:",
-    "p3_1": "İlk 90 gün için sadece 30 günlük görünürlük başına 140 Frank ödüyorsunuz.",
-    "p3_2": "91. günden itibaren fiyat, 91–180. günler için 30 günlük görünürlük başına 120 Frank'a düşer.",
-    "p3_3": "181. günden itibaren reklam alanı sadece 30 günlük görünürlük başına 100 Frank olur.",
-    "h3_2": "SİZDEN İHTİYAÇLARIM:",
-    "p3_4": "Şirketinizin adı",
-    "p3_5": "Teklifinize bir bağlantı (ürün veya hizmet sayfası)",
-    "p3_6": "Reklam alanında kullanılacak bir resim bağlantısı",
-    "bildgroesse": "Resim boyutu: 400x400 piksel",
-    "h3_3": "ÖNEMLİ BİLGİ:",
-    "p3_7": "Reklam alanınız yalnızca ilgili ülkeden ziyaretçilere gösterilir. Uluslararası reklam vermek isterseniz, diğer ülkeler için ek reklam alanları satın alabilirsiniz.",
-    "p3_8": "Reklam alanınızı şimdi ayırtın ve hedef kitlenize yönelik olarak ulaşın – size uygun bölgeye göre ayarlanmış!",
-    "h4": "Güvenliğiniz benim için önemli:",
-    "p4": "Kalite ve güvenilirliğe önem veriyorum. Yüksek standartlarıma uygun, saygın şirketler olduğundan emin olmak için her reklam ortağını şahsen incelerim.",
-    "h5": "Bir sonraki adıma hazır mısınız?",
-    "p5": "Bugün benimle iletişime geçin ve markanızı web sitemde konumlandırın – birlikte güçlü bir varlık oluşturur ve işletmenizi sürdürülebilir şekilde ilerletiriz.",
-    "h6": "İlginizi çektik mi?",
-    "p6": "Daha fazla bilgiye ihtiyacınız varsa veya doğrudan bir reklam alanı kiralamak istiyorsanız, bana bir mesaj gönderin. Başarı yolculuğunuzda size destek olmaktan memnuniyet duyarım!"
-  },
+  
   "werbepartner_info": {
     "title": "Reklam Ortakları - Bilgi",
     "content_h3": "Reklam alanı ayırtın!",

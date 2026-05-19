@@ -67,40 +67,7 @@
       "erotik_sex2": "Erotik und Sex"
     }
   },
-
  
-  "werbepartner": {
-    "title": "Werbepartner",
-    "h1": "Steigern Sie Ihre Reichweite – Werben Sie auf meiner Webseite!",
-    "p1": "Möchten Sie Ihre Produkte oder Dienstleistungen einem breiten Publikum präsentieren? Meine Webseite bietet Ihnen die ideale Plattform, um Ihre Marke bekannt zu machen und neue Kunden zu gewinnen.",
-
-    "h2": "Warum auf meiner Webseite werben?",
-    "p2": "Landesweite Sichtbarkeit: Erreichen Sie Besucher aus dem ganzen Land und erhöhen Sie Ihre Reichweite effektiv. Maximale Aufmerksamkeit: Ihre Werbeanzeige wird allen Besuchern angezeigt, unabhängig von ihrem Standort. Faire Präsentation: Die Reihenfolge der Anzeigen wird bei jedem Seitenaufruf zufällig neu angeordnet, sodass alle Werbepartner die gleiche Chance auf Sichtbarkeit haben. Datenschutz garantiert: Ich ermittle lediglich das Herkunftsland der Besucher – keine weiteren Daten werden erfasst.",
-
-    "h3_1": "MEINE WERBEPLATZ-DETAILS PREISGESTALTUNG:",
-    "p3_1": "Für die ersten 90 Tage zahlen Sie nur 140 Franken pro 30 Tage Präsenz.",
-    "p3_2": "Ab dem 91. Tag reduziert sich der Preis auf 120 Franken pro 30 Tage Präsenz (für die Tage 91 bis 180).",
-    "p3_3": "Ab dem 181. Tag kostet der Werbeplatz nur noch 100 Franken pro 30 Tage Präsenz.",
-
-    "h3_2": "WAS ICH VON IHNEN BENÖTIGE:",
-    "p3_4": "Den Namen Ihres Unternehmens",
-    "p3_5": "Einen Link zu Ihrem Angebot (Produkt- oder Dienstleistungsseite)",
-    "p3_6": "Einen Link zu einem Bild, das in der Werbefläche verwendet werden soll",
-    "bildgroesse": "Bildgrösse: 400x400 Pixel",
-
-    "h3_3": "WICHTIGE INFORMATION:",
-    "p3_7": "Ihr Werbeplatz wird nur den Besuchern aus dem betreffenden Land angezeigt. Möchten Sie international werben, können Sie zusätzliche Werbeflächen für andere Länder hinzubuchen.",
-    "p3_8": "Sichern Sie sich jetzt Ihre Werbefläche und erreichen Sie gezielt Ihre Zielgruppe – angepasst an die Region, die für Sie relevant ist!",
-
-    "h4": "Ihre Sicherheit ist mir wichtig:",
-    "p4": "Ich setze auf Qualität und Vertrauenswürdigkeit. Jeder Werbepartner wird von mir persönlich geprüft, um sicherzustellen, dass es sich um seriöse Unternehmen handelt, die meinen hohen Standards entsprechen.",
-
-    "h5": "Bereit, den nächsten Schritt zu gehen?",
-    "p5": "Kontaktieren Sie mich noch heute und platzieren Sie Ihre Marke auf meiner Webseite – gemeinsam entwickeln wir eine starke Präsenz und bringen Ihr Unternehmen nachhaltig voran.",
-
-    "h6": "Interesse geweckt?",
-    "p6": "Senden Sie mir eine Nachricht, wenn Sie weitere Informationen benötigen oder direkt eine Werbefläche buchen möchten. Ich freue mich darauf, Sie auf Ihrem Erfolgsweg zu unterstützen!"
-  },
 
   "werbepartner_info": {
     "title": "Werbepartner - Info",
@@ -361,105 +328,14 @@
     "alle_rechte_vorbehalten": "Alle Rechte vorbehalten."
   },
 
-
-
   "neu": {
     "title": "Neu"
   },
-  "liebe_freundschaft": {
-    "title": "Liebe und Freundschaft",
-
-    "komm_zu_mir1": "Komm zu mir 1",
-    "komm_zu_mir1_text1": "Hey, komm",
-    "komm_zu_mir1_text2": "zu mir!",
-
-    "biene1": "Biene 1",
-    "biene1_text1": "Dich steche",
-    "biene1_text2": "ich nicht, weil",
-    "biene1_text3": "ich Dich mag!"
-  },
-  "festtage_party": {
-    "title": "Festtage und Party",
-
-    "geburtstag1": "Geburtstag 1",
-    "geburtstag1_text1": "Alles Gute",
-    "geburtstag1_text2": "zum",
-    "geburtstag1_text3": "Geburtstag!"
-  },
-  "freizeit_arbeit": {
-    "title": "Freizeit und Arbeit",
-
-    "arbeit1": "Arbeit 1",
-    "arbeit1_text1": "Feierabend!",
-    "arbeit1_text2": "Ich gehe nach",
-    "arbeit1_text3": "Hause!",
-    "arbeit1_text4": "",
-    "arbeit1_text5": "",
-    "arbeit1_text6": "Tschüss,",
-    "arbeit1_text7": "bis morgen!"
-  },
-  "sport_hobby": {
-    "title": "Sport und Hobby"
-  },
-  "abenteuer_action": {
-    "title": "Abenteuer und Action"
-  },
-  "erotik_sex": {
-    "title": "Erotik und Sex"
-  },
-
-
 
   "neu2": {
     "title": "Neu"
   },
-  "liebe_freundschaft2": {
-    "title": "Liebe und Freundschaft",
-
-    "komm_zu_uns1": "Komm zu uns 1",
-    "komm_zu_uns1_text1": "Hey was siehst",
-    "komm_zu_uns1_text2": "Du da?",
-    "komm_zu_uns1_text3": "Die Person",
-    "komm_zu_uns1_text4": "dort drüben!",
-    "komm_zu_uns1_text5": "Sie starrt den ganzen Tag",
-    "komm_zu_uns1_text6": "nur auf ihr Telefon!",
-    "komm_zu_uns1_text7": "Hey, hast Du Langeweile,",
-    "komm_zu_uns1_text8": "dann komm zu uns! :-)",
-    "komm_zu_uns1_text8_1": "",
-    "komm_zu_uns1_text9": "Bis gleich!",
-    "komm_zu_uns1_text10": ":-)"
-
-  },
-  "festtage_party2": {
-    "title": "Festtage und Party",
-
-    "geburtstag1": "Geburtstag 1",
-    "geburtstag1_text1": "Alles Gute",
-    "geburtstag1_text2": "zum Geburtstag",
-    "geburtstag1_text3": "Hier ist Dein Geschenk!"
-  },
-  "freizeit_arbeit2": {
-    "title": "Freizeit und Arbeit",
-
-    "arbeit1": "Arbeit 1",
-    "arbeit1_text1": "Feierabend!",
-    "arbeit1_text2": "Ich gehe nach",
-    "arbeit1_text3": "Hause!",
-    "arbeit1_text4": "",
-    "arbeit1_text5": "Tschüss,",
-    "arbeit1_text6": "bis morgen!",
-    "arbeit1_text7": ""
-  },
-  "sport_hobby2": {
-    "title": "Sport und Hobby"
-  },
-  "abenteuer_action2": {
-    "title": "Abenteuer und Action"
-  },
-  "erotik_sex2": {
-    "title": "Erotik und Sex"
-  },
-
+  
   "animation_phrases": [
   "MEDIA4U.CH",
   "Code ist Kunst",
