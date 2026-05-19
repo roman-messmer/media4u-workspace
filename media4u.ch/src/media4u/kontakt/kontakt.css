@@ -52,6 +52,10 @@
   padding-top: 1rem;
 }
 
+.kontakt__list {
+  gap: 1rem;
+}
+
 /* Element: Die Labels (ROMAN MESSMER, E-MAIL, TELEFON) */
 .kontakt__label {
   color: red;
