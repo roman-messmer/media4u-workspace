@@ -9,27 +9,6 @@
     list-style: disc !important;
 }
 
-.rechtliches {
-    display: flex;
-    gap: 0.5em 1em;
-    width: 100%;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    align-items: center;
-    flex-direction: row;
-}
-
-.rechtliches a {
-    font-size: var(--font-size-a);
-    text-transform: uppercase;
-}
-
-.rechtliches ul li {
-  padding: 0;
-  line-height: .4em;
-}
-
-
 .responsive-image {
   display: block;
   max-width: 90%;

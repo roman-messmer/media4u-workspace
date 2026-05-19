@@ -28,7 +28,7 @@ const AffiliateMarketing = () => {
     <>
       <DynamicSEO page="affiliate_marketing" lang={lang} />
       
-      {/* Semantischer Wrapper ersetzt das überflüssige div und doppelte main */}
+      {/* Semantischer Wrapper, in den der gereinigte HTML-Block injiziert wird */}
       <section 
         className="affiliate-marketing-page" 
         aria-busy="false" 
