@@ -43,6 +43,15 @@
   padding-top: 1rem;
 }
 
+.kontakt__card .kontakt__address {
+  color: #000;
+  line-height: 1.4;
+  font-size: var(--font-size-kontakt);
+  padding-left: 0rem;
+  padding-right: 0rem;
+  padding-top: 0rem;
+}
+
 /* Element: Die Labels (ROMAN MESSMER, E-MAIL, TELEFON) */
 .kontakt__label {
   color: red;
